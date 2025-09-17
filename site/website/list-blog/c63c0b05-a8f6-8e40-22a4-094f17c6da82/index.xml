@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c63c</objectGroupId>
+	<objectId>c63c0b05-a8f6-8e40-22a4-094f17c6da82</objectId>
+	<internal-name>Thu nhập trung bình của 1 Business Analyst</internal-name>
+	<navLabel>Thu nhập trung bình của 1 Business Analyst</navLabel>
+	<title_vi_s>Thu nhập trung bình của 1 Business Analyst</title_vi_s>
+	<title_en_s>Average Income of a Business Analyst</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>c63c0b05-a8f6-8e40-22a4-094f17c6da82</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/bay-thu-nhap-trung-binh-la-gi-2.jpg</img_main_s>
+	<categorys_o>	<item>	<key>Business-Analytics</key>
+	<value_smv>Business Analytics</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. C&amp;aacute;c yếu tố ảnh hưởng đến mức lương trong nghề Business Analyst&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1.1 &amp;ndash; Số năm kinh nghiệm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1.2 &amp;ndash; Chức danh c&amp;ocirc;ng việc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1.3 &amp;ndash; Domain hoạt động&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Thu nhập nghề Business Analyst tại Việt Nam&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. C&amp;aacute;ch để tăng thu nhập trong nghề Business Analyst&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bạn đ&amp;atilde; bao giờ quan t&amp;acirc;m về thu nhập của&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-business-analysis/business-analyst-la-gi/"&gt;nghề Business Analyst (BA)&lt;/a&gt;&amp;nbsp;chưa? Mức lương trong mỗi ng&amp;agrave;nh nghề l&amp;agrave; yếu tố quan trọng d&amp;ugrave;ng để đ&amp;aacute;nh gi&amp;aacute; về chuy&amp;ecirc;n m&amp;ocirc;n, kỹ năng, năng suất, mức độ hiệu quả của c&amp;ocirc;ng việc,&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ giải đ&amp;aacute;p cho bạn về mức lương cũng như c&amp;aacute;c yếu tố ảnh hưởng đến thu nhập trong nghề BA tại Việt Nam.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;c yếu tố ảnh hưởng đến mức lương trong nghề Business Analyst&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Số năm kinh nghiệm&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Kinh nghiệm l&amp;agrave; 1 yếu tố quan trọng để gi&amp;uacute;p nh&amp;agrave; tuyển dụng đ&amp;aacute;nh gi&amp;aacute; đ&amp;uacute;ng năng lực của bạn. Ngo&amp;agrave;i ra, số năm kinh nghiệm cũng sẽ quyết định bạn hiện tại đang ở Level n&amp;agrave;o c&amp;ugrave;ng với năng lực của m&amp;igrave;nh. BA cũng như xu hướng mọi ng&amp;agrave;nh kh&amp;aacute;c, khi mới gia nhập mức lương thường sẽ thấp v&amp;agrave; sẽ cao dần về sau khi đ&amp;atilde; t&amp;iacute;ch lũy đủ cả về kinh nghiệm v&amp;agrave; c&amp;aacute;c kỹ năng cần thiết trong nghề.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Chức danh c&amp;ocirc;ng việc&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Tương tự như yếu tố kinh nghiệm, chức danh của một Business Analyst trong tổ chức sẽ được quyết định bởi những gi&amp;aacute; trị, tr&amp;aacute;ch nhiệm m&amp;agrave; người đ&amp;oacute; sẽ mang lại cho doanh nghiệp. Chức danh sẽ được ph&amp;acirc;n ra theo c&amp;aacute;c cấp độ kh&amp;aacute;c nhau, mỗi cấp độ sẽ tương ứng với một mức lương giới hạn m&amp;agrave; doanh nghiệp chi trả. C&amp;oacute; 4 cấp độ ch&amp;iacute;nh phổ biến ở Việt Nam như sau:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;&lt;strong&gt;Cấp độ Nh&amp;acirc;n vi&amp;ecirc;n (Junior)&lt;/strong&gt;: Ở Level n&amp;agrave;y thường chủ yếu sẽ l&amp;agrave; những người mới v&amp;agrave;o nghề hoặc c&amp;oacute; dưới 2 năm kinh nghiệm với nghề. Họ sẽ thường được đ&amp;agrave;o tạo chuy&amp;ecirc;n m&amp;ocirc;n hoặc mới chỉ tham gia v&amp;agrave;o c&amp;aacute;c dự &amp;aacute;n đơn giản n&amp;ecirc;n mức lương sẽ chưa được cao so với c&amp;aacute;c cấp độ kh&amp;aacute;c.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cấp độ Chuy&amp;ecirc;n vi&amp;ecirc;n (Senior)&lt;/strong&gt;: Cấp độ n&amp;agrave;y thường d&amp;agrave;nh cho những người c&amp;oacute; từ 3 năm kinh nghiệm trở l&amp;ecirc;n. Họ đ&amp;atilde; được tham gia v&amp;agrave;o v&amp;agrave; giải quyết với c&amp;aacute;c dự &amp;aacute;n phức tạp cũng như chịu tr&amp;aacute;ch nhiệm đ&amp;agrave;o tạo cho cấp độ Junior.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cấp độ Quản l&amp;yacute; (Manager)&lt;/strong&gt;: Level n&amp;agrave;y thường d&amp;agrave;nh cho những người muốn đi theo hướng Quản l&amp;yacute; thay v&amp;igrave; l&amp;agrave; hướng Chuy&amp;ecirc;n m&amp;ocirc;n như Senior. Họ thường c&amp;oacute; tr&amp;aacute;ch nhiệm quản l&amp;yacute; 1 ph&amp;ograve;ng hoặc 1 nh&amp;oacute;m c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; chuy&amp;ecirc;n vi&amp;ecirc;n b&amp;ecirc;n dưới.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cấp độ Chuy&amp;ecirc;n gia (Director)&lt;/strong&gt;: Đ&amp;acirc;y l&amp;agrave; cấp độ cao nhất trong nghề, ta c&amp;oacute; thể thấy 1 số chức vụ điển h&amp;igrave;nh cho vị tr&amp;iacute; n&amp;agrave;y l&amp;agrave; COO. Ở cấp độ n&amp;agrave;y bạn sẽ l&amp;agrave;m việc với c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp v&amp;agrave; C-Level để tư vấn giải ph&amp;aacute;p cho họ. Thường độ kh&amp;oacute; của c&amp;aacute;c dự &amp;aacute;n n&amp;agrave;y sẽ hơn nhiều so với cấp độ Senior v&amp;agrave; Manager.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; Domain hoạt động&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Dưới đ&amp;acirc;y l&amp;agrave; 1 số Domain ng&amp;agrave;nh ch&amp;iacute;nh c&amp;oacute; mức lương cao ở trong nghề BA tại Việt Nam:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin: C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin lu&amp;ocirc;n ph&amp;aacute;t triển theo h&amp;agrave;ng ng&amp;agrave;y, h&amp;agrave;ng giờ n&amp;ecirc;n sẽ c&amp;oacute; rất nhiều b&amp;agrave;i to&amp;aacute;n m&amp;agrave; BA cần giải quyết. Lĩnh vực n&amp;agrave;y kh&amp;aacute; l&amp;agrave; ổn định về mức lương cũng như lộ tr&amp;igrave;nh thăng tiến trong sự nghiệp. Ở đ&amp;acirc;y, BA sẽ thi&amp;ecirc;n về tối ưu c&amp;ocirc;ng nghệ v&amp;agrave; tư vấn c&amp;aacute;c quy tr&amp;igrave;nh li&amp;ecirc;n quan đến c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n của doanh nghiệp như Quản l&amp;yacute; nh&amp;acirc;n sự, Quản l&amp;yacute; quy tr&amp;igrave;nh, Số h&amp;oacute;a giấy tờ,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;T&amp;agrave;i ch&amp;iacute;nh &amp;ndash; Ng&amp;acirc;n h&amp;agrave;ng: C&amp;aacute;c tổ chức về T&amp;agrave;i ch&amp;iacute;nh &amp;amp; Ng&amp;acirc;n h&amp;agrave;ng cũng đang c&amp;oacute; xu hướng chuyển đổi số mạnh mẽ trong ng&amp;agrave;nh, n&amp;ecirc;n cơ hội việc l&amp;agrave;m v&amp;agrave; mức lương trong ng&amp;agrave;nh n&amp;agrave;y cũng sẽ ph&amp;aacute;t triển mạnh hơn trong tương lai. Ở đ&amp;acirc;y, BA sẽ tiếp x&amp;uacute;c nhiều về c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n li&amp;ecirc;n quan đến việc cải thiện c&amp;ocirc;ng nghệ v&amp;agrave; tối ưu quy tr&amp;igrave;nh nghiệp vụ.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Thương mại điện tử: Sự b&amp;ugrave;ng nổ của Thương mại điện tử trong 10 năm trở lại đ&amp;acirc;y dẫn sự thay đổi ngoạn mục về h&amp;agrave;nh vi mua sắm của kh&amp;aacute;ch h&amp;agrave;ng ở cả 2 k&amp;ecirc;nh Online v&amp;agrave; Offline. C&amp;aacute;c BA sẽ ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n tối ưu về doanh thu như cải thiện h&amp;agrave;nh tr&amp;igrave;nh mua h&amp;agrave;ng, cải thiện giao diện UI/UX,&amp;hellip;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Thu nhập nghề Business Analyst tại Việt Nam&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Dưới đ&amp;acirc;y l&amp;agrave; mức lương của BA được tham khảo từ&amp;nbsp;&lt;a href="https://www.topcv.vn/business-analyst-can-hoc-gi-va-muc-luong-bao-nhieu#muc-luong-cua-business-analyst-la-bao-nhieu"&gt;TopCV&lt;/a&gt;. Con số thực tế sẽ c&amp;oacute; sự ch&amp;ecirc;nh lệch v&amp;agrave; thay đổi theo thời gian. Đ&amp;acirc;y l&amp;agrave; dữ liệu tham khảo được lấy từ c&amp;aacute;c nguồn uy t&amp;iacute;n tại thời điểm cố định.&lt;br&gt;Theo b&amp;aacute;o c&amp;aacute;o &amp;ldquo;Thị trường tuyển dụng 2023 v&amp;agrave; Nhu cầu tuyển dụng 2024&amp;rdquo; của TopCV chia theo số năm v&amp;agrave; cấp bậc ta c&amp;oacute; thể thấy như sau: &lt;img&gt;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;ch để tăng thu nhập trong nghề Business Analyst&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Chủ động học hỏi v&amp;agrave; ph&amp;aacute;t triển kỹ năng: Tham gia c&amp;aacute;c kh&amp;oacute;a học, đ&amp;agrave;o tạo, hoặc chứng chỉ li&amp;ecirc;n quan đến lĩnh vực ph&amp;acirc;n t&amp;iacute;ch kinh doanh như Business Analysis Professional (CBAP), Certified Business Analysis Professional (CBAP), hoặc Agile Certified Practitioner (ACP) c&amp;oacute; thể gi&amp;uacute;p bạn t&amp;iacute;ch lũy th&amp;ecirc;m kiến thức trong nghề cũng như tạo dựng sự uy t&amp;iacute;n trong mắt nh&amp;agrave; tuyển dụng.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;ch lũy kinh nghiệm l&amp;agrave;m việc v&amp;agrave; chuy&amp;ecirc;n m&amp;ocirc;n h&amp;oacute;a: Việc t&amp;iacute;ch lũy th&amp;ecirc;m kinh nghiệm chuy&amp;ecirc;n m&amp;ocirc;n trong nghề BA v&amp;agrave; trong ng&amp;agrave;nh bạn đang l&amp;agrave;m việc sẽ gi&amp;uacute;p bạn tăng gi&amp;aacute; trị trong mắt nh&amp;agrave; tuyển dụng.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ph&amp;aacute;t triển kỹ năng mềm: Việc ph&amp;aacute;t triển kỹ năng mềm như giao tiếp, quản l&amp;yacute; thời gian, quản l&amp;yacute; dự &amp;aacute;n, v&amp;agrave; giải quyết vấn đề gi&amp;uacute;p bạn thăng tiến v&amp;agrave; tương t&amp;aacute;c tốt hơn với đồng nghiệp v&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng.&lt;/li&gt;
+&lt;li&gt;X&amp;acirc;y dựng Network: Tham gia v&amp;agrave;o c&amp;aacute;c cộng đồng ng&amp;agrave;nh, hội thảo, sự kiện, v&amp;agrave; mạng lưới x&amp;atilde; hội như Linkedin. Networking c&amp;oacute; thể gi&amp;uacute;p bạn t&amp;igrave;m kiếm cơ hội mới v&amp;agrave; kết nối với những người c&amp;oacute; c&amp;ugrave;ng sự quan t&amp;acirc;m nhanh hơn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; tất cả mọi thứ về mức lương trong nghề Business Analyst.&amp;nbsp; Quan trọng nh&amp;acirc;́t là, bạn hãy chọn ngh&amp;ecirc;̀ phù hợp với bản th&amp;acirc;n chứ đừng chạy theo xu hướng. Khi đã quy&amp;ecirc;́t t&amp;acirc;m theo đu&amp;ocirc;̉i ngh&amp;ecirc;̀ Business Analyst thì bạn c&amp;acirc;̀n có m&amp;ocirc;̣t l&amp;ocirc;̣ trình học t&amp;acirc;̣p cụ th&amp;ecirc;̉ đ&amp;ecirc;̉ từng bước ti&amp;ecirc;́n tới mục ti&amp;ecirc;u ngh&amp;ecirc;̀ nghi&amp;ecirc;̣p đã đặt ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu bạn muốn trở th&amp;agrave;nh 1 Banking Business Analyst, bạn c&amp;oacute; thể tham khảo&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/san-pham-dich-vu/khoa-hoc-business-analyst/"&gt;kh&amp;oacute;a học Business Analyst trong Ng&amp;acirc;n h&amp;agrave;ng cho người mới bắt đầu tại DTSVN&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Factors Affecting Business Analyst Salary&lt;br&gt;1.1 &amp;ndash; Years of Experience&lt;br&gt;1.2 &amp;ndash; Job Title&lt;br&gt;1.3 &amp;ndash; Operating Domain&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Business Analyst Income in Vietnam&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to Increase Your Income as a Business Analyst&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;Have you ever wondered about the &lt;strong&gt;income of a Business Analyst (BA)&lt;/strong&gt;? Salary in any profession is an important factor to evaluate expertise, skills, productivity, work efficiency, and more.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This article will give you insights into salary levels as well as the factors that affect income in the BA profession in Vietnam.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Factors Affecting Business Analyst Salary&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Years of Experience&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Experience is one of the most important factors helping employers accurately assess your capabilities. In addition, years of experience also determine your current level along with your competencies. Like most other professions, Business Analysts often start with a lower salary when they first enter the field, which gradually increases as they accumulate experience and essential skills.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Job Title&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Similar to experience, the job title of a Business Analyst within an organization is determined by the value and responsibility that person brings to the business. Job titles are divided into different levels, each corresponding to a salary range the company is willing to pay. In Vietnam, there are four common levels as follows:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Junior Level (Employee):&lt;/strong&gt; At this level, most are newcomers to the profession or those with less than 2 years of experience. They are often still being trained or only involved in simple projects, so their salary is relatively lower compared to higher levels.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Senior Level (Specialist):&lt;/strong&gt; Typically for those with 3+ years of experience. They are involved in solving complex projects and may also be responsible for mentoring Junior-level employees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Manager Level:&lt;/strong&gt; This level is for those who pursue the management path instead of the technical track like a Senior. They are usually in charge of leading a department or a team of employees and specialists.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Director/Expert Level:&lt;/strong&gt; The highest level in the profession, often including executive positions such as COO. At this level, you work with corporate clients and C-level executives to consult and provide solutions. Projects at this level are generally more complex and challenging compared to Senior or Manager roles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; Operating Domain&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Below are some major domains where BA roles often receive higher salaries in Vietnam:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Information Technology:&lt;/strong&gt; IT is constantly evolving, bringing numerous challenges for BAs to solve. This field is relatively stable in terms of salary and career advancement. BAs here focus on optimizing technology and advising on business process solutions such as HR management, process management, or document digitization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Finance &amp;ndash; Banking:&lt;/strong&gt; Financial institutions and banks are strongly pursuing digital transformation, creating more career opportunities and higher salaries in the future. In this sector, BAs often deal with improving technology and optimizing business processes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;E-commerce:&lt;/strong&gt; The boom in e-commerce over the past decade has significantly changed customer purchasing behavior across both online and offline channels. BAs here focus on analyzing revenue optimization challenges such as improving customer journeys or enhancing UI/UX design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Business Analyst Income in Vietnam&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Below is BA salary data referenced from &lt;strong&gt;TopCV&lt;/strong&gt;. Actual figures may vary and change over time. This data is based on reliable sources at a fixed point in time.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to the &amp;ldquo;Recruitment Market 2023 and Hiring Demand 2024&amp;rdquo; report by TopCV, when broken down by years of experience and seniority, we can see the following:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(Data visualization or details can be inserted here if available.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;How to Increase Your Income as a Business Analyst&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Proactively learn and develop skills:&lt;/strong&gt; Take part in training courses or certifications related to business analysis, such as Business Analysis Professional (CBAP) or Agile Certified Practitioner (ACP). These help you accumulate knowledge and build credibility in the eyes of employers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gain work experience and specialize:&lt;/strong&gt; Building expertise and gaining domain-specific experience will increase your value in the job market.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Develop soft skills:&lt;/strong&gt; Skills such as communication, time management, project management, and problem-solving will help you advance and collaborate more effectively with colleagues and clients.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Build your network:&lt;/strong&gt; Join industry communities, conferences, events, or social platforms like LinkedIn. Networking can open up new opportunities and connect you with like-minded professionals more quickly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;The above covers everything about Business Analyst salary. Most importantly, you should choose a profession that suits your personal strengths instead of just following trends. Once you decide to pursue a BA career, you need a concrete learning and development roadmap to steadily reach your career goals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If you want to become a&amp;nbsp;&lt;strong&gt;Banking Business Analyst&lt;/strong&gt;, you can explore the &lt;strong&gt;Business Analyst in Banking for Beginners course at DTSVN&lt;/strong&gt;.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-18T03:11:18.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:11:17.900Z</createdDate>
+	<createdDate_dt>2025-08-28T03:11:17.900Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:11:17.900Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:11:17.900Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

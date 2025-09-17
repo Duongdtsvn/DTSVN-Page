@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>05c0</objectGroupId>
+	<objectId>05c0e6be-c93e-e0b6-0983-48cf85690ffd</objectId>
+	<internal-name>8 Chiến Lược Cá Nhân Hóa Trải Nghiệm Ngân Hàng Số</internal-name>
+	<navLabel>8 Chiến Lược Cá Nhân Hóa Trải Nghiệm Ngân Hàng Số</navLabel>
+	<title_vi_s>8 Chiến Lược Cá Nhân Hóa Trải Nghiệm Ngân Hàng Số</title_vi_s>
+	<title_en_s>8 Strategies for Personalizing Digital Banking Experiences</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/bank1708931459.1708931460373.jpg</img_main_s>
+	<file-name>index.xml</file-name>
+	<folder-name>05c0e6be-c93e-e0b6-0983-48cf85690ffd</folder-name>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Khi chất lượng v&amp;agrave; gi&amp;aacute; cả kh&amp;ocirc;ng c&amp;ograve;n l&amp;agrave; yếu tố duy nhất đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong quyết định th&amp;ecirc;m một thương hiệu v&amp;agrave;o "giỏ h&amp;agrave;ng", trải nghiệm số h&amp;oacute;a của kh&amp;aacute;ch h&amp;agrave;ng trở th&amp;agrave;nh một yếu tố cạnh tranh quyết định giữa c&amp;aacute;c doanh nghiệp. Đặc biệt, trong lĩnh vực t&amp;agrave;i ch&amp;iacute;nh, sự hợp t&amp;aacute;c, x&amp;acirc;y dựng, v&amp;agrave; quản l&amp;yacute; trải nghiệm số h&amp;oacute;a đang trở th&amp;agrave;nh một phần quan trọng trong chiến lược của nhiều ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y xem x&amp;eacute;t những xu hướng đang thay đổi cảnh quan ng&amp;acirc;n h&amp;agrave;ng số ng&amp;agrave;y nay v&amp;agrave; c&amp;aacute;ch c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể gi&amp;uacute;p bạn tạo ra sản phẩm ri&amp;ecirc;ng biệt, th&amp;agrave;nh c&amp;ocirc;ng hơn.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Mở rộng quan điểm chuyển đổi kỹ thuật số cho c&amp;aacute;c Tổ chức T&amp;agrave;i Ch&amp;iacute;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;ograve;ng trung th&amp;agrave;nh của kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave; một nguồn t&amp;agrave;i nguy&amp;ecirc;n c&amp;oacute; gi&amp;aacute; trị nhưng kh&amp;ocirc;ng đ&amp;aacute;ng tin cậy, 86% mọi người sẽ rời bỏ thương hiệu m&amp;agrave; họ đ&amp;atilde; trung th&amp;agrave;nh chỉ sau một v&amp;agrave;i trải nghiệm tồi tệ của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave;, để đ&amp;aacute;nh bại đối thủ, thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng th&amp;agrave;nh c&amp;ocirc;ng, bạn n&amp;ecirc;n theo d&amp;otilde;i v&amp;agrave; thậm ch&amp;iacute; đi trước tất cả c&amp;aacute;c xu hướng kỹ thuật số ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những người sử dụng c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ t&amp;agrave;i ch&amp;iacute;nh cũng giống như những người mua sắm trực tuyến, lướt mạng x&amp;atilde; hội v&amp;agrave; chơi tr&amp;ograve; chơi tr&amp;ecirc;n thiết bị di động. V&amp;agrave; nếu họ thấy c&amp;ocirc;ng nghệ Thực tế ảo (VR) được sử dụng khi họ săn l&amp;ugrave;ng t&amp;agrave;i sản, sớm hay muộn, họ sẽ mong đợi một số loại t&amp;iacute;ch hợp VR trong khi kiểm tra điểm t&amp;iacute;n dụng của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c xu hướng sau đ&amp;acirc;y hiện đang thống trị:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI), dữ liệu lớn v&amp;agrave; học m&amp;aacute;y (ML);&lt;/li&gt;
+&lt;li&gt;Chatbot v&amp;agrave; giải ph&amp;aacute;p trợ l&amp;yacute; ảo ng&amp;acirc;n h&amp;agrave;ng ;&lt;/li&gt;
+&lt;li&gt;Tư vấn đầu tư c&amp;aacute; nh&amp;acirc;n;&lt;/li&gt;
+&lt;li&gt;Tr&amp;ograve; chơi;&lt;/li&gt;
+&lt;li&gt;Thực tế tăng cường (AR) v&amp;agrave; thực tế ảo (VR);&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;ch hợp thiết bị đeo v&amp;agrave; Internet of Things (IoT).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;acirc;u hỏi quan trọng m&amp;agrave; c&amp;aacute;c thương hiệu t&amp;agrave;i ch&amp;iacute;nh n&amp;ecirc;n trả lời l&amp;agrave; ch&amp;uacute;ng ta c&amp;oacute; thể l&amp;agrave;m g&amp;igrave; h&amp;ocirc;m nay để mang đến cho kh&amp;aacute;ch h&amp;agrave;ng trải nghiệm tốt nhất, ph&amp;ugrave; hợp với c&amp;aacute;c xu hướng mới nhất?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Th&amp;uacute;c đẩy sự ph&amp;aacute;t triển văn h&amp;oacute;a qua trải nghiệm c&amp;aacute; nh&amp;acirc;n&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Aacute;p dụng tư duy lấy kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave;m trung t&amp;acirc;m trong tổ chức c&amp;oacute; nghĩa l&amp;agrave; đặt người mua h&amp;agrave;ng ở vị tr&amp;iacute; quan trọng nhất. Điều n&amp;agrave;y đồng nghĩa với việc đặt t&amp;acirc;m huyết v&amp;agrave;o việc hiểu r&amp;otilde; mong muốn v&amp;agrave; y&amp;ecirc;u cầu của họ. Kh&amp;aacute;ch h&amp;agrave;ng trở th&amp;agrave;nh t&amp;acirc;m điểm của mọi hoạt động kinh doanh, từ việc ra quyết định trong c&amp;ocirc;ng ty đến trải nghiệm số h&amp;oacute;a của họ tr&amp;ecirc;n c&amp;aacute;c nền tảng trực tuyến. Bằng c&amp;aacute;ch n&amp;agrave;y, tổ chức kh&amp;ocirc;ng chỉ tạo ra sản phẩm v&amp;agrave; dịch vụ tốt hơn, m&amp;agrave; c&amp;ograve;n x&amp;acirc;y dựng mối quan hệ mạnh mẽ với kh&amp;aacute;ch h&amp;agrave;ng, gi&amp;uacute;p n&amp;acirc;ng cao hiệu suất v&amp;agrave; sự h&amp;agrave;i l&amp;ograve;ng của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Giải quyết sự cố mất kết nối giữi ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; đ&amp;aacute;p ứng kỳ vọng của kh&amp;aacute;ch h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc hiểu v&amp;agrave; nắm bắt được sự ch&amp;ecirc;nh lệch giữa những g&amp;igrave; kh&amp;aacute;ch h&amp;agrave;ng hy vọng v&amp;agrave; thực tế trong trải nghiệm giao dịch l&amp;agrave; một yếu tố v&amp;ocirc; c&amp;ugrave;ng quan trọng đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng kỹ thuật số. Điều n&amp;agrave;y gi&amp;uacute;p họ x&amp;acirc;y dựng những trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng th&amp;agrave;nh c&amp;ocirc;ng v&amp;agrave; đ&amp;aacute;ng nhớ hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khoảng c&amp;aacute;ch n&amp;agrave;y c&amp;oacute; thể ph&amp;aacute;t sinh do nhiều yếu tố kh&amp;aacute;c nhau, chẳng hạn như:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Văn h&amp;oacute;a&lt;/strong&gt;&amp;nbsp;- quy tr&amp;igrave;nh kh&amp;ocirc;ng hiệu quả v&amp;agrave; lỗi thời, thiếu sự đồng cảm từ nh&amp;acirc;n vi&amp;ecirc;n, kỹ năng mềm k&amp;eacute;m, ch&amp;iacute;nh s&amp;aacute;ch ng&amp;acirc;n h&amp;agrave;ng thiếu linh hoạt v&amp;agrave; ưu ti&amp;ecirc;n tiết kiệm chi ph&amp;iacute; v&amp;agrave; lợi nhuận hơn trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Phản hồi&amp;nbsp;&lt;/strong&gt;- c&amp;aacute;c k&amp;ecirc;nh kỹ thuật số kh&amp;ocirc;ng đầy đủ, thiếu h&amp;agrave;nh động để cải thiện, hợp t&amp;aacute;c giữa c&amp;aacute;c bộ phận, c&amp;ocirc;ng cụ để thu thập th&amp;ocirc;ng tin chi tiết về kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch dữ liệu k&amp;eacute;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thiết kế&amp;nbsp;&lt;/strong&gt;- thiết kế kh&amp;ocirc;ng nhất qu&amp;aacute;n tr&amp;ecirc;n nhiều dịch vụ t&amp;agrave;i ch&amp;iacute;nh, bỏ qua c&amp;aacute;c nguy&amp;ecirc;n tắc trải nghiệm người d&amp;ugrave;ng (UX), thiếu phản hồi của kh&amp;aacute;ch h&amp;agrave;ng trong qu&amp;aacute; tr&amp;igrave;nh thiết kế v&amp;agrave; nền tảng c&amp;ocirc;ng nghệ kh&amp;ocirc;ng đầy đủ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thực thi&amp;nbsp;&lt;/strong&gt;- thiếu đ&amp;agrave;o tạo nh&amp;acirc;n vi&amp;ecirc;n ph&amp;ugrave; hợp, tự động h&amp;oacute;a v&amp;agrave; tối ưu h&amp;oacute;a quy tr&amp;igrave;nh cũng như tr&amp;aacute;ch nhiệm giải tr&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute; trị&lt;/strong&gt;&amp;nbsp;- giao tiếp k&amp;eacute;m v&amp;agrave; thể hiện lợi &amp;iacute;ch của sản phẩm, thiếu sản phẩm đ&amp;aacute;p ứng nhu cầu cụ thể, UX chung chung kh&amp;ocirc;ng c&amp;oacute; t&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a đơn giản v&amp;agrave; hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng k&amp;eacute;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kh&amp;iacute;a cạnh cảm x&amp;uacute;c&amp;nbsp;&lt;/strong&gt;- khi ng&amp;acirc;n h&amp;agrave;ng phụ thuộc qu&amp;aacute; nhiều v&amp;agrave;o c&amp;ocirc;ng nghệ v&amp;agrave; tự động h&amp;oacute;a, dẫn đến trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng v&amp;ocirc; tr&amp;ugrave;ng v&amp;agrave; thiếu c&amp;aacute; nh&amp;acirc;n, kh&amp;ocirc;ng x&amp;acirc;y dựng được mối li&amp;ecirc;n kết t&amp;igrave;nh cảm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Chuyển từ IQ Sang EQ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng kỹ thuật số v&amp;agrave; tổ chức t&amp;iacute;n dụng, điều n&amp;agrave;y đề cập đến sự chuyển đổi từ tập trung ho&amp;agrave;n to&amp;agrave;n v&amp;agrave;o c&amp;ocirc;ng nghệ v&amp;agrave; tr&amp;iacute; tuệ kh&amp;aacute;ch quan (IQ) sang kết nối cảm x&amp;uacute;c giữa con người với nhau. Dưới đ&amp;acirc;y l&amp;agrave; một số c&amp;aacute;ch m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể thực hiện sự thay đổi n&amp;agrave;y:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Một l&amp;agrave;: &amp;Aacute;p dụng thiết kế lấy con người l&amp;agrave;m trung t&amp;acirc;m&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Hai l&amp;agrave;: Nu&amp;ocirc;i dưỡng tr&amp;iacute; tuệ cảm x&amp;uacute;c&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Ba l&amp;agrave;: Sử dụng c&amp;ocirc;ng nghệ để tăng cường kết nối con người&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Bốn l&amp;agrave;: X&amp;acirc;y dựng niềm tin v&amp;agrave; kết nối cảm x&amp;uacute;c.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. X&amp;acirc;y dựng một hệ sinh th&amp;aacute;i sản phẩm đồng nhất&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tạo một m&amp;ocirc;i trường thống nhất v&amp;agrave; th&amp;acirc;n thiện với người d&amp;ugrave;ng cho kh&amp;aacute;ch h&amp;agrave;ng, tất cả c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh do ng&amp;acirc;n h&amp;agrave;ng của bạn cung cấp hoạt động liền mạch v&amp;agrave; bổ sung cho nhau. T&amp;iacute;nh nhất qu&amp;aacute;n n&amp;agrave;y mang lại trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng tốt hơn trong ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng với khả năng điều hướng r&amp;otilde; r&amp;agrave;ng v&amp;agrave; luồng giao dịch su&amp;ocirc;n sẻ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c thuộc t&amp;iacute;nh ch&amp;iacute;nh của hệ sinh th&amp;aacute;i sản phẩm nhất qu&amp;aacute;n l&amp;agrave;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Trực quan:&lt;/em&gt;&amp;nbsp;tất cả c&amp;aacute;c t&amp;iacute;nh năng cần thiết đều dễ t&amp;igrave;m thấy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;C&amp;oacute; thể dự đo&amp;aacute;n:&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;sử dụng ng&amp;ocirc;n ngữ v&amp;agrave; điều hướng tương tự.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Liền mạch:&lt;/em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;c&amp;oacute; một d&amp;ograve;ng chảy r&amp;otilde; r&amp;agrave;ng v&amp;agrave; dễ sử dụng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. Tạo trải nghiệm t&amp;agrave;i ch&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n ph&amp;ugrave; hợp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave; cung cấp c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ t&amp;agrave;i ch&amp;iacute;nh ph&amp;ugrave; hợp với nhu cầu v&amp;agrave; ho&amp;agrave;n cảnh c&amp;aacute; nh&amp;acirc;n của từng kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong một số trường hợp, n&amp;oacute; c&amp;oacute; thể li&amp;ecirc;n quan đến kh&amp;iacute;a cạnh dịch vụ của doanh nghiệp bạn cung cấp c&amp;aacute;c giải ph&amp;aacute;p ri&amp;ecirc;ng lẻ theo y&amp;ecirc;u cầu của kh&amp;aacute;ch h&amp;agrave;ng. Trong c&amp;aacute;c trường hợp kh&amp;aacute;c, n&amp;oacute; c&amp;oacute; thể li&amp;ecirc;n quan đến việc sử dụng c&amp;ocirc;ng nghệ như tr&amp;iacute; tuệ nh&amp;acirc;n tạo, học m&amp;aacute;y v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch dữ liệu để hiểu r&amp;otilde; hơn về t&amp;igrave;nh h&amp;igrave;nh t&amp;agrave;i ch&amp;iacute;nh của từng kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; cung cấp th&amp;ocirc;ng tin cũng như đề xuất c&amp;oacute; li&amp;ecirc;n quan theo thời gian thực trong ứng dụng ng&amp;acirc;n h&amp;agrave;ng của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dưới đ&amp;acirc;y l&amp;agrave; những g&amp;igrave; bạn c&amp;oacute; thể cung cấp cho kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh với c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh theo ngữ cảnh, được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a được hỗ trợ bởi c&amp;ocirc;ng nghệ:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Th&amp;ocirc;ng tin li&amp;ecirc;n quan về t&amp;igrave;nh h&amp;igrave;nh t&amp;agrave;i ch&amp;iacute;nh của họ;&lt;/li&gt;
+&lt;li&gt;Gi&amp;uacute;p cải thiện sức khỏe t&amp;agrave;i ch&amp;iacute;nh của họ;&lt;/li&gt;
+&lt;li&gt;Dịch vụ v&amp;agrave; giải ph&amp;aacute;p t&amp;ugrave;y chỉnh;&lt;/li&gt;
+&lt;li&gt;Dự b&amp;aacute;o t&amp;agrave;i ch&amp;iacute;nh được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; c&amp;aacute;c cơ hội duy nhất;&lt;/li&gt;
+&lt;li&gt;Sử dụng xử l&amp;yacute; giọng n&amp;oacute;i, cử chỉ, khoa học thần kinh, VR v&amp;agrave; AR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;7. Hợp t&amp;aacute;c với b&amp;ecirc;n thứ ba&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể tận dụng kiến thức chuy&amp;ecirc;n m&amp;ocirc;n của c&amp;aacute;c nh&amp;agrave; ph&amp;aacute;t triển FinTech về nhu cầu v&amp;agrave; h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng kỹ thuật số để tạo ra c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh hiệu quả, th&amp;acirc;n thiện với người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c c&amp;ocirc;ng ty khởi nghiệp v&amp;agrave; c&amp;ocirc;ng nghệ FinTech thường c&amp;oacute; hiểu biết s&amp;acirc;u sắc về điều g&amp;igrave; tạo n&amp;ecirc;n một trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng tốt để c&amp;oacute; thể gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng thiết kế v&amp;agrave; ph&amp;aacute;t triển c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh trực quan, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; ph&amp;ugrave; hợp với thực tế.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bằng c&amp;aacute;ch hợp t&amp;aacute;c với b&amp;ecirc;n thứ 3, c&amp;aacute;c cơ quan ph&amp;aacute;t triển FinTech v&amp;agrave; c&amp;aacute;c giải ph&amp;aacute;p dịch vụ ng&amp;acirc;n h&amp;agrave;ng, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể đ&amp;oacute;n đầu xu hướng trong bối cảnh ph&amp;aacute;t triển nhanh ch&amp;oacute;ng v&amp;agrave; đảm bảo c&amp;aacute;c dịch vụ của họ vẫn ph&amp;ugrave; hợp v&amp;agrave; hấp dẫn kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8. Tạo đột ph&amp;aacute; trong trải nghiệm t&amp;agrave;i ch&amp;iacute;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể đưa ra nhiều lựa chọn đầu tư bền vững, ưu ti&amp;ecirc;n đầu tư c&amp;oacute; tr&amp;aacute;ch nhiệm với m&amp;ocirc;i trường v&amp;agrave; x&amp;atilde; hội. Điều n&amp;agrave;y kh&amp;ocirc;ng chỉ mang đến cho kh&amp;aacute;ch h&amp;agrave;ng cơ hội điều chỉnh khoản đầu tư ph&amp;ugrave; hợp với gi&amp;aacute; trị của họ m&amp;agrave; c&amp;ograve;n gi&amp;uacute;p tạo ra cảm gi&amp;aacute;c cộng đồng giữa những người c&amp;oacute; c&amp;ugrave;ng ch&amp;iacute; hướng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bằng c&amp;aacute;ch c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm ng&amp;acirc;n h&amp;agrave;ng số v&amp;agrave; &amp;aacute;p dụng c&amp;aacute;ch tiếp cận lấy con người l&amp;agrave;m trung t&amp;acirc;m ở cấp độ chiến lược cũng như theo đuổi c&amp;aacute;c xu hướng mới nhất, chẳng hạn như tr&amp;iacute; tuệ nh&amp;acirc;n tạo, học m&amp;aacute;y, thực tế ảo v&amp;agrave; c&amp;aacute;c xu hướng kh&amp;aacute;c, bạn c&amp;oacute; thể đạt được lợi thế cạnh tranh, điều chỉnh ng&amp;acirc;n h&amp;agrave;ng số của m&amp;igrave;nh ph&amp;ugrave; hợp với nhu cầu của bạn, mong đợi của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; cung cấp trải nghiệm tốt nhất cho kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tham khảo: Geniusee&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Digital banking has changed the way customers access their money and interact with their financial institutions. With the current level of digital transformation, they can complete transactions without having to step into a branch or even talk to a bank representative. It&amp;rsquo;s already a huge step forward, but the technologies are still far from perfect.&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Today, it&amp;rsquo;s not only about practical convenience but also about saving time and having all of the data at your fingertips. The demand has expanded, and now people strive for more personalized experiences tailored to their specific needs and preferences. At the same time, customers are becoming more tech-savvy and expect a seamless and convenient experience across all channels.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;What are these needs and expectations? Which relevant trends are moving the digital banking niche today? How can humanizing digital banking help you make your own product more successful?&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In this article, we&amp;rsquo;ll give you a brief yet comprehensive overview of all these points with specific examples.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;From Transactions To Relationships&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The increasing use of smartphones, the rise of new FinTechs, and the overall trend toward personalization and a smoother user experience it's today's reality that touches all business niches, including digital banking.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As a result, contemporary banks are under pressure to adapt to this change. And here are several examples of how they respond to this challenge:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Capital One 360 is a US-based bank that has taken a human-centered approach. Their customers can access personalized spending insights, manage their accounts and transactions, and even apply for loans, all from their mobile devices.&lt;/li&gt;
+&lt;li&gt;BBVA is a Spanish multinational bank that has also placed a strong focus on humanizing its digital experience. They offer 24/7 customer support through multiple channels, including chat, phone, and email. In addition, the bank's website and mobile app are designed to be easy to use and intuitive, making it simple for customers to manage their finances.&lt;/li&gt;
+&lt;li&gt;N26 is a fully digital German bank that provides a seamless experience through its intuitive mobile app with customizable features, innovative products, a strong focus on security, and multi-channel AI-powered customer support.&lt;/li&gt;
+&lt;li&gt;DBS Bank is a leading Asian bank that has adopted a human-centered approach by offering personalized financial advice and tailored investment solutions through its DBS Digibank app. This app allows customers to manage their finances, access investment opportunities, and receive financial advice all in one place, making banking easier and more accessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;As we can see, there are different ways for humanizing digital banking products, so let&amp;rsquo;s go through the main strategies to consider.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8 Ways Digital Banks Can Humanize Their Customer Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#1. Expanding The Perspective Of The&amp;nbsp;Digital Transformation&amp;nbsp;For&amp;nbsp;Financial Institutions&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Customer loyalty is a valuable yet unreliable resource. According to Emplifi, 86% of people will leave a brand they&amp;rsquo;ve been loyal to after just a few bad customer experiences.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This means, to beat the competition, successfully attract customers, and retain them, you should track, follow, and even get ahead of all the major digital trends.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;People who use financial products and services are the same people who shop online, surf social media, and play mobile games. And if they see Virtual Reality (VR) technology being used when they hunt for property, sooner or later, they will expect some sort of VR integration while checking their credit score.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The following trends are currently ruling the day:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;artificial intelligence (AI), big data, and machine learning (ML);&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;chatbots and&amp;nbsp;banking virtual assistant solutions;&lt;/li&gt;
+&lt;li&gt;personalized investment advice;&lt;/li&gt;
+&lt;li&gt;gamification;&lt;/li&gt;
+&lt;li&gt;augmented reality (AR) and virtual reality (VR);&lt;/li&gt;
+&lt;li&gt;wearables and internet of things (IoT) integration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;The key question financial brands should answer is what can we do today to offer our customers the best experience that aligns with the latest trends?&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#2. Empowering An&amp;nbsp;Experience-Based&amp;nbsp;Inner Culture&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;What does it mean to adopt a customer-centric mindset within your organization? First of all, it means putting the customer's needs, wants, and expectations at the center of all business operations, decision-making processes, and your users&amp;rsquo; digital experiences.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In practice, it means:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;making a customer-centric culture a core part of your mission, values, and goals;&lt;/li&gt;
+&lt;li&gt;constantly encouraging customer feedback;&lt;/li&gt;
+&lt;li&gt;empowering employees with the necessary tools, resources, and autonomy they need to make decisions that will improve the customer experience as well as&amp;nbsp;customer lifetime value;&lt;/li&gt;
+&lt;li&gt;measuring success by regularly assessing customer satisfaction, loyalty, and engagement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Customer centricity&amp;nbsp;requires a shift in company strategy and processes to prioritize the customer experience in all aspects of the business.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#3. Overcoming The Disconnect Between The Bank And The Customer&amp;rsquo;s Expectations&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bridging the difference between an experience that customers expect and the one they actually receive is critical for digital banks to create a successful and memorable customer experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;This gap can arise due to various factors, such as:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Culture &amp;mdash; inefficient and outdated processes, lack of empathy from employees, poor soft skills, inflexible bank policies, and prioritization of cost savings and profits over customer experiences.&lt;/li&gt;
+&lt;li&gt;Feedback&amp;nbsp;&amp;mdash; inadequate&amp;nbsp;digital channels, lack of actions to improve, cooperation between departments, tools to collect customer insights, and poor data analytics.&lt;/li&gt;
+&lt;li&gt;Design&amp;nbsp;&amp;mdash; inconsistent design across multiple&amp;nbsp;financial services, ignoring user experience (UX) principles, lack of customer feedback in the design process, and an inadequate technology stack.&lt;/li&gt;
+&lt;li&gt;Execution&amp;nbsp;&amp;mdash; lack of proper employee training, process automation and optimization, and accountability.&lt;/li&gt;
+&lt;li&gt;Value&amp;nbsp;&amp;mdash; poor communication and demonstration of products&amp;rsquo; benefits, lack of products that meet specific needs, a generic UX without&amp;nbsp;simple personalization, and poor customer support.&lt;/li&gt;
+&lt;li&gt;Overpromising&amp;nbsp;&amp;mdash; when a bank or financial institution has not properly considered the resources and capabilities necessary to meet customer expectations.&lt;/li&gt;
+&lt;li&gt;Emotional aspect &amp;mdash; when a bank relies too heavily on technology and automation, resulting in a sterile and impersonal customer experience that fails to build emotional bonds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;To overcome the experience gap, financial institutions need to identify the root causes of the gap and address them through a combination of tactics. This may involve:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Seeking customer feedback and incorporating it into the product/service design. Overcoming the disconnect is a continuous process that requires a deep understanding of customer needs. For example, through creating effective feedback channels, regularly identifying areas for improvement, and implementing changes based on the feedback.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Building a strong relationship with clients.&amp;nbsp;This may involve changing the bank's policies and processes, investing in employee training, and incorporating customer feedback into decision-making processes. For example, establishing clear performance metrics and holding employees accountable for delivering the desired&amp;nbsp;customer experience in banking.&lt;/li&gt;
+&lt;li&gt;Taking a customer-centric approach to design. Banks can ensure consistency in the CX across all products and services by investing in user research. For example,&amp;nbsp;hiring a UX/UI designer&amp;nbsp;when developing and testing digital banking software can help deliver a consistent and seamless experience.&lt;/li&gt;
+&lt;li&gt;Investing in personalization, automation, and artificial intelligence. These are the three aspects leading all digital trends. For example, automation allows quickly completing tasks that drive away customer interactions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#4. Switching From IQ To EQ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For digital banks and credit unions, this refers to the shift from an exclusive focus on technology and objective intelligence (IQ) to emotional human connections. Here are some ways that banks can make this shift:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Embrace human-centered design. This involves designing digital banking experiences that prioritize the customer&amp;rsquo;s emotional and psychological needs, rather than just functional requirements.&lt;/li&gt;
+&lt;li&gt;Foster emotional intelligence.&amp;nbsp;It&amp;rsquo;s a soft skill that can create a more empathetic and understanding work environment. This may require training or can help build stronger connections with customers.&lt;/li&gt;
+&lt;li&gt;Use technology to enhance human connections.&amp;nbsp;For example, using chatbots that can understand and respond to emotions or incorporating virtual and augmented reality to create immersive experiences can facilitate human-like interactions and build stronger emotional bonds with customers.&lt;/li&gt;
+&lt;li&gt;Build trust and emotional connections. A CRM system and customer survey tools, like SurveyMonkey or Typeform, will help you gather data and insights about customers that can help provide personalized experiences. Additionally, you can use Google Analytics or a similar digital solution to better understand user behavior on your bank&amp;rsquo;s website.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#5. Establishing A Consistent Product Ecosystem&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Create a united and user-friendly environment for customers where all the financial products offered by your bank work seamlessly and complement each other. This consistency leads to a better customer experience in the banking industry with clear navigation and a smooth flow of transactions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The key attributes of a consistent product ecosystem are:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Intuitive &amp;ndash; all necessary features are easy to find.&lt;/li&gt;
+&lt;li&gt;Predictable &amp;ndash;&amp;nbsp;use similar language and navigation.&lt;/li&gt;
+&lt;li&gt;Seamless &amp;ndash; have a clear and easy-to-use flow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;A good recommendation for banks is to transform services into products so that you can treat them as part of the ecosystem as well.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#6. Providing A Contextual Financial Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This means providing financial products and services tailored to the individual needs and circumstances of each customer.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In some cases, it may concern the service side of your business&amp;mdash;offering individual solutions to your customers&amp;rsquo; requests. In other cases, it may involve using technology such as artificial intelligence, machine learning, and data analytics to gain insights into each customer's financial situation and provide relevant, real-time information and recommendations in their banking apps.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Here&amp;rsquo;s what you may offer your customers with personalized, contextual financial products powered by technology:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;relevant information about their financial situation;&lt;/li&gt;
+&lt;li&gt;help in improving their financial health;&lt;/li&gt;
+&lt;li&gt;customized services and solutions;&lt;/li&gt;
+&lt;li&gt;personalized financial forecasts and unique opportunities;&lt;/li&gt;
+&lt;li&gt;using voice processing, gestures, neuroscience, VR, and AR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#7. Teaming Up With Another Financial Institution&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks can leverage FinTech developers&amp;rsquo; expertise in digital customer needs and behavior to create effective, user-friendly financial products.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;FinTech startups and technology companies often have a deep understanding of what makes a good CX so that they can help banks design and develop financial products that are intuitive, personalized, and contextual.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;And here are some examples of such collaborations:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;JPMorgan Chase Bank teamed up with Zelle to offer its customers a peer-to-peer payment service within its mobile banking app.&lt;/li&gt;
+&lt;li&gt;Citi&amp;nbsp;Bank partnered with Bill.com to provide its corporate customers with a platform that automates and streamlines their accounts payable processes.&lt;/li&gt;
+&lt;li&gt;Capital One partnered with Kabbage to offer its small business customers access to a streamlined lending process and the ability to access working capital quickly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;By partnering with such companies, FinTech development agencies, and banking-as-a-service solutions, banks can stay ahead of the curve in the rapidly-evolving landscape and ensure their offerings remain relevant and appealing to customers.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#8. Taking The Value Of Financial Experience To A New Level&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Modern financial brands must provide an exceptional digital banking customer experience, look aesthetically pleasing, fit the specific requirements of the customer&amp;rsquo;s status, and present a socially-significant mission that would resonate with the community.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;All this together may create a powerful human-centric culture that both retains existing customers effectively and attracts new ones.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For example, a bank could offer a range of sustainable investment options that prioritize environmentally-responsible and socially-responsible investments. This would not only provide customers with the opportunity to align their investments with their values but also help to create a sense of community among like-minded people.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Another example could be a FinTech company that offers a range of financial products that are specifically designed to help people in emerging markets access financial services and build their wealth. These products could be marketed as empowering individuals to take control of their financial futures, and customers could be invited to join a community of like-minded individuals who are also striving to achieve their financial goals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By humanizing the digital banking experience and embracing a human-centric approach on the strategic level and following the latest trends, such as artificial intelligence, machine learning, virtual reality, and others, you can gain a competitive advantage, align your digital bank with your customers&amp;rsquo; expectations, and provide the best customer experience, increasing your customers&amp;rsquo; loyalty.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source:&amp;nbsp;&amp;nbsp;&amp;nbsp;Geniusee&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Collected by the author&amp;nbsp; DTSVN team - Digital transformation solutions for the Finance - Banking&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking field in Vietnam; helping banks and financial institutions quickly complete the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now and experience our significant software solution here.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-05-14T10:42:25.000Z</time_create_dt>
+	<createdDate>2025-08-25T10:42:24.018Z</createdDate>
+	<createdDate_dt>2025-08-25T10:42:24.018Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T10:42:24.018Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T10:42:24.018Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

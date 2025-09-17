@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>423d</objectGroupId>
+	<objectId>423df920-5394-fad8-8712-5842d8172959</objectId>
+	<file-name>423df920-5394-fad8-8712-5842d8172959.xml</file-name>
+	<folder-name/>
+	<internal-name>Tầm quan trọng</internal-name>
+	<orientation_s>Tầm quan trọng của việc áp dụng CEP cho Doanh nghi</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Công nghệ hiện đại giúp hiệu suất Marketing tăng trường nhanh khi được đầu tư bài bản, phù hợp với chiến lược kinh doanh của Doanh nghiệp.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-08-26T10:29:36.880Z</createdDate>
+	<createdDate_dt>2025-08-26T10:29:36.880Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T10:29:36.880Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T10:29:36.880Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>37ea</objectGroupId>
+	<objectId>37eab3ab-9249-b8fc-1596-5ab41485ff54</objectId>
+	<internal-name>Top 5 phần mềm CDP (Customer Data Platform) tốt nhất</internal-name>
+	<navLabel>Top 5 phần mềm CDP (Customer Data Platform) tốt nhất</navLabel>
+	<title_vi_s>Top 5 phần mềm CDP (Customer Data Platform) tốt nhất</title_vi_s>
+	<title_en_s>Top 5 Best CDP (Customer Data Platform) Software</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>37eab3ab-9249-b8fc-1596-5ab41485ff54</folder-name>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/cdp_5.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Phần mềm CDP Insider&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Phần mềm CDP Salesforce&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Phần mềm CDP Treasuredata&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Phần mềm CDP Bloomreach&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Phần mềm CDP Segment&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để gi&amp;uacute;p bạn c&amp;oacute; thể chọn ra một&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-marketing-automation/customer-data-platform-la-gi/"&gt;phần mềm CDP (Customer Data Platform)&lt;/a&gt;&amp;nbsp;ph&amp;ugrave; hợp trong việc quản l&amp;iacute; dữ liệu kh&amp;aacute;ch h&amp;agrave;ng đa nguồn nhằm phục vụ cho hoạt động kinh doanh v&amp;agrave;&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-marketing-automation/marketing-automation-la-gi/"&gt;Marketing&lt;/a&gt;&amp;nbsp;của doanh nghiệp.&amp;nbsp;Dưới đ&amp;acirc;y l&amp;agrave; Top 5 phần mềm CDP được đ&amp;aacute;nh gi&amp;aacute; cao bởi c&amp;aacute;c doanh nghiệp tr&amp;ecirc;n to&amp;agrave;n cầu dựa theo b&amp;aacute;o c&amp;aacute;o của&amp;nbsp;&lt;a href="https://www.g2.com/"&gt;G2 &amp;ndash; Trang Web đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; Review h&amp;agrave;ng đầu thế giới về c&amp;aacute;c Phần mềm &amp;amp; Dịch vụ cho Doanh nghiệp&lt;/a&gt;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm CDP Insider&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://useinsider.com/"&gt;https://useinsider.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Insider l&amp;agrave; nền tảng CDP chuy&amp;ecirc;n về x&amp;acirc;y dựng tr&amp;agrave;i nghiệm c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng đa k&amp;ecirc;nh, gi&amp;uacute;p cho c&amp;aacute;c Marketer kết nối với dữ liệu của kh&amp;aacute;ch h&amp;agrave;ng th&amp;ocirc;ng qua nhiều k&amp;ecirc;nh v&amp;agrave; c&amp;aacute;c hệ thống kh&amp;aacute;c nhau c&amp;ugrave;ng với c&amp;aacute;c c&amp;ocirc;ng cụ hỗ trợ tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n đa nền tảng (Web, Mobile App, Web App, WhatsApp,&amp;hellip;). Dưới đ&amp;acirc;y l&amp;agrave; 1 số điểm mạnh của Insider:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Khả năng t&amp;iacute;ch hợp dữ liệu nhanh ch&amp;oacute;ng v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c từ nhiều nguồn kh&amp;aacute;c nhau từ Online đến Offline như CRM, CMS, thiết bị POS, c&amp;aacute;c c&amp;ocirc;ng cụ Customer Support, c&amp;aacute;c c&amp;ocirc;ng cụ ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; nền tảng Marketing, API,&amp;hellip; gi&amp;uacute;p c&amp;aacute;c Marketer ph&amp;acirc;n t&amp;iacute;ch chi tiết ch&amp;acirc;n dung kh&amp;aacute;ch h&amp;agrave;ng 360 độ chuẩn x&amp;aacute;c nhất theo từng ph&amp;acirc;n tập v&amp;agrave; điểm chạm&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;ch hợp AI hỗ trợ trong việc c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a nội dung v&amp;agrave; dự đo&amp;aacute;n h&amp;agrave;nh vi của c&amp;aacute;c tập kh&amp;aacute;ch h&amp;agrave;ng tiềm năng dựa tr&amp;ecirc;n c&amp;aacute;c h&amp;agrave;nh động như: Mua h&amp;agrave;ng, tương t&amp;aacute;c với Email, Trigger c&amp;aacute;c sự kiện theo c&amp;agrave;i đặt,&amp;hellip;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Tự động h&amp;oacute;a Flow h&amp;agrave;nh tr&amp;igrave;nh người d&amp;ugrave;ng tr&amp;ecirc;n đa nền tảng v&amp;agrave; đa k&amp;ecirc;nh c&amp;ugrave;ng với khả năng A/B Test cũng như c&amp;aacute;c Template Flow c&amp;oacute; sẵn gi&amp;uacute;p c&amp;aacute;c Marketer nắm bắt v&amp;agrave; tối ưu được c&amp;aacute;c chiến dịch Marketing Automation 1 c&amp;aacute;ch dễ d&amp;agrave;ng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.g2.com/products/insider/reviews"&gt;C&amp;aacute;c bạn c&amp;oacute; thể đọc th&amp;ecirc;m Review về Insider tr&amp;ecirc;n G2 tại đ&amp;acirc;y&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm CDP Salesforce&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://www.salesforce.com/marketing/data/"&gt;https://www.salesforce.com/marketing/data/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Salesforce l&amp;agrave; 1 nền tảng Digital Marketing kết hợp c&amp;aacute;c t&amp;iacute;nh năng như Email Marketing, vẽ h&amp;agrave;nh tr&amp;igrave;nh người d&amp;ugrave;ng, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, quản l&amp;yacute; nội dung,&amp;hellip; 1 trong những điểm ch&amp;uacute; &amp;yacute; của phần mềm l&amp;agrave; Marketing Cloud CDP gi&amp;uacute;p Doanh nghiệp t&amp;iacute;ch hợp dữ liệu tr&amp;ecirc;n 1 số k&amp;ecirc;nh được hỗ trợ (Email, SMS, App) để hiểu kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh v&amp;agrave; tối ưu c&amp;aacute;c chiến dịch. C&amp;aacute;c điểm mạnh của Saleforces m&amp;agrave; được c&amp;aacute;c Doanh nghiệp đ&amp;aacute;nh gi&amp;aacute; cao l&amp;agrave;:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Dữ liệu t&amp;iacute;ch hợp c&amp;oacute; thể truy cập Real-time c&amp;ugrave;ng với khả năng ph&amp;acirc;n loại dữ liệu dễ d&amp;agrave;ng để c&amp;aacute;c Marketer c&amp;oacute; thể tự x&amp;acirc;y dựng m&amp;ocirc; h&amp;igrave;nh dữ liệu ph&amp;acirc;n bổ để phục vụ đo lường v&amp;agrave; b&amp;aacute;o c&amp;aacute;o&lt;/li&gt;
+&lt;li&gt;Giao diện th&amp;acirc;n thiện với người d&amp;ugrave;ng, gi&amp;uacute;p c&amp;aacute;c Marketer c&amp;oacute; thể l&amp;agrave;m quen v&amp;agrave; vận h&amp;agrave;nh với hệ thống trong 1 thời gian ngắn&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;ch hợp AI v&amp;agrave; ML hỗ trợ đề xuất cho c&amp;aacute;c chiến dịch Marketing Automation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.g2.com/products/salesforce-customer-data-platform-cdp/reviews"&gt;C&amp;aacute;c bạn c&amp;oacute; thể xem th&amp;ecirc;m Review về Salesforce CDP tr&amp;ecirc;n G2 tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm CDP Treasuredata&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://www.treasuredata.com/"&gt;https://www.treasuredata.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Treasure Data l&amp;agrave; 1 nền tảng Customer Data Cloud gi&amp;uacute;p Doanh nghiệp hợp nhất dữ liệu v&amp;agrave; bảo mật dữ liệu theo quyền ri&amp;ecirc;ng tư của người d&amp;ugrave;ng. CDP của nền tảng n&amp;agrave;y c&amp;oacute; thể hữu dụng với Team Marketing, Sales, CSKH v&amp;agrave; team Kỹ thuật. Ngo&amp;agrave;i ra, nền tảng n&amp;agrave;y c&amp;oacute; hỗ trợ nhiều case kỹ thuật đặc th&amp;ugrave; như data hygiene v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch chuy&amp;ecirc;n s&amp;acirc;u t&amp;ugrave;y chỉnh. Một số điểm nổi bật của nền tảng l&amp;agrave;:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Giao diện thao t&amp;aacute;c dễ d&amp;ugrave;ng d&amp;agrave;nh cho những người ho&amp;agrave;n to&amp;agrave;n kh&amp;ocirc;ng thạo về c&amp;ocirc;ng nghệ c&amp;oacute; thể d&amp;ugrave;ng sau 1 thời gian ngắn t&amp;igrave;m hiểu&lt;/li&gt;
+&lt;li&gt;Khả năng t&amp;iacute;ch hợp dữ liệu nhanh ch&amp;oacute;ng từ nhiều nguồn dữ liệu v&amp;agrave; nền tảng kh&amp;aacute;c nhau. Ngo&amp;agrave;i ra, c&amp;aacute;c Marketer c&amp;oacute; thể x&amp;acirc;y dựng c&amp;aacute;c truy vấn từ SQL v&amp;agrave; Python để k&amp;eacute;o dữ liệu ra d&amp;ugrave;ng cho b&amp;aacute;o c&amp;aacute;o 1 c&amp;aacute;ch tiện lợi.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Đội ngũ CSKH hỗ trợ nhiệt t&amp;igrave;nh v&amp;agrave; chuy&amp;ecirc;n s&amp;acirc;u giải đ&amp;aacute;p mọi kh&amp;uacute;c mắc của người d&amp;ugrave;ng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.g2.com/products/treasure-data-customer-data-platform/reviews"&gt;C&amp;aacute;c bạn c&amp;oacute; thể xem th&amp;ecirc;m Review về Treasure Data tr&amp;ecirc;n G2 tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm CDP Bloomreach&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://www.bloomreach.com/en"&gt;https://www.bloomreach.com/en&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bloomreach l&amp;agrave; 1 nền tảng CDP chuy&amp;ecirc;n về cho ng&amp;agrave;nh E-com (Thương mại điện tử). Phần mềm n&amp;agrave;y l&amp;agrave; thuộc 1 nh&amp;aacute;nh sản phẩm của Bloomreach Engagement Module. Ngo&amp;agrave;i ra, Bloomreach hỗ trợ Doanh nghiệp với khả năng t&amp;ugrave;y biến v&amp;agrave; Scale nhanh, gi&amp;uacute;p Doanh nghiệp tiết kiệm thời gian v&amp;agrave; chi ph&amp;iacute; trong việc t&amp;iacute;ch hợp với c&amp;aacute;c nền tảng kh&amp;aacute;c. Một số điểm mạnh của Bloomreach m&amp;agrave; ta c&amp;oacute; thể kể đến:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Hệ thống chuy&amp;ecirc;n s&amp;acirc;u về nghiệp vụ Thương mại điện tử n&amp;ecirc;n c&amp;aacute;c Markerter v&amp;agrave; nh&amp;acirc;n sự kh&amp;aacute;c trong ng&amp;agrave;nh n&amp;agrave;y sẽ l&amp;agrave;m quen nhanh ch&amp;oacute;ng được với nền tảng. Ngo&amp;agrave;i ra, Bloomreach t&amp;iacute;ch hợp với hơn 130+ nền tảng h&amp;agrave;ng đầu về Website Thương mại điện tử, đẩy nhanh qu&amp;aacute; tr&amp;igrave;nh t&amp;iacute;ch hợp dữ liệu.&lt;/li&gt;
+&lt;li&gt;Doanh nghiệp được ho&amp;agrave;n to&amp;agrave;n kiểm thời gian lưu trữ của dữ liệu (Data Retention) so với c&amp;aacute;c nền tảng CDP kh&amp;aacute;c.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;B&amp;aacute;o c&amp;aacute;o đặc th&amp;ugrave; chi tiết d&amp;agrave;nh cho c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n của E-com như Retention (Giữ ch&amp;acirc;n người d&amp;ugrave;ng), Cohort (Người d&amp;ugrave;ng theo thời gian),&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;nh gi&amp;aacute; dựa tr&amp;ecirc;n số lượng th&amp;ocirc;ng điệp Email, Push đ&amp;atilde; gửi thay v&amp;igrave; t&amp;iacute;nh theo ngưỡng người d&amp;ugrave;ng (User Usage) như c&amp;aacute;c nền tảng kh&amp;aacute;c&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.g2.com/products/bloomreach-bloomreach/reviews"&gt;C&amp;aacute;c bạn c&amp;oacute; thể xem th&amp;ecirc;m Review về Bloomreach tr&amp;ecirc;n G2 tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm CDP Segment&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://segment.com/customer-data-platform/"&gt;https://segment.com/customer-data-platform/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Segment l&amp;agrave; 1 c&amp;ocirc;ng ty tạo CDP phổ biến v&amp;agrave;o hồi xưa tr&amp;ecirc;n thế giới, nhưng sau đ&amp;oacute; v&amp;agrave;o 2020 Twilio đ&amp;atilde; mua lại c&amp;ocirc;ng ty n&amp;agrave;y v&amp;agrave; vẫn giữ t&amp;ecirc;n sản phẩm CDP l&amp;agrave; Segment. Segment c&amp;oacute; thể t&amp;iacute;ch hợp được với nhiều c&amp;ocirc;ng cụ Marketing, c&amp;aacute;c nền tảng hỗ trợ CSKH v&amp;agrave; data warehouse hoặc c&amp;oacute; thể t&amp;iacute;ch hợp với sản phẩm nội bộ kh&amp;aacute;c của c&amp;ocirc;ng ty l&amp;agrave; Twilio Engage cho Doanh nghiệp để ph&amp;aacute;t triển c&amp;aacute;c chiến dịch SMS v&amp;agrave; Email dựa tr&amp;ecirc;n c&amp;aacute;c dữ liệu đ&amp;atilde; được hợp nhất. Dưới đ&amp;acirc;y l&amp;agrave; c&amp;aacute;c điểm mạnh của phần mềm n&amp;agrave;y:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;C&amp;agrave;i đặt v&amp;agrave; t&amp;iacute;ch hợp CDP dễ d&amp;agrave;ng, thời gian load nền tảng nhanh v&amp;agrave; khả năng reverse ETL (Extract &amp;ndash; Transform &amp;ndash; Load) dữ liệu tốt để c&amp;aacute;c Marketer định danh được c&amp;aacute;c event tương t&amp;aacute;c ch&amp;iacute;nh của kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n đa k&amp;ecirc;nh 1 c&amp;aacute;ch dễ d&amp;agrave;ng&lt;/li&gt;
+&lt;li&gt;Ph&amp;acirc;n chia dữ liệu người d&amp;ugrave;ng dễ d&amp;agrave;ng gi&amp;uacute;p c&amp;aacute;c Marketer thực hiện Segment nhanh gọn hơn so với c&amp;aacute;c nền tảng CDP kh&amp;aacute;c&lt;/li&gt;
+&lt;li&gt;Giao diện điều hướng thao t&amp;aacute;c v&amp;agrave; thư viện hướng dẫn kiến thức dễ hiểu để c&amp;aacute;c Marketer học hỏi v&amp;agrave; vận h&amp;agrave;nh hệ thống nhanh ch&amp;oacute;ng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.g2.com/products/segment/reviews"&gt;C&amp;aacute;c bạn c&amp;oacute; thể xem th&amp;ecirc;m Review về Segment CDP tr&amp;ecirc;n G2 tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; 5 phần mềm CDP phổ biến tr&amp;ecirc;n to&amp;agrave;n thế giới được c&amp;aacute;c doanh nghiệp sử dụng. Nếu bạn muốn t&amp;igrave;m hiểu th&amp;ecirc;m về CDP &amp;ndash; Customer Data Platform hoặc muốn tư vấn th&amp;ecirc;m về dịch vụ bận h&amp;agrave;nh Marketing Automation th&amp;igrave; h&amp;atilde;y li&amp;ecirc;n hệ với DTSVN tại đ&amp;acirc;y.&amp;nbsp;&lt;/p&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;CDP Software &amp;ndash; Insider&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CDP Software &amp;ndash; Salesforce&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CDP Software &amp;ndash; Treasure Data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CDP Software &amp;ndash; Bloomreach&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CDP Software &amp;ndash; Segment&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;To help you choose a suitable &lt;strong&gt;CDP (Customer Data Platform)&lt;/strong&gt; software for managing multi-source customer data to support your business and marketing activities, below are the &lt;strong&gt;Top 5 CDP software solutions&lt;/strong&gt; highly rated by enterprises worldwide, based on the report from &lt;strong&gt;G2 &amp;ndash; the world&amp;rsquo;s leading review platform for Business Software &amp;amp; Services&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;CDP Software &amp;ndash; Insider&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://useinsider.com/"&gt;https://useinsider.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Insider is a CDP platform specializing in &lt;strong&gt;personalized experiences and omnichannel customer journeys&lt;/strong&gt;, enabling marketers to connect with customer data across multiple channels and systems, along with engagement tools that work seamlessly across platforms (Web, Mobile App, Web App, WhatsApp, &amp;hellip;). Below are some key strengths of Insider:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fast and accurate data integration&lt;/strong&gt; from multiple sources both online and offline such as CRM, CMS, POS devices, Customer Support tools, analytics tools, marketing platforms, APIs, &amp;hellip; enabling marketers to build a precise 360-degree customer profile segmented by audience and touchpoints.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AI-powered personalization and predictive capabilities&lt;/strong&gt;, helping identify potential customer behaviors such as purchases, email interactions, and triggered events.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automated user journey flows&lt;/strong&gt; across platforms and channels with A/B testing capabilities and pre-built flow templates, allowing marketers to optimize Marketing Automation campaigns with ease.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;You can read more reviews of Insider on G2 [here].&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;CDP Software &amp;ndash; Salesforce&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.salesforce.com/marketing/data/"&gt;https://www.salesforce.com/marketing/data/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Salesforce is a &lt;strong&gt;Digital Marketing platform&lt;/strong&gt; that combines features such as Email Marketing, Journey Mapping, Personalization, and Content Management. A notable highlight is its &lt;strong&gt;Marketing Cloud CDP&lt;/strong&gt;, which enables businesses to integrate customer data across supported channels (Email, SMS, App) to better understand their customers and optimize campaigns. Key strengths highly rated by enterprises include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Real-time data access&lt;/strong&gt; with easy segmentation, allowing marketers to build custom data models for measurement and reporting.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;User-friendly interface&lt;/strong&gt;, making it easy for marketers to adapt and operate the system in a short period.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Integrated AI and ML&lt;/strong&gt; features that provide recommendations for Marketing Automation campaigns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;You can see more reviews of Salesforce CDP on G2 [here].&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;CDP Software &amp;ndash; Treasure Data&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.treasuredata.com/"&gt;https://www.treasuredata.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Treasure Data is a &lt;strong&gt;Customer Data Cloud platform&lt;/strong&gt; that helps enterprises unify customer data and maintain compliance with user privacy requirements. Its CDP can be beneficial for Marketing, Sales, Customer Support, and Technical teams. Additionally, it supports advanced technical use cases such as &lt;strong&gt;data hygiene&lt;/strong&gt; and custom analytics. Key highlights include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Easy-to-use interface&lt;/strong&gt; suitable even for non-technical users after a short learning period.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quick integration&lt;/strong&gt; from multiple data sources and platforms. Marketers can also run queries using SQL and Python to conveniently extract data for reports.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dedicated and knowledgeable Customer Support team&lt;/strong&gt;, ready to assist and resolve user issues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;You can see more reviews of Treasure Data on G2 [here].&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;CDP Software &amp;ndash; Bloomreach&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.bloomreach.com/en"&gt;https://www.bloomreach.com/en&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bloomreach is a &lt;strong&gt;CDP platform designed specifically for the E-commerce industry&lt;/strong&gt;. It is part of the Bloomreach Engagement Module and supports businesses with scalability and customization, helping save time and cost in integrations. Key strengths of Bloomreach include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deep expertise in E-commerce&lt;/strong&gt;, making it easy for marketers and other professionals in the field to quickly adapt. Bloomreach also integrates with over &lt;strong&gt;130+ leading E-commerce platforms&lt;/strong&gt;, accelerating data integration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Full control over data retention periods&lt;/strong&gt;, giving businesses flexibility compared to other CDP platforms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Specialized reporting&lt;/strong&gt; tailored for E-commerce use cases such as Retention, Cohort Analysis, &amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pricing model based on number of messages sent (Email, Push)&lt;/strong&gt; instead of user usage thresholds like many other CDPs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;You can see more reviews of Bloomreach on G2 [here].&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;CDP Software &amp;ndash; Segment&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://segment.com/customer-data-platform/"&gt;https://segment.com/customer-data-platform/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Segment was one of the &lt;strong&gt;most popular CDP providers globally&lt;/strong&gt;, before being acquired by Twilio in 2020, while retaining the product name &amp;ldquo;Segment.&amp;rdquo; Segment integrates with numerous marketing tools, customer support platforms, data warehouses, and can also be connected with Twilio&amp;rsquo;s own product, &lt;strong&gt;Twilio Engage&lt;/strong&gt;, to help enterprises build SMS and Email campaigns based on unified customer data. Key strengths include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Easy setup and integration&lt;/strong&gt;, fast platform loading time, and robust reverse ETL (Extract&amp;ndash;Transform&amp;ndash;Load) capabilities, helping marketers identify key customer events across multiple channels with ease.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Efficient user data segmentation&lt;/strong&gt;, allowing marketers to create customer segments faster compared to other CDP platforms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;User-friendly interface and knowledge library&lt;/strong&gt;, making it easy for marketers to learn and operate the system quickly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;You can see more reviews of Segment CDP on G2 [here].&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;These are the &lt;strong&gt;Top 5 CDP platforms&lt;/strong&gt; widely used by businesses worldwide. If you want to learn more about &lt;strong&gt;CDP &amp;ndash; Customer Data Platforms&lt;/strong&gt; or need consultation on &lt;strong&gt;Marketing Automation operations&lt;/strong&gt;, please contact DTSVN [here].&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-11T03:46:53.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:46:52.504Z</createdDate>
+	<createdDate_dt>2025-08-28T03:46:52.504Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:46:52.504Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:46:52.504Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

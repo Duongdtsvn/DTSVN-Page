@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2308</objectGroupId>
+	<objectId>23088fe3-1c43-d05e-5e91-d8c857015f07</objectId>
+	<file-name>23088fe3-1c43-d05e-5e91-d8c857015f07.xml</file-name>
+	<folder-name/>
+	<internal-name>kết quả khóa học en</internal-name>
+	<orientation_s>What results will you get after completing the Bus</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s/>
+	<text_s>Better understanding of banking operations and related processes.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Mastering data analysis and evaluation skills, helping you make accurate and effective decisions.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Enhance your ability to interact and communicate with stakeholders in the banking industry.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Improve your ability to manage projects and implement projects related to the banking industry.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Have opportunities to advance in your career and increase your income in the industry.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Be updated with the latest knowledge about technology and trends in the banking industry.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-08T07:22:28.368Z</createdDate>
+	<createdDate_dt>2025-07-08T07:22:28.368Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T07:22:28.368Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T07:22:28.368Z</lastModifiedDate_dt>
+</component>

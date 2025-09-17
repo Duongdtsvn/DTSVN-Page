@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5875</objectGroupId>
+	<objectId>5875da06-5b05-e574-fcae-da29d5c098d4</objectId>
+	<internal-name>Tác động của Ví điện tử đến Ngân hàng truyền thống và tổ chức tài chính </internal-name>
+	<navLabel>Tác động của Ví điện tử đến Ngân hàng truyền thống và tổ chức tài chính</navLabel>
+	<title_vi_s>Tác động của Ví điện tử đến Ngân hàng truyền thống và tổ chức tài chính</title_vi_s>
+	<title_en_s> The Impact of Digital Wallets on Traditional Banking and Financial Institutions</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>5875da06-5b05-e574-fcae-da29d5c098d4</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/ngan-hang-va-fintech-163498915007669328504-0-83-1127-1886-crop-16349891667591059928204.jpeg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;V&amp;iacute; điện tử mang đến một sự thay đổi to&amp;agrave;n diện trong c&amp;aacute;ch mọi người quản l&amp;yacute; t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; kinh doanh.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; Ng&amp;acirc;n h&amp;agrave;ng truyền thống đ&amp;atilde; bị ảnh hưởng đ&amp;aacute;ng kể bởi v&amp;iacute; điện tử. Khả năng tiếp cận, bảo mật v&amp;agrave; thuận tiện m&amp;agrave; v&amp;iacute; điện tử cung cấp đ&amp;atilde; thay đổi kỳ vọng v&amp;agrave; h&amp;agrave;nh vi của nhiều người ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;An to&amp;agrave;n v&amp;agrave; thuận tiện&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc d&amp;ugrave;ng v&amp;iacute; điện tử tr&amp;ecirc;n điện thoại th&amp;ocirc;ng minh mang lại nhiều lợi &amp;iacute;ch. Mọi người c&amp;oacute; thể thanh to&amp;aacute;n, chuyển tiền v&amp;agrave; quản l&amp;yacute; t&amp;agrave;i ch&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n một c&amp;aacute;ch dễ d&amp;agrave;ng m&amp;agrave; kh&amp;ocirc;ng cần d&amp;ugrave;ng đến thẻ vật l&amp;yacute;, tiền mặt hoặc c&amp;aacute;c ứng dụng Ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trước đ&amp;acirc;y, khi d&amp;ugrave;ng Ng&amp;acirc;n h&amp;agrave;ng truyền thống, kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể phải đến c&amp;aacute;c chi nh&amp;aacute;nh trong giờ h&amp;agrave;nh ch&amp;iacute;nh, điều n&amp;agrave;y g&amp;acirc;y bất tiện v&amp;agrave; mất thời gian. Sử dụng v&amp;iacute; điện tử đ&amp;atilde; khắc phục hạn chế tr&amp;ecirc;n bằng c&amp;aacute;ch cung cấp khả năng truy cập 24/7 v&amp;agrave; tiến h&amp;agrave;nh c&amp;aacute;c giao dịch li&amp;ecirc;n tục.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bảo mật&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; điện tử đ&amp;atilde; t&amp;iacute;ch hợp c&amp;aacute;c t&amp;iacute;nh năng bảo mật cao nhằm bảo vệ dữ liệu t&amp;agrave;i ch&amp;iacute;nh của người d&amp;ugrave;ng bằng c&amp;aacute;ch sử dụng c&amp;ocirc;ng nghệ m&amp;atilde; h&amp;oacute;a, x&amp;aacute;c thực sinh trắc học v&amp;agrave; m&amp;atilde; th&amp;ocirc;ng b&amp;aacute;o. Điều n&amp;agrave;y gi&amp;uacute;p giảm thiểu nguy cơ gian lận v&amp;agrave; đ&amp;aacute;nh cắp danh t&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;So với phương thức thanh to&amp;aacute;n truyền thống như thẻ t&amp;iacute;n dụng, v&amp;iacute; điện tử tạo niềm tin cho kh&amp;aacute;ch h&amp;agrave;ng bằng việc t&amp;iacute;ch hợp c&amp;aacute;c biện ph&amp;aacute;p tăng cường bảo mật, từ đ&amp;oacute; th&amp;uacute;c đẩy số lượng người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kh&amp;ocirc;ng qua trung gian (Disintermediation)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi d&amp;ugrave;ng v&amp;iacute; điện tử, kh&amp;aacute;ch h&amp;agrave;ng &amp;ldquo;kh&amp;ocirc;ng qua trung gian&amp;rdquo; m&amp;agrave; tiếp cận trực tiếp với doanh nghiệp hoặc nh&amp;agrave; cung cấp dịch vụ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;aacute;ch h&amp;agrave;ng kh&amp;ocirc;ng cần th&amp;ocirc;ng qua Ng&amp;acirc;n h&amp;agrave;ng để giao dịch. V&amp;igrave; vậy, để duy tr&amp;igrave; sức cạnh tranh, Ng&amp;acirc;n h&amp;agrave;ng phải thay đổi c&amp;aacute;c dịch vụ v&amp;agrave; sản phẩm của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kỳ vọng của kh&amp;aacute;ch h&amp;agrave;ng đang thay đổi&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kỳ vọng của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave;o Ng&amp;acirc;n h&amp;agrave;ng truyền thống ng&amp;agrave;y c&amp;agrave;ng cao hơn. Giống như khi d&amp;ugrave;ng v&amp;iacute; điện tử, kh&amp;aacute;ch h&amp;agrave;ng mong muốn c&amp;aacute;c giao dịch với Ng&amp;acirc;n h&amp;agrave;ng nhanh ch&amp;oacute;ng, thuận tiện, trải nghiệm mượt m&amp;agrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh cần cải thiện khả năng số h&amp;oacute;a, tối ưu quy tr&amp;igrave;nh v&amp;agrave; cung cấp c&amp;aacute;c dịch vụ ti&amp;ecirc;n tiến đ&amp;aacute;p ứng những thay đổi. Để giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng, nhiều Ng&amp;acirc;n h&amp;agrave;ng truyền thống đ&amp;atilde; t&amp;iacute;ch hợp v&amp;iacute; điện tử v&amp;agrave;o ứng dụng ng&amp;acirc;n h&amp;agrave;ng di động (mobile banking).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thị trường mới nổi v&amp;agrave; ứng dụng t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ở c&amp;aacute;c nước đang ph&amp;aacute;t triển c&amp;oacute; những hạn chế nhất định khi d&amp;ugrave;ng c&amp;aacute;c dịch vụ tại Ng&amp;acirc;n h&amp;agrave;ng truyền thống. V&amp;igrave; vậy, v&amp;iacute; điện tử c&amp;oacute; tiềm năng th&amp;uacute;c đẩy t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện bao gồm thanh to&amp;aacute;n, chuyển khoản v&amp;agrave; tiết kiệm chỉ bằng điện thoại th&amp;ocirc;ng minh v&amp;agrave; kết nối internet.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;So với c&amp;aacute;c phương thức chuyển tiền th&amp;ocirc;ng thường, d&amp;ugrave;ng v&amp;iacute; điện tử để gửi v&amp;agrave; nhận tiền quốc tế thường mất ph&amp;iacute; &amp;iacute;t hơn. Nắm bắt cơ hội n&amp;agrave;y, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể tiếp cận v&amp;agrave; ph&amp;aacute;t triển tập kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; dữ liệu&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một lượng lớn dữ liệu giao dịch được tạo ra bởi v&amp;iacute; điện tử v&amp;agrave; dữ liệu n&amp;agrave;y c&amp;oacute; thể được sử dụng để mang đến những hiểu biết quan trọng về h&amp;agrave;nh vi, c&amp;aacute;ch chi ti&amp;ecirc;u v&amp;agrave; sở th&amp;iacute;ch của người ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sử dụng dữ liệu n&amp;agrave;y gi&amp;uacute;p cải thiện trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng, điều chỉnh dịch vụ v&amp;agrave; đưa ra c&amp;aacute;c ưu đ&amp;atilde;i. Nhờ ph&amp;acirc;n t&amp;iacute;ch dữ liệu, Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể hiểu r&amp;otilde; hơn nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; cung cấp những ưu đ&amp;atilde;i ph&amp;ugrave; hợp cho họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dưới ảnh hưởng của v&amp;iacute; điện tử, c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng cũng đang t&amp;iacute;ch cực chuyển đổi số, đầu tư c&amp;ocirc;ng nghệ để th&amp;iacute;ch ứng với những thay đổi. C&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể chấp nhận v&amp;agrave; đưa v&amp;iacute; điện tử v&amp;agrave;o sử dụng rộng r&amp;atilde;i hơn bằng c&amp;aacute;ch n&amp;acirc;ng cao nhận thức của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; đưa ra c&amp;aacute;c quy tắc r&amp;otilde; r&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ugrave;ng với đ&amp;oacute;, Ng&amp;acirc;n h&amp;agrave;ng cũng cần tăng cường c&amp;aacute;c giao thức bảo mật, ưu ti&amp;ecirc;n trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng, sử dụng ph&amp;acirc;n t&amp;iacute;ch dữ liệu, th&amp;uacute;c đẩy hợp t&amp;aacute;c v&amp;agrave; th&amp;ocirc;ng b&amp;aacute;o cho kh&amp;aacute;ch h&amp;agrave;ng về những lợi &amp;iacute;ch của v&amp;iacute; điện tử.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: financemagnates&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam, gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&lt;a href="https://dtsvn.net/contact-us"&gt;&amp;nbsp;tại đ&amp;acirc;y&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In the financial sector, digital wallets have become a game-changer, completely changing how people manage their money and conduct business. The significant effects of digital wallets on conventional banking and financial institutions are examined in this article.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;We explore the revolutionary implications of digital wallets, and how they are changing the landscape of financial services, from improved convenience and security to more competition and changing client expectations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Reliability and Convenience&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Users of digital wallets benefit from unmatched accessibility and convenience. People may make payments, transfer money, and manage their finances anytime, anyplace with only a few clicks on their smartphones. There is no longer a need for real cards, cash, or different banking apps thanks to this degree of simplicity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Customers of traditional banking services frequently have to visit physical branches during a limited number of business hours, which is inconvenient and takes time. These obstacles are broken by digital wallets, which provide 24/7 accessibility and seamless transactions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Protection from Fraud and Security&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Advanced security features are included in digital wallets to safeguard users' financial data. They protect sensitive data using encryption technology, biometric authentication, and tokenization, which lowers the risk of fraud and identity theft.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In comparison, there is a higher danger of theft or illegal use with physical wallets and conventional payment methods like credit cards. Users' trust is increased as a result of the additional security offered by digital wallets, which promotes their acceptance and usage.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Competition and Disintermediation&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Disintermediation is a concept that is introduced by digital wallets, which cut out traditional financial channels and put customers in direct contact with businesses or service providers. Traditional financial institutions are faced with a serious challenge as a result of this disintermediation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks run the risk of losing their position as the main interface for client transactions as customers turn more and more to digital wallets for their financial needs. Due to the growing rivalry between traditional banks and suppliers of digital wallets as a result of this transformation, banks were forced to modify their services and product lines in order to stay competitive.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Customer Expectations Are Changing&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Customer expectations have been raised&amp;nbsp;as a result of digital wallets. Users today want the same degree of speed and convenience from their traditional banking interactions as they have come to expect from smooth user experiences, fast transactions, and tailored services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions must improve their digital capabilities, streamline procedures, and offer cutting-edge services to match these changing demands. To remain relevant and keep their customer base, traditional banks are integrating digital wallet functions into their own mobile banking apps.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Emerging Markets and Financial Inclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Particularly in developing countries with limited access to traditional banking services, digital wallets have the potential to promote financial inclusion. Individuals in remote locations can access basic financial services including payments, transfers, and savings with just a smartphone and an internet connection.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;When compared to conventional remittance routes, digital wallets are much more affordable for users to utilize to send and receive money internationally. Financial institutions have a new opportunity to reach underprivileged areas and grow their customer base as a result of this inclusion.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Will the Unbanked Ever Need Banks Again?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The rise of digital wallets has sparked a transformative revolution in the financial industry, challenging the traditional notion of banking as a necessity. As these digital payment platforms gain popularity and provide unprecedented financial access to the unbanked, a pertinent question arises: Will the unbanked ever need banks again?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Leveraging the widespread availability of smartphones and internet connectivity, digital wallets offer a range of financial services, effectively bridging the gap between the unbanked and the formal banking sector.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For the unbanked, who traditionally face obstacles such as limited access to physical bank branches, high transaction fees, and onerous documentation requirements, digital wallets have become a game changer. These individuals can now participate in the digital economy and access essential financial services without ever needing to establish a formal banking relationship.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One of the key advantages of digital wallets for the unbanked is the ease of adoption. Setting up a digital wallet account typically requires minimal personal information, enabling individuals without formal identification or documentation to participate in financial transactions. With just a smartphone and internet access, the unbanked can perform various financial activities such as making payments, receiving remittances, and even accessing credit or insurance services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Moreover, digital wallets offer unparalleled convenience, often surpassing the capabilities of traditional banking services. These platforms facilitate instant peer-to-peer transfers, enable cashless payments for goods and services both online and offline, and provide user-friendly interfaces for managing personal finances. The simplicity and accessibility of digital wallets resonate particularly strongly with the younger generation and tech-savvy individuals who prioritize efficiency and flexibility in their financial interactions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As digital wallets continue to evolve and expand their service offerings, they are becoming comprehensive financial ecosystems in their own right. Many digital wallets now offer features such as bill payments, budgeting tools, investment options, and loyalty programs. These additional services enhance the value proposition for the unbanked, further reducing their reliance on traditional banks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, it is important to note that while digital wallets provide remarkable benefits, they are not a complete replacement for traditional banking services, for now. There are still certain financial needs that may require a banking relationship, such as obtaining loans for large-scale investments or participating in more complex financial transactions. Additionally, the regulatory oversight and consumer protections provided by banks offer a level of security that may be crucial in certain situations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nevertheless, the rapid advancement of technology and the continuous evolution of digital wallets present a plausible future where the unbanked may no longer need banks at all. As digital wallets gain widespread acceptance and their functionalities expand, it is conceivable that individuals will be able to meet their financial needs entirely within these digital ecosystems.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Personalization and Data Insights&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;An enormous quantity of transactional data is produced by digital wallets, and this data can be used to get important insights into consumer behavior, spending patterns, and preferences.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions can use this data to improve client experiences, tailor services, and deliver targeted incentives. Banks can better understand their clients' demands and hone their offers by utilizing data analytics and machine learning.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The way people conduct business and manage their finances has changed as a result of the disruption caused by digital wallets in traditional banking and financial institutions. Digital wallets' ease of use, accessibility, and security have altered client expectations and put traditional banking methods to the test.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, by strengthening their digital capabilities, embracing innovation, and utilizing data insights to offer seamless and customized experiences, financial institutions can adjust to these developments. Traditional Users can continue to advance by embracing the transformational potential of digital wallets.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In the changing financial services industry, banks and other financial institutions can maintain their competitiveness.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It is clear that traditional banking and financial institutions have been significantly impacted by digital wallets. The accessibility, security, and convenience they provide have altered consumer expectations and behavior. Financial institutions must embrace digital transformation, make technology investments, and put their customers' needs first in order to adapt to these changes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks and financial organizations should think about the following tactics to prosper in this new era:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;In order to offer their own digital wallet solutions or to interact with already-existing ones, traditional banks should invest in digital technology and infrastructure. They can satisfy client expectations and compete with independent digital wallet providers by offering a smooth digital experience.&lt;/li&gt;
+&lt;li&gt;Enhance Security Measures: Financial institutions should give strong security measures top priority in order to safeguard consumer information and transactions. To preserve client trust, this also entails two-factor authentication, enhanced encryption, and ongoing security threat monitoring.&lt;/li&gt;
+&lt;li&gt;Emphasize Customer Experience: Banks should put a strong emphasis on offering great customer service at all points of contact, both online and offline. In order to meet and exceed the expectations of the consumer, this includes user-friendly interfaces, individualized recommendations, and proactive customer assistance.&lt;/li&gt;
+&lt;li&gt;Utilize Data Analytics: Financial institutions should make use of the copious amounts of data created by digital wallets to learn more about the tastes and behaviors of their customers. They can provide individualized services and targeted marketing by utilizing data analytics and machine learning, increasing consumer happiness and loyalty.&lt;/li&gt;
+&lt;li&gt;Foster Collaboration: To make use of fintech startups' knowledge and cutting-edge solutions, traditional banks might investigate joint ventures and collaborations with them. This partnership can stimulate growth for both parties and aid banks in maintaining their competitiveness in the continually changing digital environment.&lt;/li&gt;
+&lt;li&gt;Financial institutions should inform their clients of the features, advantages, and safety precautions of digital wallets. Banks can support wider acceptance and usage of digital wallets among their client base by raising awareness and offering clear rules.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Traditional banking and financial institutions have been significantly impacted by digital wallets. They have elevated accessibility, security, and convenience to the top of the list of client expectations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks must embrace digital transformation, strengthen security protocols, prioritize customer experience, use data analytics, promote collaboration, and inform customers about the advantages of digital wallets if they want to stay relevant and competitive. Traditional banks may successfully traverse the changing financial landscape and continue to serve their clients' requirements in the digital era by embracing these developments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: &amp;nbsp;financemagnates&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Collected by the author&amp;nbsp; DTSVN team - Digital transformation solutions for the Finance - Banking&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking field in Vietnam; helping banks and financial institutions quickly complete the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now and experience our significant software solution here.&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-06-30T07:28:24.000Z</time_create_dt>
+	<createdDate>2025-08-25T07:28:20.611Z</createdDate>
+	<createdDate_dt>2025-08-25T07:28:20.611Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T07:28:20.611Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T07:28:20.611Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

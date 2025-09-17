@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-partner-dtsvn</content-type>
+	<display-template>/templates/web/Component-partner-dtsvn.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5751</objectGroupId>
+	<objectId>5751910d-a8c2-e3cf-52ae-566eb69749cc</objectId>
+	<file-name>5751910d-a8c2-e3cf-52ae-566eb69749cc.xml</file-name>
+	<folder-name/>
+	<internal-name>thành viên en</internal-name>
+	<title_s/>
+	<createdDate>2025-07-10T11:38:00.648Z</createdDate>
+	<createdDate_dt>2025-07-10T11:38:00.648Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T11:38:00.648Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T11:38:00.648Z</lastModifiedDate_dt>
+</component>

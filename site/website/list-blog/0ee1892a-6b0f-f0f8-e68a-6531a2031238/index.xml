@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0ee1</objectGroupId>
+	<objectId>0ee1892a-6b0f-f0f8-e68a-6531a2031238</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>0ee1892a-6b0f-f0f8-e68a-6531a2031238</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Tối ưu trải nghiệm người dùng: 5 nguyên tắc UX cho ứng dụng mobile banking</internal-name>
+	<navLabel>Tối ưu trải nghiệm người dùng: 5 nguyên tắc UX cho ứng dụng mobile banking</navLabel>
+	<title_vi_s>Tối ưu trải nghiệm người dùng: 5 nguyên tắc UX cho ứng dụng mobile banking</title_vi_s>
+	<title_en_s>Optimizing User Experience: 5 UX Principles for Mobile Banking Apps</title_en_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/toi-uu-hoa-ux.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Với sự b&amp;ugrave;ng nổ của dịch vụ ng&amp;acirc;n h&amp;agrave;ng di động (mobile banking) trong những năm gần đ&amp;acirc;y, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; cơ hội đặc biệt để t&amp;aacute;i định h&amp;igrave;nh trải nghiệm người d&amp;ugrave;ng di động, mang lại cho kh&amp;aacute;ch h&amp;agrave;ng nhiều tiện &amp;iacute;ch đột ph&amp;aacute; v&amp;agrave; những trải nghiệm s&amp;aacute;ng tạo, đ&amp;aacute;ng nhớ. Điện thoại th&amp;ocirc;ng minh l&amp;agrave; thiết bị ti&amp;ecirc;u biểu cho cuộc c&amp;aacute;ch mạng UX đang diễn ra.&amp;nbsp; &lt;img&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Một ứng dụng ng&amp;acirc;n h&amp;agrave;ng được thiết kế tối ưu về mặt UX sẽ thu h&amp;uacute;t ng&amp;agrave;y c&amp;agrave;ng nhiều kh&amp;aacute;ch h&amp;agrave;ng đến với c&amp;aacute;ch thức giao dịch tiện lợi hơn. Ngược lại, thậm ch&amp;iacute; những lỗi nhỏ về thiết kế hay khả năng sử dụng cũng c&amp;oacute; thể ảnh hưởng nghi&amp;ecirc;m trọng đến niềm tin của người ti&amp;ecirc;u d&amp;ugrave;ng v&amp;agrave;o ứng dụng ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong năm 2024, khi xu hướng ưu ti&amp;ecirc;n di động ng&amp;agrave;y c&amp;agrave;ng ph&amp;aacute;t triển, ch&amp;uacute;ng ta sẽ chứng kiến nhiều cải tiến ti&amp;ecirc;n phong trong UX khi c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng mở rộng trải nghiệm đa k&amp;ecirc;nh v&amp;agrave; biến ứng dụng th&amp;agrave;nh hệ sinh th&amp;aacute;i cung cấp nhiều gi&amp;aacute; trị hơn chỉ l&amp;agrave; c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh. Dưới đ&amp;acirc;y l&amp;agrave; một số nguy&amp;ecirc;n tắc li&amp;ecirc;n quan đến trải nghiệm người d&amp;ugrave;ng của c&amp;aacute;c ứng dụng ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể gi&amp;uacute;p c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh cung cấp một m&amp;ocirc;i trường an to&amp;agrave;n, bảo mật v&amp;agrave; hấp dẫn cho kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5 thiết kế UX lấy người d&amp;ugrave;ng l&amp;agrave;m trung t&amp;acirc;m để n&amp;acirc;ng cao ứng dụng ng&amp;acirc;n h&amp;agrave;ng di động&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc x&amp;aacute;c định c&amp;aacute;c điểm chạm của trải nghiệm người d&amp;ugrave;ng c&amp;oacute; thể được cải thiện v&amp;agrave; tối ưu h&amp;oacute;a l&amp;agrave; v&amp;ocirc; c&amp;ugrave;ng quan trọng. Đồng thời, việc thiết kế giao diện trực quan, dễ sử dụng sẽ gi&amp;uacute;p đơn giản h&amp;oacute;a những quy tr&amp;igrave;nh ng&amp;acirc;n h&amp;agrave;ng phức tạp, giảm thiểu số bước cần thiết để ho&amp;agrave;n tất c&amp;aacute;c t&amp;aacute;c vụ th&amp;ocirc;ng thường như đăng k&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng, chuyển tiền hay thanh to&amp;aacute;n h&amp;oacute;a đơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Sự đơn giản v&amp;agrave; r&amp;otilde; r&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng thể phủ nhận tầm quan trọng của c&amp;aacute;c giao diện trực quan v&amp;agrave; đơn giản. Với sự phức tạp của c&amp;aacute;c giao dịch t&amp;agrave;i ch&amp;iacute;nh, việc tr&amp;igrave;nh b&amp;agrave;y th&amp;ocirc;ng tin một c&amp;aacute;ch r&amp;otilde; r&amp;agrave;ng v&amp;agrave; dễ hiểu gi&amp;uacute;p hạn chế việc g&amp;acirc;y nhầm lẫn hay thất vọng cho người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để tạo ra một giải ph&amp;aacute;p ng&amp;acirc;n h&amp;agrave;ng số thực sự to&amp;agrave;n diện, điều cần thiết l&amp;agrave; phải ưu ti&amp;ecirc;n khả năng truy cập cho tất cả người d&amp;ugrave;ng v&amp;agrave; kết hợp c&amp;aacute;c yếu tố thiết kế phục vụ cho nhiều đối tượng người d&amp;ugrave;ng, bao gồm những c&amp;aacute; nh&amp;acirc;n ở c&amp;aacute;c nh&amp;oacute;m tuổi kh&amp;aacute;c nhau v&amp;agrave; tr&amp;igrave;nh độ hiểu biết về c&amp;ocirc;ng nghệ kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Bảo mật v&amp;agrave; tin cậy&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ứng dụng ng&amp;acirc;n h&amp;agrave;ng xử l&amp;yacute; rất nhiều th&amp;ocirc;ng tin t&amp;agrave;i ch&amp;iacute;nh nhạy cảm, đ&amp;oacute; l&amp;agrave; l&amp;yacute; do tại sao thiết kế tổng thể phải tập trung v&amp;agrave;o việc tạo ra c&amp;aacute;c giao diện truyền đạt cảm gi&amp;aacute;c an to&amp;agrave;n v&amp;agrave; tin cậy. Mặc d&amp;ugrave; ng&amp;acirc;n h&amp;agrave;ng phải lu&amp;ocirc;n ưu ti&amp;ecirc;n c&amp;aacute;c ti&amp;ecirc;u chuẩn bảo mật , nhưng sở th&amp;iacute;ch của người d&amp;ugrave;ng phải được xem x&amp;eacute;t khi cung cấp c&amp;aacute;c t&amp;iacute;nh năng bảo mật m&amp;agrave; kh&amp;ocirc;ng ảnh hưởng đến khả năng sử dụng. Bằng c&amp;aacute;ch hợp t&amp;aacute;c với nh&amp;agrave; cung cấp ph&amp;ugrave; hợp, ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể dễ d&amp;agrave;ng đạt được điều n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc triển khai những trải nghiệm được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, ph&amp;ugrave; hợp với sở th&amp;iacute;ch v&amp;agrave; h&amp;agrave;nh vi ri&amp;ecirc;ng biệt của từng người d&amp;ugrave;ng, gi&amp;uacute;p gia tăng mức độ tương t&amp;aacute;c v&amp;agrave; tạo ra những trải nghiệm ng&amp;acirc;n h&amp;agrave;ng di động kh&amp;ocirc;ng chỉ th&amp;uacute; vị m&amp;agrave; c&amp;ograve;n c&amp;oacute; &amp;yacute; nghĩa đối với người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một nh&amp;agrave; cung cấp dịch vụ ng&amp;acirc;n h&amp;agrave;ng cho ph&amp;eacute;p c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm ng&amp;acirc;n h&amp;agrave;ng, từ việc điều chỉnh c&amp;aacute;c c&amp;agrave;i đặt như th&amp;ocirc;ng b&amp;aacute;o, giao diện người d&amp;ugrave;ng, ảnh đại diện, cho đến việc t&amp;ugrave;y biến c&amp;aacute;c tiện &amp;iacute;ch tr&amp;ecirc;n bảng điều khiển v&amp;agrave; c&amp;aacute;c giao dịch y&amp;ecirc;u th&amp;iacute;ch, sẽ gi&amp;uacute;p người d&amp;ugrave;ng dễ d&amp;agrave;ng trải nghiệm ứng dụng theo đ&amp;uacute;ng nhu cầu v&amp;agrave; sở th&amp;iacute;ch của m&amp;igrave;nh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Qu&amp;aacute; tr&amp;igrave;nh t&amp;iacute;ch hợp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đơn giản h&amp;oacute;a quy tr&amp;igrave;nh hướng dẫn l&amp;agrave; yếu tố quan trọng h&amp;agrave;ng đầu đối với c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh, v&amp;igrave; n&amp;oacute; tạo nền tảng vững chắc cho một trải nghiệm người d&amp;ugrave;ng mượt m&amp;agrave; v&amp;agrave; c&amp;oacute; thể th&amp;uacute;c đẩy việc thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng. Trải nghiệm người d&amp;ugrave;ng của ứng dụng c&amp;oacute; thể quyết định sự th&amp;agrave;nh c&amp;ocirc;ng hay thất bại của ứng dụng, v&amp;igrave; vậy việc tạo ấn tượng mạnh mẽ ngay từ lần tiếp x&amp;uacute;c đầu ti&amp;ecirc;n với người d&amp;ugrave;ng l&amp;agrave; điều m&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng cần đặc biệt quan t&amp;acirc;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để tối ưu h&amp;oacute;a trải nghiệm t&amp;iacute;ch hợp, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh n&amp;ecirc;n đơn giản h&amp;oacute;a quy tr&amp;igrave;nh v&amp;agrave; thực hiện ch&amp;uacute;ng một c&amp;aacute;ch nhanh ch&amp;oacute;ng bằng c&amp;aacute;ch &amp;aacute;p dụng c&amp;aacute;c quy tr&amp;igrave;nh KYC tự động, x&amp;aacute;c minh ID v&amp;agrave; chỉ y&amp;ecirc;u cầu dữ liệu cần thiết, gi&amp;uacute;p giảm thiểu tỷ lệ tho&amp;aacute;t. Đồng thời, việc t&amp;iacute;ch hợp c&amp;ocirc;ng nghệ nh&amp;acirc;n bản để cung cấp quyền truy cập nhanh ch&amp;oacute;ng v&amp;agrave;o hỗ trợ con người qua tr&amp;ograve; chuyện hoặc cuộc gọi thoại khi cần cũng l&amp;agrave; yếu tố kh&amp;ocirc;ng thể bỏ qua.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Trải nghiệm liền mạch&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi kh&amp;aacute;ch h&amp;agrave;ng ng&amp;agrave;y c&amp;agrave;ng tiếp cận c&amp;aacute;c dịch vụ ng&amp;acirc;n h&amp;agrave;ng th&amp;ocirc;ng qua nhiều thiết bị kh&amp;aacute;c nhau, điều quan trọng l&amp;agrave; phải cung cấp trải nghiệm đồng bộ v&amp;agrave; nhất qu&amp;aacute;n tr&amp;ecirc;n nhiều k&amp;ecirc;nh kỹ thuật số v&amp;agrave; ph&amp;ograve;ng giao dịch truyền thống, đảm bảo rằng mỗi k&amp;ecirc;nh bổ sung cho nhau v&amp;agrave; lu&amp;ocirc;n sẵn s&amp;agrave;ng đ&amp;aacute;p ứng nhu cầu ri&amp;ecirc;ng biệt của từng người d&amp;ugrave;ng tại bất kỳ thời điểm n&amp;agrave;o.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Vai tr&amp;ograve; quan trọng của UX trong ng&amp;acirc;n h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo nghi&amp;ecirc;n cứu của SLD trong b&amp;aacute;o c&amp;aacute;o "Tương lai của dịch vụ ng&amp;acirc;n h&amp;agrave;ng liền mạch", 50% c&amp;aacute;c k&amp;ecirc;nh ch&amp;iacute;nh tr&amp;ecirc;n thị trường sẽ chuyển sang nền tảng di động v&amp;agrave;o năm 2025. Đ&amp;acirc;y ch&amp;iacute;nh l&amp;agrave; cơ hội để c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng tập trung v&amp;agrave;o trải nghiệm người d&amp;ugrave;ng (UX), kh&amp;ocirc;ng chỉ giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng hiện tại m&amp;agrave; c&amp;ograve;n thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng mới. Thiết kế trực quan đ&amp;oacute;ng vai tr&amp;ograve; then chốt trong việc duy tr&amp;igrave; sự trung th&amp;agrave;nh của kh&amp;aacute;ch h&amp;agrave;ng. Khi c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ kỹ thuật số th&amp;acirc;n thiện với người d&amp;ugrave;ng, ch&amp;uacute;ng sẽ n&amp;acirc;ng cao sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; th&amp;uacute;c đẩy l&amp;ograve;ng trung th&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;igrave;a kh&amp;oacute;a để th&amp;uacute;c đẩy sự tham gia của người d&amp;ugrave;ng v&amp;agrave;o ứng dụng ng&amp;acirc;n h&amp;agrave;ng nằm ở sự sắp xếp kh&amp;eacute;o l&amp;eacute;o của trải nghiệm người d&amp;ugrave;ng hợp l&amp;yacute; v&amp;agrave; hấp dẫn. Bằng c&amp;aacute;ch x&amp;acirc;y dựng một h&amp;agrave;nh tr&amp;igrave;nh trực quan v&amp;agrave; tạo ra một kh&amp;ocirc;ng gian số th&amp;acirc;n thiện, được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a theo nhu cầu v&amp;agrave; sở th&amp;iacute;ch của người d&amp;ugrave;ng, ứng dụng c&amp;oacute; thể vượt qua chức năng đơn thuần để trở th&amp;agrave;nh một điểm đến đầy l&amp;ocirc;i cuốn. Chưa kể đến t&amp;iacute;nh nhất qu&amp;aacute;n trong thiết kế v&amp;agrave; cam kết cải tiến li&amp;ecirc;n tục th&amp;ocirc;ng qua phản hồi của người d&amp;ugrave;ng cũng c&amp;oacute; thể tinh chỉnh v&amp;agrave; n&amp;acirc;ng cao UX hơn nữa.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: ebanKIT&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;With the explosion of mobile banking in recent years, financial institutions have a unique opportunity to reimagine the mobile user experience, providing customers with breakthrough convenience and innovative, memorable experiences. Smartphones are the poster child for this ongoing UX revolution.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;A well-designed banking app with optimized UX will attract more and more customers to a more convenient way of transacting. On the contrary, even small design or usability flaws can seriously affect consumer trust in banking apps.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In 2024, as the mobile-first trend continues to grow, we will see more pioneering innovations in UX as banks expand their omnichannel experiences and turn their apps into ecosystems that provide more than just financial services. Here are some principles related to the user experience of banking apps that can help financial institutions provide a safe, secure, and engaging environment for their customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5 User-Centric UX Designs to Enhance Mobile Banking Apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It is important to identify the touch points of the user experience that can be improved and optimized. At the same time, designing an intuitive, easy-to-use interface will help simplify complex banking processes, reducing the number of steps required to complete common tasks such as customer registration, transferring funds, or paying bills.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Simplicity and clarity&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The importance of intuitive and simple interfaces cannot be overstated. Given the complexity of financial transactions, presenting information in a clear and understandable manner helps to limit confusion or frustration for users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To create a truly inclusive digital banking solution, it is essential to prioritize accessibility for all users and incorporate design elements that cater to a wide range of users, including individuals of different age groups and levels of technological understanding.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Security and Trust&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banking apps handle a lot of sensitive financial information, which is why the overall design must focus on creating interfaces that convey a sense of security and trust. While banks should always prioritize security standards, user preferences must be considered when providing security features without compromising usability. By partnering with the right vendor, banks can easily achieve this.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Personalization&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Deploying personalized experiences that are tailored to each user&amp;rsquo;s unique preferences and behaviors increases engagement and creates mobile banking experiences that are not only enjoyable but also meaningful to users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A banking service provider that allows for personalization of the banking experience, from adjusting settings such as notifications, user interface, avatars, to customizing dashboard widgets and favorite transactions, will help users easily experience the application according to their needs and preferences.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Onboarding Process&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Simplifying the onboarding process is of utmost importance to financial institutions, as it lays a solid foundation for a smooth user experience and can drive customer acquisition. An app&amp;rsquo;s user experience can make or break an app, so making a strong first impression is something banks should pay special attention to.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To optimize the onboarding experience, financial institutions should simplify the process and execute it quickly by implementing automated KYC processes, ID verification, and only requesting necessary data, which helps minimize bounce rates. At the same time, integrating humanized technology to provide quick access to human support via chat or voice calls when needed is also a must.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Seamless Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As customers increasingly access banking services through multiple devices, it is important to provide a consistent and synchronized experience across digital channels and physical branches, ensuring that each channel complements the other and is always ready to meet the unique needs of each user at any given time.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The important role of UX in banking&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to SLD research in the report "The Future of Seamless Banking", 50% of the main channels in the market will be mobile by 2025. This is an opportunity for banks to focus on user experience (UX), not only to retain existing customers but also to attract new ones. Intuitive design plays a key role in maintaining customer loyalty. When digital products and services are user-friendly, they increase customer satisfaction and drive loyalty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The key to driving user engagement in banking applications lies in the clever arrangement of a reasonable and engaging user experience. By building an intuitive journey and creating a friendly digital space that is personalized to the needs and preferences of users, the application can go beyond mere functionality to become an engaging destination. Not to mention, consistency in design and a commitment to continuous improvement through user feedback can also further refine and enhance the UX.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Source: ebanKIT&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by the author team DTSVN - Digital transformation solution for the Finance - Banking industry.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitalization solutions exclusively for businesses in the Finance - Banking industry in Vietnam; helping Banks and financial institutions quickly complete their technology systems to serve Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-06-12T08:55:17.000Z</time_create_dt>
+	<createdDate>2025-08-25T08:55:16.481Z</createdDate>
+	<createdDate_dt>2025-08-25T08:55:16.481Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T08:55:16.481Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T08:55:16.481Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

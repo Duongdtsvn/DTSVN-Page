@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d224</objectGroupId>
+	<objectId>d224a89a-47e2-ab90-94d1-5237fc2cd60a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>d224a89a-47e2-ab90-94d1-5237fc2cd60a</folder-name>
+	<internal-name>Top 5 xu hướng Martech nổi bật doanh nghiệp không thể bỏ qua</internal-name>
+	<navLabel>Top 5 xu hướng Martech nổi bật doanh nghiệp không thể bỏ qua</navLabel>
+	<title_vi_s>Top 5 xu hướng Martech nổi bật doanh nghiệp không thể bỏ qua</title_vi_s>
+	<title_en_s>Top 5 outstanding Martech trends that businesses cannot ignore</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/thanhtoan.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Trong một thế giới m&amp;agrave; người ti&amp;ecirc;u d&amp;ugrave;ng ng&amp;agrave;y c&amp;agrave;ng đ&amp;ograve;i hỏi những trải nghiệm c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a cao, sự linh hoạt ch&amp;iacute;nh l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a th&amp;agrave;nh c&amp;ocirc;ng. Để tạo ra dấu ấn kh&amp;aacute;c biệt, c&amp;aacute;c thương hiệu cần nhanh nhạy nắm bắt v&amp;agrave; ứng dụng những c&amp;ocirc;ng nghệ mới nhất, từ t&amp;igrave;m kiếm bằng giọng n&amp;oacute;i đến c&amp;aacute;c xu hướng martech. Dự kiến nửa cuối năm 2024 v&amp;agrave; bước sang năm 2025, cuộc chơi sẽ c&amp;agrave;ng trở n&amp;ecirc;n khốc liệt hơn khi h&amp;agrave;nh vi người ti&amp;ecirc;u d&amp;ugrave;ng tiếp tục thay đổi.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Nội dung ngắn v&amp;agrave; sự hỗ trợ của AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong kỷ nguy&amp;ecirc;n m&amp;agrave; sự ch&amp;uacute; &amp;yacute; ngắn hơn cả một nh&amp;aacute;y mắt v&amp;agrave; Gen Z đang chiếm một lượng lớn trong thị trường ti&amp;ecirc;u d&amp;ugrave;ng, xu hướng mua h&amp;agrave;ng cũng kh&amp;aacute;c đi. Với thời gian trung b&amp;igrave;nh chỉ&amp;nbsp;1,3 gi&amp;acirc;y cho một quảng c&amp;aacute;o, sức mua khổng lồ của thế hệ n&amp;agrave;y đang đặt c&amp;aacute;c nh&amp;agrave; tiếp thị v&amp;agrave;o thế "chạy đua với thời gian".&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Video ngắn - cơn sốt lan truyền nhanh hơn cả meme! Những thước phim ngắn, hấp dẫn n&amp;agrave;y như một liều thuốc thần kỳ, thu h&amp;uacute;t sự ch&amp;uacute; &amp;yacute; của người d&amp;ugrave;ng một c&amp;aacute;ch hiệu quả. Sự chuyển m&amp;igrave;nh n&amp;agrave;y đ&amp;aacute;nh dấu một kỷ nguy&amp;ecirc;n mới: nội dung ngắn, s&amp;uacute;c t&amp;iacute;ch đang l&amp;ecirc;n ng&amp;ocirc;i. C&amp;aacute;c thương hiệu đang nhanh ch&amp;oacute;ng th&amp;iacute;ch nghi, tạo ra những chiến lược tiếp thị ph&amp;ugrave; hợp với thế hệ kh&amp;aacute;n giả lu&amp;ocirc;n "bận rộn".&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để nắm bắt cơ hội n&amp;agrave;y, Marketer cần:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Thu h&amp;uacute;t sự ch&amp;uacute; &amp;yacute;:&amp;nbsp;Quảng c&amp;aacute;o phải thực sự nổi bật, mang đến những trải nghiệm mới lạ hoặc quen thuộc nhưng đầy ấn tượng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Ngắn gọn, s&amp;uacute;c t&amp;iacute;ch:&amp;nbsp;Gần ⅔ người xem chỉ muốn những video dưới 1 ph&amp;uacute;t. H&amp;atilde;y tập trung v&amp;agrave;o những th&amp;ocirc;ng điệp ngắn gọn nhưng hiệu quả.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Sử dụng AI:&amp;nbsp;ChatGPT, Bard,.. sẽ l&amp;agrave; những trợ thủ đắc lực, gi&amp;uacute;p bạn tạo nội dung nhanh ch&amp;oacute;ng, chất lượng v&amp;agrave; ph&amp;ugrave; hợp với từng đối tượng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(4) C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a:&amp;nbsp;Tận dụng AI để ph&amp;acirc;n t&amp;iacute;ch h&amp;agrave;nh vi người d&amp;ugrave;ng v&amp;agrave; tạo ra nội dung c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, tăng tương t&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(5) Đ&amp;uacute;ng thời điểm:&amp;nbsp;L&amp;ecirc;n kế hoạch đăng b&amp;agrave;i hợp l&amp;yacute; để tr&amp;aacute;nh l&amp;agrave;m người d&amp;ugrave;ng cảm thấy qu&amp;aacute; tải.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Tối ưu h&amp;oacute;a trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng với chiến lược đa k&amp;ecirc;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc triển khai chiến lược đa k&amp;ecirc;nh kh&amp;ocirc;ng chỉ l&amp;agrave; xu hướng m&amp;agrave; c&amp;ograve;n l&amp;agrave; yếu tố quyết định sự th&amp;agrave;nh c&amp;ocirc;ng của doanh nghiệp trong kỷ nguy&amp;ecirc;n số. Bằng c&amp;aacute;ch tạo ra một trải nghiệm liền mạch v&amp;agrave; nhất qu&amp;aacute;n tr&amp;ecirc;n mọi touchpoint (điểm chạm), c&amp;aacute;c thương hiệu kh&amp;ocirc;ng chỉ gia tăng sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng m&amp;agrave; c&amp;ograve;n củng cố l&amp;ograve;ng trung th&amp;agrave;nh v&amp;agrave; th&amp;uacute;c đẩy doanh số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tại sao chiến lược đa k&amp;ecirc;nh lại quan trọng?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng liền mạch:&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;Kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể tương t&amp;aacute;c với thương hiệu bất kỳ l&amp;uacute;c n&amp;agrave;o, bất kỳ nơi đ&amp;acirc;u v&amp;agrave; tr&amp;ecirc;n bất kỳ thiết bị n&amp;agrave;o m&amp;agrave; họ muốn, m&amp;agrave; kh&amp;ocirc;ng gặp bất kỳ trở ngại n&amp;agrave;o.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tăng tương t&amp;aacute;c&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;:&lt;/em&gt;&amp;nbsp;T&amp;iacute;nh năng chat trực tiếp, chatbot AI v&amp;agrave; c&amp;aacute;c c&amp;ocirc;ng cụ tương t&amp;aacute;c kh&amp;aacute;c gi&amp;uacute;p doanh nghiệp phản hồi nhanh ch&amp;oacute;ng c&amp;aacute;c thắc mắc của kh&amp;aacute;ch h&amp;agrave;ng, tạo ra trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng tuyệt vời.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;N&amp;acirc;ng cao hiệu quả kinh doanh&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;:&lt;/em&gt;&amp;nbsp;C&amp;aacute;c nghi&amp;ecirc;n cứu cho thấy doanh nghiệp &amp;aacute;p dụng chiến lược đa k&amp;ecirc;nh hiệu quả c&amp;oacute; thể tăng doanh thu l&amp;ecirc;n đến 9,5% v&amp;agrave; giảm chi ph&amp;iacute; mỗi lần li&amp;ecirc;n hệ tới 7,5%.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Muốn kh&amp;aacute;ch h&amp;agrave;ng trung th&amp;agrave;nh v&amp;agrave; gắn b&amp;oacute; l&amp;acirc;u d&amp;agrave;i, doanh nghiệp cần x&amp;acirc;y dựng một trải nghiệm thương hiệu nhất qu&amp;aacute;n tr&amp;ecirc;n mọi điểm chạm. Từ m&amp;agrave;u sắc, giọng điệu cho đến th&amp;ocirc;ng điệp truyền tải, tất cả phải đồng bộ v&amp;agrave; tạo n&amp;ecirc;n một bức tranh ho&amp;agrave;n chỉnh về thương hiệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng nghệ đ&amp;atilde; tạo ra những bước tiến vượt bậc, gi&amp;uacute;p doanh nghiệp x&amp;acirc;y dựng trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng đa k&amp;ecirc;nh hiệu quả hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Trải nghiệm liền mạch&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;atilde; qua rồi c&amp;aacute;i thời kh&amp;aacute;ch h&amp;agrave;ng phải tự t&amp;igrave;m đến cửa h&amp;agrave;ng. Giờ đ&amp;acirc;y, ch&amp;iacute;nh ch&amp;uacute;ng ta đang đưa cả cửa h&amp;agrave;ng đến tận m&amp;agrave;n h&amp;igrave;nh của họ! Trong nhịp sống hiện đại, thời gian qu&amp;yacute; hơn v&amp;agrave;ng. Việc tiết kiệm thời gian cho kh&amp;aacute;ch h&amp;agrave;ng ch&amp;iacute;nh l&amp;agrave; c&amp;aacute;ch hiệu quả nhất để thu h&amp;uacute;t họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kỷ nguy&amp;ecirc;n phải li&amp;ecirc;n tục chuyển đổi giữa c&amp;aacute;c m&amp;agrave;n h&amp;igrave;nh đ&amp;atilde; lỗi thời. Kh&amp;aacute;ch h&amp;agrave;ng ng&amp;agrave;y nay mong muốn trải nghiệm mua sắm liền mạch v&amp;agrave; thuận tiện tr&amp;ecirc;n mọi thiết bị. Đ&amp;acirc;y l&amp;agrave; một sự thay đổi lớn m&amp;agrave; c&amp;aacute;c nh&amp;agrave; tiếp thị cần nắm bắt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ&amp;nbsp;email tương t&amp;aacute;c&amp;nbsp;đến cửa h&amp;agrave;ng tr&amp;ecirc;n Tiktok, h&amp;atilde;y cho ph&amp;eacute;p kh&amp;aacute;ch h&amp;agrave;ng mua sắm mọi l&amp;uacute;c mọi nơi, tr&amp;ecirc;n bất kỳ nền tảng n&amp;agrave;o họ th&amp;iacute;ch. Khi h&amp;agrave;nh tr&amp;igrave;nh mua sắm trở n&amp;ecirc;n dễ d&amp;agrave;ng, việc quyết định mua h&amp;agrave;ng sẽ trở n&amp;ecirc;n tự nhi&amp;ecirc;n hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại Mỹ,&amp;nbsp;18% người d&amp;ugrave;ng&amp;nbsp;bỏ giỏ h&amp;agrave;ng v&amp;igrave; quy tr&amp;igrave;nh thanh to&amp;aacute;n qu&amp;aacute; phức tạp. Đ&amp;acirc;y l&amp;agrave; một con số đ&amp;aacute;ng b&amp;aacute;o động v&amp;agrave; c&amp;oacute; thể xảy ra tương tự ở c&amp;aacute;c quốc gia kh&amp;aacute;c. Vậy tại sao kh&amp;ocirc;ng đơn giản h&amp;oacute;a quy tr&amp;igrave;nh n&amp;agrave;y chỉ trong một bước duy nhất?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nền tảng như email tương t&amp;aacute;c v&amp;agrave; Tiktok đ&amp;atilde; chứng minh điều n&amp;agrave;y ho&amp;agrave;n to&amp;agrave;n khả thi. Ch&amp;uacute;ng cho ph&amp;eacute;p người d&amp;ugrave;ng xem sản phẩm, so s&amp;aacute;nh gi&amp;aacute; v&amp;agrave; thanh to&amp;aacute;n ngay tr&amp;ecirc;n giao diện hộp thư đến/livestream, giống như một cửa h&amp;agrave;ng thu nhỏ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tương lai của b&amp;aacute;n h&amp;agrave;ng l&amp;agrave; t&amp;iacute;ch hợp mọi tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave;o một nền tảng duy nhất. Từ email, tin nhắn đến c&amp;aacute;c k&amp;ecirc;nh x&amp;atilde; hội, tất cả đều c&amp;oacute; thể trở th&amp;agrave;nh nơi người d&amp;ugrave;ng ho&amp;agrave;n tất giao dịch. Việc chuyển hướng kh&amp;aacute;ch h&amp;agrave;ng đến website sẽ trở n&amp;ecirc;n lỗi thời. AI sẽ đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong việc tự động h&amp;oacute;a c&amp;aacute;c quy tr&amp;igrave;nh, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm mua sắm v&amp;agrave; hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng nhanh ch&amp;oacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y tưởng tượng một tương lai nơi kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể mua sắm bất cứ l&amp;uacute;c n&amp;agrave;o, bất cứ nơi đ&amp;acirc;u, chỉ với v&amp;agrave;i c&amp;uacute; chạm. Đ&amp;oacute; ch&amp;iacute;nh l&amp;agrave; mục ti&amp;ecirc;u m&amp;agrave; c&amp;aacute;c doanh nghiệp cần hướng tới để tạo ra những trải nghiệm mua sắm thực sự đ&amp;aacute;ng nhớ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. AI định h&amp;igrave;nh tương lai trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong cuộc đua gi&amp;agrave;nh lấy kh&amp;aacute;ch h&amp;agrave;ng, doanh nghiệp n&amp;agrave;o kh&amp;ocirc;ng kịp th&amp;iacute;ch ứng sẽ nhanh ch&amp;oacute;ng bị đối thủ bỏ lại ph&amp;iacute;a sau. Để th&amp;agrave;nh c&amp;ocirc;ng, c&amp;aacute;c doanh nghiệp cần phải linh hoạt thay đổi chiến lược, vừa đảm bảo tu&amp;acirc;n thủ quy định về bảo mật dữ liệu, vừa tạo ra những trải nghiệm độc đ&amp;aacute;o để thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng. Một số doanh nghiệp đ&amp;atilde; bắt đầu h&amp;agrave;nh động bằng c&amp;aacute;ch minh bạch h&amp;oacute;a qu&amp;aacute; tr&amp;igrave;nh thu thập dữ liệu v&amp;agrave; tập trung v&amp;agrave;o việc x&amp;acirc;y dựng mối quan hệ tin cậy với kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những thay đổi n&amp;agrave;y kh&amp;ocirc;ng chỉ đơn thuần l&amp;agrave; một xu hướng, m&amp;agrave; l&amp;agrave; một cuộc c&amp;aacute;ch mạng trong c&amp;aacute;ch ch&amp;uacute;ng ta tiếp cận kh&amp;aacute;ch h&amp;agrave;ng. Để tồn tại v&amp;agrave; ph&amp;aacute;t triển trong thời đại số, doanh nghiệp cần phải hiểu r&amp;otilde; nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; kh&amp;ocirc;ng ngừng đổi mới để đ&amp;aacute;p ứng những kỳ vọng ng&amp;agrave;y c&amp;agrave;ng cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Marketing Automation 2.0 tạo ra trải nghiệm người d&amp;ugrave;ng liền mạch&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;aacute;ch h&amp;agrave;ng ng&amp;agrave;y nay mong đợi những trải nghiệm được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; liền mạch. Để đ&amp;aacute;p ứng nhu cầu đ&amp;oacute;, c&amp;aacute;c nh&amp;agrave; tiếp thị đang t&amp;iacute;ch cực &amp;aacute;p dụng tự động h&amp;oacute;a v&amp;agrave;o c&amp;aacute;c chiến dịch của m&amp;igrave;nh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bằng c&amp;aacute;ch tự động h&amp;oacute;a c&amp;aacute;c tương t&amp;aacute;c, từ việc thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng tiềm năng đến việc duy tr&amp;igrave; mối quan hệ với kh&amp;aacute;ch h&amp;agrave;ng hiện tại, c&amp;aacute;c doanh nghiệp đang tạo ra những trải nghiệm đ&amp;aacute;ng nhớ v&amp;agrave; x&amp;acirc;y dựng l&amp;ograve;ng trung th&amp;agrave;nh với thương hiệu. Việc&amp;nbsp;tăng chỉ 5% tỷ lệ giữ ch&amp;acirc;n&amp;nbsp;kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể mang lại&amp;nbsp;lợi nhuận tăng l&amp;ecirc;n đến 25%&amp;nbsp;l&amp;agrave; minh chứng r&amp;otilde; r&amp;agrave;ng cho sức mạnh của việc đầu tư v&amp;agrave;o trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tự động h&amp;oacute;a tiếp thị kh&amp;ocirc;ng chỉ l&amp;agrave; một c&amp;ocirc;ng cụ, m&amp;agrave; c&amp;ograve;n l&amp;agrave; một cỗ m&amp;aacute;y tăng trưởng. Bằng c&amp;aacute;ch tự động h&amp;oacute;a c&amp;aacute;c quy tr&amp;igrave;nh lặp đi lặp lại, c&amp;aacute;c nh&amp;agrave; tiếp thị giải ph&amp;oacute;ng thời gian để tập trung v&amp;agrave;o c&amp;aacute;c chiến lược s&amp;aacute;ng tạo hơn. Từ việc l&amp;agrave;m sạch dữ liệu đến ph&amp;acirc;n t&amp;iacute;ch n&amp;acirc;ng cao, tự động h&amp;oacute;a hỗ trợ c&amp;aacute;c nh&amp;agrave; tiếp thị đưa ra quyết định nhanh ch&amp;oacute;ng v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c, từ đ&amp;oacute; tối ưu h&amp;oacute;a hiệu quả của c&amp;aacute;c chiến dịch. Hơn nữa, với sự hỗ trợ của AI, c&amp;aacute;c nh&amp;agrave; tiếp thị c&amp;oacute; thể tạo ra những trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng si&amp;ecirc;u c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, tăng cường tương t&amp;aacute;c v&amp;agrave; th&amp;uacute;c đẩy doanh số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: Comms8&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In a world where consumers increasingly demand highly personalized experiences, flexibility is the key to success. To create a distinctive mark, brands need to be agile in adopting and applying the latest technologies, from voice search to martech trends. In the second half of 2024 and into 2025, the competition will become even fiercer as consumer behavior continues to evolve.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Short-form content and the support of AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In an era where attention spans are shorter than a blink and Gen Z accounts for a large portion of the consumer market, purchasing behavior has also shifted. With an average of just 1.3 seconds for an ad to make an impression, the enormous purchasing power of this generation is forcing marketers into a &amp;ldquo;race against time.&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Short-form videos &amp;ndash; spreading faster than memes! These engaging clips are like magic pills, capturing user attention effectively. This transformation marks a new era: concise, engaging content is on the rise. Brands are quickly adapting, developing marketing strategies tailored to an audience that is always &amp;ldquo;on the go.&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To seize this opportunity, marketers need to:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) &lt;strong&gt;Grab attention&lt;/strong&gt;: Ads must truly stand out, delivering either fresh experiences or familiar ones with an impressive twist.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) &lt;strong&gt;Keep it short and concise&lt;/strong&gt;: Nearly two-thirds of viewers only want videos under 1 minute. Focus on short yet powerful messages.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) &lt;strong&gt;Leverage AI&lt;/strong&gt;: ChatGPT, Bard, etc. will be powerful assistants to help create fast, high-quality, and audience-tailored content.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(4) &lt;strong&gt;Personalize&lt;/strong&gt;: Use AI to analyze user behavior and generate personalized content to increase engagement.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(5) &lt;strong&gt;Right timing&lt;/strong&gt;: Plan posts strategically to avoid overwhelming users.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Optimizing customer experience with omnichannel strategy&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Implementing an omnichannel strategy is not just a trend but a decisive factor for business success in the digital era. By creating seamless and consistent experiences across all touchpoints, brands not only increase customer satisfaction but also strengthen loyalty and boost sales.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Why is an omnichannel strategy important?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Seamless customer experience&lt;/strong&gt;: Customers can interact with a brand anytime, anywhere, and on any device without barriers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhanced engagement&lt;/strong&gt;: Live chat, AI chatbots, and other interactive tools enable businesses to respond quickly to customer inquiries, creating excellent experiences.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Improved business performance&lt;/strong&gt;: Studies show that companies with effective omnichannel strategies can increase revenue by up to 9.5% and reduce cost per contact by 7.5%.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;To build customer loyalty and long-term engagement, businesses must create a consistent brand experience across all touchpoints. From colors and tone of voice to messaging, everything should be aligned to paint a complete picture of the brand.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Technology has made significant advances, empowering businesses to deliver more effective omnichannel customer experiences.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Seamless experiences&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Gone are the days when customers had to find their way to the store. Now, we bring the store directly to their screens! In modern life, time is more valuable than gold. Saving customers time is the most effective way to win them over.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The era of constantly switching between screens is outdated. Today&amp;rsquo;s customers expect seamless and convenient shopping experiences across all devices. This is a major shift that marketers must embrace.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;From interactive emails to TikTok shops, give customers the ability to shop anytime, anywhere, on any platform they prefer. When the shopping journey becomes effortless, purchasing decisions come more naturally.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In the U.S., 18% of users abandon their carts because the checkout process is too complicated. This is an alarming figure and could happen in other markets too. So why not simplify the process into a single step?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Platforms like interactive emails and TikTok have proven this is possible. They allow users to view products, compare prices, and check out directly within inboxes or livestreams &amp;ndash; just like a mini-store.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The future of sales lies in integrating all customer interactions into a unified platform. From emails and messages to social channels, all can become places where users complete transactions. Redirecting customers to websites will soon be outdated. AI will play a critical role in automating processes, personalizing shopping experiences, and providing quick support.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Imagine a future where customers can shop anytime, anywhere, with just a few taps. That is the goal businesses must aim for to create truly memorable shopping experiences.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. AI shaping the future of customer experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In the race to win customers, businesses that fail to adapt will quickly be left behind. To succeed, companies must remain flexible, adjusting strategies while ensuring compliance with data privacy regulations and creating unique experiences that attract and retain customers. Some businesses have already taken action by making data collection processes transparent and focusing on building trust-based relationships with customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;These changes are not just trends but a revolution in how we approach customers. To survive and thrive in the digital age, businesses must deeply understand customer needs and continuously innovate to meet rising expectations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Marketing Automation 2.0 creates seamless user experiences&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Today&amp;rsquo;s customers expect personalized and seamless experiences. To meet these demands, marketers are actively applying automation in their campaigns.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By automating interactions &amp;ndash; from attracting leads to nurturing relationships with existing customers &amp;ndash; businesses are creating memorable experiences and building brand loyalty. Increasing customer retention by just 5% can raise profits by up to 25%, a clear testament to the power of investing in customer experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Marketing automation is not just a tool but a growth engine. By automating repetitive processes, marketers free up time to focus on more creative strategies. From data cleansing to advanced analytics, automation supports faster and more accurate decision-making, ultimately optimizing campaign effectiveness. Moreover, with AI support, marketers can deliver hyper-personalized customer experiences, boost engagement, and drive sales.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Source: Comms8&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by DTSVN Author Group &amp;ndash; Digital Transformation Solutions for the Finance &amp;ndash; Banking Industry.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;DTSVN&lt;/strong&gt; is a pioneering Digital Transformation company providing the latest digitalization solutions exclusively for businesses in the Finance &amp;ndash; Banking sector in Vietnam; helping banks and financial institutions quickly enhance their technology systems to support Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for consultation and solution experience [here].&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-07-08T06:25:02.000Z</time_create_dt>
+	<createdDate>2025-08-25T06:25:01.443Z</createdDate>
+	<createdDate_dt>2025-08-25T06:25:01.443Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T06:25:01.443Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T06:25:01.443Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

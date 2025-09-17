@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-contact-en</content-type>
+	<display-template>/templates/web/Page-contact-en.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b6b2</objectGroupId>
+	<objectId>b6b2bba5-ac65-d8cf-8446-d251c18ce10e</objectId>
+	<list_input_o item-list="true">	<item>	<label_name_s>Full Name</label_name_s>
+	<fied_name_s>your-name</fied_name_s>
+	<autocomplete_s>name</autocomplete_s>
+	</item>	<item>	<label_name_s>Company</label_name_s>
+	<fied_name_s>company-name</fied_name_s>
+	<autocomplete_s>company</autocomplete_s>
+	</item>	<item>	<label_name_s>Email</label_name_s>
+	<fied_name_s>your-email</fied_name_s>
+	<autocomplete_s>email</autocomplete_s>
+	</item>	<item>	<label_name_s>Phone</label_name_s>
+	<fied_name_s>phone-number</fied_name_s>
+	<autocomplete_s>phone</autocomplete_s>
+	</item>	<item>	<label_name_s>Message</label_name_s>
+	<fied_name_s>your-message</fied_name_s>
+	<autocomplete_s/>
+	</item></list_input_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>contact</folder-name>
+	<internal-name>Contact</internal-name>
+	<navLabel>Connect with DTSVN</navLabel>
+	<title_main_s>Send a Message to DTSVN</title_main_s>
+	<address_s>No. 2, Alley 7 Thai Ha Street, Trung Liet Ward, Dong Da District, Hanoi, Vietnam</address_s>
+	<phone_s>(+84) 912 363 824</phone_s>
+	<email_s>info@dtsvn.net</email_s>
+	<website_s>https://dtsvn.net/</website_s>
+	<label_button_s>Send Message</label_button_s>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<createdDate>2025-07-10T18:43:17.736Z</createdDate>
+	<createdDate_dt>2025-07-10T18:43:17.736Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T03:13:49.313Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T03:13:49.313Z</lastModifiedDate_dt>
+	<title_main_1_s>Contact Information</title_main_1_s>
+</page>

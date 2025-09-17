@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-footer</content-type>
+	<display-template>/templates/web/Component-Footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b875</objectGroupId>
+	<objectId>b875201d-2633-6e74-ae3d-e18e000aaf33</objectId>
+	<internal-name>footer</internal-name>
+	<file-name>b875201d-2633-6e74-ae3d-e18e000aaf33.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-06-25T03:36:02.225Z</createdDate>
+	<createdDate_dt>2025-06-25T03:36:02.225Z</createdDate_dt>
+	<lastModifiedDate>2025-08-04T09:33:40.874Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-04T09:33:40.874Z</lastModifiedDate_dt>
+	<address_s>Tầng 6, số 2 Ngõ 7, Thái Hà,  Đống Đa, Hà Nội  08:30 - 17h45, từ thứ 2 đến thứ 6</address_s>
+	<logo_dtsvn_s>/static-assets/images/logo-footer.png</logo_dtsvn_s>
+	<contact_information_o item-list="true">	<item>	<information_1_s>Điện thoại</information_1_s>
+	<information_2_s>(+84) 912 363 824</information_2_s>
+	</item>	<item>	<information_1_s>Email</information_1_s>
+	<information_2_s>info@dtsvn.net</information_2_s>
+	</item>	<item>	<information_1_s>Website</information_1_s>
+	<information_2_s>https://dtsvn.net</information_2_s>
+	</item></contact_information_o>
+	<member_company_o item-list="true">	<item>	<link_o/>
+	<name_company_s>Beau Agency </name_company_s>
+	</item>	<item>	<link_o/>
+	<name_company_s>MATE </name_company_s>
+	</item>	<item>	<link_o/>
+	<name_company_s>ENTERPRISENAO </name_company_s>
+	</item>	<item>	<link_o/>
+	<name_company_s>DTI</name_company_s>
+	</item></member_company_o>
+	<social_network_o item-list="true">	<item>	<link_o/>
+	<name_social_s>Facebook </name_social_s>
+	</item>	<item>	<link_o/>
+	<name_social_s>Zalo </name_social_s>
+	</item>	<item>	<link_o/>
+	<name_social_s>Youtube</name_social_s>
+	</item>	<item>	<link_o/>
+	<name_social_s>LinkedIn</name_social_s>
+	</item></social_network_o>
+	<menu_footer_o item-list="true">	<item>	<link_o/>
+	<menu_s>Giới thiệu </menu_s>
+	</item>	<item>	<link_o/>
+	<menu_s>Sản phẩm - Đối tác</menu_s>
+	</item>	<item>	<link_o/>
+	<menu_s>Liên hệ</menu_s>
+	</item>	<item>	<link_o/>
+	<menu_s>Tin tức</menu_s>
+	</item>	<item>	<link_o/>
+	<menu_s>Nhà đầu tư</menu_s>
+	</item>	<item>	<link_o/>
+	<menu_s>Khảo sát </menu_s>
+	</item></menu_footer_o>
+	<member_company_s>Công ty thành viên</member_company_s>
+	<social_network_s>Kết nối</social_network_s>
+</component>

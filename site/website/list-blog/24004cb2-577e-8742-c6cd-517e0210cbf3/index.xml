@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2400</objectGroupId>
+	<objectId>24004cb2-577e-8742-c6cd-517e0210cbf3</objectId>
+	<internal-name>4 mẹo để thành công trong phát triển và triển khai giải pháp kỹ thuật số</internal-name>
+	<navLabel>4 mẹo để thành công trong phát triển và triển khai giải pháp kỹ thuật số</navLabel>
+	<title_vi_s>4 mẹo để thành công trong phát triển và triển khai giải pháp kỹ thuật số</title_vi_s>
+	<title_en_s>4 Tips for Successful Digital Solution Development and Implementation </title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>24004cb2-577e-8742-c6cd-517e0210cbf3</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/photo1674353467794-1674353467931478797924.webp</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nh&amp;agrave; l&amp;atilde;nh đạo trong lĩnh vực C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin c&amp;oacute; thể định hướng đơn vị kinh doanh của họ với mục ti&amp;ecirc;u cải thiện trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, vượt xa mong đợi của họ v&amp;agrave; tạo ra gi&amp;aacute; trị tối đa tr&amp;ecirc;n thị trường. Ch&amp;uacute;ng ta c&amp;oacute; nhiều c&amp;aacute;ch thực tế để hỗ trợ doanh nghiệp trong việc bắt đầu v&amp;agrave; th&amp;agrave;nh c&amp;ocirc;ng trong việc chuyển đổi kỹ thuật số.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Trong thực tế, c&amp;oacute; tới 70% nỗ lực chuyển đổi kỹ thuật số kh&amp;ocirc;ng thực hiện được như mong đợi ban đầu. Sự th&amp;agrave;nh c&amp;ocirc;ng của một số tổ chức trong việc chuyển đổi kỹ thuật số c&amp;oacute; thể được giải th&amp;iacute;ch bởi việc họ hiểu v&amp;agrave; tương t&amp;aacute;c hiệu quả với thị trường của m&amp;igrave;nh, đ&amp;aacute;p ứng kỳ vọng của kh&amp;aacute;ch h&amp;agrave;ng về trải nghiệm đa k&amp;ecirc;nh v&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thế giới hiện đại, điện thoại di động v&amp;agrave; c&amp;aacute;c k&amp;ecirc;nh tiếp x&amp;uacute;c kỹ thuật số đ&amp;atilde; trở th&amp;agrave;nh một phần kh&amp;ocirc;ng thể thiếu trong hầu hết c&amp;aacute;c kh&amp;iacute;a cạnh của cuộc sống. Tuy nhi&amp;ecirc;n, mặc d&amp;ugrave; tiềm năng của c&amp;ocirc;ng nghệ kỹ thuật số rất lớn, nhiều nh&amp;agrave; l&amp;atilde;nh đạo doanh nghiệp vẫn chưa ho&amp;agrave;n to&amp;agrave;n nhận thức về khả năng của c&amp;ocirc;ng ty m&amp;igrave;nh để thực hiện một chiến lược chuyển đổi kỹ thuật số ho&amp;agrave;n hảo, chưa n&amp;oacute;i đến việc triển khai v&amp;agrave; cung cấp ch&amp;uacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; nhiều c&amp;aacute;ch thiết thực để gi&amp;uacute;p doanh nghiệp của bạn bắt đầu v&amp;agrave; th&amp;agrave;nh c&amp;ocirc;ng với chuyển đổi kỹ thuật số. Một chiến lược nhanh nhẹn, linh hoạt l&amp;agrave; nền tảng của sự th&amp;agrave;nh c&amp;ocirc;ng trong chuyển đổi kỹ thuật số. Sử dụng c&amp;ocirc;ng nghệ ph&amp;ugrave; hợp để đảm bảo c&amp;aacute;c chiến lược kỹ thuật số chuyển đổi c&amp;aacute;c nhu cầu kinh doanh cơ bản nhất l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Mẹo số 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc &amp;aacute;p dụng đ&amp;aacute;m m&amp;acirc;y l&amp;agrave; ưu ti&amp;ecirc;n h&amp;agrave;ng đầu đối với bất kỳ doanh nghiệp n&amp;agrave;o đang tham gia v&amp;agrave;o qu&amp;aacute; tr&amp;igrave;nh chuyển đổi kỹ thuật số. C&amp;aacute;c nh&amp;agrave; cung cấp đ&amp;aacute;m m&amp;acirc;y h&amp;agrave;ng đầu cung cấp nền tảng cho c&amp;aacute;c c&amp;ocirc;ng ty ph&amp;aacute;t triển với tốc độ nhanh ch&amp;oacute;ng chưa từng thấy. Cơ sở hạ tầng CNTT cũ kỹ c&amp;oacute; thể được thay thế bằng c&amp;aacute;c dịch vụ đ&amp;aacute;m m&amp;acirc;y đủ năng động v&amp;agrave; linh hoạt, doanh nghiệp c&amp;oacute; thể đạt được hiệu suất cao v&amp;agrave; nhanh ch&amp;oacute;ng tiếp cận kh&amp;aacute;ch h&amp;agrave;ng mới, từ đ&amp;oacute; th&amp;uacute;c đẩy qu&amp;aacute; tr&amp;igrave;nh chuyển đổi kỹ thuật số một c&amp;aacute;ch th&amp;agrave;nh c&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Mẹo số 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nền tảng SaaS gi&amp;uacute;p doanh nghiệp sử dụng c&amp;ocirc;ng nghệ hiệu quả hơn để đ&amp;aacute;p ứng nhanh ch&amp;oacute;ng c&amp;aacute;c nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng. Kết nối c&amp;aacute;c ứng dụng SaaS như Salesforce v&amp;agrave; NetSuite với trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng kỹ thuật số, cho ph&amp;eacute;p doanh nghiệp tận dụng ph&amp;acirc;n t&amp;iacute;ch dữ liệu từ c&amp;aacute;c ứng dụng web v&amp;agrave; thiết bị di động. Nhờ v&amp;agrave;o việc thu thập phản hồi từ kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; dữ liệu người d&amp;ugrave;ng, c&amp;aacute;c c&amp;ocirc;ng ty c&amp;oacute; thể hiểu r&amp;otilde; hơn về thời điểm, l&amp;yacute; do v&amp;agrave; c&amp;aacute;ch thức kh&amp;aacute;ch h&amp;agrave;ng kinh doanh với họ. Những th&amp;ocirc;ng tin chi tiết n&amp;agrave;y th&amp;uacute;c đẩy trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng trở n&amp;ecirc;n hấp dẫn, đắm ch&amp;igrave;m v&amp;agrave; độc đ&amp;aacute;o hơn. Bằng c&amp;aacute;ch x&amp;acirc;y dựng chế độ xem 360 độ to&amp;agrave;n diện về kh&amp;aacute;ch h&amp;agrave;ng, doanh nghiệp c&amp;oacute; thể tận dụng mọi cơ hội để tối ưu h&amp;oacute;a quan hệ v&amp;agrave; n&amp;acirc;ng cao hiệu quả kinh doanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Mẹo số 3&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Người mua hiện đại ng&amp;agrave;y nay muốn c&amp;oacute; một trải nghiệm mua h&amp;agrave;ng c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, giống như khi mua h&amp;agrave;ng tr&amp;ecirc;n Amazon. Họ mong đợi được thấy một trải nghiệm mua sắm độc đ&amp;aacute;o, dựa tr&amp;ecirc;n sở th&amp;iacute;ch ri&amp;ecirc;ng của từng kh&amp;aacute;ch h&amp;agrave;ng. Điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave; cửa h&amp;agrave;ng hoặc nền tảng mua sắm cần lưu &amp;yacute; lịch sử mua h&amp;agrave;ng v&amp;agrave; m&amp;ocirc; h&amp;igrave;nh mua sắm của kh&amp;aacute;ch h&amp;agrave;ng để tạo ra c&amp;aacute;c gợi &amp;yacute; v&amp;agrave; chương tr&amp;igrave;nh mua h&amp;agrave;ng ph&amp;ugrave; hợp với từng người d&amp;ugrave;ng cụ thể.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;acirc;n t&amp;iacute;ch được c&amp;ocirc;ng bố bởi bốn c&amp;ocirc;ng ty lớn cho thấy rằng c&amp;aacute;c c&amp;ocirc;ng ty nhận ra kh&amp;aacute;ch h&amp;agrave;ng theo t&amp;ecirc;n, sở th&amp;iacute;ch mua h&amp;agrave;ng v&amp;agrave; lịch sử mua h&amp;agrave;ng c&amp;oacute; nhiều khả năng giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng hơn v&amp;agrave; mở rộng thị phần v&amp;iacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đề xuất sản phẩm dựa tr&amp;ecirc;n dữ liệu của kh&amp;aacute;ch h&amp;agrave;ng sẽ cải thiện trải nghiệm mua h&amp;agrave;ng nhưng đ&amp;ograve;i hỏi sự hiểu biết s&amp;acirc;u sắc về y&amp;ecirc;u cầu của kh&amp;aacute;ch h&amp;agrave;ng, phản hồi về sản phẩm v&amp;agrave; nhu cầu hỗ trợ. Ph&amp;acirc;n t&amp;iacute;ch dữ liệu ph&amp;ugrave; hợp cho ph&amp;eacute;p c&amp;aacute;c tổ chức tạo c&amp;aacute;c chiến dịch được nhắm mục ti&amp;ecirc;u cực kỳ tốt để ph&amp;ugrave; hợp với sở th&amp;iacute;ch ri&amp;ecirc;ng của kh&amp;aacute;ch h&amp;agrave;ng, mang lại trải nghiệm được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a nhất. Những trải nghiệm đa k&amp;ecirc;nh đ&amp;oacute; truyền tải đ&amp;uacute;ng th&amp;ocirc;ng điệp v&amp;agrave;o đ&amp;uacute;ng thời điểm l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a dẫn đến qu&amp;aacute; tr&amp;igrave;nh chuyển đổi kỹ thuật số th&amp;agrave;nh c&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Mẹo số 4&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sự ph&amp;aacute;t triển của c&amp;ocirc;ng nghệ di động v&amp;agrave; c&amp;aacute;c điểm tiếp x&amp;uacute;c kỹ thuật số đ&amp;atilde; cho ph&amp;eacute;p kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; được những g&amp;igrave; họ muốn. Người ti&amp;ecirc;u d&amp;ugrave;ng kh&amp;ocirc;ng bị &amp;eacute;p buộc v&amp;agrave;o một h&amp;agrave;nh tr&amp;igrave;nh giới hạn trong một k&amp;ecirc;nh duy nhất. Kh&amp;aacute;ch h&amp;agrave;ng duyệt trực tiếp, mua trực tuyến v&amp;agrave; tương t&amp;aacute;c với chatbot. Họ mong đợi phản hồi của họ về ứng dụng d&amp;agrave;nh cho thiết bị di động v&amp;agrave; tương t&amp;aacute;c trực tiếp tr&amp;ecirc;n phương tiện truyền th&amp;ocirc;ng x&amp;atilde; hội để x&amp;acirc;y dựng l&amp;ograve;ng trung th&amp;agrave;nh với thương hiệu. C&amp;aacute;c tổ chức th&amp;agrave;nh c&amp;ocirc;ng hiểu được sức mạnh của trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng đa k&amp;ecirc;nh v&amp;agrave; c&amp;aacute;ch n&amp;oacute; th&amp;uacute;c đẩy chiến lược chuyển đổi kỹ thuật số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi kỹ thuật số cho doanh nghiệp của bạn c&amp;oacute; nhiều lớp phức tạp nhưng c&amp;oacute; nhiều c&amp;aacute;ch thiết thực để bắt đầu.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tận dụng c&amp;aacute;c nền tảng ưu ti&amp;ecirc;n đ&amp;aacute;m m&amp;acirc;y để c&amp;oacute; sự linh hoạt v&amp;agrave; tốc độ nhằm đ&amp;aacute;p ứng nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng trong thời gian thực. C&amp;aacute;c nh&amp;agrave; cung cấp đ&amp;aacute;m m&amp;acirc;y c&amp;oacute; xu hướng an to&amp;agrave;n hơn v&amp;agrave; nhiều nh&amp;agrave; cung cấp kiến tr&amp;uacute;c kh&amp;ocirc;ng c&amp;oacute; m&amp;aacute;y chủ, dịch vụ si&amp;ecirc;u nhỏ v&amp;agrave; tự động h&amp;oacute;a c&amp;oacute; điều phối để gi&amp;uacute;p c&amp;aacute;c tổ chức vượt l&amp;ecirc;n tr&amp;ecirc;n đối thủ cạnh tranh v&amp;agrave; tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết nối c&amp;aacute;c nền tảng SaaS v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch dữ liệu với trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n web v&amp;agrave; ứng dụng d&amp;agrave;nh cho thiết bị di động để c&amp;oacute; được c&amp;aacute;i nh&amp;igrave;n 360 độ về kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; tạo trải nghiệm kh&amp;aacute;c biệt cho kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng bằng c&amp;aacute;ch đ&amp;aacute;nh gi&amp;aacute; lịch sử mua h&amp;agrave;ng v&amp;agrave; h&amp;agrave;nh vi mua h&amp;agrave;ng. Mang lại trải nghiệm mua h&amp;agrave;ng &amp;ldquo;Amazon&amp;rdquo;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tạo trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng liền mạch tr&amp;ecirc;n nhiều k&amp;ecirc;nh. T&amp;iacute;ch hợp tất cả c&amp;aacute;c k&amp;ecirc;nh kỹ thuật số để tổng hợp dữ liệu v&amp;agrave; cung cấp trải nghiệm hấp dẫn, th&amp;acirc;n thiện với người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dựa v&amp;agrave;o những lĩnh vực n&amp;agrave;y v&amp;agrave; tập trung v&amp;agrave;o trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng sẽ gi&amp;uacute;p c&amp;aacute;c nh&amp;agrave; l&amp;atilde;nh đạo CNTT chuẩn bị cho một tổ chức chuyển đổi kỹ thuật số. C&amp;aacute;c nh&amp;agrave; l&amp;atilde;nh đạo CNTT c&amp;oacute; thể thiết lập &amp;acirc;m thanh giữa c&amp;aacute;c đơn vị kinh doanh để vượt qu&amp;aacute; mong đợi của kh&amp;aacute;ch h&amp;agrave;ng, cải thiện trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; th&amp;uacute;c đẩy gi&amp;aacute; trị thị trường.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: West Agile Labs&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&lt;a href="https://dtsvn.net/contact-us"&gt;&amp;nbsp;tại đ&amp;acirc;y&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;IT leaders can set the tone across business units to improve the customer experience, exceed customer expectations, and drive market value. There are practical ways to help your business get started, and succeed, with digital transformation.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;70% of digital transformations fail to deliver on their promise. Why do some digital transformation efforts succeed while so many others fail?&amp;nbsp; Successful organizations understand and engage with, their market to deliver on the customer&amp;rsquo;s expectations of a personalized, multi-channel experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mobile phones and digital touchpoints exist in almost every aspect of modern life. Yet, many business leaders don&amp;rsquo;t believe their companies possess the necessary technology capabilities to create a digital transformation strategy, let alone deploy and deliver.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;There are practical ways to help your business get started, and succeed, with digital transformation. An agile, flexible strategy is the cornerstone of digital transformation success. Utilizing the right technology to ensure digital strategies transform the most fundamental business needs is key.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tip #1&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cloud adoption is a top priority for any business that is engaging in digital transformation. The biggest players in public cloud platforms enable companies to move faster than ever before. Aging IT infrastructure can be swapped out for cloud services that are dynamic and flexible enough to meet the needs of the business, today and into the future. Organizations now have the ability to rapidly prototype, convert services to products and cost-effectively experiment in new markets with minimal risk.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tip #2&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;SaaS platforms allow businesses to leverage technology to meet customer demands faster. Connecting SaaS applications like Salesforce and NetSuite to digital customer experiences, and leveraging data analytics with web and mobile apps, means businesses are building a true 360-degree view of their customers. Using customer feedback and user data, companies are learning when, why and how customers are doing business with them. Those insights fuel a more engaging, immersive, and unique customer experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tip #3&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Modern buyers expect personalized customer experiences. They want the &amp;ldquo;Amazon&amp;rdquo; purchasing experience. They expect unique, experience-driven purchasing that&amp;rsquo;s designed around the individual consumer&amp;rsquo;s personal preferences. It&amp;rsquo;s expected that purchase history and purchasing patterns are taken into account.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Analytics published by the big four shows that companies that recognize customers by name, purchase preferences, and purchase history are more likely to retain customers and extend wallet share.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Recommending products based on customers&amp;rsquo; data will improve the purchasing experience but requires an in-depth understanding of customers&amp;rsquo; requests, product feedback, and support needs. The right data analytics enable organizations to craft extremely well-targeted campaigns to match customers&amp;rsquo; unique preferences, resulting in the most personalized experiences. Those multi-channel experiences &amp;mdash; delivering the right message at the right time &amp;mdash; are key to a successful digital transformation. Companies that can deliver on immediacy, along with personalization are winning.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tip #4&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The proliferation of mobile technology and digital touchpoints has enabled customers to get what they want, whenever they want, and how they want it. Consumers are not forced down a journey that is limited to a single channel. Customers browse in person, buy online, and engage with chatbots. They expect their feedback on mobile apps and direct interactions on social media to build brand loyalty. Successful organizations understand the power of the multi-channel customer experience and how it drives the digital transformation strategy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Conclusion&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Digitally transforming your business has many layers of complexity but there are practical ways to get started. To recap:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Leverage cloud-first platforms for agility and speed to meet customer demands in real-time. Cloud providers tend to be more secure and many offer serverless architecture, microservices, and automation with orchestration to keep organizations ahead of their competition and engaged with their customers.&lt;/li&gt;
+&lt;li&gt;Connect SaaS platforms and data analytics to the customer experience on web and mobile apps to gain a 360-degree view of the customer and create a differentiated customer experience.&lt;/li&gt;
+&lt;li&gt;Personalize the customer experience by evaluating purchase history and purchasing behavior. Deliver on the &amp;ldquo;Amazon&amp;rdquo; buying experience.&lt;/li&gt;
+&lt;li&gt;Create seamless customer experiences across multiple channels. Integrate all the digital channels to aggregate data and power a single, user-friendly, engaging experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Leaning into these areas, and focusing on the customer experience, helps IT leaders, to prepare an organization for digital transformation. IT leaders can set the tone across business units to exceed customer expectations, improve customer experience, and drive market value.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: PWC&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Synthesized by the author group DTSVN - Digital transformation solutions for the Finance - Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking industry in Vietnam; helping banks and financial institutions quickly perfect the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here.&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-06-06T09:19:06.000Z</time_create_dt>
+	<createdDate>2025-08-25T09:19:05.310Z</createdDate>
+	<createdDate_dt>2025-08-25T09:19:05.310Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T09:19:05.310Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T09:19:05.310Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

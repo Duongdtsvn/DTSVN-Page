@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-partner-dtsvn</content-type>
+	<display-template>/templates/web/Component-partner-dtsvn.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2ad9</objectGroupId>
+	<objectId>2ad96b85-2a40-350a-83b6-081b2576d202</objectId>
+	<internal-name>Đối tác tiêu biểu của DTSVN</internal-name>
+	<file-name>2ad96b85-2a40-350a-83b6-081b2576d202.xml</file-name>
+	<folder-name/>
+	<partner_dtsvn_o item-list="true">	<item>	<image_partner_s>/static-assets/images/insider.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/clevertap.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/forcs_logo_original-1.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/nuclent.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/adjust.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/odoo_logo_rgb.svg.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/meeyland.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/v-key_logo.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/logo--1-.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/crayon-logo-262dbda141-seeklogo.com.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/roselogo.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/zoomnewlogo.b2fd5c95.png</image_partner_s>
+	</item></partner_dtsvn_o>
+	<createdDate>2025-07-07T07:02:04.576Z</createdDate>
+	<createdDate_dt>2025-07-07T07:02:04.576Z</createdDate_dt>
+	<lastModifiedDate>2025-08-05T04:02:40.333Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-05T04:02:40.333Z</lastModifiedDate_dt>
+	<title_s>Đối tác tiêu biểu của DTSVN</title_s>
+</component>

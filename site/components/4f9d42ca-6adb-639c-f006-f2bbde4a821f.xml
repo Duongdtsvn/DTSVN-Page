@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-why-choose</content-type>
+	<display-template>/templates/web/Component-Why-choose.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4f9d</objectGroupId>
+	<objectId>4f9d42ca-6adb-639c-f006-f2bbde4a821f</objectId>
+	<internal-name>Tại sao bạn nên chọn DTSVN để triển khai?</internal-name>
+	<title_s>Tại sao bạn nên chọn DTSVN để triển khai?</title_s>
+	<subtitle_s/>
+	<file-name>4f9d42ca-6adb-639c-f006-f2bbde4a821f.xml</file-name>
+	<folder-name/>
+	<why_choose_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Đội ngũ Chuyên gia giàu kinh nghiệm</title_s>
+	<subtitle_s>DTSVN sở hữu đội ngũ chuyên gia với nhiều năm kinh nghiệm thực tế trong lĩnh vực CNTT và Chuyển đổi số, bao gồm các tiến sĩ đầu ngành và chuyên gia từ các Tập đoàn công nghệ lớn.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-1.png</icon_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>Phương pháp tiếp cận khoa học</title_s>
+	<subtitle_s>DTSVN ứng dụng phương pháp tiếp cận bài bản từ Đại học Columbia nhằm hiểu toàn diện về Doanh nghiệp và đề xuất các giải pháp tối ưu.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-2.png</icon_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>Lộ trình Chuyển đổi số chi tiết</title_s>
+	<subtitle_s>Chúng tôi cung cấp lộ trình Chuyển đổi số chi tiết, bao gồm các giải pháp cụ thể, hướng dẫn từng bước thực hiện, ngân sách và các KPI cần đạt.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-3.png</icon_s>
+	</item></why_choose_o>
+	<createdDate>2025-07-09T07:36:29.083Z</createdDate>
+	<createdDate_dt>2025-07-09T07:36:29.083Z</createdDate_dt>
+	<lastModifiedDate>2025-08-01T07:10:25.986Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-01T07:10:25.986Z</lastModifiedDate_dt>
+</component>

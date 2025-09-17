@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3dc2</objectGroupId>
+	<objectId>3dc2567b-0aa0-4110-6542-9b975fba8f6c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>3dc2567b-0aa0-4110-6542-9b975fba8f6c</folder-name>
+	<internal-name>DỊCH VỤ VẬN HÀNH MARTECH ĐẠT GIẢI THƯỞNG SAO KHUÊ 2025</internal-name>
+	<navLabel>DỊCH VỤ VẬN HÀNH MARTECH ĐẠT GIẢI THƯỞNG SAO KHUÊ 2025</navLabel>
+	<title_vi_s>DỊCH VỤ VẬN HÀNH MARTECH ĐẠT GIẢI THƯỞNG SAO KHUÊ 2025</title_vi_s>
+	<title_en_s>MARTECH OPERATIONS SERVICES WON SAO KHUE AWARD 2025</title_en_s>
+	<categorys_o>	<item>	<key>activeDtsvn</key>
+	<value_smv>Hoạt động DTSVN</value_smv>
+	</item></categorys_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<img_main_s>/static-assets/images/z6953089320008_698cc2ae55941ce4f8a34d2b3731dce9.jpg</img_main_s>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;agrave; Nội, ng&amp;agrave;y 19/4/2025 &amp;ndash; Dịch vụ Vận h&amp;agrave;nh CEP (Customer Engagement Platform) của C&amp;ocirc;ng ty DTSVN ch&amp;iacute;nh thức được vinh danh tại Giải thưởng Sao Khu&amp;ecirc; 2025, nh&amp;oacute;m 9 &amp;ldquo;Dịch vụ số&amp;rdquo;. Đ&amp;acirc;y l&amp;agrave; cột mốc khẳng định vị thế ti&amp;ecirc;n phong của DTSVN trong lĩnh vực Vận h&amp;agrave;nh Martech &amp;ndash; một trong những &amp;ldquo;mảnh gh&amp;eacute;p&amp;rdquo; quan trọng gi&amp;uacute;p doanh nghiệp tăng tốc chuyển đổi số v&amp;agrave; bứt ph&amp;aacute; tăng trưởng.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;figure style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953089320008_698cc2ae55941ce4f8a34d2b3731dce9.jpg" alt="" width="2560" height="1707"&gt;&lt;img&gt;&lt;/figure&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Giải b&amp;agrave;i to&amp;aacute;n lớn: C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a Marketing &amp;ndash; Tự động, hiệu quả v&amp;agrave; thực chiến&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong kỷ nguy&amp;ecirc;n số, kh&amp;aacute;ch h&amp;agrave;ng kh&amp;ocirc;ng c&amp;ograve;n bị thu h&amp;uacute;t bởi những th&amp;ocirc;ng điệp chung chung. Họ mong đợi những trải nghiệm mang t&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, được thương hiệu thấu hiểu v&amp;agrave; đồng h&amp;agrave;nh đ&amp;uacute;ng l&amp;uacute;c &amp;ndash; đ&amp;uacute;ng c&amp;aacute;ch &amp;ndash; đ&amp;uacute;ng k&amp;ecirc;nh. Tuy nhi&amp;ecirc;n, để đ&amp;aacute;p ứng kỳ vọng đ&amp;oacute;, doanh nghiệp cần nhiều hơn l&amp;agrave; một c&amp;ocirc;ng cụ Martech. Họ cần một Đội ngũ hiểu chiến lược, vận h&amp;agrave;nh được nền tảng, v&amp;agrave; tối ưu chiến dịch li&amp;ecirc;n tục theo thời gian thực.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với tư duy &amp;ldquo;Giải quyết b&amp;agrave;i to&amp;aacute;n tận gốc&amp;rdquo;, DTSVN đ&amp;atilde; triển khai&amp;nbsp;&lt;strong&gt;Dịch vụ Vận h&amp;agrave;nh Martech &amp;ndash;&lt;/strong&gt;&amp;nbsp;gi&amp;uacute;p c&amp;aacute;c doanh nghiệp tối ưu h&amp;oacute;a chiến lược marketing tự động th&amp;ocirc;ng qua việc sử dụng c&amp;aacute;c c&amp;ocirc;ng cụ/ nền tảng Automation Marketing ph&amp;acirc;n phối th&amp;ocirc;ng điệp truyền th&amp;ocirc;ng, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a tới kh&amp;aacute;ch h&amp;agrave;ng hoặc người d&amp;ugrave;ng cuối.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c chiến dịch tự động h&amp;oacute;a gi&amp;uacute;p tối ưu h&amp;oacute;a trải nghiệm người d&amp;ugrave;ng tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh giao tiếp (website, ứng dụng apps, email&amp;hellip;).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dịch vụ Vận h&amp;agrave;nh Martech kh&amp;ocirc;ng chỉ n&amp;acirc;ng cao khả năng tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng m&amp;agrave; c&amp;ograve;n gi&amp;uacute;p doanh nghiệp cải thiện hiệu quả c&amp;aacute;c hoạt động marketing, tăng khả năng đo lường v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch, từ đ&amp;oacute; đưa ra hướng đi ch&amp;iacute;nh x&amp;aacute;c hơn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Nền tảng t&amp;iacute;ch hợp c&amp;ocirc;ng nghệ hiện đại, Vận h&amp;agrave;nh theo thời gian thực&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một trong những yếu tố gi&amp;uacute;p dịch vụ CEP của DTSVN trở n&amp;ecirc;n kh&amp;aacute;c biệt l&amp;agrave; khả năng t&amp;iacute;ch hợp c&amp;aacute;c c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến như tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI), m&amp;aacute;y học (Machine Learning), dữ liệu lớn (Big Data) v&amp;agrave; nền tảng SMAC (Social, Mobile, Analytics, Cloud). Nhờ đ&amp;oacute;, doanh nghiệp c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch h&amp;agrave;nh vi người d&amp;ugrave;ng, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a nội dung v&amp;agrave; tự động h&amp;oacute;a to&amp;agrave;n bộ qu&amp;aacute; tr&amp;igrave;nh tiếp cận &amp;ndash; từ quảng b&amp;aacute; đến chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giải ph&amp;aacute;p Martech c&amp;ograve;n c&amp;oacute; khả năng b&amp;aacute;o c&amp;aacute;o thời gian thực v&amp;agrave; đo lường hiệu quả chiến dịch theo từng k&amp;ecirc;nh, từng ph&amp;acirc;n kh&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng. Đặc biệt, mọi hoạt động Vận h&amp;agrave;nh đều được bảo đảm bởi c&amp;aacute;c ti&amp;ecirc;u chuẩn bảo mật cao nhất, từ m&amp;atilde; h&amp;oacute;a dữ liệu, x&amp;aacute;c thực đa yếu tố đến tu&amp;acirc;n thủ nghi&amp;ecirc;m ngặt c&amp;aacute;c quy định quốc tế như GDPR, ISO 27001 cũng như quy định ph&amp;aacute;p luật Việt Nam về bảo vệ dữ liệu c&amp;aacute; nh&amp;acirc;n.&amp;nbsp;&lt;/p&gt;
+&lt;figure style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953089271409_ef57c555fc2b6b83acf6173b47a6c5b4.jpg" alt="" width="2560" height="1784"&gt;&lt;img&gt;&lt;/figure&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Được c&amp;aacute;c &amp;ldquo;&amp;ocirc;ng lớn&amp;rdquo; tin tưởng &amp;ndash; Hiệu quả được chứng minh qua thực tiễn&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;iacute;nh đến thời điểm hiện tại, Dịch vụ Vận h&amp;agrave;nh Martech của DTSVN đ&amp;atilde; được triển khai th&amp;agrave;nh c&amp;ocirc;ng tại nhiều tập đo&amp;agrave;n lớn như VietinBank, BIDV, Vietnam Airlines&amp;hellip; Mỗi doanh nghiệp c&amp;oacute; một đặc th&amp;ugrave; ri&amp;ecirc;ng về kh&amp;aacute;ch h&amp;agrave;ng, sản phẩm v&amp;agrave; mục ti&amp;ecirc;u tiếp thị, nhưng tất cả đều ghi nhận hiệu quả r&amp;otilde; rệt trong việc tăng cường tương t&amp;aacute;c, cải thiện trải nghiệm v&amp;agrave; th&amp;uacute;c đẩy doanh số nhờ v&amp;agrave;o việc ứng dụng giải ph&amp;aacute;p Martech.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại VietinBank, giải ph&amp;aacute;p Martech đ&amp;atilde; hỗ trợ x&amp;acirc;y dựng v&amp;agrave; triển khai c&amp;aacute;c chiến dịch App Push, In-app v&amp;agrave; Email Marketing tự động, đồng thời c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a nội dung theo h&amp;agrave;nh vi từng nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng. DTSVN cũng tổ chức đ&amp;agrave;o tạo v&amp;agrave; đồng h&amp;agrave;nh xuy&amp;ecirc;n suốt với đội ngũ marketing nội bộ để khai th&amp;aacute;c tối đa nền tảng. Trong khi đ&amp;oacute;, BIDV t&amp;igrave;m kiếm giải ph&amp;aacute;p Martech để đẩy mạnh chiến dịch truyền th&amp;ocirc;ng v&amp;agrave; b&amp;aacute;n h&amp;agrave;ng qua website, sử dụng c&amp;aacute;c định dạng như Web Push, Pop-up, Hello Bar, g&amp;oacute;p phần n&amp;acirc;ng cao tỷ lệ truy cập v&amp;agrave; thời gian tương t&amp;aacute;c. Đặc biệt, Vietnam Airlines &amp;ndash; đơn vị h&amp;agrave;ng kh&amp;ocirc;ng Quốc gia &amp;ndash; đ&amp;atilde; ứng dụng Dịch vụ Vận h&amp;agrave;nh Martech để x&amp;acirc;y dựng h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng số ho&amp;aacute; tr&amp;ecirc;n cả website v&amp;agrave; ứng dụng di động, cải thiện chỉ số trải nghiệm người d&amp;ugrave;ng v&amp;agrave; tối ưu h&amp;oacute;a th&amp;ocirc;ng điệp tiếp cận theo từng thời điểm trong h&amp;agrave;nh tr&amp;igrave;nh đặt v&amp;eacute;, sử dụng dịch vụ.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo số liệu thống k&amp;ecirc; từ DTSVN, doanh thu từ Dịch vụ Vận h&amp;agrave;nh Martech trong năm 2024 đạt hơn 7.758 triệu đồng, tăng trưởng hơn 6 lần so với năm 2023. Đ&amp;acirc;y l&amp;agrave; một trong những Dịch vụ trong lĩnh vực Martech được ph&amp;aacute;t triển v&amp;agrave; cung cấp bởi doanh nghiệp Việt Nam, chiếm lĩnh thị phần gần như tuyệt đối tại thị trường trong nước.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Từ c&amp;ocirc;ng nghệ đến con người &amp;ndash; Tạo n&amp;ecirc;n sự kh&amp;aacute;c biệt&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;iacute;a sau th&amp;agrave;nh c&amp;ocirc;ng ấy l&amp;agrave; đội ngũ 15 chuy&amp;ecirc;n gia c&amp;ocirc;ng nghệ, tư vấn v&amp;agrave; vận h&amp;agrave;nh gi&amp;agrave;u kinh nghiệm, bao gồm cả Tiến sĩ, Thạc sĩ v&amp;agrave; Cử nh&amp;acirc;n trong c&amp;aacute;c lĩnh vực li&amp;ecirc;n quan. Họ kh&amp;ocirc;ng chỉ l&amp;agrave;m tốt vai tr&amp;ograve; kỹ thuật, m&amp;agrave; c&amp;ograve;n đ&amp;oacute;ng vai tr&amp;ograve; l&amp;agrave; người đồng h&amp;agrave;nh chiến lược với kh&amp;aacute;ch h&amp;agrave;ng trong mọi giai đoạn &amp;ndash; từ tư duy nội dung, thiết kế h&amp;agrave;nh tr&amp;igrave;nh người d&amp;ugrave;ng đến đo lường hiệu quả v&amp;agrave; cải tiến li&amp;ecirc;n tục.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo &amp;Ocirc;ng Nguyễn B&amp;aacute; Chiến, Tổng G&amp;aacute;m Đốc DTSVN &amp;ldquo;Việc được vinh danh tại Giải thưởng Sao Khu&amp;ecirc; 2025 l&amp;agrave; bước ngoặt quan trọng, nhưng đồng thời l&amp;agrave; động lực để c&amp;ocirc;ng ty tiếp tục đầu tư, n&amp;acirc;ng cao chất lượng v&amp;agrave; hướng đến xuất khẩu dịch vụ Martech ra thị trường khu vực. Trong h&amp;agrave;nh tr&amp;igrave;nh chuyển đổi số của c&amp;aacute;c doanh nghiệp Việt, DTSVN x&amp;aacute;c định vai tr&amp;ograve; của m&amp;igrave;nh kh&amp;ocirc;ng chỉ l&amp;agrave; nh&amp;agrave; cung cấp dịch vụ, m&amp;agrave; l&amp;agrave; đối t&amp;aacute;c chiến lược, người đồng h&amp;agrave;nh trong việc số h&amp;oacute;a trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng một c&amp;aacute;ch b&amp;agrave;i bản, bền vững v&amp;agrave; hiệu quả&amp;rdquo;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hanoi, April 19, 2025&lt;/strong&gt; &amp;ndash; The &lt;strong&gt;Customer Engagement Platform (CEP) Operations Service&lt;/strong&gt; of DTSVN has officially been honored at the &lt;strong&gt;2025 Sao Khue Awards&lt;/strong&gt;, Group 9 &amp;ldquo;Digital Services&amp;rdquo;. This milestone affirms DTSVN&amp;rsquo;s pioneering position in &lt;strong&gt;Martech Operations&lt;/strong&gt; &amp;ndash; one of the crucial &amp;ldquo;building blocks&amp;rdquo; enabling enterprises to accelerate digital transformation and drive growth.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953089320008_698cc2ae55941ce4f8a34d2b3731dce9.jpg" alt="" width="2560" height="1707"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Tackling the Big Challenge: Personalized Marketing &amp;ndash; Automated, Effective, and Practical&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;In the digital era, customers are no longer attracted by generic messages. They expect &lt;strong&gt;personalized experiences&lt;/strong&gt;, where brands understand and engage with them at the right time, in the right way, and through the right channel. However, meeting these expectations requires more than just a Martech tool. Businesses need a &lt;strong&gt;team that understands strategy, can operate platforms, and continuously optimize campaigns in real time&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the mindset of &lt;strong&gt;&amp;ldquo;solving the problem at its root&amp;rdquo;&lt;/strong&gt;, DTSVN has deployed its &lt;strong&gt;Martech Operations Service&lt;/strong&gt; &amp;ndash; helping businesses optimize automated marketing strategies through the use of automation platforms and tools that deliver personalized communication messages to customers or end users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Automated campaigns enhance the user experience across multiple communication channels such as websites, apps, and email.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The service not only strengthens customer engagement but also helps businesses improve marketing effectiveness, enhance measurement and analytics capabilities, and make better, data-driven decisions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;A Real-Time, Technology-Integrated Platform&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;One of the key differentiators of DTSVN&amp;rsquo;s CEP Operations Service is its ability to integrate advanced technologies such as &lt;strong&gt;Artificial Intelligence (AI), Machine Learning (ML), Big Data, and the SMAC stack (Social, Mobile, Analytics, Cloud)&lt;/strong&gt;. Thanks to this, businesses can analyze user behavior, personalize content, and fully automate the customer engagement process &amp;ndash; from promotion to after-sales care.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The Martech solution also provides &lt;strong&gt;real-time reporting and performance measurement&lt;/strong&gt; by channel and customer segment. Importantly, all operations are safeguarded with the &lt;strong&gt;highest security standards&lt;/strong&gt; &amp;ndash; from data encryption and multi-factor authentication to strict compliance with international regulations such as &lt;strong&gt;GDPR, ISO 27001&lt;/strong&gt;, as well as Vietnam&amp;rsquo;s data protection laws.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953089271409_ef57c555fc2b6b83acf6173b47a6c5b4.jpg" alt="" width="2560" height="1784"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Trusted by Industry Leaders &amp;ndash; Proven in Practice&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;To date, DTSVN&amp;rsquo;s Martech Operations Service has been successfully implemented at major corporations such as &lt;strong&gt;VietinBank, BIDV, and Vietnam Airlines&lt;/strong&gt;. Each organization has its own customer base, products, and marketing objectives, but all have achieved &lt;strong&gt;tangible results&lt;/strong&gt; in boosting engagement, improving customer experience, and driving revenue through Martech adoption.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;At &lt;strong&gt;VietinBank&lt;/strong&gt;, the solution supported the design and execution of automated App Push, In-app, and Email Marketing campaigns, with content personalized to each customer group&amp;rsquo;s behavior. DTSVN also provided training and continuous support to the bank&amp;rsquo;s internal marketing team to maximize platform usage.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Meanwhile, &lt;strong&gt;BIDV&lt;/strong&gt; leveraged Martech to strengthen website-based communication and sales campaigns using Web Push, Pop-up, and Hello Bar formats, which significantly improved traffic and engagement.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Notably, &lt;strong&gt;Vietnam Airlines&lt;/strong&gt;, the national flag carrier, applied Martech Operations to build a &lt;strong&gt;digitalized customer journey&lt;/strong&gt; across its website and mobile app. The solution enhanced user experience metrics and optimized message delivery at key moments throughout the booking and service journey.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to DTSVN&amp;rsquo;s statistics, revenue from its Martech Operations Service in 2024 exceeded &lt;strong&gt;VND 7,758 million&lt;/strong&gt;, representing more than &lt;strong&gt;sixfold growth compared to 2023&lt;/strong&gt;. This is one of the Martech services developed and delivered by a Vietnamese enterprise, capturing an &lt;strong&gt;almost absolute market share domestically&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;From Technology to People &amp;ndash; Creating True Differentiation&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Behind this success is a team of &lt;strong&gt;15 experienced technology, consulting, and operations specialists&lt;/strong&gt;, including PhDs, Master&amp;rsquo;s, and Bachelor&amp;rsquo;s degree holders across relevant fields. They go beyond technical execution to serve as &lt;strong&gt;strategic partners&lt;/strong&gt; for clients &amp;ndash; supporting every stage, from content ideation and user journey design to performance measurement and continuous optimization.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to &lt;strong&gt;Mr. Nguyễn B&amp;aacute; Chiến, CEO of DTSVN&lt;/strong&gt;:&lt;br&gt;&lt;em&gt;&amp;ldquo;Being recognized at the 2025 Sao Khue Awards is an important milestone, but also a motivation for us to continue investing, improving quality, and aiming to export Martech services to regional markets. In the digital transformation journey of Vietnamese enterprises, DTSVN defines its role not just as a service provider, but as a strategic partner &amp;ndash; an enabler of sustainable, effective, and systematic customer experience digitalization.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-19T04:35:09.000Z</time_create_dt>
+	<createdDate>2025-08-28T04:35:07.280Z</createdDate>
+	<createdDate_dt>2025-08-28T04:35:07.280Z</createdDate_dt>
+	<lastModifiedDate>2025-09-05T02:53:07.263Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-05T02:53:07.263Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

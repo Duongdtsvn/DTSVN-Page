@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8a11</objectGroupId>
+	<objectId>8a11f8cb-6f32-ab03-2ac6-4491a0db73a6</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>8a11f8cb-6f32-ab03-2ac6-4491a0db73a6</folder-name>
+	<internal-name>Làm thế nào để xây dựng chiến lược đa kênh phù hợp cho doanh nghiệp? </internal-name>
+	<navLabel>Làm thế nào để xây dựng chiến lược đa kênh phù hợp cho doanh nghiệp?</navLabel>
+	<title_vi_s>Làm thế nào để xây dựng chiến lược đa kênh phù hợp cho doanh nghiệp?</title_vi_s>
+	<title_en_s>How to build the right multi-channel strategy for your business?</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/2-marketing-da-kenh-la-gi-xay-dung-chien-luoc-marketing-da-kenh-nhu-the-nao-la-hieu-qua-1024x691.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Trong khi thuật ngữ tiếp thị đa k&amp;ecirc;nh được sử dụng rất nhiều, th&amp;igrave; thực tế chỉ c&amp;oacute; một số &amp;iacute;t c&amp;ocirc;ng ty tạo ra được trải nghiệm thương hiệu nhất qu&amp;aacute;n ở quy m&amp;ocirc; lớn v&amp;agrave; tr&amp;ecirc;n nhiều k&amp;ecirc;nh.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; một l&amp;yacute; do ch&amp;iacute;nh đ&amp;aacute;ng cho điều đ&amp;oacute; việc x&amp;acirc;y dựng v&amp;agrave; triển khai chiến lược đa k&amp;ecirc;nh l&amp;agrave; một qu&amp;aacute; tr&amp;igrave;nh kh&amp;oacute; khăn đ&amp;ograve;i hỏi:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;C&amp;oacute; c&amp;aacute;i nh&amp;igrave;n r&amp;otilde; r&amp;agrave;ng v&amp;agrave; hiểu biết về to&amp;agrave;n bộ h&amp;agrave;nh tr&amp;igrave;nh của kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n mọi điểm tiếp x&amp;uacute;c.&lt;/li&gt;
+&lt;li&gt;Khả năng tiếp cận kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n nhiều k&amp;ecirc;nh kh&amp;aacute;c nhau bằng nội dung theo ngữ cảnh, th&amp;ocirc;ng điệp v&amp;agrave; đề xuất sản phẩm.&lt;/li&gt;
+&lt;li&gt;Việc triển khai c&amp;aacute;c quy tr&amp;igrave;nh mới v&amp;agrave; c&amp;aacute;c giải ph&amp;aacute;p tiếp thị mới.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chiến lược đa k&amp;ecirc;nh l&amp;agrave; g&amp;igrave;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chiến lược đa k&amp;ecirc;nh (c&amp;ograve;n gọi l&amp;agrave; chiến lược li&amp;ecirc;n k&amp;ecirc;nh) ph&amp;aacute;c thảo c&amp;aacute;ch một thương hiệu sử dụng c&amp;aacute;c k&amp;ecirc;nh marketing kh&amp;aacute;c nhau để tiếp cận kh&amp;aacute;ch h&amp;agrave;ng theo c&amp;aacute;ch kịp thời, hấp dẫn v&amp;agrave; ph&amp;ugrave; hợp. C&amp;aacute;c k&amp;ecirc;nh c&amp;oacute; thể l&amp;agrave; k&amp;ecirc;nh vật l&amp;yacute; như cửa h&amp;agrave;ng truyền thống hoặc văn ph&amp;ograve;ng chi nh&amp;aacute;nh, k&amp;ecirc;nh kỹ thuật số như nền tảng truyền th&amp;ocirc;ng x&amp;atilde; hội, email, SMS hoặc chatbot.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;igrave;a kh&amp;oacute;a cho một chiến lược marketing th&amp;agrave;nh c&amp;ocirc;ng l&amp;agrave; phải c&amp;oacute; tất cả c&amp;aacute;c k&amp;ecirc;nh trực tiếp v&amp;agrave; trực tuyến c&amp;ugrave;ng hoạt động để tạo ra trải nghiệm được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a. Ngược lại, với một chiến lược đa k&amp;ecirc;nh ti&amp;ecirc;u chuẩn, c&amp;aacute;c điểm tiếp x&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng kh&amp;aacute;c nhau hoạt động ri&amp;ecirc;ng lẻ, dẫn đến trải nghiệm thương hiệu kh&amp;ocirc;ng liền mạch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y tưởng tượng một thương hiệu thương mại điện tử c&amp;oacute; trang web v&amp;agrave; ứng dụng di động, đồng thời sử dụng c&amp;aacute;c k&amp;ecirc;nh như email, SMS v&amp;agrave; WhatsApp để tiếp cận kh&amp;aacute;ch h&amp;agrave;ng. Một chiến lược đa k&amp;ecirc;nh vững chắc đảm bảo rằng kh&amp;aacute;ch h&amp;agrave;ng của thương hiệu sẽ lu&amp;ocirc;n thấy c&amp;aacute;c th&amp;ocirc;ng điệp v&amp;agrave; khuyến nghị sản phẩm kịp thời v&amp;agrave; ph&amp;ugrave; hợp tr&amp;ecirc;n mỗi điểm tiếp x&amp;uacute;c n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; dụ, c&amp;aacute;c chiến dịch email được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a dựa tr&amp;ecirc;n những g&amp;igrave; kh&amp;aacute;ch h&amp;agrave;ng duyệt tr&amp;ecirc;n trang web, c&amp;aacute;c tin nhắn qua SMS v&amp;agrave; WhatsApp dựa tr&amp;ecirc;n c&amp;aacute;ch kh&amp;aacute;ch h&amp;agrave;ng phản ứng với email, v.v. Điều n&amp;agrave;y cho ph&amp;eacute;p h&amp;agrave;nh tr&amp;igrave;nh của kh&amp;aacute;ch h&amp;agrave;ng ph&amp;aacute;t triển theo thời gian thực, t&amp;ugrave;y thuộc v&amp;agrave;o nhu cầu v&amp;agrave; sở th&amp;iacute;ch của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;oacute;i một c&amp;aacute;ch đơn giản, phương ph&amp;aacute;p tiếp cận đa k&amp;ecirc;nh đảm bảo tất cả c&amp;aacute;c k&amp;ecirc;nh hoạt động c&amp;ugrave;ng nhau để tạo ra trải nghiệm nhất qu&amp;aacute;n . Điều n&amp;agrave;y dẫn đến cải thiện c&amp;aacute;c số liệu ch&amp;iacute;nh như sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng, doanh thu, tỷ lệ chuyển đổi, duy tr&amp;igrave; v&amp;agrave; nhiều hơn nữa.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4 bước để tạo ra một chiến lược đa k&amp;ecirc;nh hiệu quả&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tiếp thị đa k&amp;ecirc;nh c&amp;oacute; thể bao gồm rất nhiều điểm tiếp x&amp;uacute;c v&amp;agrave; trường hợp sử dụng, khiến việc cung cấp một chiến lược &amp;ldquo;ph&amp;ugrave; hợp với tất cả&amp;rdquo; cho mọi doanh nghiệp trở n&amp;ecirc;n bất khả thi. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, c&amp;oacute; bốn bước ch&amp;iacute;nh m&amp;agrave; hầu như bất kỳ nh&amp;oacute;m tiếp thị n&amp;agrave;o cũng c&amp;oacute; thể trải qua khi triển khai phương ph&amp;aacute;p tiếp cận đa k&amp;ecirc;nh của họ. Tất cả bắt đầu bằng việc c&amp;oacute; dữ liệu kh&amp;aacute;ch h&amp;agrave;ng đ&amp;aacute;ng tin cậy để ph&amp;acirc;n kh&amp;uacute;c v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. X&amp;aacute;c định c&amp;aacute;c ph&amp;acirc;n kh&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng ch&amp;iacute;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;acirc;n kh&amp;uacute;c marketing l&amp;agrave; qu&amp;aacute; tr&amp;igrave;nh nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng lại với nhau dựa tr&amp;ecirc;n c&amp;aacute;c đặc điểm v&amp;agrave; t&amp;iacute;nh c&amp;aacute;ch chung. Qu&amp;aacute; tr&amp;igrave;nh n&amp;agrave;y rất cần thiết cho c&amp;aacute;c nỗ lực đa k&amp;ecirc;nh của bạn v&amp;igrave; n&amp;oacute; đảm bảo ch&amp;uacute;ng nhắm mục ti&amp;ecirc;u đến đ&amp;uacute;ng đối tượng. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hầu hết c&amp;aacute;c giải ph&amp;aacute;p tiếp thị kỹ thuật số hiện nay đều cung cấp &amp;iacute;t nhất một số loại t&amp;iacute;nh năng ph&amp;acirc;n kh&amp;uacute;c. V&amp;iacute; dụ, Insider (Đối t&amp;aacute;c chiến lược của DTSVN) c&amp;oacute; hơn 120 thuộc t&amp;iacute;nh ph&amp;acirc;n kh&amp;uacute;c, bao gồm c&amp;aacute;c đặc điểm, h&amp;agrave;nh vi v&amp;agrave; sở th&amp;iacute;ch. C&amp;aacute;c thuộc t&amp;iacute;nh n&amp;agrave;y trải rộng tr&amp;ecirc;n ba loại đối tượng kh&amp;aacute;c nhau:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Ti&amp;ecirc;u chuẩn, bao gồm c&amp;aacute;c đặc điểm như vị tr&amp;iacute;, th&amp;ocirc;ng tin nh&amp;acirc;n khẩu học, thiết bị v&amp;agrave; hệ điều h&amp;agrave;nh.&lt;/li&gt;
+&lt;li&gt;Được x&amp;aacute;c định trước, như kh&amp;aacute;ch h&amp;agrave;ng tiềm năng, người bỏ giỏ h&amp;agrave;ng v&amp;agrave; tr&amp;igrave;nh duyệt, kh&amp;aacute;ch h&amp;agrave;ng đ&amp;atilde; tương t&amp;aacute;c với thương hiệu của bạn tr&amp;ecirc;n một k&amp;ecirc;nh cụ thể,...&lt;/li&gt;
+&lt;li&gt;Dự đo&amp;aacute;n, được tạo ra bởi c&amp;aacute;c thuật to&amp;aacute;n AI, chẳng hạn như kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; sở th&amp;iacute;ch giảm gi&amp;aacute;, c&amp;oacute; khả năng mua hoặc tương t&amp;aacute;c cao tr&amp;ecirc;n một k&amp;ecirc;nh cụ thể.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Với c&amp;ocirc;ng cụ quy tắc của Insider - (Đối t&amp;aacute;c chiến lược của DTSVN), doanh nghiệp cũng c&amp;oacute; thể thiết lập c&amp;aacute;c tham số ph&amp;acirc;n đoạn xung quanh c&amp;aacute;c phi&amp;ecirc;n, &amp;yacute; định tho&amp;aacute;t v&amp;agrave; thậm ch&amp;iacute; cả thời tiết địa phương của kh&amp;aacute;ch h&amp;agrave;ng. Doanh nghiệp c&amp;oacute; thể chi tiết hơn bằng c&amp;aacute;ch viết c&amp;aacute;c quy tắc t&amp;ugrave;y chỉnh t&amp;ugrave;y theo nhu cầu của m&amp;igrave;nh. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;oacute;i một c&amp;aacute;ch đơn giản, doanh nghiệp c&amp;oacute; to&amp;agrave;n quyền kiểm so&amp;aacute;t để t&amp;igrave;m ra ph&amp;acirc;n kh&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng quan trọng nhất cho m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, nhiều thương hiệu gặp kh&amp;oacute; khăn trong vấn đề n&amp;agrave;y v&amp;igrave; dữ liệu kh&amp;aacute;ch h&amp;agrave;ng của họ nằm rải r&amp;aacute;c tr&amp;ecirc;n c&amp;aacute;c hệ thống kh&amp;ocirc;ng li&amp;ecirc;n kết, như CRM, CMS, nền tảng email v&amp;agrave; SMS, mạng quảng c&amp;aacute;o, c&amp;ocirc;ng cụ ph&amp;acirc;n t&amp;iacute;ch,...Điều n&amp;agrave;y khiến việc ph&amp;acirc;n kh&amp;uacute;c ch&amp;iacute;nh x&amp;aacute;c trở n&amp;ecirc;n cực kỳ kh&amp;oacute; khăn v&amp;agrave; tốn thời gian.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;oacute; l&amp;agrave; l&amp;yacute; do tại sao Insider cũng cho ph&amp;eacute;p doanh nghiệp tổng hợp dữ liệu của m&amp;igrave;nh với nền tảng dữ liệu kh&amp;aacute;ch h&amp;agrave;ng (CDP). CDP c&amp;oacute; thể hợp nhất dữ liệu kh&amp;aacute;ch h&amp;agrave;ng từ bất kỳ nguồn trực tuyến hoặc ngoại tuyến n&amp;agrave;o th&amp;agrave;nh một cơ sở dữ liệu thuận tiện duy nhất.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;oacute; cũng tạo ra hồ sơ chi tiết, 360 độ về tất cả kh&amp;aacute;ch h&amp;agrave;ng của bạn, trong đ&amp;oacute; c&amp;oacute; chứa những th&amp;ocirc;ng tin chi tiết cần thiết, như:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;T&amp;ecirc;n, th&amp;ocirc;ng tin nh&amp;acirc;n khẩu v&amp;agrave; th&amp;ocirc;ng tin li&amp;ecirc;n lạc.&lt;/li&gt;
+&lt;li&gt;Sự y&amp;ecirc;u th&amp;iacute;ch đối với một số sản phẩm v&amp;agrave; danh mục nhất định.&lt;/li&gt;
+&lt;li&gt;Tương t&amp;aacute;c k&amp;ecirc;nh v&amp;agrave; lịch sử mua h&amp;agrave;ng.&lt;/li&gt;
+&lt;li&gt;Khả năng tiếp cận v&amp;agrave; t&amp;ugrave;y chọn k&amp;ecirc;nh.&lt;/li&gt;
+&lt;li&gt;V&amp;agrave; nhiều hơn nữa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y kh&amp;ocirc;ng chỉ gi&amp;uacute;p ph&amp;acirc;n kh&amp;uacute;c dễ d&amp;agrave;ng hơn (v&amp;igrave; tất cả dữ liệu của doanh nghiệp đều ở một nơi) m&amp;agrave; c&amp;aacute;c hồ sơ n&amp;agrave;y c&amp;ograve;n đ&amp;oacute;ng vai tr&amp;ograve; l&amp;agrave; nền tảng ho&amp;agrave;n hảo để ph&amp;acirc;n t&amp;iacute;ch h&amp;agrave;nh vi kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; triển khai c&amp;aacute;c chiến dịch c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. T&amp;igrave;m hiểu xem kh&amp;aacute;ch h&amp;agrave;ng đang sử dụng k&amp;ecirc;nh n&amp;agrave;o?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một trong những lợi &amp;iacute;ch lớn nhất của việc hợp nhất v&amp;agrave; ph&amp;acirc;n đoạn dữ liệu l&amp;agrave; doanh nghiệp c&amp;oacute; thể c&amp;oacute; được c&amp;aacute;i nh&amp;igrave;n ch&amp;iacute;nh x&amp;aacute;c về c&amp;aacute;c đặc điểm v&amp;agrave; h&amp;agrave;nh vi ch&amp;iacute;nh, như khả năng tiếp cận v&amp;agrave; mức độ sử dụng k&amp;ecirc;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Doanh nghiệp c&amp;oacute; thể bắt đầu bằng một điều đơn giản như ph&amp;acirc;n t&amp;iacute;ch khả năng tiếp cận k&amp;ecirc;nh để biết tỷ lệ phần trăm của từng ph&amp;acirc;n kh&amp;uacute;c (kh&amp;aacute;ch h&amp;agrave;ng VIP, kh&amp;aacute;ch h&amp;agrave;ng kh&amp;ocirc;ng hoạt động,...) c&amp;oacute; thể tiếp cận được tr&amp;ecirc;n một k&amp;ecirc;nh cụ thể như email, SMS hoặc th&amp;ocirc;ng b&amp;aacute;o đẩy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ đ&amp;acirc;y, doanh nghiệp c&amp;oacute; thể t&amp;igrave;m hiểu s&amp;acirc;u hơn về c&amp;aacute;ch c&amp;aacute;c ph&amp;acirc;n kh&amp;uacute;c quan trọng muốn được li&amp;ecirc;n hệ tr&amp;ecirc;n mỗi k&amp;ecirc;nh . Điều n&amp;agrave;y c&amp;oacute; thể thực hiện được với ph&amp;acirc;n t&amp;iacute;ch tần suất tin nhắn gi&amp;uacute;p doanh nghiệp x&amp;aacute;c định tần suất tối ưu cho mỗi k&amp;ecirc;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cuối c&amp;ugrave;ng, doanh nghiệp c&amp;oacute; thể x&amp;acirc;y dựng c&amp;aacute;c b&amp;aacute;o c&amp;aacute;o chi tiết để theo d&amp;otilde;i hiệu suất của từng k&amp;ecirc;nh v&amp;agrave; c&amp;aacute;ch thức thay đổi dựa tr&amp;ecirc;n c&amp;aacute;c chiến dịch đa k&amp;ecirc;nh m&amp;agrave; bạn đang chạy. C&amp;aacute;c b&amp;aacute;o c&amp;aacute;o n&amp;agrave;y c&amp;oacute; thể bao gồm c&amp;aacute;c số liệu ch&amp;iacute;nh cho từng k&amp;ecirc;nh như tỷ lệ ph&amp;acirc;n phối, tỷ lệ mở, tỷ lệ nhấp (CTR) v&amp;agrave; doanh thu.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh bằng tin nhắn được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi doanh nghiệp đ&amp;atilde; biết kh&amp;aacute;ch h&amp;agrave;ng đang sử dụng k&amp;ecirc;nh n&amp;agrave;o, đ&amp;atilde; đến l&amp;uacute;c bắt đầu tiếp cận họ bằng những th&amp;ocirc;ng điệp kịp thời v&amp;agrave; ph&amp;ugrave; hợp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Doanh nghiệp c&amp;oacute; thể sử dụng một bộ giải ph&amp;aacute;p k&amp;ecirc;nh đơn cho mục đ&amp;iacute;ch n&amp;agrave;y v&amp;iacute; dụ, c&amp;ocirc;ng cụ marketing qua email v&amp;agrave; SMS, giải ph&amp;aacute;p th&amp;ocirc;ng b&amp;aacute;o đẩy, nền tảng c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trang web, v.v. Tuy nhi&amp;ecirc;n, c&amp;aacute;ch tiếp cận n&amp;agrave;y c&amp;oacute; thể l&amp;agrave;m ph&amp;igrave;nh to đ&amp;aacute;ng kể ngăn xếp martech của doanh nghiệp, ngo&amp;agrave;i việc tốn k&amp;eacute;m nhiều tiền, c&amp;ograve;n dẫn đến quy tr&amp;igrave;nh l&amp;agrave;m việc qu&amp;aacute; phức tạp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Kết nối tất cả c&amp;aacute;c điểm tiếp x&amp;uacute;c th&amp;agrave;nh một h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng nhất qu&amp;aacute;n&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; rất nhiều yếu tố tạo n&amp;ecirc;n một chiến lược đa k&amp;ecirc;nh th&amp;agrave;nh c&amp;ocirc;ng. Tuy nhi&amp;ecirc;n, vẫn c&amp;ograve;n thiếu một yếu tố khả năng li&amp;ecirc;n kết tất cả c&amp;aacute;c điểm tiếp x&amp;uacute;c lại với nhau th&amp;agrave;nh một trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng đa k&amp;ecirc;nh gắn kết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; dụ, Insider's Architect l&amp;agrave; tr&amp;igrave;nh x&amp;acirc;y dựng h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể gi&amp;uacute;p doanh nghiệp gửi tin nhắn được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, kịp thời v&amp;agrave; c&amp;oacute; li&amp;ecirc;n quan đến tất cả người d&amp;ugrave;ng tr&amp;ecirc;n mọi điểm tiếp x&amp;uacute;c. Điều n&amp;agrave;y bao gồm việc tạo ra mọi loại luồng tự động, như:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Chuỗi email ch&amp;agrave;o mừng.&lt;/li&gt;
+&lt;li&gt;Hoạt động b&amp;aacute;n th&amp;ecirc;m v&amp;agrave; b&amp;aacute;n ch&amp;eacute;o diễn ra tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh email v&amp;agrave; tin nhắn.&lt;/li&gt;
+&lt;li&gt;Chiến dịch kh&amp;ocirc;i phục giỏ h&amp;agrave;ng tr&amp;ecirc;n trang web của bạn v&amp;agrave; th&amp;ocirc;ng b&amp;aacute;o đẩy.&lt;/li&gt;
+&lt;li&gt;H&amp;agrave;nh tr&amp;igrave;nh đa k&amp;ecirc;nh phức tạp trải d&amp;agrave;i tr&amp;ecirc;n nhiều k&amp;ecirc;nh, nhiều ng&amp;agrave;y v&amp;agrave; nhiều ph&amp;acirc;n kh&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng kh&amp;aacute;c nhau.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Doanh nghiệp ho&amp;agrave;n to&amp;agrave;n kiểm so&amp;aacute;t mọi h&amp;agrave;nh tr&amp;igrave;nh đa k&amp;ecirc;nh, bao gồm c&amp;aacute;ch bắt đầu, k&amp;ecirc;nh n&amp;agrave;o trải d&amp;agrave;i, Insider phải đợi bao l&amp;acirc;u giữa c&amp;aacute;c bước,... Nền tảng của cung cấp cho doanh nghiệp số liệu theo thời gian thực về hiệu suất của từng bước, để c&amp;oacute; thể đưa ra quyết định dựa tr&amp;ecirc;n dữ liệu một c&amp;aacute;ch nhanh ch&amp;oacute;ng v&amp;agrave; hiệu quả.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, t&amp;iacute;nh linh hoạt n&amp;agrave;y cũng đi k&amp;egrave;m sự phức tạp, đặc biệt l&amp;agrave; khi cố gắng triển khai chiến lược đa k&amp;ecirc;nh ở quy m&amp;ocirc; lớn. Đ&amp;acirc;y ch&amp;iacute;nh l&amp;agrave; l&amp;uacute;c AI v&amp;agrave; m&amp;aacute;y học ph&amp;aacute;t huy t&amp;aacute;c dụng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: Insider&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p&gt;While the term omnichannel marketing is used a lot, the reality is that few companies are creating a consistent brand experience at scale and across multiple channels.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a good reason why building and implementing an omnichannel strategy is a difficult process that requires:&lt;/p&gt;
+&lt;p&gt;A clear view and understanding of the entire customer journey across every touchpoint.&lt;/p&gt;
+&lt;p&gt;The ability to reach customers across multiple channels with contextual content, messaging, and product recommendations.&lt;/p&gt;
+&lt;p&gt;The implementation of new processes and new marketing solutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is an omnichannel strategy?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An omnichannel strategy (also known as a cross-channel strategy) outlines how a brand uses different marketing channels to reach customers in a timely, engaging, and relevant way. Channels can be physical channels like brick-and-mortar stores or branch offices, digital channels like social media platforms, email, SMS, or chatbots.&lt;/p&gt;
+&lt;p&gt;The key to a successful marketing strategy is to have all your offline and online channels working together to create a personalized experience. In contrast, with a standard omnichannel strategy, different customer touchpoints work separately, resulting in a non-seamless brand experience.&lt;/p&gt;
+&lt;p&gt;Imagine an e-commerce brand that has a website and a mobile app, and uses channels like email, SMS, and WhatsApp to reach customers. A solid omnichannel strategy ensures that the brand&amp;rsquo;s customers will always see timely and relevant messages and product recommendations across each of these touchpoints.&lt;/p&gt;
+&lt;p&gt;For example, personalized email campaigns based on what customers browse on the website, SMS and WhatsApp messages based on how customers respond to emails, and so on. This allows the customer journey to evolve in real time, depending on the customer&amp;rsquo;s needs and preferences.&lt;/p&gt;
+&lt;p&gt;Simply put, an omnichannel approach ensures that all channels work together to create a consistent experience. This leads to improvements in key metrics like customer satisfaction, revenue, conversion rates, retention, and more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4 Steps to Creating an Effective Omnichannel Strategy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Omnichannel marketing can encompass so many touchpoints and use cases that it&amp;rsquo;s impossible to provide a &amp;ldquo;one-size-fits-all&amp;rdquo; strategy for every business.&lt;/p&gt;
+&lt;p&gt;However, there are four key steps that almost any marketing team can go through when implementing their omnichannel approach. It all starts with having reliable customer data to segment and analyze.&lt;/p&gt;
+&lt;p&gt;1. Identify Key Customer Segments&lt;/p&gt;
+&lt;p&gt;Marketing segmentation is the process of grouping customers together based on common characteristics and personalities. This process is essential to your omnichannel efforts because it ensures they are targeting the right audience.&lt;/p&gt;
+&lt;p&gt;Most digital marketing solutions today offer at least some type of segmentation. For example, Insider (a DTSVN Strategic Partner) has over 120 segmentation attributes, including characteristics, behaviors, and interests. These attributes span three different audience types:&lt;/p&gt;
+&lt;p&gt;Standard, which includes characteristics such as location, demographics, devices, and operating systems.&lt;/p&gt;
+&lt;p&gt;Predefined, such as leads, cart abandoners, and browsers, customers who have interacted with your brand on a specific channel, etc.&lt;/p&gt;
+&lt;p&gt;Predictive, generated by AI algorithms, such as customers who are interested in discounts, are likely to buy, or are highly engaged on a specific channel.&lt;/p&gt;
+&lt;p&gt;With Insider's rules engine - (a strategic partner of DTSVN), businesses can also set segmentation parameters around customer sessions, exit intent, and even local weather. Businesses can get more granular by writing custom rules based on their needs.&lt;/p&gt;
+&lt;p&gt;Simply put, businesses have full control to figure out which customer segments matter most to them.&lt;/p&gt;
+&lt;p&gt;However, many brands struggle with this because their customer data is scattered across disjointed systems, such as CRMs, CMSs, email and SMS platforms, ad networks, analytics tools, etc. This makes accurate segmentation extremely difficult and time-consuming.&lt;/p&gt;
+&lt;p&gt;That's why Insider also allows businesses to aggregate their data with a customer data platform (CDP). A CDP can consolidate customer data from any online or offline source into a single, convenient database.&lt;/p&gt;
+&lt;p&gt;It also creates a detailed, 360-degree profile of all your customers, containing essential details like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name, demographics, and contact information.&lt;/li&gt;
+&lt;li&gt;Preferences for certain products and categories.&lt;/li&gt;
+&lt;li&gt;Channel interactions and purchase history.&lt;/li&gt;
+&lt;li&gt;Channel reach and preferences.&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Not only does this make segmentation easier (since all your business data is in one place), but these profiles also help you&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;role as the perfect platform to analyze customer behavior and deploy personalized campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Find out which channels your customers are using?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the biggest benefits of consolidating and segmenting data is that businesses can gain a precise view of key characteristics and behaviors, such as channel reach and usage.&lt;/p&gt;
+&lt;p&gt;Businesses can start with something as simple as channel reach analysis to see what percentage of each segment (VIP customers, inactive customers, etc.) is reachable on a specific channel such as email, SMS or push notifications.&lt;/p&gt;
+&lt;p&gt;From here, businesses can dig deeper into how important segments want to be contacted on each channel. This can be done with message frequency analysis, which helps businesses determine the optimal frequency for each channel.&lt;/p&gt;
+&lt;p&gt;Finally, businesses can build detailed reports to track the performance of each channel and how it changes based on the multi-channel campaigns you are running. These reports can include key metrics for each channel such as delivery rates, open rates, click-through rates (CTR), and revenue.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Engage customers across channels with personalized messages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Once businesses know which channels their customers are using, it is time to start reaching them with timely and relevant messages.&lt;/p&gt;
+&lt;p&gt;Businesses can use a single-channel solution suite for this purpose, for example, email and SMS marketing tools, push notification solutions, website personalization platforms, etc. However, this approach can significantly bloat a business&amp;rsquo;s martech stack, which, in addition to being costly, can also lead to overly complex workflows.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Connecting All Touchpoints into a Consistent Customer Journey&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are many elements that make up a successful omnichannel strategy. However, what&amp;rsquo;s missing is the ability to tie all the touchpoints together into a cohesive omnichannel customer experience.&lt;/p&gt;
+&lt;p&gt;For example, Insider&amp;rsquo;s Architect is a customer journey builder that can help businesses send personalized, timely, and relevant messages to all users across all touchpoints. This includes creating all kinds of automated flows, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome email sequences.&lt;/li&gt;
+&lt;li&gt;Upsells and cross-sells that happen across email and messaging channels.&lt;/li&gt;
+&lt;li&gt;Cart recovery campaigns on your website and push notifications.&lt;/li&gt;
+&lt;li&gt;Complex omnichannel journeys that span multiple channels, multiple days, and multiple customer segments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Businesses have complete control over every omnichannel journey, including how to start, which channels to cover, how long Insiders have to wait between steps, etc. The platform provides businesses with real-time data on the performance of each step, so they can make data-driven decisions quickly and effectively.&lt;/p&gt;
+&lt;p&gt;However, this flexibility also comes with complexity, especially when trying to implement an omnichannel strategy at scale. This is where AI and machine learning come into play.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Source: Insider&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Compiled by the DTSVN author team - Digital transformation solutions for the Finance - Banking industry.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;-------&lt;/p&gt;
+&lt;p&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitalization solutions specifically for businesses in the Finance - Banking industry in Vietnam; helping Banks and financial institutions quickly complete their technology systems to serve Digital Transformation.&lt;/p&gt;
+&lt;p&gt;Contact us now for advice and experience the solution here&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-08-20T03:11:16.000Z</time_create_dt>
+	<createdDate>2025-08-25T03:11:15.379Z</createdDate>
+	<createdDate_dt>2025-08-25T03:11:15.379Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T03:11:15.379Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T03:11:15.379Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da5e</objectGroupId>
+	<objectId>da5e1226-f5a1-630f-a9c3-997866a071c2</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>da5e1226-f5a1-630f-a9c3-997866a071c2</folder-name>
+	<internal-name>Xu hướng công nghệ đang được ưu tiên hàng đầu với các ngân hàng năm 2025 </internal-name>
+	<navLabel>Xu hướng công nghệ đang được ưu tiên hàng đầu với các ngân hàng năm 2025</navLabel>
+	<title_vi_s>Xu hướng công nghệ đang được ưu tiên hàng đầu với các ngân hàng năm 2025</title_vi_s>
+	<title_en_s>Technology trends are top priorities for banks in 2025</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/blue-futuristic-quote-desktop-wallpaper.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Chống gian lận l&amp;agrave; một trong những khoản đầu tư c&amp;ocirc;ng nghệ h&amp;agrave;ng đầu được c&amp;aacute;c CEO ng&amp;acirc;n h&amp;agrave;ng h&amp;agrave;ng đầu l&amp;ecirc;n kế hoạch cho năm 2024 v&amp;agrave; 2025. Tất cả c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh đều đồng &amp;yacute; rằng: gian lận s&amp;eacute;c l&amp;agrave; mối đe dọa gian lận lớn nhất, tiếp theo l&amp;agrave; lừa đảo đầu tư v&amp;agrave; chiếm đoạt t&amp;agrave;i khoản.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mới đ&amp;acirc;y, Jack Henry, một trong những chuy&amp;ecirc;n gia kinh tế h&amp;agrave;ng đầu tại Mỹ vừa c&amp;ocirc;ng bố nghi&amp;ecirc;n cứu về những b&amp;agrave;i học gi&amp;aacute; trị từ Gi&amp;aacute;m đốc điều h&amp;agrave;nh c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; Hiệp hội t&amp;iacute;n dụng. Nghi&amp;ecirc;n cứu g&amp;oacute;p phần gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng nắm bắt những thay đổi của thị trường, c&amp;aacute;c cơ hội mới để tinh chỉnh kế hoạch chiến lược của m&amp;igrave;nh v&amp;agrave; cạnh tranh th&amp;agrave;nh c&amp;ocirc;ng trong phần c&amp;ograve;n lại của năm 2024 v&amp;agrave; năm 2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c vấn đề của thị trường ng&amp;acirc;n h&amp;agrave;ng, t&amp;agrave;i ch&amp;iacute;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những b&amp;agrave;i học s&amp;acirc;u sắc được Jack Henry tổng hợp dựa tr&amp;ecirc;n những nghi&amp;ecirc;n cứu trong nửa đầu năm 2024 gồm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tăng tiền gửi &amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y được xem l&amp;agrave; chiến lược ưu ti&amp;ecirc;n h&amp;agrave;ng đầu của tất cả c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave;o năm 2024 v&amp;agrave; 2025. Tr&amp;ecirc;n thực tế, 72% gi&amp;aacute;m đốc điều h&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng cho biết: Việc tăng tiền gửi l&amp;agrave; tối quan trọng. Khi chi ph&amp;iacute; g&amp;acirc;y &amp;aacute;p lực giảm xuống thu nhập r&amp;ograve;ng, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng sẽ phải chịu &amp;aacute;p lực nhiều hơn nhằm cải thiện hiệu quả hoạt động của doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong đ&amp;oacute;, những mối quan t&amp;acirc;m h&amp;agrave;ng đầu của c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng giai đoạn 2024 - 2025 l&amp;agrave;:&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;&lt;em&gt;N&amp;eacute;n bi&amp;ecirc;n l&amp;atilde;i r&amp;ograve;ng (NIM)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thiếu hụt/chuyển dịch tiền gửi&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gia tăng ph&amp;iacute; dịch vụ&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n nh&amp;acirc;n t&amp;agrave;i.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Đầu tư v&amp;agrave;o c&amp;ocirc;ng nghệ&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo ước t&amp;iacute;nh, c&amp;oacute; đến 80% c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; kế hoạch tăng chi ti&amp;ecirc;u cho c&amp;ocirc;ng nghệ trong hai năm tới để th&amp;uacute;c đẩy mọi hoạt động của doanh nghiệp trở n&amp;ecirc;n tối ưu hơn. Ba khoản đầu tư c&amp;ocirc;ng nghệ h&amp;agrave;ng đầu v&amp;agrave;o năm 2024 v&amp;agrave; 2025 m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cần tập trung, đ&amp;oacute; l&amp;agrave;: ng&amp;acirc;n h&amp;agrave;ng số, ph&amp;acirc;n t&amp;iacute;ch dữ liệu v&amp;agrave; ph&amp;aacute;t hiện/giảm thiểu gian lận.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, 92% c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; kế hoạch sẽ &amp;aacute;p dụng c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave;o trải nghiệm ng&amp;acirc;n h&amp;agrave;ng số của m&amp;igrave;nh để n&amp;acirc;ng cấp v&amp;agrave; ho&amp;agrave;n thiện c&amp;aacute;c mục ti&amp;ecirc;u kinh doanh. C&amp;aacute;c kế hoạch hướng đến &amp;aacute;p dụng c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh thanh to&amp;aacute;n với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng, đặc biệt trong việc hỗ trợ về dịch vụ cho doanh nghiệp vừa v&amp;agrave; nhỏ (SMB) cũng như về quản l&amp;yacute; kho bạc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hiện nay, kế hoạch triển khai c&amp;aacute;c d&amp;ograve;ng dịch vụ Ng&amp;acirc;n h&amp;agrave;ng dưới dạng Dịch vụ Banking-as-a-Service (BaaS) - (đưa dịch vụ ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave;o c&amp;aacute;c thương hiệu của b&amp;ecirc;n thứ ba, kh&amp;ocirc;ng phải ng&amp;acirc;n h&amp;agrave;ng) đ&amp;atilde; bị hạn chế đ&amp;aacute;ng kể do sự gi&amp;aacute;m s&amp;aacute;t chặt chẽ của cơ quan quản l&amp;yacute; v&amp;agrave; c&amp;aacute;c chi ph&amp;iacute; tu&amp;acirc;n thủ li&amp;ecirc;n quan được đưa ra v&amp;agrave;o năm 2023. Tr&amp;ecirc;n thực tế, chỉ c&amp;oacute; 30% c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh tr&amp;iacute;ch dẫn c&amp;aacute;c kế hoạch BaaS v&amp;agrave;o năm 2024 v&amp;agrave; 2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo &amp;ocirc;ng Nguyễn B&amp;aacute; Chiến - TGĐ C&amp;ocirc;ng ty DTSVN: &amp;ldquo;Việc đầu tư v&amp;agrave;o c&amp;ocirc;ng nghệ kh&amp;ocirc;ng chỉ l&amp;agrave; xu hướng m&amp;agrave; c&amp;ograve;n l&amp;agrave; yếu tố quyết định sự tồn tại v&amp;agrave; ph&amp;aacute;t triển của c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng trong m&amp;ocirc;i trường đầy biến động hiện nay. Trong bối cảnh cạnh tranh gia tăng v&amp;agrave; sự thay đổi nhanh ch&amp;oacute;ng của thị trường, c&amp;ocirc;ng nghệ như AI, Machine Learning (ML) hay tự động h&amp;oacute;a quy tr&amp;igrave;nh bằng r&amp;ocirc; bốt (RPA)... kh&amp;ocirc;ng chỉ hỗ trợ tối ưu ho&amp;aacute; vận h&amp;agrave;nh m&amp;agrave; c&amp;ograve;n mở ra những cơ hội tăng trưởng mới. Đặc biệt, c&amp;aacute;c ứng dụng ng&amp;acirc;n h&amp;agrave;ng số dựa tr&amp;ecirc;n nền tảng low code kh&amp;ocirc;ng chỉ gi&amp;uacute;p tăng cường khả năng ph&amp;ograve;ng chống gian lận, đưa sản phẩm ra thị trường nhanh m&amp;agrave; c&amp;ograve;n mang lại trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng tốt hơn, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; linh hoạt hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, việc ứng dụng c&amp;ocirc;ng nghệ kh&amp;ocirc;ng n&amp;ecirc;n chỉ l&amp;agrave; một cuộc chạy đua với xu hướng, m&amp;agrave; cần xuất ph&amp;aacute;t từ chiến lược d&amp;agrave;i hạn, gắn kết với nhu cầu thực tế của doanh nghiệp v&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng."&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tập trung v&amp;agrave;o kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo nghi&amp;ecirc;n cứu: trong năm 2024 v&amp;agrave; năm tiếp theo, 90% c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; kế hoạch phục vụ một thị trường ng&amp;aacute;ch để cụ thể h&amp;oacute;a đối tượng mục ti&amp;ecirc;u, thị trường mục ti&amp;ecirc;u. Khoảng 86% c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng sẽ nhắm mục ti&amp;ecirc;u v&amp;agrave;o c&amp;aacute;c doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết quả nghi&amp;ecirc;n cứu khảo s&amp;aacute;t của Jack Henry đối với 78% những người được hỏi đều cho biết: Họ c&amp;oacute; kế hoạch mở rộng c&amp;aacute;c dịch vụ cho c&amp;aacute;c SMB (bao gồm thanh to&amp;aacute;n, t&amp;iacute;n dụng/cho vay doanh nghiệp v&amp;agrave; dịch vụ thương mại).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;FedNow&amp;reg;, thẻ số - Xu hướng c&amp;ocirc;ng nghệ năm 2024 - 2025&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hầu hết c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; kế hoạch bổ sung c&amp;aacute;c dịch vụ thanh to&amp;aacute;n trong v&amp;ograve;ng hai năm tới. Trong đ&amp;oacute;, dịch vụ FedNow&amp;reg; l&amp;agrave; ưu ti&amp;ecirc;n h&amp;agrave;ng đầu, tiếp theo l&amp;agrave; ph&amp;aacute;t h&amp;agrave;nh thẻ kỹ thuật số, thẻ kh&amp;ocirc;ng tiếp x&amp;uacute;c v&amp;agrave; Hệ thống thanh to&amp;aacute;n b&amp;ugrave; trừ tự động (ACH) trong ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tỷ lệ c&amp;aacute;c gi&amp;aacute;m đốc điều h&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; kế hoạch bổ sung c&amp;aacute;c khoản thanh to&amp;aacute;n theo thời gian thực từ The Clearing House đ&amp;atilde; tăng gấp đ&amp;ocirc;i trong năm nay. 97% số người được hỏi c&amp;oacute; kế hoạch n&amp;acirc;ng cao năng lực cho vay của doanh nghiệp m&amp;igrave;nh. Đặc biệt, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; xu hướng tập trung v&amp;agrave;o quy tr&amp;igrave;nh l&amp;agrave;m việc tự động v&amp;agrave; ph&amp;acirc;n bổ t&amp;agrave;i ch&amp;iacute;nh t&amp;ugrave;y chỉnh/tự động.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chống gian lận cũng l&amp;agrave; khoản đầu tư c&amp;ocirc;ng nghệ h&amp;agrave;ng đầu được nh&amp;agrave; điều h&amp;agrave;nh c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng h&amp;agrave;ng đầu l&amp;ecirc;n kế hoạch cho năm 2024 v&amp;agrave; 2025. Tất cả c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh đều đồng &amp;yacute; rằng: gian lận s&amp;eacute;c l&amp;agrave; mối đe dọa gian lận lớn nhất, tiếp theo l&amp;agrave; lừa đảo đầu tư v&amp;agrave; chiếm đoạt t&amp;agrave;i khoản. Những người tham gia trả lời trong cuộc khảo s&amp;aacute;t cho biết: Sự am hiểu về kỹ thuật đối với nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; vi phạm dữ liệu l&amp;agrave; những mối đe dọa mạng h&amp;agrave;ng đầu m&amp;agrave; họ phải đối mặt trong năm nay v&amp;agrave; năm sau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực tế, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh đang&amp;nbsp;vừa phải cạnh tranh lẫn nhau, vừa phải chịu &amp;aacute;p lực tăng lợi nhuận v&amp;agrave; giải quyết c&amp;aacute;c mối quan t&amp;acirc;m về thu nhập ngo&amp;agrave;i l&amp;atilde;i suất . Do đ&amp;oacute;, c&amp;aacute;c kế hoạch, chiến lược đầu tư sẽ ưu ti&amp;ecirc;n v&amp;agrave;o c&amp;ocirc;ng nghệ theo xu hướng chung của thị trường nhằm loại bỏ c&amp;aacute;c quy tr&amp;igrave;nh rườm r&amp;agrave; v&amp;agrave; thủ c&amp;ocirc;ng vốn c&amp;oacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để đạt được mục ti&amp;ecirc;u n&amp;agrave;y, quy tr&amp;igrave;nh l&amp;agrave;m việc của doanh nghiệp sẽ được tự động h&amp;oacute;a quy tr&amp;igrave;nh bằng r&amp;ocirc; bốt (RPA), m&amp;aacute;y học (ML) v&amp;agrave; AI. Đ&amp;acirc;y cũng đang l&amp;agrave; những c&amp;ocirc;ng nghệ đang được săn đ&amp;oacute;n v&amp;agrave; nhanh ch&amp;oacute;ng thịnh h&amp;agrave;nh tr&amp;ecirc;n to&amp;agrave;n cầu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cần chủ động tận dụng sự thay đổi của thị trường, đầu tư v&amp;agrave;o c&amp;aacute;c ứng dụng c&amp;ocirc;ng nghệ hiện đại để c&amp;oacute; vị thế tốt hơn, nắm bắt được c&amp;aacute;c tiềm năng tăng trưởng v&amp;agrave; giảm thiểu rủi ro suy tho&amp;aacute;i - bất kể nền kinh tế diễn biến như thế n&amp;agrave;o v&amp;agrave;o cuối năm 2024 v&amp;agrave; năm 2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Bank automation news&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Fraud prevention is one of the top technology investments planned by leading bank CEOs for 2024 and 2025.&lt;/strong&gt; All financial institutions agree that: check fraud is the biggest fraud threat, followed by investment scams and account takeovers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Recently, Jack Henry, one of the leading economists in the U.S., released a study highlighting valuable lessons from CEOs of banks and credit unions. The research helps banks capture market changes, identify new opportunities to refine their strategic plans, and compete successfully through the rest of 2024 and into 2025.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Challenges in the Banking and Financial Market&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;The profound lessons compiled by Jack Henry, based on research from the first half of 2024, include:&lt;/p&gt;
+&lt;h4 style="text-align: justify;"&gt;Growing Deposits&lt;/h4&gt;
+&lt;p style="text-align: justify;"&gt;This is considered the top strategic priority of all financial institutions in 2024 and 2025. In fact, 72% of bank executives stated that growing deposits is critical. As cost pressures weigh down net income, banks will face greater pressure to improve operational efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Key concerns for banks during 2024&amp;ndash;2025 include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Net interest margin (NIM) compression&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deposit shortfalls/shifts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rising service fees&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attracting and retaining talent&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style="text-align: justify;"&gt;Technology Investment&lt;/h4&gt;
+&lt;p style="text-align: justify;"&gt;It is estimated that up to 80% of financial institutions plan to increase technology spending over the next two years to optimize all aspects of business operations. The three leading technology investments for 2024 and 2025 that banks should focus on are: digital banking, data analytics, and fraud detection/mitigation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In addition, 92% of financial institutions plan to integrate fintech into their digital banking experience to upgrade and enhance business goals. Plans include fintech adoption in payments, especially to support small and medium-sized businesses (SMBs) and treasury management services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Currently, the rollout of Banking-as-a-Service (BaaS) offerings&amp;mdash;embedding banking services into third-party, non-bank brands&amp;mdash;has been significantly constrained by strict regulatory oversight and compliance costs introduced in 2023. In fact, only 30% of financial institutions cited BaaS plans for 2024 and 2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to Mr. Nguyễn B&amp;aacute; Chiến, CEO of DTSVN:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Technology investment is not just a trend but a decisive factor for the survival and growth of banks in today&amp;rsquo;s volatile environment. In the context of increasing competition and rapid market shifts, technologies such as AI, Machine Learning (ML), and Robotic Process Automation (RPA) not only help optimize operations but also unlock new growth opportunities. In particular, low-code digital banking applications enhance fraud prevention, accelerate time-to-market, and deliver a better, more personalized, and flexible customer experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;However, technology adoption should not merely be a race to follow trends; it must stem from long-term strategy and align with the real needs of businesses and customers.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Focus on Corporate Customers&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;According to the study: in 2024 and beyond, 90% of financial institutions plan to serve niche markets to better define their target audience and market focus. Approximately 86% of banks will target businesses.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Survey results from Jack Henry show that 78% of respondents plan to expand services for SMBs (including payments, business credit/loans, and commercial services).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;FedNow&amp;reg;, Digital Cards &amp;ndash; Technology Trends for 2024&amp;ndash;2025&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Most financial institutions plan to add payment services within the next two years. Among them, FedNow&amp;reg; services are the top priority, followed by digital card issuance, contactless cards, and same-day Automated Clearing House (ACH) payments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The proportion of bank executives planning to add real-time payments from The Clearing House has doubled this year. Meanwhile, 97% of respondents plan to enhance their corporate lending capabilities. In particular, banks are increasingly focusing on automated workflows and customized/automated financial allocations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Fraud prevention is also one of the top technology investments planned by leading bank executives for 2024 and 2025. All financial institutions agree that check fraud is the biggest fraud threat, followed by investment scams and account takeovers. Respondents to the survey indicated that staff technical literacy and data breaches are the top cybersecurity threats they face this year and next.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In reality, financial institutions are both competing with each other and under pressure to increase profitability while addressing concerns about non-interest income. As a result, investment strategies will prioritize technology in line with market trends to eliminate legacy manual and cumbersome processes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To achieve this, workflows will be automated with Robotic Process Automation (RPA), Machine Learning (ML), and AI&amp;mdash;technologies that are in high demand and rapidly gaining popularity worldwide.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks must proactively leverage market changes, invest in modern technology applications, and position themselves to capture growth potential and mitigate recession risks&amp;mdash;regardless of how the economy evolves by the end of 2024 and into 2025.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: Bank Automation News&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by DTSVN authors &amp;ndash; Digital Transformation Solutions for the Banking &amp;amp; Financial Industry&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digital solutions tailored for enterprises in the Banking and Financial sector in Vietnam; helping banks and financial institutions quickly complete their technology systems to serve digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us today for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-25T06:38:20.000Z</time_create_dt>
+	<createdDate>2025-08-26T06:38:19.734Z</createdDate>
+	<createdDate_dt>2025-08-26T06:38:19.734Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T06:38:19.734Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T06:38:19.734Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

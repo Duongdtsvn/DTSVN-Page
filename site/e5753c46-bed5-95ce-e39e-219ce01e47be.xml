@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-blog</content-type>
+	<display-template>/templates/web/Component-Blog.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e575</objectGroupId>
+	<objectId>e5753c46-bed5-95ce-e39e-219ce01e47be</objectId>
+	<internal-name>list tin tức</internal-name>
+	<file-name>e5753c46-bed5-95ce-e39e-219ce01e47be.xml</file-name>
+	<folder-name/>
+	<blog_all_o item-list="true">	<item>	<title_s>Thấy gì từ những yêu cầu bắt buộc (Mandatory) của Ngân hàng Nhà nước trong ngành tài chính ngân hàng hiện nay?</title_s>
+	<date_s>27/06/2025</date_s>
+	</item></blog_all_o>
+	<createdDate>2025-06-30T04:14:50.246Z</createdDate>
+	<createdDate_dt>2025-06-30T04:14:50.246Z</createdDate_dt>
+	<lastModifiedDate>2025-06-30T04:14:50.246Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-06-30T04:14:50.246Z</lastModifiedDate_dt>
+</component>

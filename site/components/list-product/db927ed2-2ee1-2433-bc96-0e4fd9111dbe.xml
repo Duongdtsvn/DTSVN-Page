@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-list-product-en</content-type>
+	<display-template>/templates/web/Component-list-product-en.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>db92</objectGroupId>
+	<objectId>db927ed2-2ee1-2433-bc96-0e4fd9111dbe</objectId>
+	<text_t>More than 10 years experienced experts in Finance, Banking and Information Technology are ready to solve technology issues.</text_t>
+	<file-name>db927ed2-2ee1-2433-bc96-0e4fd9111dbe.xml</file-name>
+	<folder-name/>
+	<internal-name>Product - Service</internal-name>
+	<title_s>Product - Service</title_s>
+	<createdDate>2025-07-10T17:29:48.599Z</createdDate>
+	<createdDate_dt>2025-07-10T17:29:48.599Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T17:29:48.599Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T17:29:48.599Z</lastModifiedDate_dt>
+</component>

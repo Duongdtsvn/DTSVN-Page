@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a65</objectGroupId>
+	<objectId>2a65e698-91ef-d8a2-1810-945bb3cfc707</objectId>
+	<file-name>2a65e698-91ef-d8a2-1810-945bb3cfc707.xml</file-name>
+	<folder-name/>
+	<internal-name>thông tin khóa học en</internal-name>
+	<orientation_s>Business Analyst course information at DTSVN</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Course duration: 30 sessions, 3 sessions per week.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Form: Offline study at the company's office - 3A floor, TH building, 116 Trung Liet, Dong Da, Hanoi.</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>Number of students per course: 10 students.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-08T07:23:31.327Z</createdDate>
+	<createdDate_dt>2025-07-08T07:23:31.327Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T07:23:31.327Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T07:23:31.327Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,15 @@
+<content-type name="/component/component-contact-form" is-wcm-type="true">
+	<label>Component - contact - form</label>
+	<form>/component/component-contact-form</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<!-- Specifies whether a form-controller.js is present in the type definition and should be loaded by the Forms Engine -->
+	<controller>false</controller>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

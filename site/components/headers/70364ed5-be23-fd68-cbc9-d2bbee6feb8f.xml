@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-menuc2</content-type>
+	<display-template>/templates/web/Component-menuc2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7036</objectGroupId>
+	<objectId>70364ed5-be23-fd68-cbc9-d2bbee6feb8f</objectId>
+	<file-name>70364ed5-be23-fd68-cbc9-d2bbee6feb8f.xml</file-name>
+	<folder-name/>
+	<internal-name>Menu cấp 2</internal-name>
+	<submenu_o item-list="true">	<item>	<menu_s>Khóa học BA</menu_s>
+	<link_s>/course-of-ba</link_s>
+	</item>	<item>	<menu_s>Tư vấn chuyển đổi số</menu_s>
+	<link_s/>
+	</item></submenu_o>
+	<createdDate>2025-08-20T04:04:22.239Z</createdDate>
+	<createdDate_dt>2025-08-20T04:04:22.239Z</createdDate_dt>
+	<lastModifiedDate>2025-08-20T10:09:45.092Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-20T10:09:45.092Z</lastModifiedDate_dt>
+</component>

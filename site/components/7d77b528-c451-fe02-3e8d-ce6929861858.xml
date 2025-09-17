@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-strengths</content-type>
+	<display-template>/templates/web/component-strengths.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7d77</objectGroupId>
+	<objectId>7d77b528-c451-fe02-3e8d-ce6929861858</objectId>
+	<file-name>7d77b528-c451-fe02-3e8d-ce6929861858.xml</file-name>
+	<folder-name/>
+	<internal-name>Thế mạnh của DTSVN</internal-name>
+	<title_s>Thế mạnh của DTSVN</title_s>
+	<subtitle_s>Tại sao bạn nên chọn DTSVN để triển khai?</subtitle_s>
+	<why_choose_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Đội ngũ kĩ sư, chuyên gia giàu kinh nghiệm</title_s>
+	<subtitle_s>Chúng tôi có đội ngũ chuyên gia kinh nghiệm nhiều năm trong lĩnh vực phần mềm ngành Tài chính, Ngân hàng.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-1.png</icon_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-2.png</icon_s>
+	<number_s>02</number_s>
+	<title_s>Hiểu biết chuyên sâu về nghiệp vụ</title_s>
+	<subtitle_s>Chúng tôi thiết kế, đánh giá và xây dựng hệ thống công nghệ từ sự hiểu biết thấu đáo về yêu cầu quản lý của bạn.</subtitle_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-3.png</icon_s>
+	<number_s>03</number_s>
+	<title_s>Phản hồi và xử lý lỗi trong thời gian ngắn</title_s>
+	<subtitle_s>Phản hồi và giải quyết nhanh chóng 24/7 các lỗi về hệ thống ngay khi khách hàng gặp phải.</subtitle_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-4.png</icon_s>
+	<number_s>04</number_s>
+	<title_s>Giải đáp mọi thắc mắc của khách hàng</title_s>
+	<subtitle_s>Mọi thắc mắc của bạn sẽ được đội ngũ kỹ thuật sẽ trả lời, giải thích cặn kẽ cho bạn hiểu tường tận.</subtitle_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-5.png</icon_s>
+	<number_s>05</number_s>
+	<title_s>Ưu tiên sự hài lòng của Khách hàng hàng đầu</title_s>
+	<subtitle_s>Các dịch vụ của chúng tôi sẽ mang lại giá trị cho bạn, đảm bảo bạn sẽ thấy hài lòng 100%.</subtitle_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-6.png</icon_s>
+	<number_s>06</number_s>
+	<title_s>Giải pháp All-in-One cho Doanh nghiệp</title_s>
+	<subtitle_s>Xử lý tất cả các khía cạnh cơ sở hạ tầng CNTT, bao gồm phần cứng, phần mềm và các nhu cầu công nghệ khác.</subtitle_s>
+	</item></why_choose_o>
+	<createdDate>2025-08-26T08:29:13.449Z</createdDate>
+	<createdDate_dt>2025-08-26T08:29:13.449Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T08:29:13.449Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T08:29:13.449Z</lastModifiedDate_dt>
+</component>

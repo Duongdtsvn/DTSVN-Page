@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9aca</objectGroupId>
+	<objectId>9acab8b2-142a-7bce-1100-a49e9273899a</objectId>
+	<file-name>9acab8b2-142a-7bce-1100-a49e9273899a.xml</file-name>
+	<folder-name/>
+	<internal-name>tại sao chọn khóa học en</internal-name>
+	<orientation_s>Why should you choose the BA course at DTSVN?</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>A practical training course with up to 90% of practice sessions helps students "focus on the right knowledge" to become a BA Bank.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Study with leading experts with more than 10+ years of experience in the IT field in the positions of Software Requirements Analysis and Software Testing in Banking.</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>A dedicated 24/7 support team is always dedicated to bringing the best learning experience to students.</text_s>
+	</item>	<item>	<number_s>04</number_s>
+	<text_s>Receive a certificate from the center after completing the training course.</text_s>
+	</item>	<item>	<number_s>05</number_s>
+	<text_s>100% free course and 50% support for offline organization fee for the 5 fastest registrants, only 1,500,000 VND.</text_s>
+	</item>	<item>	<number_s>06</number_s>
+	<text_s>Have the opportunity to be accepted for an internship and become an official employee at DTSVN.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-08T07:21:04.342Z</createdDate>
+	<createdDate_dt>2025-07-08T07:21:04.342Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T07:21:04.342Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T07:21:04.342Z</lastModifiedDate_dt>
+</component>

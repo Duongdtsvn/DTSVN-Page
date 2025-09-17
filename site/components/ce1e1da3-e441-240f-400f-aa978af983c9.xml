@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-leader</content-type>
+	<display-template>/templates/web/Component-leader.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ce1e</objectGroupId>
+	<objectId>ce1e1da3-e441-240f-400f-aa978af983c9</objectId>
+	<file-name>ce1e1da3-e441-240f-400f-aa978af983c9.xml</file-name>
+	<folder-name/>
+	<internal-name>leader en</internal-name>
+	<teambox_list_o item-list="true">	<item>	<name_s>Mr. Nguyen Ba Chien</name_s>
+	<position_s>Chairman &amp; CEO</position_s>
+	<image_s>/static-assets/images/nbc.png</image_s>
+	<teambox_list_o item-list="true"/>
+	</item>	<item>	<name_s>Mr. Vu Bao Linh</name_s>
+	<position_s>Deputy CEO of Sales</position_s>
+	<teambox_list_o item-list="true"/>
+	<image_s>/static-assets/images/vbl.png</image_s>
+	</item>	<item>	<name_s>Mr. Ngo Dat Thang</name_s>
+	<position_s>Director of Business Analytics and Training  Vu Th</position_s>
+	<teambox_list_o item-list="true"/>
+	<image_s>/static-assets/images/ndt.png</image_s>
+	</item>	<item>	<name_s>Vu Thanh Nam</name_s>
+	<position_s>CTO</position_s>
+	<teambox_list_o item-list="true"/>
+	<image_s>/static-assets/images/vtn.png</image_s>
+	</item>	<item>	<name_s>Le Xuan Thinh</name_s>
+	<position_s>CFO</position_s>
+	<teambox_list_o item-list="true"/>
+	<image_s>/static-assets/images/anhlxt.jpg</image_s>
+	</item></teambox_list_o>
+	<createdDate>2025-07-07T09:23:06.310Z</createdDate>
+	<createdDate_dt>2025-07-07T09:23:06.310Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T07:16:56.886Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T07:16:56.886Z</lastModifiedDate_dt>
+</component>

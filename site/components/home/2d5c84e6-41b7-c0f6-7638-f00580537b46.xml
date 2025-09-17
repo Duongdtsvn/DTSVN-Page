@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-detail-leader</content-type>
+	<display-template>/templates/web/components/Component-detailLeader.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2d5c</objectGroupId>
+	<objectId>2d5c84e6-41b7-c0f6-7638-f00580537b46</objectId>
+	<file-name>2d5c84e6-41b7-c0f6-7638-f00580537b46.xml</file-name>
+	<folder-name/>
+	<internal-name>Vũ Bảo Linh</internal-name>
+	<detail_leader_o item-list="true">	<item>	<stt_s>01</stt_s>
+	<title1_s>Trình độ học vấn</title1_s>
+	<title2_s>Tốt nghiệp Đại học khoa học xã hội và nhân văn - ĐHQGHN</title2_s>
+	</item>	<item>	<stt_s>02</stt_s>
+	<title1_s>Kinh nghiệm làm việc</title1_s>
+	<title2_s>Có kinh nghiệm xây dựng đội ngũ, phát triển kênh đối tác</title2_s>
+	</item>	<item>	<stt_s>03</stt_s>
+	<title1_s>Lĩnh vực chuyên môn</title1_s>
+	<title2_s>Xây dựng chuẩn hóa quy trình kinh doanh.</title2_s>
+	</item></detail_leader_o>
+	<createdDate>2025-06-23T10:09:55.100Z</createdDate>
+	<createdDate_dt>2025-06-23T10:09:55.100Z</createdDate_dt>
+	<lastModifiedDate>2025-06-23T10:09:55.100Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-06-23T10:09:55.100Z</lastModifiedDate_dt>
+</component>

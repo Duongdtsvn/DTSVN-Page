@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e326</objectGroupId>
+	<objectId>e32678e8-ae00-40f5-a739-dee502bfa65c</objectId>
+	<file-name>e32678e8-ae00-40f5-a739-dee502bfa65c.xml</file-name>
+	<folder-name/>
+	<internal-name>banner đối tác khách hàng</internal-name>
+	<name_page_s>Đối tác - khách hàng</name_page_s>
+	<title_s>Đối tác &amp; Khách hàng của DTSVN</title_s>
+	<subtitle_s>DTSVN ngày càng khẳng định vị thế trên thị trường và tự hào được kết nối, đồng hành cùng khách hàng trong nhiều lĩnh vực, từ các Cơ quan ban ngành nhà nước, các tổ chức tín dụng lớn, vừa và nhỏ, đến các doanh nghiệp lớn trong và ngoài nước.</subtitle_s>
+	<createdDate>2025-07-10T19:02:25.064Z</createdDate>
+	<createdDate_dt>2025-07-10T19:02:25.064Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T19:02:25.064Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T19:02:25.064Z</lastModifiedDate_dt>
+</component>

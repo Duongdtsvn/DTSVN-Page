@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/about</content-type>
+	<display-template>/templates/web/pages/About.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>af72</objectGroupId>
+	<objectId>af729052-bcfe-73af-3688-209d550c5f53</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>about</folder-name>
+	<internal-name>Giới thiệu</internal-name>
+	<navLabel>Giới thiệu</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<createdDate>2025-07-07T03:42:51.585Z</createdDate>
+	<createdDate_dt>2025-07-07T03:42:51.585Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T08:28:32.391Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T08:28:32.391Z</lastModifiedDate_dt>
+	<banner_o item-list="true">	<item datasource="banner">	<key>/site/components/47b8ce98-56e3-df8d-1ebe-19c04b1da27f.xml</key>
+	<value>Banner Giới thiệu</value>
+	<include>/site/components/47b8ce98-56e3-df8d-1ebe-19c04b1da27f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></banner_o>
+	<solution_o item-list="true">	<item datasource="dTSVNCUNGCPTRNBGIIPHP">	<key>/site/components/b47ab75f-f4c6-d533-64d2-979c32819300.xml</key>
+	<value>DTSVN CUNG CẤP TRỌN BỘ GIẢI PHÁP</value>
+	<include>/site/components/b47ab75f-f4c6-d533-64d2-979c32819300.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></solution_o>
+	<strengths_o item-list="true">	<item datasource="thmnhcaDTSVN">	<key>/site/components/7d77b528-c451-fe02-3e8d-ce6929861858.xml</key>
+	<value>Thế mạnh của DTSVN</value>
+	<include>/site/components/7d77b528-c451-fe02-3e8d-ce6929861858.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></strengths_o>
+	<achievements_o item-list="true">	<item>	<key>/site/components/8770ee00-bc20-15c1-00f3-53b1470eef8f.xml</key>
+	<value>Thành tựu</value>
+	<include>/site/components/8770ee00-bc20-15c1-00f3-53b1470eef8f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></achievements_o>
+	<leader_o item-list="true">	<item>	<key>/site/components/c3de65d4-ede1-90a4-8b76-fd7d53a4dafc.xml</key>
+	<value>ban lãnh đạo</value>
+	<include>/site/components/c3de65d4-ede1-90a4-8b76-fd7d53a4dafc.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></leader_o>
+	<member_o item-list="true">	<item>	<key>/site/components/af81c1ad-1803-d0cd-44c3-83f691775c1b.xml</key>
+	<value>thành viên</value>
+	<include>/site/components/af81c1ad-1803-d0cd-44c3-83f691775c1b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></member_o>
+	<client_o item-list="true">	<item datasource="khchhng">	<key>/site/components/600b3a14-498b-59b9-abb2-f32db29d1280.xml</key>
+	<value>50+ Khách hàng đã đồng hành cùng chúng tôi</value>
+	<include>/site/components/600b3a14-498b-59b9-abb2-f32db29d1280.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></client_o>
+	<partner_o item-list="true">	<item datasource="itc">	<key>/site/components/2ad96b85-2a40-350a-83b6-081b2576d202.xml</key>
+	<value>Đối tác tiêu biểu của DTSVN</value>
+	<include>/site/components/2ad96b85-2a40-350a-83b6-081b2576d202.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></partner_o>
+	<customer_section_subtitle_s>Quan hệ khách hàng</customer_section_subtitle_s>
+	<link_s/>
+	<client_partner_s>Khách hàng của DTSVN</client_partner_s>
+	<customer_section_image_s>/static-assets/images/dtkh.jpg</customer_section_image_s>
+	<customer_partnerships_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Cơ quan ban ngành nhà nước</title_s>
+	<description_s>Văn phòng quốc hội; Bộ quốc phòng; Bộ tài chính; C</description_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>Ngân hàng, tổ chức tài chính nhỏ và vừa</title_s>
+	<description_s>VietCapital Bank, Pinetree, LotteFinance...</description_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>Ngân hàng, tổ chức tài chính quy mô lớn</title_s>
+	<description_s>Vietinbank, BIDV, BaovietLife, EVNFinance, MSB, NCB, PVCom Bank, VNPayment.</description_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>Doanh nghiệp nước ngoài</title_s>
+	<description_s>VIETFUN CORPORATION, POLYCOM, AVAY, Fujitsu, HP, DELL.</description_s>
+	</item></customer_partnerships_o>
+	<customer_section_title_s>DTSVN đã và đang kết nối tới nhiều tổ chức tín dụng, các doanh nghiệp lớn, vừa và nhỏ</customer_section_title_s>
+	<strategic_section_subtitle_s>Quan hệ đối tác</strategic_section_subtitle_s>
+	<strategic_section_title_s>DTSVN đã và đang là đối tác chiến lược của các nền tảng MarTech hàng đầu thế giới, có quan hệ hợp tác lâu dài cùng các doanh nghiệp, tổ chức uy tín trong nhiều lĩnh vực.</strategic_section_title_s>
+	<strategic_section_link_s/>
+	<strategic_section_image_s>/static-assets/images/lxt.jpg</strategic_section_image_s>
+	<strategic_partnerships_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>INSIDER</title_s>
+	<description_s>Nền tảng thu thập dữ liệu đa kênh và tối ưu trải nghiệm người dùng theo thời gian thực.</description_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>ADJUST</title_s>
+	<description_s>Nền tảng cung cấp các công cụ phân tích và đo lường hiệu quả của các chiến dịch quảng cáo dành cho ứng dụng di động.</description_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>NUCLENT</title_s>
+	<description_s>Nền tảng cung cấp giải pháp xây dựng, quản lý ứng dụng và tự động hóa quy trình làm việc một cách dễ dàng và nhanh chóng.</description_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>Các đối tác khác</title_s>
+	<description_s>CleverTap, Odoo, Beau, eNAO, Meeyland, Focs, VFS, Crayon, Appselyer, V-Kay, Lạc Long Quân, Rosemedia</description_s>
+	</item></strategic_partnerships_o>
+</page>

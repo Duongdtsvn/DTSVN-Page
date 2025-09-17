@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-software-development</content-type>
+	<display-template>/templates/web/Component-software-development.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>78e2</objectGroupId>
+	<objectId>78e23124-112a-70b5-e03b-4b8fe5c6f052</objectId>
+	<internal-name>Dịch vụ phát triển phẩn mềm</internal-name>
+	<title_s>Dịch vụ phát triển phẩn mềm</title_s>
+	<subtitle_s>Với đội ngũ đông đảo lập trình viên có chuyên môn cao, giàu kinh nghiệm triển khai phát triển giải pháp, chúng tôi luôn đồng hành để phát triển các phần mềm phù hợp theo từng thời kỳ và mang lại giá trị cho khách hàng</subtitle_s>
+	<file-name>78e23124-112a-70b5-e03b-4b8fe5c6f052.xml</file-name>
+	<folder-name/>
+	<software_developer_o item-list="true">	<item>	<title1_s>Đồng hành cùng khách hàng</title1_s>
+	<describe_s>Ngay khi có yêu cầu, ý tưởng kinh doanh từ phía nghiệp vụ chúng với những chuyên gia hàng lâu năm trong lĩnh vực cùng ngồi phân tích, tư vấn mổ sẻ phân tích kỹ các khía canhj của vấn để nhằm mục đích hiểu đúng, đủ cũng như mang lại sản phẩm theo đúng yêu cầu với chất lượng tốt nhất cho khách hàng. Tương tự như vậy khi có bất cứ vấn đề phát sinh trong quá trình vận hành đều được trao đổi phân tích kỹ lưỡng trên cơ sở đáp ứng tốt nhất cho khách hàng</describe_s>
+	<learn_more_s>Xem thêm</learn_more_s>
+	</item>	<item>	<title1_s>Triển khai theo từng tời kỳ</title1_s>
+	<describe_s>Các nhà phát triển của chúng tôi thực hiện dịch vụ triển khai theo từng bước để duy trì tính toàn vẹn của dữ liệu. Chúng tôi luôn hướng tới độ sẵn sàng và khả năng tương thích để đáp ứng nhu cầu từ phía khách hàng theo từng thời kỳ đảm bảo bảo đáp ứng hiệu quả nhất của yêu cầu nghiệp vụ</describe_s>
+	<learn_more_s>Xem thêm</learn_more_s>
+	</item>	<item>	<title1_s>Khả năng tùy chỉnh và tích hợp</title1_s>
+	<describe_s>Trên cơ sở phát triển được áp dụng các công nghệ tiên tiến hiện đại các giải pháp của chúng tôi dễ tùy chỉnh với nền tảng micro service cũng như tham số hóa hệ đống đã mang lại ưu thế không nhỏ cho việc tích hợp và cá thể hóa theo yêu cầu khách hàng khi triển khai</describe_s>
+	<learn_more_s>Xem thêm</learn_more_s>
+	</item></software_developer_o>
+	<createdDate>2025-07-03T04:55:32.641Z</createdDate>
+	<createdDate_dt>2025-07-03T04:55:32.641Z</createdDate_dt>
+	<lastModifiedDate>2025-08-05T03:50:27.738Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-05T03:50:27.738Z</lastModifiedDate_dt>
+</component>

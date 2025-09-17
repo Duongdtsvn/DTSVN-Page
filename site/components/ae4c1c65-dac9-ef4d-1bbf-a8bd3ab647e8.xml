@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-customers-talk-about</content-type>
+	<display-template>/templates/web/Component-Customers-talk-about.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ae4c</objectGroupId>
+	<objectId>ae4c1c65-dac9-ef4d-1bbf-a8bd3ab647e8</objectId>
+	<file-name>ae4c1c65-dac9-ef4d-1bbf-a8bd3ab647e8.xml</file-name>
+	<folder-name/>
+	<internal-name>Customers-talk-about en</internal-name>
+	<title_s>CUSTOMERS TALK ABOUT DTSVN</title_s>
+	<subtitle_s>With the slogan "Bring values together", DTSVN has been accompanying many businesses and organizations across the country in the process of creating and building prestigious &amp; quality brands with customers.</subtitle_s>
+	<name_s>Mr. Le Minh Phuc</name_s>
+	<position_s>Marketing Manager</position_s>
+	<company_s>MSB Joint Stock Bank</company_s>
+	<image_s>/static-assets/images/testimonial.jpg</image_s>
+	<createdDate>2025-07-08T06:41:14.615Z</createdDate>
+	<createdDate_dt>2025-07-08T06:41:14.615Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T06:41:14.615Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T06:41:14.615Z</lastModifiedDate_dt>
+</component>

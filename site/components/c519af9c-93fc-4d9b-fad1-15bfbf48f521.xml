@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-partner</content-type>
+	<display-template>/templates/web/Component-partner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c519</objectGroupId>
+	<objectId>c519af9c-93fc-4d9b-fad1-15bfbf48f521</objectId>
+	<file-name>c519af9c-93fc-4d9b-fad1-15bfbf48f521.xml</file-name>
+	<folder-name/>
+	<internal-name>đối tác en</internal-name>
+	<title6_s>    Our typical partner</title6_s>
+	<partner_o item-list="true">	<item>	<image_partner_s>/static-assets/images/clevertap.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/insider.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/nuclent.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/adjust.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/odoo_logo_rgb.svg.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/meeyland.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/v-key_logo.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/crayon-logo-262dbda141-seeklogo.com.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/logo--1-.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/zoomnewlogo.b2fd5c95.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/roselogo.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/forcs_logo_original-1.png</image_partner_s>
+	</item></partner_o>
+	<createdDate>2025-07-07T09:03:48.998Z</createdDate>
+	<createdDate_dt>2025-07-07T09:03:48.998Z</createdDate_dt>
+	<lastModifiedDate>2025-08-05T04:13:44.054Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-05T04:13:44.054Z</lastModifiedDate_dt>
+</component>

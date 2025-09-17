@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-home-new-section</content-type>
+	<display-template>/templates/web/Component-home-new-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8a24</objectGroupId>
+	<objectId>8a24b6be-4195-687b-bf2d-e896f0a47296</objectId>
+	<file-name>8a24b6be-4195-687b-bf2d-e896f0a47296.xml</file-name>
+	<folder-name/>
+	<internal-name>Tin tức cập nhật</internal-name>
+	<title_s>Tin tức cập nhật</title_s>
+	<label_s>Xem tất cả</label_s>
+	<link_s>news</link_s>
+	<createdDate>2025-07-10T16:32:45.415Z</createdDate>
+	<createdDate_dt>2025-07-10T16:32:45.415Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T16:32:45.415Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T16:32:45.415Z</lastModifiedDate_dt>
+</component>

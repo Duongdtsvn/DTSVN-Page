@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3cc7</objectGroupId>
+	<objectId>3cc7d29d-289e-526f-4a4d-75534d2c8be4</objectId>
+	<file-name>3cc7d29d-289e-526f-4a4d-75534d2c8be4.xml</file-name>
+	<folder-name/>
+	<internal-name>Định hướng sản phẩm en</internal-name>
+	<orientation_s>Product orientation</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>The software product based on the Basel II standards of the Basel Committee.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>The software of Anti-fraud transactions through ATMs based on an artificial intelligence platform.</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>Web portals; UI / UX products, portals ...</text_s>
+	</item>	<item>	<number_s>04</number_s>
+	<text_s>The product services are based on big data and artificial intelligence platforms.</text_s>
+	</item>	<item>	<number_s>05</number_s>
+	<text_s>On-demand software development services.</text_s>
+	</item>	<item>	<number_s>06</number_s>
+	<text_s>Integrated broadcasting service with the system: ECM; BPM; BALL...</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-11T03:39:59.239Z</createdDate>
+	<createdDate_dt>2025-07-11T03:39:59.239Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T03:39:59.239Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T03:39:59.239Z</lastModifiedDate_dt>
+</component>

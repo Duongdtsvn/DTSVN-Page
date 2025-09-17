@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c97</objectGroupId>
+	<objectId>8c97b198-807b-2a7f-de52-490546493186</objectId>
+	<internal-name>AI định hình tầm nhìn mới: Thách thức và cơ hội cho lãnh đạo ngành Ngân hàng</internal-name>
+	<navLabel>AI định hình tầm nhìn mới: Thách thức và cơ hội cho lãnh đạo ngành Ngân hàng</navLabel>
+	<title_vi_s>AI định hình tầm nhìn mới: Thách thức và cơ hội cho lãnh đạo ngành Ngân hàng</title_vi_s>
+	<title_en_s>AI Shaping a New Vision: Challenges and Opportunities for Banking Leaders </title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<file-name>index.xml</file-name>
+	<folder-name>8c97b198-807b-2a7f-de52-490546493186</folder-name>
+	<img_main_s>/static-assets/images/tam-nhin.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) đang c&amp;aacute;ch mạng h&amp;oacute;a to&amp;agrave;n diện mọi lĩnh vực, v&amp;agrave; ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng cũng kh&amp;ocirc;ng nằm ngo&amp;agrave;i xu hướng đ&amp;oacute;. Đối với ban l&amp;atilde;nh đạo ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng, AI kh&amp;ocirc;ng chỉ l&amp;agrave; một c&amp;ocirc;ng cụ hỗ trợ m&amp;agrave; c&amp;ograve;n l&amp;agrave; một yếu tố quyết định th&amp;agrave;nh c&amp;ocirc;ng của doanh nghiệp trong tương lai.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. AI đang thay đổi g&amp;oacute;c nh&amp;igrave;n v&amp;agrave; định hướng của c&amp;aacute;c l&amp;atilde;nh đạo ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng thế n&amp;agrave;o?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo nghi&amp;ecirc;n cứu của McKinsey, AI c&amp;oacute; tiềm năng mang lại gi&amp;aacute; trị gia tăng l&amp;ecirc;n đến 1 ngh&amp;igrave;n tỷ USD mỗi năm. Sự quan t&amp;acirc;m đến AI đang b&amp;ugrave;ng nổ tr&amp;ecirc;n to&amp;agrave;n cầu khi c&amp;ocirc;ng nghệ n&amp;agrave;y được &amp;aacute;p dụng rộng r&amp;atilde;i trong nhiều ng&amp;agrave;nh nghề, th&amp;uacute;c đẩy niềm tin ng&amp;agrave;y c&amp;agrave;ng lớn từ c&amp;aacute;c nh&amp;agrave; quản l&amp;yacute;. Ph&amp;acirc;n t&amp;iacute;ch từ Statista dự b&amp;aacute;o rằng việc triển khai AI trong lĩnh vực t&amp;agrave;i ch&amp;iacute;nh sẽ chứng kiến sự tăng trưởng đ&amp;aacute;ng kể trong giai đoạn 2022-2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nghi&amp;ecirc;n cứu cho thấy ứng dụng AI trong ng&amp;agrave;nh đang c&amp;oacute; sự gia tăng đ&amp;aacute;ng kể, với tỷ lệ dự kiến sẽ tăng từ 8% v&amp;agrave;o năm 2022 l&amp;ecirc;n 43% v&amp;agrave;o năm 2025. Khi ng&amp;agrave;y c&amp;agrave;ng nhiều doanh nghiệp &amp;aacute;p dụng AI, tiềm năng cho đổi mới s&amp;aacute;ng tạo sẽ được mở rộng, đồng thời c&amp;aacute;c hoạt động ứng dụng sẽ dần được ti&amp;ecirc;u chuẩn h&amp;oacute;a v&amp;agrave; trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng cũng sẽ được cải thiện đ&amp;aacute;ng kể.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với t&amp;aacute;c động ng&amp;agrave;y c&amp;agrave;ng r&amp;otilde; rệt trong thực tế của AI, c&amp;aacute;c doanh nghiệp đang quan t&amp;acirc;m nhiều hơn đến thời gian thực hiện v&amp;agrave; mức độ triển khai AI, điều n&amp;agrave;y phụ thuộc v&amp;agrave;o năng lực của từng tổ chức. Trong số c&amp;aacute;c ng&amp;agrave;nh chịu ảnh hưởng lớn từ AI, ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; một trong những ng&amp;agrave;nh c&amp;oacute; tiềm năng ứng dụng mạnh mẽ nhất nhờ v&amp;agrave;o c&amp;aacute;c yếu tố đặc th&amp;ugrave;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) Ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; sẵn nguồn dữ liệu lớn v&amp;agrave; độ x&amp;aacute;c thực cao, mang lại lợi thế trong việc triển khai AI so với c&amp;aacute;c lĩnh vực kh&amp;aacute;c.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) Ng&amp;acirc;n h&amp;agrave;ng đ&amp;atilde; đạt đến mức độ trưởng th&amp;agrave;nh số cao, nhờ v&amp;agrave;o c&amp;aacute;c khoản đầu tư v&amp;agrave;o c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin (CNTT) trong nhiều năm.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(3) Nh&amp;acirc;n sự trong ng&amp;agrave;nh đ&amp;atilde; quen thuộc với việc sử dụng c&amp;ocirc;ng nghệ trong c&amp;aacute;c hoạt động nghiệp vụ thường ng&amp;agrave;y, gi&amp;uacute;p dễ d&amp;agrave;ng tiếp cận v&amp;agrave; ứng dụng c&amp;aacute;c c&amp;ocirc;ng nghệ đột ph&amp;aacute; như AI.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(4) Nhiều t&amp;aacute;c vụ trong ng&amp;agrave;nh được lặp đi lặp lại, đ&amp;ograve;i hỏi khả năng kết nối v&amp;agrave; xử l&amp;yacute; th&amp;ocirc;ng tin cao, tạo ra nhu cầu lớn cho việc ứng dụng AI trong c&amp;aacute;c quy tr&amp;igrave;nh thủ c&amp;ocirc;ng.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nh&amp;agrave; l&amp;atilde;nh đạo nhận thức r&amp;otilde; tầm quan trọng v&amp;agrave; tiềm năng của AI, nhưng nhiều người vẫn gặp kh&amp;oacute; khăn trong việc triển khai hiệu quả c&amp;aacute;c s&amp;aacute;ng kiến AI trong tổ chức. Th&amp;ocirc;ng thường, c&amp;aacute;c ph&amp;ograve;ng ban v&amp;agrave; bộ phận nghiệp vụ trong doanh nghiệp sẽ thực hiện c&amp;aacute;c dự &amp;aacute;n AI một c&amp;aacute;ch độc lập. Ban đầu, điều n&amp;agrave;y c&amp;oacute; thể tạo ra những t&amp;iacute;n hiệu t&amp;iacute;ch cực, khi sự tham gia v&amp;agrave; cam kết rộng r&amp;atilde;i từ c&amp;aacute;c bộ phận l&amp;agrave; yếu tố quan trọng cho qu&amp;aacute; tr&amp;igrave;nh chuyển đổi AI của to&amp;agrave;n tổ chức.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, nhiều doanh nghiệp lớn cho biết họ đ&amp;atilde; gặp phải kh&amp;oacute; khăn trong việc phối hợp khi triển khai c&amp;aacute;c s&amp;aacute;ng kiến v&amp;agrave; th&amp;iacute; điểm AI kh&amp;aacute;c nhau. C&amp;aacute;c đơn vị trong doanh nghiệp cần thiết lập c&amp;aacute;c ti&amp;ecirc;u chuẩn v&amp;agrave; quy tr&amp;igrave;nh hợp l&amp;yacute;, đồng thời tr&amp;aacute;nh việc nghi&amp;ecirc;n cứu v&amp;agrave; ph&amp;aacute;t triển tr&amp;ugrave;ng lặp. L&amp;atilde;nh đạo doanh nghiệp đang t&amp;igrave;m kiếm c&amp;aacute;ch thức tối ưu để tận dụng nguồn nh&amp;acirc;n lực khan hiếm hiện c&amp;oacute;, đồng thời đảm bảo năng suất v&amp;agrave; hiệu quả hoạt động được n&amp;acirc;ng cao tối đa.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) được ứng dụng rộng r&amp;atilde;i tr&amp;ecirc;n thị trường, c&amp;aacute;c nh&amp;agrave; l&amp;atilde;nh đạo cấp cao sẽ phải tạo ra c&amp;aacute;c cơ cấu tổ chức phục vụ cho hoạt động tự chủ về tr&amp;iacute; tuệ nh&amp;acirc;n tạo tr&amp;ecirc;n quy m&amp;ocirc; lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y đ&amp;ograve;i hỏi c&amp;aacute;c doanh nghiệp phải từ bỏ nhiều m&amp;ocirc; h&amp;igrave;nh tổ chức truyền thống vốn phổ biến trong c&amp;aacute;c ph&amp;ograve;ng họp hiện nay, đồng thời ph&amp;aacute;t triển những thước đo v&amp;agrave; cấu tr&amp;uacute;c tổ chức mới, linh hoạt hơn để đ&amp;aacute;p ứng c&amp;aacute;c y&amp;ecirc;u cầu của kỷ nguy&amp;ecirc;n AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. C&amp;aacute;c l&amp;atilde;nh đạo ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng phải thay đổi như thế n&amp;agrave;o trong bối cảnh AI được ứng dụng trong to&amp;agrave;n bộ ng&amp;acirc;n h&amp;agrave;ng?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;img&gt;&lt;em&gt;Ảnh minh họa: L&amp;atilde;nh đạo th&amp;iacute;ch nghi với AI/c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin mới&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tổng gi&amp;aacute;m đốc (CEO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tầm nh&amp;igrave;n v&amp;agrave; chiến lược ph&amp;aacute;t triển:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;aacute;c định tầm nh&amp;igrave;n AI r&amp;otilde; r&amp;agrave;ng ph&amp;ugrave; hợp với mục ti&amp;ecirc;u chiến lược ph&amp;aacute;t triển ngắn hạn, trung hạn v&amp;agrave; d&amp;agrave;i hạn của ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;acirc;y dựng lộ tr&amp;igrave;nh ph&amp;aacute;t triển năng lực AI d&amp;agrave;i hạn bao gồm c&amp;aacute;c ưu ti&amp;ecirc;n đầu tư, quan hệ đối t&amp;aacute;c tiềm năng v&amp;agrave; mục ti&amp;ecirc;u đổi mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Quản l&amp;yacute; văn h&amp;oacute;a v&amp;agrave; sự thay đổi:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;uacute;c đẩy văn h&amp;oacute;a đổi mới s&amp;aacute;ng tạo v&amp;agrave; học hỏi kh&amp;ocirc;ng ngừng để ứng dụng AI trong c&amp;aacute;c hoạt động nghiệp vụ của ban l&amp;atilde;nh đạo v&amp;agrave; c&amp;aacute;c đơn vị th&amp;agrave;nh vi&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Truyền đạt lợi &amp;iacute;ch v&amp;agrave; mục ti&amp;ecirc;u của c&amp;aacute;c s&amp;aacute;ng kiến li&amp;ecirc;n quan đến AI tới tất cả c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan để th&amp;uacute;c đẩy sự đồng t&amp;igrave;nh v&amp;agrave; giảm bớt sự phản kh&amp;aacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Sự tham gia của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tương t&amp;aacute;c với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan, bao gồm th&amp;agrave;nh vi&amp;ecirc;n hội đồng quản trị, nh&amp;agrave; đầu tư, kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; cơ quan quản l&amp;yacute; để truyền đạt tầm quan trọng chiến lược v&amp;agrave; t&amp;aacute;c động của AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trực tiếp dẫn dắt c&amp;aacute;c cuộc thảo luận về những c&amp;acirc;n nhắc li&amp;ecirc;n quan đến đạo đức v&amp;agrave; t&amp;aacute;c động x&amp;atilde; hội trong việc &amp;aacute;p dụng AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute;m đốc CNTT (CIO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Hạ tầng v&amp;agrave; c&amp;ocirc;ng nghệ:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;aacute;c định c&amp;aacute;c định hướng đầu tư v&amp;agrave;o cơ sở hạ tầng CNTT linh hoạt v&amp;agrave; dễ d&amp;agrave;ng t&amp;iacute;ch hợp mở rộng gi&amp;uacute;p hỗ trợ nhanh ch&amp;oacute;ng c&amp;aacute;c ứng dụng AI, bao gồm điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y, khả năng lưu trữ v&amp;agrave; xử l&amp;yacute; dữ liệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Triển khai c&amp;aacute;c biện ph&amp;aacute;p bảo mật an to&amp;agrave;n th&amp;ocirc;ng tin gi&amp;uacute;p bảo vệ dữ liệu nhạy cảm cũng như c&amp;aacute;c th&amp;ocirc;ng tin li&amp;ecirc;n quan đến m&amp;ocirc; h&amp;igrave;nh AI&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;T&amp;iacute;ch hợp c&amp;ocirc;ng nghệ:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đảm bảo t&amp;iacute;ch hợp liền mạch c&amp;aacute;c c&amp;ocirc;ng nghệ AI với c&amp;aacute;c hệ thống v&amp;agrave; nền tảng sẵn c&amp;oacute; của doanh nghiệp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;agrave;m việc với c&amp;aacute;c bộ phận ph&amp;ograve;ng ban nghiệp vụ để x&amp;aacute;c định c&amp;aacute;c lĩnh vực m&amp;agrave; AI c&amp;oacute; thể n&amp;acirc;ng cao hoạt động v&amp;agrave; dịch vụ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Quản l&amp;yacute; c&amp;aacute;c nh&amp;agrave; cung cấp dịch vụ v&amp;agrave; đối t&amp;aacute;c c&amp;ocirc;ng nghệ:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; lựa chọn nh&amp;agrave; cung cấp, đối t&amp;aacute;c c&amp;ocirc;ng nghệ AI để hợp t&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;agrave;m ph&amp;aacute;n hợp đồng v&amp;agrave; hợp nhất c&amp;aacute;c đơn vị cung cấp dịch vụ v&amp;agrave; đối t&amp;aacute;c c&amp;ocirc;ng nghệ để đảm bảo gi&amp;aacute; trị v&amp;agrave; hiệu quả hoạt động.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute;m đốc phụ tr&amp;aacute;ch dữ liệu (CDO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Quản trị v&amp;agrave; quản l&amp;yacute; dữ liệu:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thiết lập v&amp;agrave; thực thi c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch quản trị dữ liệu gi&amp;uacute;p đảm bảo chất lượng, t&amp;iacute;nh nhất qu&amp;aacute;n v&amp;agrave; bảo mật dữ liệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Triển khai c&amp;aacute;c biện ph&amp;aacute;p quản l&amp;yacute; dữ liệu tạo điều kiện thuận lợi cho việc thu thập, lưu trữ v&amp;agrave; truy xuất dữ liệu hiệu quả.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;X&amp;acirc;y dựng chiến lược dữ liệu:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;aacute;t triển chiến lược dữ liệu to&amp;agrave;n diện hỗ trợ c&amp;aacute;c s&amp;aacute;ng kiến AI, tập trung v&amp;agrave;o khả năng tiếp cận, khả năng sử dụng v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch dữ liệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;uacute;c đẩy việc ra quyết định dựa tr&amp;ecirc;n dữ liệu trong to&amp;agrave;n bộ doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;X&amp;aacute;c định quyền ri&amp;ecirc;ng tư v&amp;agrave; tu&amp;acirc;n thủ dữ liệu:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đảm bảo doanh nghiệp tu&amp;acirc;n thủ c&amp;aacute;c quy định bảo vệ dữ liệu, chẳng hạn như c&amp;aacute;c ti&amp;ecirc;u chuẩn quốc tế GDPR v&amp;agrave; ti&amp;ecirc;u chuẩn dựa tr&amp;ecirc;n nghị định 13/2023/NĐ-CP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực hiện c&amp;aacute;c biện ph&amp;aacute;p an to&amp;agrave;n bảo mật th&amp;ocirc;ng tin về dữ liệu kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute;m đốc t&amp;agrave;i ch&amp;iacute;nh (CFO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Ph&amp;acirc;n bổ đầu tư v&amp;agrave; ng&amp;acirc;n s&amp;aacute;ch:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;acirc;n bổ nguồn lực v&amp;agrave; ng&amp;acirc;n s&amp;aacute;ch cho c&amp;aacute;c dự &amp;aacute;n AI, đồng bộ với c&amp;aacute;c chiến lược ph&amp;aacute;t triển theo từng giai đoạn của doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;aacute;nh gi&amp;aacute; t&amp;aacute;c động t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; ROI của c&amp;aacute;c s&amp;aacute;ng kiến AI để chứng minh cho khoản đầu tư&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Quản l&amp;yacute; rủi ro t&amp;agrave;i ch&amp;iacute;nh:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; giảm thiểu rủi ro t&amp;agrave;i ch&amp;iacute;nh li&amp;ecirc;n quan đến AI, chẳng hạn như rủi ro về m&amp;ocirc; h&amp;igrave;nh, chi ph&amp;iacute; tu&amp;acirc;n thủ v&amp;agrave; những gi&amp;aacute;n đoạn tiềm ẩn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;acirc;y dựng kế hoạch dự ph&amp;ograve;ng để giải quyết những th&amp;aacute;ch thức t&amp;agrave;i ch&amp;iacute;nh kh&amp;ocirc;ng lường trước được.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Li&amp;ecirc;n tục đo lường hiệu suất đầu tư:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;aacute;c định KPI để đo lường hiệu suất t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; t&amp;aacute;c động của c&amp;aacute;c s&amp;aacute;ng kiến AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thường xuy&amp;ecirc;n xem x&amp;eacute;t v&amp;agrave; điều chỉnh ng&amp;acirc;n s&amp;aacute;ch dựa tr&amp;ecirc;n kết quả theo từng giai đoạn của c&amp;aacute;c s&amp;aacute;ng kiến AI&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute;m đốc vận h&amp;agrave;nh (COO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Hiệu quả hoạt động:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;aacute;c định v&amp;agrave; ưu ti&amp;ecirc;n c&amp;aacute;c lĩnh vực nghiệp vụ chuy&amp;ecirc;n m&amp;ocirc;n m&amp;agrave; AI c&amp;oacute; thể n&amp;acirc;ng cao hiệu quả, chẳng hạn như tự động h&amp;oacute;a quy tr&amp;igrave;nh, ph&amp;aacute;t hiện gian lận v&amp;agrave; tăng cường dịch vụ kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Triển khai c&amp;aacute;c giải ph&amp;aacute;p dựa tr&amp;ecirc;n AI để tự động h&amp;oacute;a c&amp;aacute;c hoạt động v&amp;agrave; giảm thiểu c&amp;aacute;c chi ph&amp;iacute; vận h&amp;agrave;nh của doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Cải tiến quy tr&amp;igrave;nh:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n tục theo d&amp;otilde;i v&amp;agrave; cải tiến c&amp;aacute;c quy tr&amp;igrave;nh được hỗ trợ từ AI gi&amp;uacute;p n&amp;acirc;ng cao hiệu suất v&amp;agrave; tối ưu hiệu quả vận h&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khuyến kh&amp;iacute;ch c&amp;aacute;c hoạt động cộng t&amp;aacute;c li&amp;ecirc;n ph&amp;ograve;ng ban để t&amp;iacute;ch hợp c&amp;aacute;c giải ph&amp;aacute;p AI một c&amp;aacute;ch liền mạch v&amp;agrave;o hoạt động thường nhật của doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Khả năng mở rộng linh hoạt:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đảm bảo rằng c&amp;aacute;c s&amp;aacute;ng kiến AI c&amp;oacute; khả năng mở rộng v&amp;agrave; linh hoạt th&amp;iacute;ch ứng với chiến lược kinh doanh ph&amp;aacute;t triển đang li&amp;ecirc;n tục thay đổi dựa tr&amp;ecirc;n c&amp;aacute;c y&amp;ecirc;u cầu về sản phẩm/ dịch vụ của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Lập kế hoạch cho sự ph&amp;aacute;t triển bền vững v&amp;agrave; bảo tr&amp;igrave; l&amp;acirc;u d&amp;agrave;i của c&amp;aacute;c s&amp;aacute;ng kiến v&amp;agrave; nền tảng hạ tầng phục vụ AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bằng c&amp;aacute;ch tập trung v&amp;agrave;o những định hướng h&amp;agrave;nh động cụ thể, ban l&amp;atilde;nh đạo ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong việc t&amp;iacute;ch hợp th&amp;agrave;nh c&amp;ocirc;ng AI v&amp;agrave;o nghiệp vụ ng&amp;acirc;n h&amp;agrave;ng, th&amp;uacute;c đẩy sự đổi mới, hiệu quả v&amp;agrave; lợi thế cạnh tranh trong khi quản l&amp;yacute; c&amp;aacute;c rủi ro v&amp;agrave; th&amp;aacute;ch thức li&amp;ecirc;n quan. B&amp;ecirc;n cạnh đ&amp;oacute;, ng&amp;acirc;n h&amp;agrave;ng cần c&amp;acirc;n nhắc để tạo điều kiện tiếp cận nhanh ch&amp;oacute;ng v&amp;agrave; hiệu quả cho to&amp;agrave;n bộ nh&amp;acirc;n sự trong doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Mckinsey&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Artificial Intelligence (AI) is revolutionizing every industry, and the banking industry is no exception. For banking leaders, AI is not only a supporting tool but also a decisive factor for the future success of the business.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. How is AI changing the perspective and direction of banking leaders?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to McKinsey research, AI has the potential to bring up to $1 trillion in added value per year. Interest in AI is exploding globally as the technology is widely applied in many industries, driving growing confidence from managers. Analysis from Statista predicts that AI implementation in the financial sector will witness significant growth in the period 2022-2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Studies show that AI applications in the industry are increasing significantly, with the rate expected to increase from 8% in 2022 to 43% in 2025. As more businesses adopt AI, the potential for innovation will expand, while application activities will gradually become standardized and customer experiences will also be significantly improved.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the increasingly evident impact of AI in practice, businesses are increasingly concerned about the implementation time and level of AI implementation, which depends on the capabilities of each organization. Among the industries that are greatly influenced by AI, banking is one of the industries with the strongest application potential thanks to specific factors:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) The banking industry has large and highly authentic data sources, giving it an advantage in implementing AI compared to other sectors.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) Banks have reached a high level of digital maturity, thanks to many years of investment in information technology (IT).&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(3) Industry personnel are familiar with the use of technology in daily operations, making it easy to access and apply breakthrough technologies such as AI.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(4) Many tasks in the industry are repetitive, requiring high connectivity and information processing capabilities, creating a great demand for AI applications in manual processes.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Leaders are well aware of the importance and potential of AI, but many still struggle to effectively implement AI initiatives within their organizations. Typically, business units and functional areas within an enterprise will implement AI projects independently. Initially, this may create positive signals, as broad participation and commitment from departments is a key factor for the organization-wide AI transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, many large enterprises reported that they have encountered difficulties in coordinating when implementing different AI initiatives and pilots. Units within the enterprise need to establish reasonable standards and processes, while avoiding duplication of research and development. Business leaders are looking for optimal ways to leverage scarce human resources while ensuring maximum productivity and operational efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As artificial intelligence (AI) becomes more widely adopted in the marketplace, senior leaders will need to create organizational structures that support large-scale AI autonomy. This will require businesses to abandon many of the traditional organizational models that are common in today&amp;rsquo;s boardrooms and develop new, more flexible organizational metrics and structures to meet the demands of the AI ​​era.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. How should banking leaders change in the context of AI being applied throughout the bank?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chief Executive Officer (CEO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Vision and development strategy:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Define a clear AI vision that aligns with the bank&amp;rsquo;s short-, medium-, and long-term strategic development goals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Develop a long-term AI capability roadmap that includes investment priorities, potential partnerships, and innovation goals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Managing culture and change:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Foster a culture of innovation and continuous learning to apply AI in the business operations of the board and member units.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Communicate the benefits and goals of AI-related initiatives to all stakeholders to promote buy-in and reduce resistance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Stakeholder engagement:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Engage with stakeholders, including board members, investors, customers, and regulators to communicate the strategic importance and impact of AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Directly lead discussions on ethical considerations and societal impacts in AI adoption.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chief Information Officer (CIO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Infrastructure and Technology:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Identify investment directions for flexible and easily integrated IT infrastructure to support rapid AI applications, including cloud computing, data storage and processing capabilities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Implement information security measures to protect sensitive data as well as information related to AI models.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Technology integration:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ensure seamless integration of AI technologies with existing enterprise systems and platforms&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Work with business units to identify areas where AI can enhance operations and services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Manage service providers and technology partners:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Evaluate and select AI technology providers and partners to work with.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Negotiate contracts and integrate service providers and technology partners to ensure value and operational efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chief Data Officer (CDO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Data Governance and Management:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Establish and enforce data governance policies that ensure data quality, consistency, and security.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Implement data management practices that facilitate efficient data collection, storage, and retrieval.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Building a data strategy:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Develop a comprehensive data strategy that supports AI initiatives, focusing on data accessibility, usability, and analytics.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Drive data-driven decision making across the enterprise.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Defining data privacy and compliance:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ensure business compliance with data protection regulations, such as GDPR international standards and standards based on Decree 13/2023/ND-CP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Implement security measures to protect customer data.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chief Financial Officer (CFO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Investment and Budget Allocation:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Allocate resources and budgets to AI projects, aligned with the business&amp;rsquo;s phased development strategies.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Assess the financial impact and ROI of AI initiatives to justify the investment&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Manage financial risks:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Assess and mitigate financial risks associated with AI, such as model risks, compliance costs, and potential disruptions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Develop contingency plans to address unforeseen financial challenges.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Continuously measure investment performance:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Identify KPIs to measure the financial performance and impact of AI initiatives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Regularly review and adjust budgets based on the phased results of AI initiatives&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chief Operating Officer (COO)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Performance:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Identify and prioritize specialized business areas where AI can improve efficiency, such as process automation, fraud detection, and enhanced customer service.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Deploy AI-powered solutions to automate operations and reduce business operating costs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Process Improvement:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Continuously monitor and improve AI-powered processes to improve performance and optimize operational efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Encourage cross-functional collaboration to seamlessly integrate AI solutions into the day-to-day operations of the business.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Scalability:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ensure that AI initiatives are scalable and flexible to adapt to evolving business strategies based on changing customer product/service requirements.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Plan for the long-term sustainability and maintenance of AI initiatives and infrastructure.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By focusing on specific action directions, banking industry leaders play a key role in successfully integrating AI into banking, driving innovation, efficiency and competitive advantage while managing the associated risks and challenges. In addition, banks need to consider facilitating quick and effective access for all employees in the business.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Reference source: Mckinsey&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Synthesized by the author group DTSVN - Digital transformation solutions for the Finance - Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions exclusively for businesses in the Finance - Banking industry in Vietnam; helping Banks and financial institutions quickly complete the technology system serving Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact now for advice and experience the solution here&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-07-24T05:16:09.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:16:08.487Z</createdDate>
+	<createdDate_dt>2025-08-25T05:16:08.487Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T05:16:08.487Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T05:16:08.487Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

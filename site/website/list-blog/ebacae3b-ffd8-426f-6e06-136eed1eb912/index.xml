@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ebac</objectGroupId>
+	<objectId>ebacae3b-ffd8-426f-6e06-136eed1eb912</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ebacae3b-ffd8-426f-6e06-136eed1eb912</folder-name>
+	<internal-name>5 thách thức lớn nhất về công nghệ doanh nghiệp SME đang đối mặt</internal-name>
+	<navLabel>5 thách thức lớn nhất về công nghệ doanh nghiệp SME đang đối mặt</navLabel>
+	<title_vi_s>5 thách thức lớn nhất về công nghệ doanh nghiệp SME đang đối mặt</title_vi_s>
+	<title_en_s>5 Biggest Technology Challenges SMEs Are Facing</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<img_main_s>/static-assets/images/diem-chuan-nganh-tai-chinh-ngan-hang-768x480.png</img_main_s>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Trong mọi ng&amp;agrave;nh, những tiến bộ trong c&amp;ocirc;ng nghệ l&amp;agrave;m thay đổi c&amp;aacute;ch thức kinh doanh của c&amp;aacute;c tổ chức. Cho d&amp;ugrave; bạn l&amp;agrave; một c&amp;ocirc;ng ty đa quốc gia lớn hay một nh&amp;agrave; kinh doanh duy nhất, c&amp;ocirc;ng nghệ ng&amp;agrave;y nay l&amp;agrave; trọng t&amp;acirc;m trong c&amp;aacute;c quy tr&amp;igrave;nh kinh doanh. Ri&amp;ecirc;ng đối với c&amp;aacute;c doanh nghiệp SME, c&amp;ocirc;ng nghệ ph&amp;ugrave; hợp với quy m&amp;ocirc; hay kh&amp;ocirc;ng sẽ quyết định kinh doanh th&amp;agrave;nh hay bại. Dưới đ&amp;acirc;y l&amp;agrave; năm th&amp;aacute;ch thức c&amp;ocirc;ng nghệ lớn nhất m&amp;agrave; c&amp;aacute;c doanh nghiệp SME/MSME vừa v&amp;agrave; nhỏ phải đối mặt hiện nay.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kh&amp;oacute; khăn trong khả năng mở rộng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một doanh nghiệp c&amp;oacute; thể ph&amp;aacute;t triển từ nh&amp;oacute;m một người l&amp;ecirc;n quy m&amp;ocirc; đ&amp;aacute;ng kể trong thời gian rất ngắn v&amp;agrave; mặc d&amp;ugrave; điều n&amp;agrave;y rất tốt nhưng việc c&amp;oacute; c&amp;aacute;c hệ thống v&amp;agrave; phần mềm để hỗ trợ hoạt động th&amp;ocirc;ng qua sự ph&amp;aacute;t triển n&amp;agrave;y v&amp;agrave; trong tương lai l&amp;agrave; điều cần thiết. C&amp;aacute;c doanh nghiệp vừa v&amp;agrave; nhỏ hoặc si&amp;ecirc;u nhỏ SME/MSME thường bắt đầu với khả năng CNTT cơ bản v&amp;agrave; ph&amp;aacute;t triển nhanh ch&amp;oacute;ng, khiến doanh nghiệp c&amp;oacute; nhu cầu cấp thiết về phần mềm v&amp;agrave; hệ thống mới.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;img&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;aacute;ch thức lựa chọn nền tảng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo nghi&amp;ecirc;n cứu cho thấy c&amp;aacute;c c&amp;ocirc;ng nghệ phổ biến nhất được c&amp;aacute;c doanh nghiệp SME sử dụng l&amp;agrave; điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y, phần mềm quản l&amp;yacute; quan hệ kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; thương mại điện tử. Tuy nhi&amp;ecirc;n, c&amp;oacute; v&amp;ocirc; số ứng dụng kh&amp;aacute;c nhau c&amp;oacute; thể được sử dụng trong kinh doanh từ phần mềm quản l&amp;yacute; thời gian đến c&amp;aacute;c ứng dụng ph&amp;acirc;n bổ tiền thưởng cho nh&amp;acirc;n vi&amp;ecirc;n l&amp;agrave;m việc tốt. Th&amp;aacute;ch thức l&amp;agrave; c&amp;oacute; lượng c&amp;ocirc;ng nghệ ph&amp;ugrave; hợp để gi&amp;uacute;p doanh nghiệp tiết kiệm thời gian v&amp;agrave; tiền bạc m&amp;agrave; kh&amp;ocirc;ng bị qu&amp;aacute; tải với phần mềm để duy tr&amp;igrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kh&amp;oacute; khăn trong t&amp;iacute;ch hợp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi tổ chức muốn sử dụng v&amp;agrave; &amp;aacute;p dụng c&amp;ocirc;ng nghệ mới, những giải ph&amp;aacute;p đ&amp;oacute; kh&amp;ocirc;ng phải l&amp;uacute;c n&amp;agrave;o cũng t&amp;iacute;ch hợp liền mạch với hệ thống m&amp;agrave; doanh nghiệp tổ chức đang sử dụng. Hai vấn đề phổ biến thường ph&amp;aacute;t sinh từ c&amp;aacute;c vấn đề t&amp;iacute;ch hợp: nhập dữ liệu hai lần hoặc phải t&amp;igrave;m kiếm th&amp;ocirc;ng tin quan trọng ở nhiều nơi lưu trữ kh&amp;aacute;c nhau. Giải ph&amp;aacute;p to&amp;agrave;n diện của DTSVN sẽ gi&amp;uacute;p việc di chuyển của doanh nghiệp diễn ra su&amp;ocirc;n sẻ m&amp;agrave; kh&amp;ocirc;ng bị tr&amp;ugrave;ng lặp hoặc mất dữ liệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thiếu x&amp;oacute;t kế hoạch CNTT chiến lược&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một vướng mắc l&amp;agrave; c&amp;aacute;c SME/MSME đang gặp phải l&amp;agrave; do quy m&amp;ocirc; chưa đủ lớn, chưa đủ nh&amp;acirc;n sự để hoạch định kế hoạch cũng như chiến lược CNTT. Việc hoạch định chiến lược mất qu&amp;aacute; nhi&amp;ecirc;u c&amp;ocirc;ng sức v&amp;agrave; nguồn lực. Việc lập kế hoạch sẽ cho ph&amp;eacute;p doanh nghiệp tự do trải nghiệm sự ph&amp;aacute;t triển quy m&amp;ocirc; lớn hơn bằng c&amp;aacute;ch t&amp;iacute;ch hợp chiến lược v&amp;agrave; mong muốn của c&amp;aacute;c nh&amp;agrave; l&amp;atilde;nh đạo doanh nghiệp với nh&amp;oacute;m CNTT nội bộ. DTSVN sẽ gi&amp;uacute;p bạn ph&amp;aacute;t triển một kế hoạch CNTT chiến lược t&amp;iacute;ch hợp cả mục ti&amp;ecirc;u ngắn hạn v&amp;agrave; nhu cầu d&amp;agrave;i hạn của doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Nhu cầu n&amp;acirc;ng cấp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sự c&amp;acirc;n bằng giữa việc sử dụng m&amp;aacute;y t&amp;iacute;nh đơn thuần v&amp;agrave; cập nhật phần cứng li&amp;ecirc;n tục l&amp;agrave; điều tốt để x&amp;aacute;c định sự kh&amp;aacute;c biệt giữa nhu cầu "Muốn" v&amp;agrave; "Cần". Nếu m&amp;aacute;y t&amp;iacute;nh hay phần mềm chạy chậm, doanh nghiệp c&amp;oacute; khả năng bị tổn thất ở c&amp;aacute;c lĩnh vực hay ph&amp;ograve;ng ban kh&amp;aacute;c theo thời gian do năng suất l&amp;agrave;m việc bị ảnh hưởng. C&amp;aacute;c doanh nghiệp nhỏ phải đối mặt với một số vấn đề t&amp;iacute;ch hợp c&amp;ocirc;ng nghệ nền tảng v&amp;agrave; DTSVN hiểu những vấn đề đ&amp;oacute;. Ch&amp;uacute;ng t&amp;ocirc;i c&amp;oacute; c&amp;aacute;c giải ph&amp;aacute;p cho c&amp;aacute;c vấn đề c&amp;ocirc;ng nghệ phổ biến c&amp;oacute; thể gặp phải trong qu&amp;aacute; tr&amp;igrave;nh hoạt động b&amp;igrave;nh thường v&amp;agrave; c&amp;oacute; thể giữ cho c&amp;ocirc;ng nghệ của bạn hoạt động hiệu quả hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; c&amp;ocirc;ng ty chuyển đổi số ti&amp;ecirc;n phong phục vụ ri&amp;ecirc;ng c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam, cung cấp c&amp;aacute;c giải ph&amp;aacute;p số h&amp;oacute;a mới nhất gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; d&amp;ugrave;ng thử giải ph&amp;aacute;p&lt;a href="https://dtsvn.net/contact-us"&gt;&amp;nbsp;tại đ&amp;acirc;y&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In every industry, advances in technology are changing the way organisations do business. Whether you are a large multinational or a sole trader, technology is at the heart of business processes today. For SMEs in particular, having the right technology for the right scale can make or break a business. Here are the five biggest technology challenges facing SMEs/MSMEs today.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Scalability challenges&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A business can grow from a one-person team to a significant size in a very short period of time and while this is great, having the systems and software to support operations through this growth and into the future is essential. SMEs/MSMEs often start with basic IT capabilities and grow rapidly, leaving them with an urgent need for new software and systems.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The Challenge of Choosing a Platform&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to research, the most popular technologies used by SMEs are cloud computing, customer relationship management software, and e-commerce. However, there are countless different applications that can be used in a business from time management software to applications that allocate bonuses to employees who perform well. The challenge is having the right amount of technology to help businesses save time and money without being overloaded with software to maintain.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The Challenge of Integration&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;When organizations want to use and adopt new technology, those solutions do not always integrate seamlessly with the systems that the organization is using. Two common problems that often arise from integration issues: double-entering data or having to search for important information in different storage locations. DTSVN's comprehensive solution will help businesses move smoothly without duplication or loss of data.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lack of Strategic IT Planning&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One problem that SMEs/MSMEs are facing is that they are not large enough and do not have enough staff to plan and strategize IT. Strategic planning takes too much effort and resources. Planning will allow businesses to experience larger-scale growth by integrating the strategy and desires of business leaders with the internal IT team. DTSVN will help you develop a strategic IT plan that integrates both short-term goals and long-term needs of the business.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Upgrade Needs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The balance between simple computer usage and continuous hardware updates is a good thing to determine the difference between "Want" and "Need". If computers or software run slowly, the business is likely to suffer in other areas or departments over time due to productivity being affected. Small businesses face a number of issues integrating platform technology and DTSVN understands those issues. We have solutions to common technology problems that may occur during normal operations and can keep your technology running more efficiently.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering digital transformation company serving businesses in the Finance - Banking industry in Vietnam, providing the latest digital solutions to help Banks and financial institutions quickly complete their technology systems to serve Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and trial solutions here.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-03-24T07:23:24.000Z</time_create_dt>
+	<createdDate>2025-08-07T07:23:22.311Z</createdDate>
+	<createdDate_dt>2025-08-07T07:23:22.311Z</createdDate_dt>
+	<lastModifiedDate>2025-08-07T07:23:22.311Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-07T07:23:22.311Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

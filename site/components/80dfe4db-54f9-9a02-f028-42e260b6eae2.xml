@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-partner</content-type>
+	<display-template>/templates/web/Component-partner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>80df</objectGroupId>
+	<objectId>80dfe4db-54f9-9a02-f028-42e260b6eae2</objectId>
+	<internal-name>Đối tác</internal-name>
+	<title6_s>Đối tác tiêu biểu của chúng tôi</title6_s>
+	<file-name>80dfe4db-54f9-9a02-f028-42e260b6eae2.xml</file-name>
+	<folder-name/>
+	<partner_o item-list="true">	<item>	<image_partner_s>/static-assets/images/odoo_logo_rgb.svg.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/clevertap.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/meeyland.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/nuclent.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/adjust.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/insider.png</image_partner_s>
+	</item></partner_o>
+	<createdDate>2025-06-26T03:05:29.162Z</createdDate>
+	<createdDate_dt>2025-06-26T03:05:29.162Z</createdDate_dt>
+	<lastModifiedDate>2025-07-09T02:00:06.595Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-09T02:00:06.595Z</lastModifiedDate_dt>
+</component>

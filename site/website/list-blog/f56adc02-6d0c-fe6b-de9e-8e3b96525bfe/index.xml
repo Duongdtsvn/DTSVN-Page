@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f56a</objectGroupId>
+	<objectId>f56adc02-6d0c-fe6b-de9e-8e3b96525bfe</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>f56adc02-6d0c-fe6b-de9e-8e3b96525bfe</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Công việc của 1 Business Analyst trong Ngân hàng</internal-name>
+	<navLabel>Công việc của 1 Business Analyst trong Ngân hàng</navLabel>
+	<title_vi_s>Công việc của 1 Business Analyst trong Ngân hàng</title_vi_s>
+	<title_en_s>Job of a Business Analyst in a Bank</title_en_s>
+	<categorys_o>	<item>	<key>Business-Analytics</key>
+	<value_smv>Business Analytics</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/photo-1683691900567-16836919021101886115495.webp</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Mục lục nội dung&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Sơ lược về Business Analyst trong Banking&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. C&amp;ocirc;ng việc của 1 Business Analyst trong Ng&amp;acirc;n h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Cơ hội việc l&amp;agrave;m trong ng&amp;agrave;nh Banking cho BA&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. C&amp;aacute;c kỹ năng nghiệp vụ cần nắm được&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.1 &amp;ndash; Nghiệp vụ t&amp;agrave;i khoản &amp;ndash; định danh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.2 &amp;ndash; Nghiệp vụ về thanh to&amp;aacute;n, chuyển tiền&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.3 &amp;ndash; Nghiệp vụ về hạn mức giao dịch&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.4 &amp;ndash; Nghiệp vụ về Thẻ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.5 &amp;ndash; Nghiệp vụ về Vay&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.6 &amp;ndash; Nghiệp vụ gửi tiết kiệm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.7 &amp;ndash; Nghiệp vụ về KYC &amp;amp; eKYC&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.8 &amp;ndash; Nghiệp vụ về Corebank&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng ở Việt Nam n&amp;oacute;i ri&amp;ecirc;ng v&amp;agrave; thế giới n&amp;oacute;i chung đang t&amp;iacute;ch cực Chuyển đổi số để đ&amp;aacute;p ứng được với nhu cầu kinh doanh, v&amp;igrave; vậy c&amp;aacute;c Bank đều c&amp;oacute;&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-business-analytics/lo-trinh-phat-trien-cua-1-business-analyst/"&gt;xu hướng tuyển dụng BA&lt;/a&gt;&amp;nbsp;nhiều hơn v&amp;agrave; y&amp;ecirc;u cầu phải c&amp;oacute; kinh nghiệm trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;B&amp;agrave;i viết dưới đ&amp;acirc;y của DTSVN sẽ giải đ&amp;aacute;p cho bạn mọi thứ về Banking Business Analyst.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Sơ lược về Business Analyst trong Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-business-analytics/business-analyst-la-gi/"&gt;Vị tr&amp;iacute; Business Analyst&lt;/a&gt;&amp;nbsp;trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng, hay c&amp;ograve;n được gọi với c&amp;aacute;i t&amp;ecirc;n Banking Business Analyst. Họ l&amp;agrave; những người ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c y&amp;ecirc;u cầu, đưa ra giải ph&amp;aacute;p cho c&amp;aacute;c vấn đề xoay quanh b&amp;agrave;i to&amp;aacute;n kinh doanh nhằm cải thiện hiệu quả hoạt động v&amp;agrave; doanh thu, lợi nhuận cho Ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;ocirc;ng việc của 1 Business Analyst trong Ng&amp;acirc;n h&amp;agrave;ng&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Cho d&amp;ugrave; bạn l&amp;agrave; 1 Business Analyst l&amp;agrave;m việc nội bộ trong Ng&amp;acirc;n h&amp;agrave;ng hay bạn l&amp;agrave; 1 BA l&amp;agrave;m cho c&amp;aacute;c c&amp;ocirc;ng ty triển khai c&amp;aacute;c dự &amp;aacute;n c&amp;oacute; li&amp;ecirc;n quan đến Bank th&amp;igrave; đ&amp;acirc;y l&amp;agrave; những c&amp;ocirc;ng việc ch&amp;iacute;nh m&amp;agrave; bạn sẽ đảm nhận v&amp;agrave; chịu tr&amp;aacute;ch nhiệm:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Thu thập, ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; đặc tả y&amp;ecirc;u cầu của kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c hoặc bộ phận nội bộ li&amp;ecirc;n quan đến c&amp;aacute;c dự &amp;aacute;n ng&amp;acirc;n h&amp;agrave;ng.&lt;/li&gt;
+&lt;li&gt;Thiết kế, m&amp;ocirc; h&amp;igrave;nh ho&amp;aacute; v&amp;agrave; kiểm tra c&amp;aacute;c giải ph&amp;aacute;p ph&amp;ugrave; hợp với y&amp;ecirc;u cầu, bao gồm c&amp;aacute;c giải ph&amp;aacute;p về phần mềm, phần cứng, quy tr&amp;igrave;nh, ch&amp;iacute;nh s&amp;aacute;ch hoặc đ&amp;agrave;o tạo.&lt;/li&gt;
+&lt;li&gt;Hỗ trợ việc triển khai, đ&amp;agrave;o tạo, gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; c&amp;aacute;c giải ph&amp;aacute;p đ&amp;atilde; đề xuất, đảm bảo ch&amp;uacute;ng đ&amp;aacute;p ứng được mục ti&amp;ecirc;u kinh doanh v&amp;agrave; mang lại lợi &amp;iacute;ch cho ng&amp;acirc;n h&amp;agrave;ng.&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m cầu nối giữa c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan trong dự &amp;aacute;n, bao gồm kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c, nh&amp;agrave; cung cấp, nh&amp;acirc;n vi&amp;ecirc;n ng&amp;acirc;n h&amp;agrave;ng, quản l&amp;yacute; v&amp;agrave; c&amp;aacute;c bộ phận chức năng kh&amp;aacute;c.&lt;/li&gt;
+&lt;li&gt;Thực hiện c&amp;aacute;c b&amp;aacute;o c&amp;aacute;o, thuyết tr&amp;igrave;nh v&amp;agrave; t&amp;agrave;i liệu kỹ thuật li&amp;ecirc;n quan đến c&amp;aacute;c dự &amp;aacute;n ng&amp;acirc;n h&amp;agrave;ng, cung cấp th&amp;ocirc;ng tin, dữ liệu v&amp;agrave; khuyến nghị cho c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan.&lt;/li&gt;
+&lt;li&gt;Nắm bắt v&amp;agrave; theo d&amp;otilde;i c&amp;aacute;c xu hướng, th&amp;aacute;ch thức v&amp;agrave; cơ hội của ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng, đề xuất c&amp;aacute;c &amp;yacute; tưởng s&amp;aacute;ng tạo v&amp;agrave; cải tiến li&amp;ecirc;n tục cho ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Cơ hội việc l&amp;agrave;m trong ng&amp;agrave;nh Banking cho BA&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Một Banking Business Analyst c&amp;oacute; thể c&amp;oacute; nhiều cơ hội thăng tiến trong nghề, t&amp;ugrave;y thuộc v&amp;agrave;o kinh nghiệm, kỹ năng v&amp;agrave; mục ti&amp;ecirc;u nghề nghiệp của m&amp;igrave;nh. Một số hướng đi ti&amp;ecirc;u biểu thường hay bắt gặp đ&amp;oacute; l&amp;agrave;:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Senior BA chịu tr&amp;aacute;ch nhiệm cho c&amp;aacute;c dự &amp;aacute;n lớn, phức tạp v&amp;agrave; quan trọng của ng&amp;acirc;n h&amp;agrave;ng.&lt;/li&gt;
+&lt;li&gt;BA Team Leader điều h&amp;agrave;nh v&amp;agrave; hướng dẫn c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong đội ngũ, đảm bảo chất lượng v&amp;agrave; hiệu quả của c&amp;ocirc;ng việc.&lt;/li&gt;
+&lt;li&gt;Business Architect thiết kế v&amp;agrave; x&amp;acirc;y dựng c&amp;aacute;c giải ph&amp;aacute;p to&amp;agrave;n diện cho ng&amp;acirc;n h&amp;agrave;ng, bao gồm c&amp;aacute;c kh&amp;iacute;a cạnh về kinh doanh, c&amp;ocirc;ng nghệ, quản l&amp;yacute; v&amp;agrave; văn ho&amp;aacute;.&lt;/li&gt;
+&lt;li&gt;BA Consultant cung cấp dịch vụ ph&amp;acirc;n t&amp;iacute;ch nghiệp vụ cho nhiều ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức kh&amp;aacute;c, gi&amp;uacute;p họ cải thiện hoạt động kinh doanh v&amp;agrave; đạt được mục ti&amp;ecirc;u chiến lược.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;c kỹ năng nghiệp vụ cần nắm được&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Dưới đ&amp;acirc;y l&amp;agrave; c&amp;aacute;c nghiệp vụ bạn sẽ gặp thường xuy&amp;ecirc;n trong c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n tối ưu của Bank&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Nghiệp vụ t&amp;agrave;i khoản &amp;ndash; định danh&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Mở t&amp;agrave;i khoản (tại quầy, trực tuyến,&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Định danh kh&amp;aacute;ch h&amp;agrave;ng (KYC/eKYC) =&amp;gt; Mở qua eKYC hạn mức giao dịch thấp (thường từ dưới 5M VNĐ)&lt;/li&gt;
+&lt;li&gt;Cập nhật th&amp;ocirc;ng tin kh&amp;aacute;ch h&amp;agrave;ng (CIF)&lt;/li&gt;
+&lt;li&gt;Ph&amp;acirc;n loại kh&amp;aacute;ch h&amp;agrave;ng (nh&amp;oacute;m KH v&amp;agrave; bậc KH)&lt;/li&gt;
+&lt;li&gt;C&amp;aacute;c loại t&amp;agrave;i khoản (Credit, Debit, Prepaid, Overdraft, Virtual)&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; t&amp;agrave;i khoản số đẹp (bản chất l&amp;agrave; Alias)&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; t&amp;agrave;i khoản đa ngoại tệ&lt;/li&gt;
+&lt;li&gt;Th&amp;ocirc;ng b&amp;aacute;o/bảo mật t&amp;agrave;i khoản (v&amp;iacute; dụ như c&amp;oacute; người đăng nhập v&amp;agrave;o tk tr&amp;ecirc;n thiết bị mới, đăng nhập tr&amp;ecirc;n IB/MB cần cấp ph&amp;eacute;p,&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Đ&amp;oacute;ng t&amp;agrave;i khoản&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; thẻ ng&amp;acirc;n h&amp;agrave;ng&lt;/li&gt;
+&lt;li&gt;Đăng nhập/Đăng xuất (th&amp;ocirc;ng qua c&amp;aacute;c phương thức login kh&amp;aacute;c nhau từ FaceID/V&amp;acirc;n tay, Password/OTP/&amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Nghiệp vụ về thanh to&amp;aacute;n, chuyển tiền&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Quản l&amp;yacute; số dư&lt;/li&gt;
+&lt;li&gt;Hạn mức giao dịch&lt;/li&gt;
+&lt;li&gt;Phương thức x&amp;aacute;c thực, x&amp;aacute;c thực giao dịch&lt;/li&gt;
+&lt;li&gt;Chuyển khoản nội bộ (Qua số điện thoại, email, alias, ID,&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Chuyển khoản li&amp;ecirc;n ng&amp;acirc;n h&amp;agrave;ng (NAPAS/CITAD/Alias)&lt;/li&gt;
+&lt;li&gt;Chuyển tiền quốc tế (thường l&amp;agrave; qua SWIFT)&lt;/li&gt;
+&lt;li&gt;Thanh to&amp;aacute;n ho&amp;aacute; đơn&lt;/li&gt;
+&lt;li&gt;Thanh to&amp;aacute;n điện tử&lt;/li&gt;
+&lt;li&gt;Thanh to&amp;aacute;n qua QRPay&lt;/li&gt;
+&lt;li&gt;Tự động ho&amp;aacute; thanh to&amp;aacute;n định kỳ&lt;/li&gt;
+&lt;li&gt;OTT (Over The Top)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; Nghiệp vụ về hạn mức giao dịch&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tu&amp;acirc;n theo quy định ng&amp;acirc;n h&amp;agrave;ng nh&amp;agrave; nước&lt;/li&gt;
+&lt;li&gt;Hạn mức ng&amp;agrave;y cho t&amp;agrave;i khoản/Thẻ&lt;/li&gt;
+&lt;li&gt;Hạn mức mỗi giao dịch cho t&amp;agrave;i khoản/thẻ&lt;/li&gt;
+&lt;li&gt;Hạn mức cho giao dịch th&amp;aacute;ng&lt;/li&gt;
+&lt;li&gt;Hạn mức r&amp;uacute;t tiền&lt;/li&gt;
+&lt;li&gt;Hạn mức thanh to&amp;aacute;n thẻ t&amp;iacute;n dụng&lt;/li&gt;
+&lt;li&gt;Hạn mức cho giao dịch đặc biệt (từ thiện, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Hạn mức giao dịch trực tuyến&lt;/li&gt;
+&lt;li&gt;Hạn mức giao dịch quốc tế&lt;/li&gt;
+&lt;li&gt;Tuỳ chỉnh hạn mức&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;4 &amp;ndash; Nghiệp vụ về Thẻ&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;C&amp;aacute;c loại thẻ: Debit, Credit, Đa năng, Đồng h&amp;agrave;nh thương hiệu&lt;/li&gt;
+&lt;li&gt;Ph&amp;aacute;t h&amp;agrave;nh thẻ&lt;/li&gt;
+&lt;li&gt;K&amp;iacute;ch hoạt thẻ&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; hạn mức thẻ&lt;/li&gt;
+&lt;li&gt;Đổi m&amp;atilde; thẻ/m&amp;atilde; PIN (qu&amp;ecirc;n m&amp;atilde; thẻ)&lt;/li&gt;
+&lt;li&gt;B&amp;aacute;o mất/kho&amp;aacute; thẻ&lt;/li&gt;
+&lt;li&gt;Thanh to&amp;aacute;n tự động&lt;/li&gt;
+&lt;li&gt;Sao k&amp;ecirc; giao dịch thẻ&lt;/li&gt;
+&lt;li&gt;Bảo hiểm cho thẻ&lt;/li&gt;
+&lt;li&gt;Thanh to&amp;aacute;n thẻ t&amp;iacute;n dụng&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; thanh to&amp;aacute;n trực tuyến v&amp;agrave; hạn mức trực tuyến&lt;/li&gt;
+&lt;li&gt;Ưu đ&amp;atilde;i, khuyến m&amp;atilde;i, ho&amp;agrave;n tiền,&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;5 &amp;ndash; Nghiệp vụ về Vay&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Đăng k&amp;yacute; vay&lt;/li&gt;
+&lt;li&gt;C&amp;aacute;c loại vay ng&amp;acirc;n h&amp;agrave;ng (Thấu chi, T&amp;iacute;n chấp, thế chấp, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;X&amp;eacute;t duyệt v&amp;agrave; ph&amp;aacute;t h&amp;agrave;nh khoản vay&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; khoản vay&lt;/li&gt;
+&lt;li&gt;Hạn mức cho vay (theo quy định nh&amp;agrave; nước v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng)&lt;/li&gt;
+&lt;li&gt;L&amp;atilde;i suất vay v&amp;agrave; thanh to&amp;aacute;n nợ&lt;/li&gt;
+&lt;li&gt;Thanh to&amp;aacute;n v&amp;agrave; ghi nợ tự động&lt;/li&gt;
+&lt;li&gt;Bảo hiểm rủi ro cho khoản vay&lt;/li&gt;
+&lt;li&gt;Chống rửa tiền (AML)&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; nợ xấu&lt;/li&gt;
+&lt;li&gt;Cho vay tại đa k&amp;ecirc;nh (IB, MB, Tại quầy, qua App b&amp;ecirc;n thứ 3,&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Tự động gửi hợp đồng vay.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;6 &amp;ndash; Nghiệp vụ gửi tiết kiệm&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Mở sổ tiết kiệm&lt;/li&gt;
+&lt;li&gt;Kỳ hạn v&amp;agrave; l&amp;atilde;i suất&lt;/li&gt;
+&lt;li&gt;Tất to&amp;aacute;n tiết kiệm&lt;/li&gt;
+&lt;li&gt;Tự động gia hạn tiết kiệm&lt;/li&gt;
+&lt;li&gt;R&amp;uacute;t v&amp;agrave; gửi th&amp;ecirc;m tiết kiệm&lt;/li&gt;
+&lt;li&gt;C&amp;aacute;c loại mở tiết kiệm: Mở Online, Mở tại quầy, c&amp;aacute;c nh&amp;oacute;m Kh&amp;aacute;ch h&amp;agrave;ng, tiền gửi t&amp;iacute;ch lũy, tiền gửi cố định,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; danh s&amp;aacute;ch sổ tiết kiệm&lt;/li&gt;
+&lt;li&gt;Tự động gửi hồ sơ/hợp đồng tiết kiệm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;7 &amp;ndash; Nghiệp vụ về KYC &amp;amp; eKYC&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Mở t&amp;agrave;i khoản trực tuyến&lt;/li&gt;
+&lt;li&gt;X&amp;aacute;c thực/định danh r&amp;uacute;t tiền&lt;/li&gt;
+&lt;li&gt;X&amp;aacute;c thực/định danh tại quầy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;8 &amp;ndash; Nghiệp vụ về Corebank&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Bao gồm c&amp;aacute;c nghiệp vụ về th&amp;ocirc;ng tin KH, giao dịch, thẻ, ngoại tệ, vay, tiết kiệm, CRM, sao lưu dữ liệu,&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; tất cả mọi thứ về nghề Business Analyst trong Ng&amp;acirc;n h&amp;agrave;ng. Nếu bạn muốn trở th&amp;agrave;nh 1 Banking Business Analyst, bạn c&amp;oacute; thể tham khảo&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/san-pham-dich-vu/khoa-hoc-business-analyst/"&gt;kh&amp;oacute;a học Business Analyst trong Ng&amp;acirc;n h&amp;agrave;ng cho người mới bắt đầu tại DTSVN&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Overview of Business Analyst in Banking&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Role of a Business Analyst in Banking&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Career Opportunities for BAs in the Banking Industry&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Essential Business Skills to Master&lt;br&gt;4.1 &amp;ndash; Account &amp;amp; Customer Identification&lt;br&gt;4.2 &amp;ndash; Payments &amp;amp; Money Transfer&lt;br&gt;4.3 &amp;ndash; Transaction Limits&lt;br&gt;4.4 &amp;ndash; Card Operations&lt;br&gt;4.5 &amp;ndash; Lending Operations&lt;br&gt;4.6 &amp;ndash; Savings &amp;amp; Deposits&lt;br&gt;4.7 &amp;ndash; KYC &amp;amp; eKYC&lt;br&gt;4.8 &amp;ndash; Core Banking&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;Banks in Vietnam in particular and around the world in general are actively accelerating &lt;strong&gt;Digital Transformation&lt;/strong&gt; to meet business demands. Therefore, there is a growing trend of banks recruiting more &lt;strong&gt;Business Analysts (BAs)&lt;/strong&gt;, with a strong preference for those who already have experience in the banking industry.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This article by &lt;strong&gt;DTSVN&lt;/strong&gt; will answer everything you need to know about &lt;strong&gt;Banking Business Analysts&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Overview of Business Analyst in Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;The &lt;strong&gt;Business Analyst (BA)&lt;/strong&gt; position in the banking sector, also known as &lt;strong&gt;Banking Business Analyst&lt;/strong&gt;, plays a critical role in analyzing requirements and providing solutions for business challenges. Their mission is to improve operational efficiency, increase revenue, and maximize profitability for the bank.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;The Role of a Business Analyst in Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Whether you are a BA working internally at a bank, or part of an implementation company delivering banking projects, these are the core responsibilities you will undertake:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Collect, analyze, and specify requirements from customers, partners, or internal departments related to banking projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Design, model, and test solutions that fit the requirements, including software, hardware, processes, policies, or training.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support implementation, training, monitoring, and evaluation of proposed solutions to ensure they meet business objectives and bring value to the bank.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Act as a bridge between stakeholders in the project, including customers, partners, vendors, bank staff, managers, and functional departments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare reports, presentations, and technical documents for banking projects, providing insights, data, and recommendations for stakeholders.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Track industry trends, challenges, and opportunities, and propose innovative ideas and continuous improvements for the bank.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Career Opportunities for BAs in the Banking Industry&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;A Banking Business Analyst can pursue multiple career paths depending on their experience, skill sets, and professional goals. Some common directions include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Senior BA&lt;/strong&gt; &amp;ndash; responsible for large, complex, and critical projects within the bank.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;BA Team Leader&lt;/strong&gt; &amp;ndash; leading and guiding a team of analysts, ensuring the quality and effectiveness of deliverables.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Business Architect&lt;/strong&gt; &amp;ndash; designing comprehensive solutions for banks, covering business, technology, management, and cultural aspects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;BA Consultant&lt;/strong&gt; &amp;ndash; providing business analysis services to multiple banks and organizations, helping them enhance business performance and achieve strategic goals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Essential Business Skills to Master&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Below are the key business domains and operations a BA frequently encounters in banking optimization projects:&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Account &amp;amp; Customer Identification&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Account opening (branch, online, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Customer identification (KYC/eKYC) &amp;rarr; eKYC accounts usually have low transaction limits (e.g., under 5M VND).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Updating customer information (CIF).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Customer segmentation (customer groups &amp;amp; tiers).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Types of accounts (Credit, Debit, Prepaid, Overdraft, Virtual).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;ldquo;Lucky number&amp;rdquo; account management (alias accounts).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Multi-currency account management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Account alerts/security (e.g., login from a new device, authorization for IB/MB logins).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Account closure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bank card management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Login/Logout methods (FaceID/Fingerprint, Password/OTP, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Payments &amp;amp; Money Transfer&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Balance management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transaction limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Authentication methods for transactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Internal transfers (via phone number, email, alias, ID, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interbank transfers (NAPAS/CITAD/Alias).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;International transfers (commonly via SWIFT).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bill payments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;E-payments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;QRPay transactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated recurring payments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OTT (Over The Top) payments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; Transaction Limits&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Compliance with State Bank regulations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daily limits for accounts/cards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Per-transaction limits for accounts/cards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monthly transaction limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ATM withdrawal limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Credit card payment limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Limits for special transactions (charity, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Online transaction limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;International transaction limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Customizable limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;4 &amp;ndash; Card Operations&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Card types: Debit, Credit, Multi-purpose, Co-branded.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Card issuance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Card activation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Card limit management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PIN change/reset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lost/stolen card reporting and blocking.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Auto-payment setup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Card transaction statements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Card insurance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Credit card repayments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Online transaction &amp;amp; limit management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Promotions, cashback, and rewards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;5 &amp;ndash; Lending Operations&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Loan applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loan types (Overdraft, Unsecured, Secured, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loan approval and disbursement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loan management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loan limits (based on regulations &amp;amp; bank policy).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loan interest rates &amp;amp; repayment schedules.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatic repayment &amp;amp; debt collection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loan insurance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Anti-Money Laundering (AML).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Non-performing loan (NPL) management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Multi-channel loan services (IB, MB, branch, third-party apps, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated loan contract delivery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;6 &amp;ndash; Savings &amp;amp; Deposits&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Opening savings accounts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Terms &amp;amp; interest rates.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Closing deposits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatic renewal of deposits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Additional deposits &amp;amp; withdrawals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Savings types: Online, branch-based, group savings, recurring deposits, fixed deposits, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Savings account portfolio management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated savings contract delivery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;7 &amp;ndash; KYC &amp;amp; eKYC&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Online account opening.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Withdrawal authentication/identification.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In-branch authentication.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;8 &amp;ndash; Core Banking&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Includes customer information, transactions, cards, foreign exchange, loans, savings, CRM, data backup, and more.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;The above provides a comprehensive overview of the &lt;strong&gt;Banking Business Analyst role&lt;/strong&gt;. If you aspire to become a &lt;strong&gt;Banking BA&lt;/strong&gt;, you can explore the &lt;strong&gt;Business Analyst in Banking course for beginners at DTSVN&lt;/strong&gt;.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-16T03:21:25.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:21:24.451Z</createdDate>
+	<createdDate_dt>2025-08-28T03:21:24.451Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:21:24.451Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:21:24.451Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

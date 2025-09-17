@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-solutionn</content-type>
+	<display-template>/templates/web/Component-solutionn.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e84</objectGroupId>
+	<objectId>4e84f869-dbc2-5485-d62f-8ec66be6d400</objectId>
+	<file-name>4e84f869-dbc2-5485-d62f-8ec66be6d400.xml</file-name>
+	<folder-name/>
+	<image_s>/static-assets/images/giaiphap2.jpg</image_s>
+	<internal-name>DTSVN CUNG CẤP TRỌN BỘ GIẢI PHÁP-en</internal-name>
+	<title_s>DTSVN PROVIDES FULL SOLUTIONS</title_s>
+	<path_s>Contact us</path_s>
+	<solutionn_o item-list="true">	<item>	<title_s>Optimal customer data management solutions</title_s>
+	</item>	<item>	<title_s>Optimal risk management solutions for banks       </title_s>
+	</item>	<item>	<title_s>Digital transformation consulting</title_s>
+	</item>	<item>	<title_s>Professional training</title_s>
+	</item></solutionn_o>
+	<createdDate>2025-07-08T03:34:05.252Z</createdDate>
+	<createdDate_dt>2025-07-08T03:34:05.252Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T03:34:05.252Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T03:34:05.252Z</lastModifiedDate_dt>
+</component>

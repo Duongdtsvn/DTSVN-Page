@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f4c4</objectGroupId>
+	<objectId>f4c47142-396d-bc7b-41a1-4bc5eb08211f</objectId>
+	<internal-name>banner nhà đầu tư</internal-name>
+	<name_page_s>Nhà đầu tư</name_page_s>
+	<title_s>Nhà đầu tư</title_s>
+	<subtitle_s/>
+	<file-name>f4c47142-396d-bc7b-41a1-4bc5eb08211f.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-07-08T09:32:08.439Z</createdDate>
+	<createdDate_dt>2025-07-08T09:32:08.439Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T09:32:08.439Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T09:32:08.439Z</lastModifiedDate_dt>
+</component>

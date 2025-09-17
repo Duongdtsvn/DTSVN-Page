@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>
+	<display-template>/templates/web/Component-Service.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f6a4</objectGroupId>
+	<objectId>f6a42166-cbac-f368-1b44-b6c40cbcd3e8</objectId>
+	<file-name>f6a42166-cbac-f368-1b44-b6c40cbcd3e8.xml</file-name>
+	<folder-name/>
+	<internal-name>Dịch vụ</internal-name>
+	<title_s>Dịch vụ</title_s>
+	<text_s/>
+	<service_o item-list="true">	<item>	<key_main_s/>
+	<title_s>Tư vấn CDS</title_s>
+	<link_s>/digital-transformation</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Vận hành Martech</title_s>
+	<link_s>/martech</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Phát triển phần mềm</title_s>
+	<link_s/>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Đào tạo BA</title_s>
+	<link_s>/course-of-ba</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item></service_o>
+	<createdDate>2025-08-27T04:42:31.709Z</createdDate>
+	<createdDate_dt>2025-08-27T04:42:31.709Z</createdDate_dt>
+	<lastModifiedDate>2025-08-27T04:42:31.709Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-27T04:42:31.709Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0b9f</objectGroupId>
+	<objectId>0b9f5c5c-9b69-cef8-75a0-a50929f04639</objectId>
+	<internal-name>banner tư vấn cds en</internal-name>
+	<name_page_s>Digital Transformation</name_page_s>
+	<title_s>Digital transformation consulting services</title_s>
+	<subtitle_s>DTSVN is a leading provider of digital transformation consulting services in Vietnam, supporting businesses on their journey towards digitalization and optimizing business operations.  With the goal of motivating and enabling businesses to proactively shape their future, DTSVN focuses on core values, delivering breakthroughs and competitive advantages in the market.</subtitle_s>
+	<file-name>0b9f5c5c-9b69-cef8-75a0-a50929f04639.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-07-10T00:41:24.514Z</createdDate>
+	<createdDate_dt>2025-07-10T00:41:24.514Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T00:41:24.514Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T00:41:24.514Z</lastModifiedDate_dt>
+</component>

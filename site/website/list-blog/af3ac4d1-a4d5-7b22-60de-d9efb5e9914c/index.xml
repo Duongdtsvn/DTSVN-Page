@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>af3a</objectGroupId>
+	<objectId>af3ac4d1-a4d5-7b22-60de-d9efb5e9914c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>af3ac4d1-a4d5-7b22-60de-d9efb5e9914c</folder-name>
+	<img_main_s>/static-assets/images/hinh-anh-tuyen-dung-nhan-vien-011--1-.png</img_main_s>
+	<internal-name>DTSVN tuyển dụng: Account Manager</internal-name>
+	<navLabel>DTSVN tuyển dụng: Account Manager</navLabel>
+	<title_vi_s>DTSVN tuyển dụng: Account Manager</title_vi_s>
+	<title_en_s>DTSVN is recruiting: Account Manager</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Kĩ năng: Quản trị dự &amp;aacute;n, Quản trị nh&amp;acirc;n sự, Marketing, giải ph&amp;aacute;p Martech&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;L&amp;ecirc;n kế hoạch, triển khai, vận h&amp;agrave;nh v&amp;agrave; b&amp;aacute;o c&amp;aacute;o kết quả triển khai c&amp;aacute;c giải ph&amp;aacute;p tiếp thị tự động tr&amp;ecirc;n nền tảng digital (cơ chế tương tự Google, Facebook, Tiktok);&lt;/li&gt;
+&lt;li&gt;Thực hiện việc quản l&amp;yacute;, theo d&amp;otilde;i v&amp;agrave; chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp;&lt;/li&gt;
+&lt;li&gt;Truyền th&amp;ocirc;ng, tiếp thị, giới thiệu về c&amp;aacute;c sản phẩm, giải ph&amp;aacute;p phần mềm;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; v&amp;agrave; thực hiện hoạt động đấu thầu; theo d&amp;otilde;i quản l&amp;yacute; hồ sơ thầu, quy tr&amp;igrave;nh thanh to&amp;aacute;n...&lt;/li&gt;
+&lt;li&gt;Phối hợp với c&amp;aacute;c bộ phận, ph&amp;ograve;ng ban thực hiện hoạt động kinh doanh với kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp do m&amp;igrave;nh quản l&amp;yacute;;&lt;/li&gt;
+&lt;li&gt;Phối hợp, l&amp;agrave;m việc v&amp;agrave; quản l&amp;yacute; mối quan hệ kinh doanh với H&amp;atilde;ng c&amp;ocirc;ng nghệ tư vấn giải ph&amp;aacute;p phần mềm;&lt;/li&gt;
+&lt;li&gt;L&amp;ecirc;n kế hoạch v&amp;agrave; thực hiện c&amp;ocirc;ng việc theo đ&amp;uacute;ng mục ti&amp;ecirc;u cam kết;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; c&amp;aacute;c dự &amp;aacute;n tiếp thị tự động cho c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng lớn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tốt nghiệp Đại học ng&amp;agrave;nh Quản trị kinh doanh, T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng, Kinh tế, Ngoại thương, Ngoại giao;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kinh nghiệm/ hoặc kiến thức trong lĩnh vực Martech;&lt;/li&gt;
+&lt;li&gt;Kinh nghiệm Account Manager Marketing từ 2 năm trở l&amp;ecirc;n hoặc quản trị dự &amp;aacute;n MKT &amp;nbsp;trong Ng&amp;acirc;n h&amp;agrave;ng;&lt;/li&gt;
+&lt;li&gt;Khả năng giao tiếp v&amp;agrave; đ&amp;agrave;m ph&amp;aacute;n tốt, c&amp;oacute; khả năng x&amp;acirc;y dựng mối quan hệ với Kh&amp;aacute;ch h&amp;agrave;ng;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kinh nghiệm l&amp;agrave;m việc với c&amp;aacute;c tập đo&amp;agrave;n lớn, ưu ti&amp;ecirc;n đ&amp;atilde;/đang tham gia c&amp;aacute;c dự &amp;aacute;n phần mềm cho Ng&amp;acirc;n h&amp;agrave;ng, t&amp;agrave;i ch&amp;iacute;nh, ch&amp;iacute;nh phủ;&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;nh linh hoạt, chủ động trong c&amp;ocirc;ng việc v&amp;agrave; khả năng quản l&amp;yacute; đội nh&amp;oacute;m;&lt;/li&gt;
+&lt;li&gt;Tư duy r&amp;otilde; r&amp;agrave;ng, mạch lạc, khả năng ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; thuyết tr&amp;igrave;nh tốt;&lt;/li&gt;
+&lt;li&gt;Tiếng Anh giao tiếp tốt + đọc hiểu t&amp;agrave;i liệu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền lợi được hưởng &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Thu nhập cạnh tranh;&lt;/li&gt;
+&lt;li&gt;Thưởng KPIs hấp dẫn;&lt;/li&gt;
+&lt;li&gt;C&amp;aacute;c chế độ bảo hiểm theo Luật lao động + bảo hiểm ưu đ&amp;atilde;i;&lt;/li&gt;
+&lt;li&gt;Teambuilding, nghỉ h&amp;egrave; v&amp;agrave; c&amp;aacute;c ph&amp;uacute;c lợi kh&amp;aacute;c;&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m việc với team kinh nghiệm chuy&amp;ecirc;n s&amp;acirc;u về T&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, c&amp;ocirc;ng nghệ;&lt;/li&gt;
+&lt;li&gt;M&amp;ocirc;i trường cởi mở, hấp dẫn, thời gian linh hoạt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Gửi CV qua mail: vietla@dtsvn.net hoặc SĐT: 0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Skills&lt;/strong&gt;: Project Management, Human Resource Management, Marketing, Martech Solutions&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Plan, implement, operate, and report on the results of deploying automated marketing solutions on digital platforms (similar to Google, Facebook, TikTok);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage, monitor, and take care of corporate customers;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Communicate, market, and introduce software products and solutions;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage and execute bidding activities; monitor and manage bidding documents, payment processes, etc.;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coordinate with departments to carry out business activities with the corporate customers under your management;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coordinate, work with, and manage business relationships with technology firms providing software solutions consulting;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Plan and execute tasks in line with committed objectives;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage automated marketing projects for major clients.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;University degree in Business Administration, Finance - Banking, Economics, Foreign Trade, or International Relations;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience and/or knowledge in the Martech field;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Minimum 2 years of experience as a Marketing Account Manager or Project Manager in Marketing within Banking;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good communication and negotiation skills, with the ability to build relationships with customers;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience working with large corporations, preferably having participated in software projects for Banking, Finance, or Government sectors;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Flexibility, proactiveness, and ability to manage a team;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clear, coherent thinking, with strong analytical and presentation skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good English communication + reading comprehension of documents.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive income;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attractive KPI bonus;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Insurance regimes according to the Labor Law + preferential insurance;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teambuilding, summer vacation, and other benefits;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Opportunity to work with a team with in-depth experience in Banking, Finance, and Technology;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open and engaging working environment with flexible time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Interested candidates, please send your CV to DTSVN:&lt;/strong&gt; &lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hotline:&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-07-21T05:30:51.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:30:49.979Z</createdDate>
+	<createdDate_dt>2025-08-25T05:30:49.979Z</createdDate_dt>
+	<lastModifiedDate>2025-09-15T08:00:20.882Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-15T08:00:20.882Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

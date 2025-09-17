@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-pobup</content-type>
+	<display-template>/templates/web/Component-pobup.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>be77</objectGroupId>
+	<objectId>be77cab9-bd66-7f28-2dc5-eedfdaac06e1</objectId>
+	<file-name>be77cab9-bd66-7f28-2dc5-eedfdaac06e1.xml</file-name>
+	<folder-name/>
+	<internal-name>pobup</internal-name>
+	<createdDate>2025-06-30T07:05:25.422Z</createdDate>
+	<createdDate_dt>2025-06-30T07:05:25.422Z</createdDate_dt>
+	<lastModifiedDate>2025-06-30T07:05:25.422Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-06-30T07:05:25.422Z</lastModifiedDate_dt>
+</component>

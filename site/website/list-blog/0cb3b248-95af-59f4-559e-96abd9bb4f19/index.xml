@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0cb3</objectGroupId>
+	<objectId>0cb3b248-95af-59f4-559e-96abd9bb4f19</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>0cb3b248-95af-59f4-559e-96abd9bb4f19</folder-name>
+	<internal-name>Doanh nghiệp nhận được gì khi áp dụng công nghệ xanh?</internal-name>
+	<navLabel>Doanh nghiệp nhận được gì khi áp dụng công nghệ xanh?</navLabel>
+	<title_vi_s>Doanh nghiệp nhận được gì khi áp dụng công nghệ xanh?</title_vi_s>
+	<title_en_s>What do businesses get when applying green technology?</title_en_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/1-chuyen-doi-xanh-la-gi.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Trong thời đại ng&amp;agrave;y nay, c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin (CNTT) đang đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong hoạt động vận h&amp;agrave;nh v&amp;agrave; ph&amp;aacute;t triển của doanh nghiệp. Tuy nhi&amp;ecirc;n, thống k&amp;ecirc; cho thấy vận h&amp;agrave;nh c&amp;aacute;c ứng dụng CNTT cũng tạo một lượng kh&amp;iacute; thải kh&amp;ocirc;ng nhỏ ra m&amp;ocirc;i trường, chiếm khoảng 3% tổng lượng kh&amp;iacute; thải CO2 v&amp;agrave; được dự đo&amp;aacute;n sẽ tăng gấp 3 lần v&amp;agrave;o năm 2030 (1). Thay đổi v&amp;agrave; định h&amp;igrave;nh lại to&amp;agrave;n bộ chuỗi gi&amp;aacute; trị CNTT với việc ứng dụng c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin xanh đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong việc hiện thực ho&amp;aacute; c&amp;aacute;c mục ti&amp;ecirc;u chuyển đổi xanh v&amp;agrave; trung ho&amp;agrave; carbon v&amp;agrave;o năm 2050 của ch&amp;iacute;nh phủ cũng như c&amp;aacute;c doanh nghiệp.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. T&amp;aacute;c động của CNTT tới m&amp;ocirc;i trường v&amp;agrave; vai tr&amp;ograve; của C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin xanh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo một nghi&amp;ecirc;n cứu của Viện Nghi&amp;ecirc;n cứu Hệ thống To&amp;agrave;n cầu (PIK), dữ liệu lớn (big data) v&amp;agrave; điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y (cloud computing) sẽ ti&amp;ecirc;u thụ khoảng 13% tổng năng lượng điện to&amp;agrave;n cầu v&amp;agrave;o năm 2030, gấp ba lần so với năm 2018. Điều n&amp;agrave;y cũng gi&amp;aacute;n tiếp g&amp;acirc;y ra sự gia tăng kh&amp;iacute; thải carbon v&amp;agrave; nhiệt độ to&amp;agrave;n cầu. Thống k&amp;ecirc; của Statista chỉ ra rằng dữ liệu lớn v&amp;agrave; điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y chiếm khoảng 2% tổng lượng kh&amp;iacute; thải nh&amp;agrave; k&amp;iacute;nh tr&amp;ecirc;n to&amp;agrave;n cầu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, theo một b&amp;aacute;o c&amp;aacute;o của PwC, AI c&amp;oacute; thể g&amp;oacute;p phần giảm 4% lượng kh&amp;iacute; thải to&amp;agrave;n cầu v&amp;agrave;o năm 2030 nhờ việc tối ưu h&amp;oacute;a c&amp;aacute;c quy tr&amp;igrave;nh sản xuất, vận tải v&amp;agrave; năng lượng (2). Tuy nhi&amp;ecirc;n, AI cũng ti&amp;ecirc;u thụ nhiều năng lượng để huấn luyện c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh v&amp;agrave; thuật to&amp;aacute;n phức tạp. Một nghi&amp;ecirc;n cứu của Đại học Massachusetts đ&amp;atilde; chỉ ra rằng huấn luyện một m&amp;ocirc; h&amp;igrave;nh AI c&amp;oacute; thể tương đương với lượng kh&amp;iacute; thải carbon của 5 xe &amp;ocirc; t&amp;ocirc; trong suốt v&amp;ograve;ng đời của ch&amp;uacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thiết bị điện tử như m&amp;aacute;y t&amp;iacute;nh, điện thoại, m&amp;aacute;y t&amp;iacute;nh bảng,&amp;hellip; cũng g&amp;acirc;y ra &amp;ocirc; nhiễm m&amp;ocirc;i trường do qu&amp;aacute; tr&amp;igrave;nh sản xuất, sử dụng v&amp;agrave; loại bỏ. Theo Tổ chức Hợp t&amp;aacute;c v&amp;agrave; Ph&amp;aacute;t triển Kinh tế (OECD), v&amp;agrave;o năm 2019, đ&amp;atilde; c&amp;oacute; khoảng 53,6 triệu tấn r&amp;aacute;c điện tử được sinh ra tr&amp;ecirc;n to&amp;agrave;n thế giới, trong đ&amp;oacute; chỉ c&amp;oacute; 17,4% được thu gom v&amp;agrave; t&amp;aacute;i chế. Theo b&amp;aacute;o c&amp;aacute;o tiến tr&amp;igrave;nh về m&amp;ocirc;i trường năm 2023 của Apple, lượng kh&amp;iacute; thải từ hoạt động sản xuất c&amp;aacute;c sản phẩm điện tử chiếm khoảng 66% tổng lượng kh&amp;iacute; thải của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; thể thấy, ứng dụng C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin xanh (Green IT) l&amp;agrave; xu thế tất yếu của doanh nghiệp trước th&amp;aacute;ch thức to&amp;agrave;n cầu về biến đổi kh&amp;iacute; hậu. Một số v&amp;iacute; dụ về ứng dụng C&amp;ocirc;ng nghệ xanh bao gồm:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Thiết kế, sản xuất v&amp;agrave; t&amp;aacute;i chế c&amp;aacute;c thiết bị điện tử một c&amp;aacute;ch tiết kiệm năng lượng v&amp;agrave; th&amp;acirc;n thiện với m&amp;ocirc;i trường, giảm lượng kh&amp;iacute; thải nh&amp;agrave; k&amp;iacute;nh v&amp;agrave; r&amp;aacute;c thải rắn;&lt;/li&gt;
+&lt;li&gt;Sử dụng c&amp;aacute;c c&amp;ocirc;ng nghệ mới như chip năng lượng thấp, hệ thống đa xử l&amp;yacute; tối ưu h&amp;oacute;a cho tr&amp;iacute; tuệ nh&amp;acirc;n tạo, cấu tr&amp;uacute;c ph&amp;acirc;n t&amp;aacute;n v&amp;agrave; đa dạng h&amp;oacute;a để cải thiện hiệu suất v&amp;agrave; tiết kiệm điện năng;&lt;/li&gt;
+&lt;li&gt;Chuyển đổi từ c&amp;aacute;c trung t&amp;acirc;m dữ liệu truyền thống sang c&amp;aacute;c trung t&amp;acirc;m dữ liệu đ&amp;aacute;m m&amp;acirc;y hoặc lai, tận dụng c&amp;aacute;c nguồn năng lượng t&amp;aacute;i tạo v&amp;agrave; sử dụng c&amp;aacute;c giải ph&amp;aacute;p l&amp;agrave;m m&amp;aacute;t hiệu quả.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Lợi &amp;iacute;ch của việc ứng dụng C&amp;ocirc;ng nghệ xanh đối với doanh nghiệp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thứ nhất, ứng dụng C&amp;ocirc;ng nghệ xanh gi&amp;uacute;p giảm lượng kh&amp;iacute; thải CO2 đồng thời giảm chi ph&amp;iacute; vận h&amp;agrave;nh cho doanh nghiệp. Khi hạn chế sử dụng m&amp;aacute;y chủ ri&amp;ecirc;ng lẻ v&amp;agrave; tối ưu việc sử dụng đ&amp;aacute;m m&amp;acirc;y, lượng kh&amp;iacute; thải sẽ giảm bớt v&amp;agrave; chi ph&amp;iacute; sẽ được tối ưu hơn. Chuyển đổi từ c&amp;aacute;c trung t&amp;acirc;m dữ liệu truyền thống sang c&amp;aacute;c trung t&amp;acirc;m dữ liệu đ&amp;aacute;m m&amp;acirc;y hoặc kết hợp gi&amp;uacute;p doanh nghiệp để tối ưu h&amp;oacute;a c&amp;aacute;c quy tr&amp;igrave;nh l&amp;agrave;m m&amp;aacute;t v&amp;agrave; tiết kiệm năng lượng đ&amp;aacute;ng kể. B&amp;ecirc;n cạnh đ&amp;oacute;, doanh nghiệp n&amp;ecirc;n đầu tư cho c&amp;aacute;c thiết bị v&amp;agrave; phần mềm c&amp;oacute; hiệu suất cao để giảm lượng điện năng ti&amp;ecirc;u thụ v&amp;agrave; chi ph&amp;iacute; bảo tr&amp;igrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thứ hai, th&amp;uacute;c đẩy việc triển khai C&amp;ocirc;ng nghệ xanh gi&amp;uacute;p doanh nghiệp n&amp;acirc;ng cao năng lực cạnh tranh th&amp;ocirc;ng qua việc ứng ph&amp;oacute; với c&amp;aacute;c quy định ph&amp;aacute;p l&amp;yacute; của ch&amp;iacute;nh phủ về chuyển đổi xanh. Thỏa thuận xanh ch&amp;acirc;u &amp;Acirc;u của Li&amp;ecirc;n minh ch&amp;acirc;u &amp;Acirc;u (EU) đ&amp;atilde; được ban h&amp;agrave;nh với c&amp;aacute;c quy định về Mua sắm c&amp;ocirc;ng xanh (GPP), trong đ&amp;oacute; ti&amp;ecirc;u ch&amp;iacute; C&amp;ocirc;ng nghệ xanh sẽ &amp;aacute;p dụng cho cả c&amp;aacute;c g&amp;oacute;i đấu thầu c&amp;ocirc;ng v&amp;agrave; tư. Thỏa thuận xanh ch&amp;acirc;u &amp;Acirc;u cũng c&amp;oacute; &amp;yacute; nghĩa quan trọng đối với Việt Nam v&amp;agrave; ASEAN v&amp;igrave; n&amp;oacute; thể hiện cam kết v&amp;agrave; quyết t&amp;acirc;m của EU trong việc ứng ph&amp;oacute; với biến đổi kh&amp;iacute; hậu v&amp;agrave; giảm ph&amp;aacute;t thải. Những doanh nghiệp đ&amp;aacute;p ứng c&amp;aacute;c ti&amp;ecirc;u chuẩn v&amp;agrave; quy định về chất lượng, an to&amp;agrave;n, bảo vệ m&amp;ocirc;i trường v&amp;agrave; ph&amp;aacute;t triển bền vững sẽ n&amp;acirc;ng cao năng lực cạnh tranh trong việc mở rộng hợp t&amp;aacute;c v&amp;agrave; thu h&amp;uacute;t đầu tư trong v&amp;agrave; ngo&amp;agrave;i nước.&lt;img&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thứ ba, những doanh nghiệp đi đầu trong việc ứng dụng C&amp;ocirc;ng nghệ xanh sẽ đ&amp;aacute;p ứng kỳ vọng v&amp;agrave; tăng sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng. Thị trường v&amp;agrave; h&amp;agrave;nh vi ti&amp;ecirc;u d&amp;ugrave;ng li&amp;ecirc;n quan đến t&amp;iacute;nh bền vững v&amp;agrave; bảo vệ m&amp;ocirc;i trường đ&amp;atilde; thay đổi. 73% Gen Z sẵn s&amp;agrave;ng chi nhiều tiền hơn cho c&amp;aacute;c sản phẩm bền vững so với Millennials (68%), 88 % người ti&amp;ecirc;u d&amp;ugrave;ng mong muốn sử dụng những thương hiệu tu&amp;acirc;n thủ chặt chẽ c&amp;aacute;c gi&amp;aacute; trị xanh trong cuộc sống h&amp;agrave;ng ng&amp;agrave;y (3). V&amp;igrave; vậy, th&amp;uacute;c đẩy C&amp;ocirc;ng nghệ xanh gi&amp;uacute;p doanh nghiệp gia tăng sự h&amp;agrave;i l&amp;ograve;ng v&amp;agrave; gắn kết đối với c&amp;aacute;c thế hệ người ti&amp;ecirc;u d&amp;ugrave;ng trong bối cảnh ti&amp;ecirc;u d&amp;ugrave;ng xanh đang trở th&amp;agrave;nh xu thế.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thứ tư, thể hiện tr&amp;aacute;ch nhiệm đối với m&amp;ocirc;i trường đem lại lợi thế cho doanh nghiệp trong việc thu h&amp;uacute;t nh&amp;acirc;n t&amp;agrave;i v&amp;agrave; n&amp;acirc;ng cao sự gắn kết đối với nh&amp;acirc;n vi&amp;ecirc;n. Ứng dụng v&amp;agrave; th&amp;uacute;c đẩy C&amp;ocirc;ng nghệ xanh tạo ra một m&amp;ocirc;i trường l&amp;agrave;m việc khuyến kh&amp;iacute;ch sự s&amp;aacute;ng tạo v&amp;agrave; cải tiến trong việc &amp;aacute;p dụng c&amp;aacute;c c&amp;ocirc;ng nghệ xanh v&amp;agrave; bền vững. Một doanh nghiệp đạt được c&amp;aacute;c mục ti&amp;ecirc;u ESG hiệu quả sẽ thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n c&amp;aacute;c nh&amp;acirc;n t&amp;agrave;i của m&amp;igrave;nh tốt hơn, đặc biệt l&amp;agrave; thế hệ Gen Z.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng nghệ xanh l&amp;agrave; một xu thế tất yếu cho sự ph&amp;aacute;t triển bền vững của doanh nghiệp trong bối cảnh biến đổi kh&amp;iacute; hậu ng&amp;agrave;y c&amp;agrave;ng nghi&amp;ecirc;m trọng. Bằng c&amp;aacute;ch ứng dụng C&amp;ocirc;ng nghệ xanh, doanh nghiệp kh&amp;ocirc;ng chỉ giảm thiểu t&amp;aacute;c động ti&amp;ecirc;u cực của hoạt động c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin l&amp;ecirc;n m&amp;ocirc;i trường, m&amp;agrave; c&amp;ograve;n n&amp;acirc;ng cao năng lực cạnh tranh, tăng sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng, thu h&amp;uacute;t nh&amp;acirc;n t&amp;agrave;i v&amp;agrave; g&amp;oacute;p phần hiện thực ho&amp;aacute; c&amp;aacute;c mục ti&amp;ecirc;u chuyển đổi xanh v&amp;agrave; trung ho&amp;agrave; carbon của ch&amp;iacute;nh phủ. Để l&amp;agrave;m được điều n&amp;agrave;y, doanh nghiệp cần c&amp;oacute; một lộ tr&amp;igrave;nh chuyển đổi r&amp;otilde; r&amp;agrave;ng cũng như sự chuẩn bị kỹ lưỡng về nguồn lực v&amp;agrave; quyết t&amp;acirc;m mạnh mẽ từ ph&amp;iacute;a ban l&amp;atilde;nh đạo.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: Tổng hợp&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In today's era, information technology (IT) is playing an important role in the operation and development of businesses. However, statistics show that operating IT applications also creates a significant amount of emissions into the environment, accounting for about 3% of total CO2 emissions and is predicted to increase threefold by 2030 (1). Changing and reshaping the entire IT value chain with the application of green information technology plays an important role in realizing the government's and other governments' goals of green transformation and carbon neutrality by 2050. enterprise.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Impact of IT on the environment and the role of Green Information Technology&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to a study by the Institute for Global Systems Research (PIK), big data and cloud computing will consume about 13% of total global electrical energy by 2030, triple times compared to 2018. This also indirectly causes an increase in carbon emissions and global temperatures. Statista statistics indicate that big data and cloud computing account for about 2% of total greenhouse gas emissions globally.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Besides, according to a report by PwC, AI can contribute to reducing global emissions by 4% by 2030 by optimizing production, transportation and energy processes (2). However, AI also consumes a lot of energy to train complex models and algorithms. A study by the University of Massachusetts has shown that training an AI model can be equivalent to the carbon emissions of five cars over their lifetime.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Electronic devices such as computers, phones, tablets, etc. also cause environmental pollution due to their production, use and disposal. According to the Organization for Economic Cooperation and Development (OECD), in 2019, there were about 53.6 million tons of electronic waste generated worldwide, of which only 17.4% was collected and recycled. mechanism. According to Apple's 2023 environmental progress report, emissions from the manufacturing of electronic products account for about 66% of its total emissions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It can be seen that applying Green Information Technology (Green IT) is an inevitable trend for businesses to face the global challenge of climate change. Some examples of Green Technology applications include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Design, manufacture and recycle electronic devices in an energy-efficient and environmentally friendly manner, reducing greenhouse gas emissions and solid waste;&lt;/li&gt;
+&lt;li&gt;Use new technologies such as low-power chips, multi-processor systems optimized for artificial intelligence, distributed architecture and diversification to improve performance and save power;&lt;/li&gt;
+&lt;li&gt;Migrate from traditional data centers to cloud or hybrid data centers, leveraging renewable energy sources and using efficient cooling solutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Benefits of applying Green Technology for businesses&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Firstly, applying Green Technology helps reduce CO2 emissions while reducing operating costs for businesses. By limiting the use of individual servers and optimizing cloud usage, emissions will be reduced and costs will be more optimized. Switching from traditional data centers to cloud or hybrid data centers helps businesses to optimize cooling processes and save significant energy. In addition, businesses should invest in high-performance equipment and software to reduce power consumption and maintenance costs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Second, promoting the implementation of Green Technology helps businesses improve their competitiveness by responding to government legal regulations on green transformation. The European Green Deal of the European Union (EU) has been issued with regulations on Green Public Procurement (GPP), in which Green Technology criteria will apply to both public and private procurement packages. The European Green Deal is also important for Vietnam and ASEAN because it demonstrates the EU's commitment and determination to respond to climate change and reduce emissions. Businesses that meet standards and regulations on quality, safety, environmental protection and sustainable development will improve their competitiveness in expanding cooperation and attracting domestic and foreign investment.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;em&gt;Applying Green Technology helps improve the competitiveness of businesses&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Third, businesses that take the lead in applying Green Technology will meet expectations and increase customer satisfaction. Market and consumer behavior related to sustainability and environmental protection have changed. 73% of Gen Z are willing to spend more money on sustainable products compared to Millennials (68%), 88 % of consumers want to use brands that strictly adhere to green values in everyday life ( 3). Therefore, promoting Green Technology helps businesses increase satisfaction and engagement with generations of consumers in the context of green consumption becoming a trend.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Fourth, demonstrating environmental responsibility gives businesses an advantage in attracting talent and enhancing employee engagement. Applying and promoting Green Technology creates a working environment that encourages creativity and innovation in the application of green and sustainable technologies. A business that effectively achieves its ESG goals will better attract and retain its talent, especially the Gen Z generation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Green technology is an inevitable trend for sustainable development of businesses in the context of increasingly serious climate change. By applying Green Technology, businesses not only minimize the negative impact of information technology activities on the environment, but also improve competitiveness, increase customer satisfaction, and attract talented people. and contribute to realizing the government's green transition and carbon neutrality goals. To do this, businesses need a clear transformation roadmap as well as careful preparation of resources and strong determination from the leadership.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: Compiled&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Helping banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-05-07T03:51:33.000Z</time_create_dt>
+	<createdDate>2025-08-26T03:51:32.148Z</createdDate>
+	<createdDate_dt>2025-08-26T03:51:32.148Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T04:08:06.346Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T04:08:06.346Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

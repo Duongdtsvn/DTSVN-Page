@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4b27</objectGroupId>
+	<objectId>4b270993-0f71-c582-f7ea-56fb988781d5</objectId>
+	<internal-name>Tại sao bạn nên chọn khóa học BA tại DTSVN?</internal-name>
+	<orientation_s>Tại sao bạn nên chọn khóa học BA tại DTSVN?</orientation_s>
+	<file-name>4b270993-0f71-c582-f7ea-56fb988781d5.xml</file-name>
+	<folder-name/>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Khóa huấn luyện thực chiến với dung lượng các buổi thực hành lên đến 90% giúp học viên "đi đúng - trọng tâm" các kiến thức cần thiết để có thể trở thành BA Bank.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Học tập với chuyên gia hàng đầu hơn 10+ năm kinh nghiệm trong lĩnh vực IT tại các vị trí Phân tích yêu cấu phần mềm và Kiểm thử phần mềm trong Ngân hàng.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Đội ngũ hỗ trợ nhiệt tình tận tâm 24/7 luôn hết mình để mang lại trải nghiệm học tập tốt nhất cho học viên.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-04T08:43:59.822Z</createdDate>
+	<createdDate_dt>2025-07-04T08:43:59.822Z</createdDate_dt>
+	<lastModifiedDate>2025-07-04T08:43:59.822Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-04T08:43:59.822Z</lastModifiedDate_dt>
+</component>

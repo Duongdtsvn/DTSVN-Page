@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a3c1</objectGroupId>
+	<objectId>a3c1a31f-b6e3-975a-54e5-c24be3df139e</objectId>
+	<internal-name>CDP và CRM – So sánh sự khác biệt giữa CDP và CRM</internal-name>
+	<navLabel>CDP và CRM – So sánh sự khác biệt giữa CDP và CRM</navLabel>
+	<title_vi_s>CDP và CRM – So sánh sự khác biệt giữa CDP và CRM</title_vi_s>
+	<title_en_s>CDP vs CRM – Comparing the Differences Between CDP and CRM</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>a3c1a31f-b6e3-975a-54e5-c24be3df139e</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/cdp-la-gi-11.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Định nghĩa về Customer Data Platform (CDP)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Định nghĩa về Customer Relationship Management (CRM)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Sự kh&amp;aacute;c biệt giữa CDP v&amp;agrave; CRM&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. T&amp;iacute;ch hợp Data xảy ra như thế n&amp;agrave;o giữa CDP v&amp;agrave; CRM?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hiện tại tr&amp;ecirc;n thị trường c&amp;oacute; rất nhiều giải ph&amp;aacute;p quản l&amp;yacute; dữ liệu kh&amp;aacute;c nhau. C&amp;oacute; những giải ph&amp;aacute;p đ&amp;atilde; tồn tại trong nhiều thập kỷ nhưng cũng c&amp;oacute; những giải ph&amp;aacute;p mới xuất hiện gần đ&amp;acirc;y. C&amp;aacute;c giải ph&amp;aacute;p Customer Data thường kh&amp;ocirc;ng linh hoạt được với nhau n&amp;ecirc;n doanh nghiệp sẽ phải chọn giải ph&amp;aacute;p ph&amp;ugrave; hợp nhất với nguồn lực v&amp;agrave; b&amp;agrave;i to&amp;aacute;n kinh doanh của m&amp;igrave;nh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu biết được sự kh&amp;aacute;c biệt giữa c&amp;aacute;c giải ph&amp;aacute;p sẽ gi&amp;uacute;p ta đưa ra được lựa chọn đ&amp;uacute;ng đắn cho nhu cầu của doanh nghiệp. B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ đi s&amp;acirc;u chi tiết hơn về sự kh&amp;aacute;c biệt giữa CDP v&amp;agrave; CRM.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Định nghĩa về Customer Data Platform (CDP)&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.gartner.com/en/marketing/glossary/customer-data-platform"&gt;Theo Gartner&lt;/a&gt;&amp;nbsp;&amp;ndash; C&amp;ocirc;ng ty chuy&amp;ecirc;n về từ vấn &amp;amp; nghi&amp;ecirc;n cứu C&amp;ocirc;ng nghệ tại Mỹ v&amp;agrave; thế giới, Customer Data Platform l&amp;agrave; 1 nền tảng c&amp;ocirc;ng nghệ d&amp;agrave;nh cho Marketing d&amp;ugrave;ng để hợp nhất dữ liệu kh&amp;aacute;ch h&amp;agrave;ng của doanh nghiệp từ c&amp;aacute;c k&amp;ecirc;nh kh&amp;aacute;c nhau nhằm x&amp;acirc;y dựng m&amp;ocirc; h&amp;igrave;nh tương t&amp;aacute;c với người d&amp;ugrave;ng v&amp;agrave; tối ưu th&amp;ocirc;ng điẹp v&amp;agrave; chương tr&amp;igrave;nh khuyến m&amp;atilde;i dựa tr&amp;ecirc;n thời gian truyền tải cũng như target tệp người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;CDP kết nối với nhiều nền tảng c&amp;ocirc;ng nghệ, nguồn dữ liệu v&amp;agrave; c&amp;aacute;c k&amp;ecirc;nh kh&amp;aacute;c nhau bằng c&amp;aacute;ch sử dụng c&amp;aacute;c build-in connector, API v&amp;agrave; SDK để hợp nhất lại dữ liệu người d&amp;ugrave;ng. Ngo&amp;agrave;i ra, c&amp;aacute;c CDP mới nhất hiện nay c&amp;oacute; cả t&amp;iacute;nh năng ML (Machine Learning) v&amp;agrave; AI (Artificial Intelligence) để hỗ trợ việc ph&amp;acirc;n tập v&amp;agrave; dự đo&amp;aacute;n h&amp;agrave;nh vi người d&amp;ugrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Định nghĩa về Customer Relationship Management (CRM)&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://cdp.com/glossary/customer-relationship-management-crm/"&gt;Theo cdp.com&lt;/a&gt;&amp;nbsp;&amp;ndash; Trang web t&amp;agrave;i nguy&amp;ecirc;n chuy&amp;ecirc;n s&amp;acirc;u về CDP tr&amp;ecirc;n thế giới, định nghĩa CRM l&amp;agrave; nền tảng được thiết kế để gi&amp;uacute;p doanh nghiệp quản l&amp;yacute; th&amp;ocirc;ng tin li&amp;ecirc;n lạc của c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; đối t&amp;aacute;c. Th&amp;ocirc;ng thường c&amp;aacute;c t&amp;iacute;nh năng như tương t&amp;aacute;c với k&amp;ecirc;nh Sales, Trung t&amp;acirc;m CSKH cũng l&amp;agrave; t&amp;iacute;nh năng hay c&amp;oacute; trong CRM.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;CRM được d&amp;ugrave;ng để theo d&amp;otilde;i h&amp;agrave;nh tr&amp;igrave;nh mua h&amp;agrave;ng của kh&amp;aacute;ch h&amp;agrave;ng từ giai đoạn pre-sale, mua sản phẩm cho tới giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; về sản phẩm. Hệ thống gi&amp;uacute;p doanh nghiệp ghi lại c&amp;aacute;c tương t&amp;aacute;c của kh&amp;aacute;ch h&amp;agrave;ng như kịch bản gọi điện, ng&amp;agrave;y giờ tư vấn/mua h&amp;agrave;ng/li&amp;ecirc;n hệ hỗ trợ v&amp;agrave; khi được d&amp;ugrave;ng 1 c&amp;aacute;ch hiệu quả, CRM gi&amp;uacute;p cho doanh nghiệp tăng hiệu suất b&amp;aacute;n h&amp;agrave;ng cũng như tăng trưởng doanh thu v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Sự kh&amp;aacute;c biệt giữa CDP v&amp;agrave; CRM&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;CRM được thiết kể để gi&amp;uacute;p bộ phận Sales, Marketing v&amp;agrave; CSKH thực hiện c&amp;ocirc;ng việc kinh doanh h&amp;agrave;ng ng&amp;agrave;y. CRM chủ yếu được 3 bộ phận n&amp;agrave;y d&amp;ugrave;ng nhi&amp;egrave;u nhất để nhập dữ liệu của kh&amp;aacute;ch h&amp;agrave;ng v &amp;agrave;o hệ thống. Trong 1 số trường hợp, CRM sẽ cần kết hợp dữ liệu với hệ thống tổng đ&amp;agrave;i để đạt được hiệu quả cao nhất.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngược lại, CDP mạnh hơn CRM trong khoản c&amp;aacute;c tool ứng dụng v&amp;agrave; sự linh hoạt trong việc t&amp;iacute;ch hợp với c&amp;aacute;c nguồn dữ liệu kh&amp;aacute;c. 1 CDP cấp enterprise c&amp;oacute; thể hợp nhất từ mọi nguồn dữ liệu như dữ liệu ph&amp;acirc;n t&amp;iacute;ch website, dữ liệu chi nh&amp;aacute;nh b&amp;aacute;n h&amp;agrave;ng, hệ thống giao dịch, v&amp;agrave; nhiều dữ liệu kh&amp;aacute;c.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;T&amp;iacute;ch hợp Data xảy ra như thế n&amp;agrave;o giữa CDP v&amp;agrave; CRM?&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;CDP v&amp;agrave; CRM c&amp;oacute; thể phối hợp với nhau để tăng hiệu quả Marketing v&amp;agrave; Sales. Ở đ&amp;acirc;y, CRM c&amp;oacute; thể phục vụ như 1 nguồn data để CDP c&amp;oacute; thể thể d&amp;ugrave;ng. Khi dữ liệu mới từ CRM được cập nhật th&amp;igrave; n&amp;oacute; cũng sẽ được update b&amp;ecirc;n CDP v&amp;agrave; CDP sẽ hợp nhất lại dữ liệu đ&amp;oacute; nếu c&amp;oacute; sự tr&amp;ugrave;ng lặp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy vậy, doanh nghiệp phải nắm r&amp;otilde; c&amp;aacute;c thuộc t&amp;iacute;nh (Attribute) quan trọng để tr&amp;aacute;nh t&amp;igrave;nh trạng thuộc t&amp;iacute;nh giữa 2 nền tảng kh&amp;ocirc;ng được thống nhất, dẫn đến c&amp;aacute;c sự cố xảy ra trong vấn đề t&amp;iacute;ch hợp Data.&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h2 style="text-align: justify;"&gt;Table of Contents&lt;/h2&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Definition of Customer Data Platform (CDP)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definition of Customer Relationship Management (CRM)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key Differences Between CDP and CRM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How Data Integration Works Between CDP and CRM&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;Currently, there are many different data management solutions available on the market. Some have existed for decades, while others are relatively new. Customer data solutions are often not flexible or compatible with one another, so businesses must choose the solution that best fits their resources and business needs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Understanding the differences between these solutions will help businesses make the right choice for their specific requirements. This article will dive deeper into the distinctions between CDP and CRM.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Definition of Customer Data Platform (CDP)&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;According to Gartner &amp;ndash; a leading technology consulting and research company in the US and worldwide &amp;ndash; a &lt;strong&gt;Customer Data Platform&lt;/strong&gt; is a marketing-focused technology platform designed to unify customer data from multiple channels. The goal is to build a model of user interaction and optimize messaging and promotional campaigns based on delivery timing as well as audience targeting.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A CDP connects with multiple technology platforms, data sources, and channels by using built-in connectors, APIs, and SDKs to consolidate user data. In addition, the latest CDPs now include &lt;strong&gt;Machine Learning (ML)&lt;/strong&gt; and &lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt; features to support segmentation and predict user behavior.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Definition of Customer Relationship Management (CRM)&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;According to &lt;em&gt;cdp.com&lt;/em&gt; &amp;ndash; a global resource hub on CDP &amp;ndash; a &lt;strong&gt;Customer Relationship Management (CRM)&lt;/strong&gt; system is designed to help businesses manage contact information of customers and partners. Common features often include interaction with Sales channels and Customer Service Centers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;CRM is used to track the customer&amp;rsquo;s purchasing journey from the pre-sales stage, through the purchasing process, and into customer retention and feedback. The system records customer interactions such as call scripts, consultation/purchase/support dates and times. When used effectively, CRM helps businesses improve sales efficiency, increase revenue growth, and strengthen customer retention.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Key Differences Between CDP and CRM&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;A &lt;strong&gt;CRM&lt;/strong&gt; is primarily designed to support Sales, Marketing, and Customer Service teams in their daily business activities. These three departments are the main users of CRM, entering customer data into the system. In some cases, CRM may need to integrate with call center systems to achieve optimal results.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In contrast, a &lt;strong&gt;CDP&lt;/strong&gt; is stronger than CRM in terms of application tools and flexibility when integrating with various data sources. An enterprise-level CDP can unify data from multiple origins such as website analytics, branch sales data, transaction systems, and many other sources.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;How Data Integration Works Between CDP and CRM&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;CDPs and CRMs can work together to maximize Marketing and Sales effectiveness. In this case, the CRM can serve as a data source for the CDP. When new data is updated in CRM, it will also be synced into the CDP, which will then consolidate and resolve any duplicates.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, businesses must clearly define the key attributes to avoid inconsistencies between the two platforms. If attributes are not aligned, integration issues may arise.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;DTSVN&lt;/strong&gt; is a pioneering Digital Transformation company that provides cutting-edge digital solutions tailored for businesses in Vietnam&amp;rsquo;s Financial and Banking sectors. We help banks and financial institutions rapidly enhance their technology systems to accelerate digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us today for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-21T02:58:47.000Z</time_create_dt>
+	<createdDate>2025-08-28T02:58:45.656Z</createdDate>
+	<createdDate_dt>2025-08-28T02:58:45.656Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:10:54.266Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:10:54.266Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

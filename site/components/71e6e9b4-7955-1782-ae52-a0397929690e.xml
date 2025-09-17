@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-teacher-ba</content-type>
+	<display-template>/templates/web/Component-Teacher-BA.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>71e6</objectGroupId>
+	<objectId>71e6e9b4-7955-1782-ae52-a0397929690e</objectId>
+	<file-name>71e6e9b4-7955-1782-ae52-a0397929690e.xml</file-name>
+	<folder-name/>
+	<internal-name>giảng viên en</internal-name>
+	<title_s>Lecturer of Business Analyst course at DTSVN</title_s>
+	<subtitle1_s>Experienced in consulting and implementing many large projects in Banks and Financial units</subtitle1_s>
+	<subtitle3_s>Worked at: VP BANK, CMC Group, Techcombank, FPT...</subtitle3_s>
+	<name_teacher_s>Lecturer Ngo Dat Thang</name_teacher_s>
+	<work_at_s>COO at DTSVN</work_at_s>
+	<image_s>/static-assets/images/ndt.png</image_s>
+	<createdDate>2025-07-08T08:44:29.392Z</createdDate>
+	<createdDate_dt>2025-07-08T08:44:29.392Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T08:44:29.392Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T08:44:29.392Z</lastModifiedDate_dt>
+</component>

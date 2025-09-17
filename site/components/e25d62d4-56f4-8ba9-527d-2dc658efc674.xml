@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-who-studies</content-type>
+	<display-template>/templates/web/Component-Who-studies.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e25d</objectGroupId>
+	<objectId>e25d62d4-56f4-8ba9-527d-2dc658efc674</objectId>
+	<internal-name>Khóa học này dành cho ai</internal-name>
+	<file-name>e25d62d4-56f4-8ba9-527d-2dc658efc674.xml</file-name>
+	<folder-name/>
+	<who_studies_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Sinh Viên &amp; Fresher BA</title_s>
+	<subtitle_s>Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp CĐ/ĐH chuyên ngành Tài chính - Ngân hàng; hoặc có đã có kiến thức nền tảng về nghiệp vụ của Ngân hàng đang muốn tìm hiểu cơ hội nghề nghiệp trong Ngành.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-1.png</icon_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-2.png</icon_s>
+	<number_s>02</number_s>
+	<title_s>Những Người Muốn Chuyển Ngành</title_s>
+	<subtitle_s>Nhân viên Ngân hàng thuộc các phòng &amp; ban nghiệp vụ muốn thay đổi định hướng công việc sang Business Analyst để có cơ hội phát triển tốt hơn trong Ngành.</subtitle_s>
+	</item>	<item>	<icon_s>/static-assets/images/featurebox-icon-3.png</icon_s>
+	<number_s>03</number_s>
+	<title_s>Những Người Mới Tìm Hiểu Về BA</title_s>
+	<subtitle_s>Những bạn quan tâm đến nghề “Phản tích nghiệp vụ" Business Analyst (BA) và muốn có góc nhìn tổng quan về nghề cũng như muốn biết thêm về Ngành Ngân hàng.</subtitle_s>
+	</item></who_studies_o>
+	<createdDate>2025-07-04T04:46:06.021Z</createdDate>
+	<createdDate_dt>2025-07-04T04:46:06.021Z</createdDate_dt>
+	<lastModifiedDate>2025-08-05T03:41:01.393Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-05T03:41:01.393Z</lastModifiedDate_dt>
+	<who_studies_s>Khóa học này dành cho ai?</who_studies_s>
+</component>

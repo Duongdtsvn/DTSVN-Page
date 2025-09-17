@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-home-new-en-section</content-type>
+	<display-template>/templates/web/Component-home-new-en-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>199c</objectGroupId>
+	<objectId>199cf225-ba2d-b208-f724-c39e9574b977</objectId>
+	<file-name>199cf225-ba2d-b208-f724-c39e9574b977.xml</file-name>
+	<folder-name/>
+	<internal-name>News Updates</internal-name>
+	<title_s>News Updates</title_s>
+	<label_s>View all</label_s>
+	<link_s>news</link_s>
+	<createdDate>2025-07-10T16:33:45.946Z</createdDate>
+	<createdDate_dt>2025-07-10T16:33:45.946Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T16:33:45.946Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T16:33:45.946Z</lastModifiedDate_dt>
+</component>

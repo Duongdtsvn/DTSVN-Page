@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7af5</objectGroupId>
+	<objectId>7af5d21b-a59a-e904-ce38-0b43c334b1b0</objectId>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<file-name>index.xml</file-name>
+	<folder-name>7af5d21b-a59a-e904-ce38-0b43c334b1b0</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Cá nhân hóa: Chìa khóa nâng cao trải nghiệm khách hàng trong ngân hàng số</internal-name>
+	<navLabel>Cá nhân hóa: Chìa khóa nâng cao trải nghiệm khách hàng trong ngân hàng số</navLabel>
+	<title_vi_s>Cá nhân hóa: Chìa khóa nâng cao trải nghiệm khách hàng trong ngân hàng số</title_vi_s>
+	<title_en_s>How can personalization revolutionize the digital customer experience in Banking?</title_en_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<img_main_s>/static-assets/images/personalization-1024x582--1-.jpg</img_main_s>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y nay, kh&amp;aacute;ch h&amp;agrave;ng kh&amp;ocirc;ng chỉ mong muốn một trải nghiệm dịch vụ ng&amp;acirc;n h&amp;agrave;ng tốt m&amp;agrave; c&amp;ograve;n t&amp;igrave;m kiếm sự kết nối ch&amp;acirc;n thực giữa con người trong qu&amp;aacute; tr&amp;igrave;nh giao dịch trực tuyến. V&amp;igrave; vậy, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng cần thực hiện chuyển đổi số để n&amp;acirc;ng cao trải nghiệm số của kh&amp;aacute;ch h&amp;agrave;ng, &amp;aacute;p dụng c&amp;aacute;c chiến lược dựa tr&amp;ecirc;n sự thấu hiểu kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Cải thiện trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng: Giải quyết những th&amp;aacute;ch thức đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc n&amp;acirc;ng cao trải nghiệm ng&amp;acirc;n h&amp;agrave;ng số cho kh&amp;aacute;ch h&amp;agrave;ng th&amp;ocirc;ng qua c&amp;aacute;ch tiếp cận nh&amp;acirc;n văn đ&amp;atilde; trở th&amp;agrave;nh một yếu tố then chốt. Để thực hiện điều n&amp;agrave;y, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cần đảm bảo mang lại một trải nghiệm liền mạch, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a tr&amp;ecirc;n tất cả c&amp;aacute;c k&amp;ecirc;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, c&amp;oacute; một số th&amp;aacute;ch thức m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng cần vượt qua để &amp;nbsp;kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể c&amp;oacute; được trải nghiệm liền mạch. Một trong những th&amp;aacute;ch thức lớn nhất l&amp;agrave; cải thiện c&amp;aacute;c hệ thống v&amp;agrave; cơ sở hạ tầng cũ bằng phần mềm được n&amp;acirc;ng cấp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhược điểm khi triển khai c&amp;aacute;c k&amp;ecirc;nh kh&amp;aacute;c nhau, đ&amp;oacute; l&amp;agrave; trải nghiệm kh&amp;ocirc;ng đồng nhất, điều n&amp;agrave;y c&amp;oacute; thể g&amp;acirc;y ra nhiều phiền to&amp;aacute;i cho người d&amp;ugrave;ng. Khi đ&amp;oacute;, một nền tảng t&amp;iacute;ch hợp đa k&amp;ecirc;nh c&amp;oacute; thể giải quyết vấn đề n&amp;agrave;y, cho ph&amp;eacute;p kh&amp;aacute;ch h&amp;agrave;ng bắt đầu giao dịch tr&amp;ecirc;n ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; tiếp tục hoặc ho&amp;agrave;n tất tr&amp;ecirc;n thiết bị di động một c&amp;aacute;ch liền mạch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một th&amp;aacute;ch thức kh&amp;aacute;c l&amp;agrave; sự thiếu hụt tự động h&amp;oacute;a trong hệ thống giao dịch, dẫn đến trải nghiệm kh&amp;ocirc;ng h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng, đặc biệt l&amp;agrave; đối với thế hệ trẻ, những người kh&amp;ocirc;ng th&amp;iacute;ch phải nhập lại th&amp;ocirc;ng tin nhiều lần khi thực hiện giao dịch. C&amp;aacute;c c&amp;ocirc;ng nghệ như tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI)&amp;nbsp;v&amp;agrave; m&amp;aacute;y học c&amp;oacute; thể gi&amp;uacute;p cải thiện dịch vụ kh&amp;aacute;ch h&amp;agrave;ng, đồng thời n&amp;acirc;ng cao trải nghiệm kỹ thuật số t&amp;iacute;ch hợp một c&amp;aacute;ch đ&amp;aacute;ng kể.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hơn nữa, những ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng kh&amp;ocirc;ng thể cung cấp c&amp;aacute;c dịch vụ ph&amp;ugrave; hợp hoặc thiếu t&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a sẽ mất đi sự gắn kết với kh&amp;aacute;ch h&amp;agrave;ng, ảnh hưởng đến sự tăng trưởng v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;oacute; ch&amp;iacute;nh l&amp;agrave; l&amp;yacute; do c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng cần đặt ưu ti&amp;ecirc;n v&amp;agrave;o việc tối ưu h&amp;oacute;a trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng kỹ thuật số, đồng thời sử dụng c&amp;aacute;c giải ph&amp;aacute;p tr&amp;iacute; tuệ nh&amp;acirc;n tạo để dự đo&amp;aacute;n v&amp;agrave; đ&amp;aacute;p ứng những vấn đề v&amp;agrave; nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng trong tương lai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Định h&amp;igrave;nh lại h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng trong Ng&amp;acirc;n h&amp;agrave;ng số để mang lại trải nghiệm liền mạch cho người d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Gi&amp;aacute; trị thực sự kh&amp;ocirc;ng chỉ đến từ c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ m&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng hoặc tổ chức t&amp;iacute;n dụng cung cấp, m&amp;agrave; c&amp;ograve;n từ c&amp;aacute;ch thức họ mang lại những gi&amp;aacute; trị đ&amp;oacute;. Một trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng xuất sắc c&amp;oacute; thể c&amp;oacute; t&amp;aacute;c động ngang bằng, nếu kh&amp;ocirc;ng muốn n&amp;oacute;i l&amp;agrave; lớn hơn, so với một sản phẩm chất lượng hay một quy tr&amp;igrave;nh hiệu quả, trong việc gia tăng l&amp;ograve;ng trung th&amp;agrave;nh, giảm chi ph&amp;iacute; v&amp;agrave; th&amp;uacute;c đẩy doanh thu một c&amp;aacute;ch bền vững.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo McKinsey, 3 trong số 4 ng&amp;acirc;n h&amp;agrave;ng h&amp;agrave;ng đầu thế giới đ&amp;atilde; cam kết thực hiện một số loại chuyển đổi trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng thực hiện chuyển đổi trải nghiệm người d&amp;ugrave;ng nhận thấy rằng lợi nhuận trọn đời từ một kh&amp;aacute;ch h&amp;agrave;ng h&amp;agrave;i l&amp;ograve;ng kh&amp;ocirc;ng chỉ mang lại gi&amp;aacute; trị l&amp;acirc;u d&amp;agrave;i m&amp;agrave; c&amp;ograve;n c&amp;oacute; thể tạo ra sự lan tỏa t&amp;iacute;ch cực, khi kh&amp;aacute;ch h&amp;agrave;ng chủ động giới thiệu ng&amp;acirc;n h&amp;agrave;ng của họ tới cộng đồng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng phải bắt đầu bằng c&amp;aacute;ch n&amp;acirc;ng cao dịch vụ của họ tr&amp;ecirc;n c&amp;aacute;c ứng dụng di động, một trong những k&amp;ecirc;nh phổ biến nhất đối với kh&amp;aacute;ch h&amp;agrave;ng hiện nay. Kh&amp;aacute;ch h&amp;agrave;ng lu&amp;ocirc;n mong chờ sự thuận tiện khi giao dịch, do đ&amp;oacute;, nếu c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng kh&amp;ocirc;ng c&amp;oacute; khả năng n&amp;agrave;y sẽ gặp bất lợi rất lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi đại dịch thay đổi rất nhiều th&amp;oacute;i quen, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh phải nhanh ch&amp;oacute;ng th&amp;iacute;ch nghi với số h&amp;oacute;a v&amp;agrave; dịch vụ từ xa nếu họ muốn duy tr&amp;igrave; sự ph&amp;ugrave; hợp v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng. Họ cần lưu &amp;yacute; kh&amp;ocirc;ng chỉ tập trung v&amp;agrave;o c&amp;ocirc;ng nghệ m&amp;agrave; c&amp;ograve;n phải giữ được yếu tố nh&amp;acirc;n văn trong dịch vụ, tạo cảm gi&amp;aacute;c gần gũi, th&amp;acirc;n thiện với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;aacute;ch h&amp;agrave;ng mong muốn trải nghiệm ng&amp;acirc;n h&amp;agrave;ng được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a khiến họ cảm thấy được kết nối, ngay cả khi họ giao dịch tại nh&amp;agrave;. Nhờ c&amp;aacute;c c&amp;ocirc;ng nghệ như AI v&amp;agrave; dịch vụ chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng trực tiếp được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; hợp t&amp;aacute;c t&amp;iacute;n dụng c&amp;oacute; thể cung cấp dịch vụ kh&amp;aacute;ch h&amp;agrave;ng đ&amp;aacute;p ứng nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng, hợp l&amp;yacute; h&amp;oacute;a quy tr&amp;igrave;nh tiếp nhận kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; n&amp;acirc;ng cao dịch vụ kh&amp;aacute;ch h&amp;agrave;ng th&amp;ocirc;ng qua việc sử dụng chatbot v&amp;agrave; tối ưu h&amp;oacute;a c&amp;aacute;c trung t&amp;acirc;m cuộc gọi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;V&amp;igrave; sao tổ chức t&amp;agrave;i ch&amp;iacute;nh n&amp;ecirc;n bắt tay với c&amp;aacute;c nh&amp;agrave; cung cấp c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh để n&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tầm quan trọng của dịch vụ kh&amp;aacute;ch h&amp;agrave;ng tốt phụ thuộc v&amp;agrave;o khả năng của c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng trong việc cung cấp trải nghiệm ng&amp;acirc;n h&amp;agrave;ng số liền mạch, đồng thời hiểu r&amp;otilde; hơn nhu cầu v&amp;agrave; sở th&amp;iacute;ch của kh&amp;aacute;ch h&amp;agrave;ng. C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng chủ động dự đo&amp;aacute;n vấn đề v&amp;agrave; duy tr&amp;igrave; hệ thống lu&amp;ocirc;n được cập nhật sẽ kh&amp;ocirc;ng chỉ ph&amp;aacute;t triển mạnh mẽ m&amp;agrave; c&amp;ograve;n n&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, nhờ vậy tăng hiệu quả hoạt động, th&amp;uacute;c đẩy doanh thu v&amp;agrave; củng cố l&amp;ograve;ng trung th&amp;agrave;nh từ kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hơn nữa, một trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng vượt trội ch&amp;iacute;nh l&amp;agrave; yếu tố then chốt gi&amp;uacute;p ng&amp;acirc;n h&amp;agrave;ng thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng, tạo sự kh&amp;aacute;c biệt trong lựa chọn tổ chức t&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Ocirc;ng Nguyễn B&amp;aacute; Chiến, Tổng gi&amp;aacute;m đốc c&amp;ocirc;ng ty DTSVN (doanh nghiệp chuy&amp;ecirc;n về giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh - ng&amp;acirc;n h&amp;agrave;ng) chia sẻ, tại Việt Nam hiện nay c&amp;oacute; một số doanh nghiệp, m&amp;agrave; DTSVN l&amp;agrave; một trong số đ&amp;oacute;, c&amp;oacute; khả năng t&amp;iacute;ch hợp liền mạch c&amp;aacute;c nền tảng v&amp;agrave;o hệ thống cốt l&amp;otilde;i của ng&amp;acirc;n h&amp;agrave;ng, cung cấp c&amp;aacute;c dịch vụ chuyển đổi số v&amp;agrave; c&amp;aacute; nh&amp;acirc;n ho&amp;aacute;, mang đến trải nghiệm mới mẻ cho người d&amp;ugrave;ng. Sự hợp t&amp;aacute;c chặt chẽ giữa c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; nh&amp;agrave; cung cấp c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh ch&amp;iacute;nh l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a quan trọng gi&amp;uacute;p mang lại trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng vượt trội trong thời gian ngắn v&amp;agrave; chi ph&amp;iacute; tối ưu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: ebanKIT&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;section&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div style="text-align: justify;"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Today, customers not only expect a good banking experience but also seek authentic human connections during online transactions. Therefore, banks and credit institutions need to implement digital transformation to enhance the customer digital experience, applying strategies based on deep understanding and advanced technology.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Improving the customer experience: addressing challenges for banks and credit unions&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Enhancing the digital banking experience for customers through a human approach has become a key factor. To do this, banks need to ensure a seamless, personalized experience across all channels.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, there are a number of challenges that banks and credit unions need to overcome to achieve a seamless digital customer experience in the banking sector. One of the biggest challenges is upgrading legacy systems and infrastructure with upgraded software.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN, with its seamless integration into core banking systems, delivers digital channels out of the box and can easily add new requirements as needed. Close collaboration between financial institutions and fintech providers is the key to delivering superior customer experiences in a short time and at optimal cost.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Different channels have inconsistent navigation or connectivity which can create frustration for users. One major drawback is the inability to have a consistent experience across different channels. However, an omnichannel platform can solve this problem, allowing customers to start a transaction on online banking and continue or complete it on mobile seamlessly.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Another challenge is the lack of automation in banking, which can be frustrating for customers, especially the younger generation who do not like having to re-enter information multiple times when making a request. Technologies such as artificial intelligence and machine learning can help improve customer service and significantly enhance the integrated digital experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Furthermore, banks and credit unions that fail to provide personalized and relevant services will lose customer engagement. In a hyper-personalized market, if banks do not provide individualized services, it will affect their customer growth and retention.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;That is why banks and credit institutions need to prioritize optimizing the digital customer experience and use artificial intelligence solutions to predict and meet future customer problems and needs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Reimagining the digital customer journey in banking to deliver seamless user experiences&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;True value comes not only from the products and services that a bank or credit institution offers, but also from how they deliver that value. An excellent customer experience can have an equal, if not greater, impact than a quality product or an efficient process in increasing loyalty, reducing costs, and driving revenue sustainably.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to McKinsey, three of the world&amp;rsquo;s top four banks have committed to some form of customer experience transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks that have embraced customer experience transformation have found that the lifetime value of a satisfied customer not only provides long-term value but can also create positive spillovers, as customers proactively recommend their bank to their communities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks and credit unions must start by improving their services on mobile apps, one of the most popular channels for customers today. Customers have come to expect the convenience that mobile banking apps provide, and banks and credit unions that do not have this capability are at a huge disadvantage.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As the pandemic changes so many habits, financial institutions must quickly adapt to digitalization and remote services if they want to stay relevant and retain customers. However, financial institutions should always keep in mind the important aspect of &amp;ldquo;humanizing&amp;rdquo; digital banking.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Customers want a personalized banking experience that makes them feel connected, even when they bank from home. Thanks to technologies like AI and personalized live customer service, banks and credit unions can provide customer service that is responsive to customer needs, streamline the customer onboarding process, and enhance customer service through the use of chatbots and optimized call centers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Key Points to Remember for a Successful Digital Customer Experience in Banking&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The importance of good customer service depends on the ability of banks and credit institutions to provide a seamless digital banking experience while better understanding the needs and preferences of their customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks that proactively anticipate problems and maintain updated systems not only thrive but also improve the customer experience. They will increase operational efficiency, boost revenue and strengthen customer loyalty. Moreover, an outstanding customer experience is a key factor that helps banks attract and retain customers, creating a difference in choosing a financial institution.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Source: ebanKIT&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by the author group DTSVN - Digital transformation solutions for the Finance - Banking industry.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneer Digital Transformation Company providing the latest digital solutions exclusively for businesses in the Finance - Banking industry in Vietnam; helping Banks and financial institutions quickly complete the technology system serving Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_en_html>
+	<time_create_dt>2025-06-05T09:26:35.000Z</time_create_dt>
+	<createdDate>2025-08-25T09:26:34.180Z</createdDate>
+	<createdDate_dt>2025-08-25T09:26:34.180Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T09:26:34.180Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T09:26:34.180Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item</content-type>
+	<display-template>/templates/web/Item.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8bb5</objectGroupId>
+	<objectId>8bb50d49-8315-470b-f9e9-9f40d50cc677</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>8bb50d49-8315-470b-f9e9-9f40d50cc677</folder-name>
+	<internal-name>iDB – Kênh giao dịch số tài chính thông minh</internal-name>
+	<navLabel>iDB – Kênh giao dịch số tài chính thông minh</navLabel>
+	<key_main_s>DTSVN – iDB</key_main_s>
+	<title_vi_s>iDB – Kênh giao dịch số tài chính thông minh Chia sẻ </title_vi_s>
+	<title_en_s> iDB - Intelligent Digital Banking for Enterprise</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s/>
+	<info_main_t/>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;K&amp;ecirc;nh giao dịch t&amp;agrave;i ch&amp;iacute;nh số th&amp;ocirc;ng minh, phục vụ cho to&amp;agrave;n bộ c&amp;aacute;c ph&amp;acirc;n kh&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp. Với giao diện tối ưu trải nghiệm, chức năng đa dạng, xử l&amp;iacute; tốc độ cao v&amp;agrave; ổn định, iDB đ&amp;aacute;p ứng đầy đủ nhu cầu về dịch vụ t&amp;agrave;i ch&amp;iacute;nh của doanh nghiệp được cung cấp bởi ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;iframe title="YouTube video player" src="https://www.youtube.com/embed/if4FcLakJhc?si=M_jCfRPjjxUHtMAb" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;KHDN khi sử dụng iDB của ng&amp;acirc;n h&amp;agrave;ng sẽ tối ưu được thời gian v&amp;agrave; chi ph&amp;iacute;, an to&amp;agrave;n bảo mật cao v&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm một c&amp;aacute;ch tối ưu nhất.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute; trị iDB mang lại&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đầy đủ th&amp;ocirc;ng tin v&amp;agrave; chức năng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Thời gian phản hồi nhanh hơn, đ&amp;aacute;p ứng nhiều lệnh v&amp;agrave; sự kiện hơn trong thời gian cao điểm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Linh hoạt, dễ d&amp;agrave;ng th&amp;ecirc;m c&amp;aacute;c chức năng mới m&amp;agrave; kh&amp;ocirc;ng phải dừng hệ thống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Tự động đo lường, dễ d&amp;agrave;ng theo d&amp;otilde;i v&amp;agrave; hỗ trợ hệ thống hoạt động&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Dễ d&amp;agrave;ng t&amp;iacute;ch hợp v&amp;agrave; thu thập th&amp;ocirc;ng tin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hệ thống đa nhiệm, phục vụ đ&amp;uacute;ng nhu cầu:&lt;/strong&gt;&amp;nbsp;Người d&amp;ugrave;ng c&amp;oacute; thể tiến h&amp;agrave;nh c&amp;aacute;c hoạt động như chuyển tiền, gửi tiết kiệm, thanh to&amp;aacute;n h&amp;oacute;a đơn, tra cứu số dư v&amp;agrave; lịch sử giao dịch, đầu tư,&amp;hellip; Mọi giao dịch n&amp;agrave;y đều c&amp;oacute; thể được thực hiện từ bất kỳ đ&amp;acirc;u v&amp;agrave; v&amp;agrave;o bất kỳ thời điểm n&amp;agrave;o, chỉ cần c&amp;oacute; kết nối internet.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;ocirc;ng tin tường minh: &lt;/strong&gt;C&amp;aacute;c khối th&amp;ocirc;ng tin được bố tr&amp;iacute; một c&amp;aacute;ch tinh giản v&amp;agrave; mạch lạc, gi&amp;uacute;p người d&amp;ugrave;ng nhanh ch&amp;oacute;ng nắm bắt được vấn đề m&amp;igrave;nh đang cần xử l&amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thao t&amp;aacute;c tinh gọn:&lt;/strong&gt; H&amp;agrave;nh tr&amp;igrave;nh trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng được t&amp;iacute;nh to&amp;aacute;n chặt chẽ để đưa về tối giản. Đồng thời, phương ph&amp;aacute;p thiết kế c&amp;oacute; t&amp;iacute;nh logic, tuần tự; gi&amp;uacute;p kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể tự học c&amp;aacute;ch l&amp;agrave;m chủ ứng dụng trong thời gian ngắn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute; nh&amp;acirc;n ho&amp;aacute; trải nghiệm:&lt;/strong&gt; Mang tới sự thoả m&amp;atilde;n lớn nhất d&amp;agrave;nh cho người d&amp;ugrave;ng bằng c&amp;aacute;ch tối ưu giao diện theo nhu cầu sử dụng của người d&amp;ugrave;ng, linh hoạt thể hiện nội dung, đề xuất c&amp;aacute;c chức năng v&amp;agrave; dịch vụ li&amp;ecirc;n quan ph&amp;ugrave; hợp.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lợi &amp;iacute;ch vượt trội&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Giao diện được thiết kế theo hướng tối ưu h&amp;oacute;a trải nghiệm người d&amp;ugrave;ng;&lt;/li&gt;
+&lt;li&gt;Chức năng từ cơ bản đến đa dạng theo y&amp;ecirc;u cầu của từng nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng;&lt;/li&gt;
+&lt;li&gt;Đảm bảo hiệu năng hiệu suất ổn định của hệ thống;&lt;/li&gt;
+&lt;li&gt;Tối ưu về mặt thời gian v&amp;agrave; chi ph&amp;iacute; triển khai;&lt;/li&gt;
+&lt;li&gt;&amp;Aacute;p dụng c&amp;ocirc;ng nghệ an to&amp;agrave;n v&amp;agrave; bảo mật cập nhật mới;&lt;/li&gt;
+&lt;li&gt;Cho ph&amp;eacute;p c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a theo từng người d&amp;ugrave;ng cuối.&lt;/li&gt;
+&lt;/ul&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;iDB is an intelligent digital financial trading platform designed to serve all segments of corporate customers. With an optimized user interface, diverse functions, and high-speed, stable processing, iDB fully meets the financial service needs provided by banks for businesses.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;iframe title="YouTube video player" src="https://www.youtube.com/embed/if4FcLakJhc?si=M_jCfRPjjxUHtMAb" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Corporate customers using iDB from the bank will benefit from optimized time and cost, high security, and a personalized experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Comprehensive Information and Functions&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Faster response times, handling more orders and events during peak periods.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Flexible, easily adding new functions without needing to shut down the system.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Automatic measurement, making it easy to monitor and support system operations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Easy integration and information collection.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Multitasking System to Meet Exact Needs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Users can perform activities such as money transfers, savings deposits, bill payments, balance inquiries, transaction history checks, investments, and more. All these transactions can be done from anywhere and at any time, as long as there is an internet connection.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Clear Information&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Information blocks are arranged in a streamlined and coherent manner, helping users quickly grasp the issues they need to address.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Streamlined Operations&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The customer experience journey is carefully designed to be as simple as possible. Additionally, the logical and sequential design method helps customers quickly learn how to master the application.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Personalized Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Provides maximum satisfaction to users by optimizing the interface according to their usage needs, flexibly displaying content, and recommending relevant functions and services tailored to each user segment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The interface is designed to optimize user experience;&lt;/li&gt;
+&lt;li&gt;Functions range from basic to diverse according to the requirements of each customer group;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Ensure stable system performance;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Optimize deployment time and cost;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Apply new updated safety and security technology;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Allow personalization for each end user.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content_en_html>
+	<createdDate>2025-08-12T09:26:31.139Z</createdDate>
+	<createdDate_dt>2025-08-12T09:26:31.139Z</createdDate_dt>
+	<lastModifiedDate>2025-09-16T09:32:09.586Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-16T09:32:09.586Z</lastModifiedDate_dt>
+	<time_create_dt>2025-08-12T09:26:31.000Z</time_create_dt>
+	<time_create_dt_tz>Asia/Bangkok</time_create_dt_tz>
+</page>

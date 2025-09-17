@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/product-service</content-type>
+	<display-template>/templates/web/pages/Product-Service.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0df8</objectGroupId>
+	<objectId>0df88e19-a688-d51f-e292-a4e1cfec441e</objectId>
+	<internal-name>Product-Service-en</internal-name>
+	<navLabel>Product-Service-en</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>products</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<product_orientation_o item-list="true">	<item datasource="nhhngsnphm">	<key>/site/components/3cc7d29d-289e-526f-4a4d-75534d2c8be4.xml</key>
+	<value>Định hướng sản phẩm en</value>
+	<include>/site/components/3cc7d29d-289e-526f-4a4d-75534d2c8be4.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></product_orientation_o>
+	<software_development_o item-list="true">	<item>	<key>/site/components/4241e0c1-0319-b83b-57e1-1669dede2760.xml</key>
+	<value>SOFTWARE DEVELOPMENT SERVICES en</value>
+	<include>/site/components/4241e0c1-0319-b83b-57e1-1669dede2760.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></software_development_o>
+	<reasons_choosing_o item-list="true">	<item datasource="ldochnDTSVN">	<key>/site/components/b36374bf-7ffd-0862-8b53-0c5d6d6bee07.xml</key>
+	<value>Tại sao chọn dtsvn</value>
+	<include>/site/components/b36374bf-7ffd-0862-8b53-0c5d6d6bee07.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></reasons_choosing_o>
+	<customer_stalk_about_o item-list="true">	<item>	<key>/site/components/19f70f18-fd97-e931-a3a8-5c56ef2e00f5.xml</key>
+	<value>khách hàng nói về dtsvn</value>
+	<include>/site/components/19f70f18-fd97-e931-a3a8-5c56ef2e00f5.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></customer_stalk_about_o>
+	<list_product_o item-list="true">	<item>	<key>/site/components/list-product/db927ed2-2ee1-2433-bc96-0e4fd9111dbe.xml</key>
+	<value>Product - Service</value>
+	<include>/site/components/list-product/db927ed2-2ee1-2433-bc96-0e4fd9111dbe.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></list_product_o>
+	<createdDate>2025-07-11T03:29:55.029Z</createdDate>
+	<createdDate_dt>2025-07-11T03:29:55.029Z</createdDate_dt>
+	<lastModifiedDate>2025-09-03T09:13:34.922Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-03T09:13:34.922Z</lastModifiedDate_dt>
+	<list_service_o item-list="true">	<item datasource="dchv">	<key>/site/e698ad2e-6a2b-068b-affb-d562e0251fe6.xml</key>
+	<value>Service-en</value>
+	<include>/site/e698ad2e-6a2b-068b-affb-d562e0251fe6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></list_service_o>
+</page>

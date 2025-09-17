@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0bc6</objectGroupId>
+	<objectId>0bc69fc7-ffff-f2c7-979b-f80955d7c5a6</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>0bc69fc7-ffff-f2c7-979b-f80955d7c5a6</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Chuyển đổi số là gì? Lợi ích khi chuyển đổi số</internal-name>
+	<navLabel>Chuyển đổi số là gì? Lợi ích khi chuyển đổi số</navLabel>
+	<title_vi_s>Chuyển đổi số là gì? Lợi ích khi chuyển đổi số</title_vi_s>
+	<title_en_s>What is digital transformation? Benefits of digital transformation</title_en_s>
+	<img_main_s>/static-assets/images/chuyen-doi-so-1-2.jpg</img_main_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Định nghĩa về Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. C&amp;aacute;c lợi &amp;iacute;ch khi Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. C&amp;aacute;c cấp độ Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Quy tr&amp;igrave;nh Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Những lưu &amp;yacute; khi Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6. Thực trạng Chuyển đổi số cho Doanh nghiệp tại Việt Nam&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong bối cảnh nền kinh tế hiện tại v&amp;agrave; đặc biệt l&amp;agrave; sau đại dịch Covid-19, Chuyển đổi số đ&amp;atilde; trở th&amp;agrave;nh hoạt động thiết yếu m&amp;agrave; Doanh nghiệp n&amp;agrave;o cũng cần để th&amp;uacute;c đẩy kinh doanh v&amp;agrave; tối ưu vận h&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ giải th&amp;iacute;ch chi tiết cho bạn về định nghĩa v&amp;agrave; lợi &amp;iacute;ch khi Chuyển đổi số cho Doanh nghiệp.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Định nghĩa về Chuyển đổi số&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số (Hay c&amp;ograve;n được gọi l&amp;agrave; Digital Transformation) được định nghĩa theo Bộ Th&amp;ocirc;ng tin &amp;amp; Truyền th&amp;ocirc;ng như sau: Chuyển đổi số l&amp;agrave; qu&amp;aacute; tr&amp;igrave;nh thay đổi tổng thể v&amp;agrave; to&amp;agrave;n diện của tổ chức, Doanh nghiệp về c&amp;aacute;ch l&amp;agrave;m việc, c&amp;aacute;ch sống v&amp;agrave; phương thức sản xuất dựa tr&amp;ecirc;n c&amp;aacute;c c&amp;ocirc;ng nghệ số.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số chỉ diễn ra th&amp;agrave;nh c&amp;ocirc;ng khi c&amp;oacute; sự tham gia của tất cả c&amp;aacute;c cấp từ cấp L&amp;atilde;nh đạo đến cấp nh&amp;acirc;n vi&amp;ecirc;n trong Doanh nghiệp với mục ti&amp;ecirc;u thay đổi c&amp;aacute;ch thức l&amp;agrave;m việc v&amp;agrave; tạo sự thay đổi đột ph&amp;aacute; trong hoạt động kinh doanh.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;c lợi &amp;iacute;ch khi Chuyển đổi số&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số kh&amp;ocirc;ng chỉ l&amp;agrave; việc sử dụng c&amp;ocirc;ng nghệ mới m&amp;agrave; c&amp;ograve;n l&amp;agrave; sự thay đổi trong việc Doanh nghiệp hoạt động, tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; sử dụng t&amp;agrave;i nguy&amp;ecirc;n. Dưới đ&amp;acirc;y l&amp;agrave; 1 số lợi &amp;iacute;ch ch&amp;iacute;nh khi Doanh nghiệp &amp;aacute;p dụng Chuyển đổi số:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;&lt;strong&gt;Tiết kiệm chi ph&amp;iacute; cho Doanh nghiệp&lt;/strong&gt;: Chuyển đổi số gi&amp;uacute;p Doanh nghiệp giảm thiểu c&amp;aacute;c chi ph&amp;iacute; li&amp;ecirc;n quan đến vận h&amp;agrave;nh v&amp;agrave; quản l&amp;yacute; truyền thống như: Chi ph&amp;iacute; in ấn giấy tờ, chi ph&amp;iacute; gửi C&amp;ocirc;ng văn, chi ph&amp;iacute; xăng xe đi lại để họp,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tối ưu h&amp;oacute;a hoạt động kinh doanh&lt;/strong&gt;: Những hoạt động kinh doanh trước đ&amp;acirc;y phải l&amp;agrave;m thủ c&amp;ocirc;ng thường xuy&amp;ecirc;n giờ sẽ được tự động h&amp;oacute;a, giảm thiểu thời gian xử l&amp;yacute; v&amp;agrave; tăng độ ch&amp;iacute;nh x&amp;aacute;c cho c&amp;aacute;c kết quả đầu ra của c&amp;ocirc;ng việc. VD điển h&amp;igrave;nh ta c&amp;oacute; thể thấy l&amp;agrave; hệ thống quản l&amp;yacute; kho h&amp;agrave;ng.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quản l&amp;yacute; v&amp;agrave; khai th&amp;aacute;c th&amp;ocirc;ng tin, t&amp;agrave;i nguy&amp;ecirc;n tốt hơn&lt;/strong&gt;: Khi đ&amp;atilde; được số h&amp;oacute;a v&amp;agrave; hợp nhất tr&amp;ecirc;n c&amp;aacute;c nền tảng số, Doanh nghiệp c&amp;oacute; thể sử dụng dữ liệu để xử l&amp;yacute; v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n kinh doanh của mọi ph&amp;ograve;ng ban từ Sales, Marketing, CSKH,&amp;hellip; để cải thiện doanh thu cũng như tối ưu c&amp;aacute;c loại chi ph&amp;iacute; kh&amp;aacute;c.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng&lt;/strong&gt;: Chuyển đổi số tạo ra h&amp;agrave;nh tr&amp;igrave;nh mua h&amp;agrave;ng v&amp;agrave; trải nghiệm người d&amp;ugrave;ng cho kh&amp;aacute;ch h&amp;agrave;ng tốt hơn. VD điển h&amp;igrave;nh ta c&amp;oacute; thể thấy l&amp;agrave; việc &amp;aacute;p dụng&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-marketing-automation/martech-la-gi/"&gt;Martech&lt;/a&gt;&amp;nbsp;v&amp;agrave;o c&amp;aacute;c hoạt động Marketing v&amp;agrave; Sales của Doanh nghiệp.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N&amp;acirc;ng cao hiệu quả c&amp;ocirc;ng việc&lt;/strong&gt;: Th&amp;ocirc;ng tin về hiệu suất của nh&amp;acirc;n vi&amp;ecirc;n c&amp;oacute; thể được chia sẻ đến c&amp;aacute;c cấp l&amp;atilde;nh đạo, quản l&amp;yacute; v&amp;agrave; c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n của ph&amp;ograve;ng ban đ&amp;oacute;, từ đ&amp;oacute; đ&amp;aacute;nh gi&amp;aacute; ch&amp;iacute;nh x&amp;aacute;c hiệu suất của nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; Doanh nghiệp c&amp;oacute; h&amp;agrave;nh xử ph&amp;ugrave; hợp như khen thưởng, training,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gia tăng lợi nhuận, doanh thu cho Doanh nghiệp&lt;/strong&gt;: Từ việc cải thiện h&amp;agrave;nh tr&amp;igrave;nh mua h&amp;agrave;ng của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; tối ưu c&amp;aacute;c hoạt động vận h&amp;agrave;nh nhằm chốt Sales, Chuyển đổi số gi&amp;uacute;p Doanh nghiệp tăng trưởng về doanh thu, giảm chi ph&amp;iacute; để c&amp;oacute; được lợi nhuận tốt nhất.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;c cấp độ Chuyển đổi số&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Số h&amp;oacute;a dữ liệu (Digitization): Đ&amp;acirc;y l&amp;agrave; giai đoạn đầu ti&amp;ecirc;n trong qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số. Giai đoạn n&amp;agrave;y tập trung v&amp;agrave;o việc chuyển đổi c&amp;aacute;c dữ liệu đang ở bản cứng sang dạng điện tử. VD thực tế ta c&amp;oacute; thể thấy đ&amp;oacute; l&amp;agrave; việc số h&amp;oacute;a c&amp;aacute;c th&amp;ocirc;ng tin từ giấy tờ, t&amp;agrave;i liệu, hồ sơ th&amp;agrave;nh c&amp;aacute;c dữ liệu số nhằm dễ d&amp;agrave;ng quản l&amp;yacute;, lưu trữ, truy cập.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Số h&amp;oacute;a quy tr&amp;igrave;nh (Digitalization): Ở đ&amp;acirc;y, c&amp;aacute;c quy tr&amp;igrave;nh kinh doanh truyền thống sẽ được cải tiến v&amp;agrave; tối ưu, ph&amp;aacute;t triển th&amp;ecirc;m bằng c&amp;aacute;c c&amp;ocirc;ng nghệ số h&amp;oacute;a để tự động h&amp;oacute;a c&amp;aacute;c quy tr&amp;igrave;nh ấy, từ đ&amp;oacute; giảm thiểu sai s&amp;oacute;t, cải thiện hiệu suất v&amp;agrave; tiết kiệm thời gian.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Chuyển đổi số to&amp;agrave;n diện (Digital Transformation): Bước cuối c&amp;ugrave;ng n&amp;agrave;y đ&amp;ograve;i hỏi việc chuyển đổi to&amp;agrave;n bộ m&amp;ocirc; h&amp;igrave;nh kinh doanh của 1 Doanh nghiệp dựa tr&amp;ecirc;n nền tảng kỹ thuật số. Ở đ&amp;acirc;y kh&amp;ocirc;ng chỉ dừng ở việc số h&amp;oacute;a dữ liệu v&amp;agrave; quy tr&amp;igrave;nh m&amp;agrave; c&amp;ograve;n bao gồm c&amp;aacute;ch Doanh nghiệp tư duy, hoạt động, tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; ph&amp;aacute;t triển văn h&amp;oacute;a c&amp;ocirc;ng ty như thế n&amp;agrave;o.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Quy tr&amp;igrave;nh Chuyển đổi số&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;X&amp;aacute;c định chiến lược Chuyển đổi số gắn liền với chiến lược Kinh doanh: Việc Chuyển đổi số bắt đầu bằng việc r&amp;otilde; r&amp;agrave;ng h&amp;oacute;a chiến lược v&amp;agrave; mục ti&amp;ecirc;u kinh doanh ri&amp;ecirc;ng của doanh nghiệp. Trong đ&amp;oacute;, c&amp;aacute;c nhiệm vụ vận h&amp;agrave;nh quan trọng sẽ được tập trung để x&amp;aacute;c định thứ tự ưu ti&amp;ecirc;n trong qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số. C&amp;aacute;c chiến lược chuyển đổi số ta hay gặp đ&amp;oacute; l&amp;agrave;: Tối ưu hoạt động, X&amp;acirc;y dựng trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, Chuyển đổi m&amp;ocirc; h&amp;igrave;nh kinh doanh&lt;/li&gt;
+&lt;li&gt;Đ&amp;aacute;nh gi&amp;aacute; năng lực trưởng th&amp;agrave;nh số của Doanh nghiệp: M&amp;ocirc; h&amp;igrave;nh trưởng th&amp;agrave;nh số của Doanh nghiệp được x&amp;aacute;c định dựa tr&amp;ecirc;n c&amp;aacute;c yếu tố sau:
+&lt;ul&gt;
+&lt;li&gt;Chiến lược: Đ&amp;aacute;nh gi&amp;aacute; mức độ doanh nghiệp c&amp;oacute; kế hoạch tăng lợi thế cạnh tranh th&amp;ocirc;ng qua chiến lược số to&amp;agrave;n diện&lt;/li&gt;
+&lt;li&gt;Kh&amp;aacute;ch h&amp;agrave;ng: Đ&amp;aacute;nh gi&amp;aacute; việc cung cấp trải nghiệm tương t&amp;aacute;c. Trong đ&amp;oacute;, kh&amp;aacute;ch h&amp;agrave;ng xem Doanh nghiệp l&amp;agrave; đối t&amp;aacute;c số của họ&lt;/li&gt;
+&lt;li&gt;C&amp;ocirc;ng nghệ: Đ&amp;aacute;nh gi&amp;aacute; khả năng c&amp;ocirc;ng nghệ của tổ chức để thiết lập duy tr&amp;igrave; v&amp;agrave; tiềm lực chuyển đổi để hỗ trợ c&amp;aacute;c mục ti&amp;ecirc;u chuyển đổi kinh doanh&lt;/li&gt;
+&lt;li&gt;Dữ liệu: Đ&amp;aacute;nh gi&amp;aacute; khả năng của Doanh nghiệp về mặt chiến lược v&amp;agrave; hoạt động trong việc sử dụng dữ liệu hiệu quả&lt;/li&gt;
+&lt;li&gt;Vận h&amp;agrave;nh: Đ&amp;aacute;nh gi&amp;aacute; hiệu suất của tổ chức đối với c&amp;aacute;c hoạt động hằng ng&amp;agrave;y hỗ trợ việc thực hiện Chuyển đổi số&lt;/li&gt;
+&lt;li&gt;Văn h&amp;oacute;a: Đ&amp;aacute;nh gi&amp;aacute; khả năng tạo ra m&amp;ocirc;i trường m&amp;agrave; mọi người đều sẵn s&amp;agrave;ng v&amp;agrave; tạo ra gi&amp;aacute; trị kinh doanh tại Doanh nghiệp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;X&amp;acirc;y dựng lộ tr&amp;igrave;nh Chuyển đổi số: Trong bước n&amp;agrave;y, Doanh nghiệp phải ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; lựa chọn những phương ph&amp;aacute;p triển khai hiệu quả để giảm thiểu tối đa thời gian, c&amp;ocirc;ng sức v&amp;agrave; ng&amp;acirc;n s&amp;aacute;ch cho qu&amp;aacute; tr&amp;igrave;nh triển khai, đề ph&amp;ograve;ng trước c&amp;aacute;c rủi ro c&amp;oacute; thể xảy ra. Nếu kh&amp;ocirc;ng tiến h&amp;agrave;nh ph&amp;acirc;n t&amp;iacute;ch kỹ lưỡng, Doanh nghiệp c&amp;oacute; thể mắc phải c&amp;aacute;c sai lầm như triển khai c&amp;aacute;c giải ph&amp;aacute;p c&amp;ocirc;ng nghệ kh&amp;ocirc;ng c&amp;oacute; t&amp;iacute;nh li&amp;ecirc;n kết dẫn đến hạn chế t&amp;iacute;ch hợp, từ đ&amp;oacute; g&amp;acirc;y ra l&amp;atilde;ng ph&amp;iacute; c&amp;ocirc;ng sức, thời gian, ng&amp;acirc;n s&amp;aacute;ch.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Triển khai, đo lường, cải tiến: Quy tr&amp;igrave;nh Chuyển đổi số cần sự gi&amp;aacute;m s&amp;aacute;t kỹ lưỡng để đảm bảo mọi việc diễn ra theo đ&amp;uacute;ng lộ tr&amp;igrave;nh đ&amp;atilde; được thiết lập. B&amp;ecirc;n cạnh đ&amp;oacute;, Doanh nghiệp cần phải đ&amp;aacute;nh gi&amp;aacute; hiệu quả của qu&amp;aacute; tr&amp;igrave;nh triển khai ở từng giai đoạn để sau đ&amp;oacute; c&amp;oacute; những điều chỉnh cần thiết. Ngo&amp;agrave;i ra, với những biến động li&amp;ecirc;n tục từ thị trường, c&amp;ocirc;ng nghệ, đối thủ &amp;amp; kh&amp;aacute;ch h&amp;agrave;ng, doanh nghiệp n&amp;ecirc;n xem x&amp;eacute;t v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; lại về t&amp;iacute;nh khả thi của s&amp;aacute;ng kiến số, từ đ&amp;oacute; đưa ra c&amp;aacute;c giải ph&amp;aacute;p c&amp;ocirc;ng nghệ sẽ được &amp;aacute;p dụng trong lộ tr&amp;igrave;nh của doanh nghiệp.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Những lưu &amp;yacute; khi Chuyển đổi số&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;&lt;strong&gt;X&amp;aacute;c định quy tr&amp;igrave;nh Chuyển đổi số&lt;/strong&gt;: Doanh nghiệp phải x&amp;aacute;c định được c&amp;aacute;c vấn đề ch&amp;iacute;nh m&amp;agrave; m&amp;igrave;nh đang gặp phải v&amp;agrave; muốn giải quyết dựa tr&amp;ecirc;n sự am hiểu về quy tr&amp;igrave;nh kinh doanh v&amp;agrave; t&amp;igrave;nh h&amp;igrave;nh thị trường hiện tại. Một điểm nữa n&amp;ecirc;n lưu &amp;yacute; đ&amp;oacute; l&amp;agrave; h&amp;atilde;y để &amp;yacute; đến t&amp;acirc;m l&amp;yacute; của kh&amp;aacute;ch h&amp;agrave;ng để ph&amp;aacute;t triển lộ tr&amp;igrave;nh chuyển đổi số ph&amp;ugrave; hợp.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Đ&amp;aacute;nh gi&amp;aacute; mức độ sẵn s&amp;agrave;ng của Doanh nghiệp&lt;/strong&gt;: Sau khi đ&amp;atilde; x&amp;aacute;c định được mục ti&amp;ecirc;u v&amp;agrave; định hướng trong lộ tr&amp;igrave;nh Chuyển đổi số. Doanh nghiệp phải đ&amp;aacute;nh gi&amp;aacute; lại mức độ sẵn s&amp;agrave;ng để t&amp;aacute;i cấu tr&amp;uacute;c quy tr&amp;igrave;nh vận h&amp;agrave;nh của m&amp;igrave;nh dựa tr&amp;ecirc;n c&amp;aacute;c yếu tố như: Con người, Dữ liệu, Chi ph&amp;iacute;, Nguồn lực hiện tại để c&amp;oacute; 1 c&amp;aacute;i nh&amp;igrave;n tổng quan nhất về gi&amp;aacute; trị của Doanh nghiệp trước khi bắt đầu qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;T&amp;igrave;m ra giải ph&amp;aacute;p ph&amp;ugrave; hợp&lt;/strong&gt;: Khi nghi&amp;ecirc;n cứu v&amp;agrave; đầu tư trong qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số, Doanh nghiệp c&amp;oacute; thể chọn tự ph&amp;aacute;t triển 1 hệ thống t&amp;ugrave;y chỉnh ph&amp;ugrave; hợp với m&amp;igrave;nh hoặc tận dụng c&amp;aacute;c nh&amp;agrave; cung cấp giải ph&amp;aacute;p Chuyển đổi số. T&amp;ugrave;y v&amp;agrave;o nguồn lực v&amp;agrave; t&amp;iacute;nh cấp thiết, Doanh nghiệp sẽ lựa chọn c&amp;aacute;ch ph&amp;ugrave; hợp cho m&amp;igrave;nh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;&lt;strong&gt;Đảm bảo t&amp;iacute;nh cam kết của Doanh nghiệp trong qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số&lt;/strong&gt;: Việc x&amp;acirc;y dựng một văn h&amp;oacute;a t&amp;ocirc;n trọng, s&amp;aacute;ng tạo v&amp;agrave; ham học hỏi l&amp;agrave; yếu tố cốt l&amp;otilde;i trong qu&amp;aacute; tr&amp;igrave;nh chuyển đổi số. Thay v&amp;igrave; để nh&amp;acirc;n vi&amp;ecirc;n l&amp;agrave;m việc trong c&amp;aacute;c khu ri&amp;ecirc;ng biệt, c&amp;aacute;c ph&amp;ograve;ng ban n&amp;ecirc;n được sắp xếp gần nhau hơn để c&amp;oacute; thể k&amp;iacute;ch th&amp;iacute;ch sự trao đổi v&amp;agrave; học hỏi trong việc hấp thụ c&amp;ocirc;ng nghệ mới để Chuyển đổi số.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Thực trạng Chuyển đổi số cho Doanh nghiệp tại Việt Nam&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Theo&amp;nbsp;&lt;a href="https://digital.fpt.com/tu-van/thuc-trang-chuyen-doi-so.html"&gt;FPT Digital&lt;/a&gt;, dưới đ&amp;acirc;y l&amp;agrave; 1 số th&amp;ocirc;ng tin về thực trạng Chuyển đổi số cho Doanh nghiệp ở Việt Nam v&amp;agrave;o những năm 2020 &amp;ndash; 2021:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Hơn 92% doanh nghiệp đ&amp;atilde; c&amp;oacute; sự quan t&amp;acirc;m hay thậm ch&amp;iacute; đ&amp;atilde; ứng dụng chuyển đổi số trong hoạt động kinh doanh của m&amp;igrave;nh. Tuy nhi&amp;ecirc;n, chỉ c&amp;oacute; chưa đến 10% trong số họ nhận định rằng việc chuyển đổi số đ&amp;atilde; th&amp;agrave;nh c&amp;ocirc;ng v&amp;agrave; c&amp;oacute; thể mang lại gi&amp;aacute; trị trọng yếu cho doanh nghiệp.&lt;/li&gt;
+&lt;li&gt;Doanh nghiệp vừa v&amp;agrave; nhỏ tại Việt Nam đang chiếm phần đa với 97% nhưng thực trạng đổi mới s&amp;aacute;ng tạo v&amp;agrave; khoa học c&amp;ocirc;ng nghệ chưa đủ điều kiện để chuyển đổi số. 92% doanh nghiệp trong số n&amp;agrave;y chưa c&amp;oacute; hiểu biết về chuyển đổi số, v&amp;agrave; 72% chưa biết bắt đầu từ đ&amp;acirc;u&lt;/li&gt;
+&lt;li&gt;Đa phần doanh nghiệp đều ứng dụng c&amp;aacute;c phần mềm, giải ph&amp;aacute;p hoạt động quản l&amp;yacute; đa k&amp;ecirc;nh, b&amp;aacute;n h&amp;agrave;ng online, quản trị k&amp;ecirc;nh ph&amp;acirc;n phối. Đ&amp;acirc;y l&amp;agrave; c&amp;aacute;c hoạt động thuộc giai đoạn 1: Số h&amp;oacute;a số liệu v&amp;agrave; một phần nhỏ của giai đoạn 2: Số h&amp;oacute;a quy tr&amp;igrave;nh (Quy tr&amp;igrave;nh số dựa tr&amp;ecirc;n nền tảng dữ liệu số), tuy nhi&amp;ecirc;n vẫn chưa đạt hiệu quả cao. Nhiều doanh nghiệp rơi v&amp;agrave;o &amp;ldquo;bẫy chuyển đổi số&amp;rdquo; khi mới &amp;aacute;p dụng một phần c&amp;ocirc;ng nghệ nhưng đ&amp;atilde; lầm tưởng bản th&amp;acirc;n đ&amp;atilde; ho&amp;agrave;n th&amp;agrave;nh lộ tr&amp;igrave;nh chuyển đổi&amp;hellip; Rất &amp;iacute;t doanh nghiệp đi đến được tận c&amp;ugrave;ng của chuyển đổi số: Giai đoạn 3 &amp;ndash; Chuyển đổi m&amp;ocirc; h&amp;igrave;nh kinh doanh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; to&amp;agrave;n bộ th&amp;ocirc;ng tin về định nghĩa Chuyển đổi số v&amp;agrave; lợi &amp;iacute;ch m&amp;agrave; Chuyển đổi số đem lại. Nếu bạn muốn được tư vấn to&amp;agrave;n diện về lộ tr&amp;igrave;nh Chuyển đổi số cho Doanh nghiệp, h&amp;atilde;y đặt lịch tư vấn với DTSVN tại đ&amp;acirc;y.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Definition of Digital Transformation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Benefits of Digital Transformation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Levels of Digital Transformation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Digital Transformation Process&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key Considerations for Digital Transformation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Current Situation of Digital Transformation for Businesses in Vietnam&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;In the current economic context, especially after the Covid-19 pandemic, Digital Transformation has become an essential activity that every business needs in order to drive growth and optimize operations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The following article will explain in detail the definition and benefits of Digital Transformation for businesses.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Definition of Digital Transformation&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Digital Transformation&lt;/strong&gt; is defined by the Ministry of Information &amp;amp; Communications of Vietnam as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Digital Transformation is the overall and comprehensive change of an organization or enterprise in the way of working, living, and producing based on digital technologies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style="text-align: justify;"&gt;The Digital Transformation process can only succeed when there is participation from all levels &amp;mdash; from leadership to employees &amp;mdash; with the goal of changing working methods and creating breakthrough changes in business operations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Benefits of Digital Transformation&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Digital Transformation is not only about adopting new technologies, but also about changing the way businesses operate, interact with customers, and utilize resources. Below are some key benefits for businesses applying Digital Transformation:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cost savings for businesses&lt;/strong&gt;: Digital Transformation helps businesses minimize traditional operating and management costs such as printing, mailing documents, or travel expenses for meetings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimizing business operations&lt;/strong&gt;: Manual activities can now be automated, reducing processing time and increasing accuracy. For example, warehouse management systems are widely applied.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Better information and resource management&lt;/strong&gt;: Once digitized and consolidated on digital platforms, businesses can use data to analyze and solve business challenges across departments such as Sales, Marketing, and Customer Service &amp;mdash; thereby improving revenue and optimizing costs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing customer experience&lt;/strong&gt;: Digital Transformation creates better customer journeys and user experiences. For instance, applying Martech to marketing and sales activities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Improving work efficiency&lt;/strong&gt;: Employee performance data can be shared with leaders and managers, enabling more accurate performance evaluations and appropriate actions such as rewards or training.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Increasing revenue and profit&lt;/strong&gt;: By improving customer journeys and optimizing operations, Digital Transformation helps businesses grow revenue while reducing costs, leading to higher profits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Levels of Digital Transformation&lt;/h2&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digitization&lt;/strong&gt;: The first stage, focusing on converting physical data into digital formats. Example: digitizing documents, records, and files into electronic data for easier storage and access.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digitalization&lt;/strong&gt;: At this stage, traditional business processes are optimized and enhanced through digital technologies, leading to automation, reduced errors, improved efficiency, and time savings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digital Transformation&lt;/strong&gt;: The final stage requires a complete transformation of the business model based on digital technology. This involves not only digitizing data and processes but also rethinking how a company operates, interacts with customers, and develops its culture.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Digital Transformation Process&lt;/h2&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Defining a Digital Transformation strategy aligned with business strategy&lt;/strong&gt;: It starts with clarifying business goals. Key operational tasks should be prioritized. Common strategies include operational optimization, building customer experiences, and transforming business models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Assessing the digital maturity of the business&lt;/strong&gt;: Digital maturity is assessed based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;: How the business leverages digital to build competitive advantage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Customers&lt;/strong&gt;: The level of interactive experiences provided and whether customers perceive the company as a digital partner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: The organization&amp;rsquo;s technological capabilities to sustain transformation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;: Strategic and operational use of data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Operations&lt;/strong&gt;: Daily operational efficiency in supporting transformation initiatives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Culture&lt;/strong&gt;: Creating an environment where everyone is ready to innovate and create value.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Building a Digital Transformation roadmap&lt;/strong&gt;: Businesses must analyze and select effective implementation methods to minimize time, effort, and budget, while anticipating risks. Poor analysis may result in fragmented technology solutions, wasted resources, and integration challenges.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Implementation, measurement, and improvement&lt;/strong&gt;: The process requires close monitoring to ensure alignment with the roadmap. Effectiveness should be evaluated at each stage, with adjustments made as necessary. Given market, technology, competitor, and customer dynamics, businesses must regularly reassess initiatives and adopt the right digital solutions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Key Considerations for Digital Transformation&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Identifying the Digital Transformation process&lt;/strong&gt;: Businesses should first define the core problems they want to solve based on an understanding of their operations and market situation. Customer psychology should also be considered when designing the roadmap.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Assessing readiness&lt;/strong&gt;: After setting goals and direction, businesses must assess readiness in terms of people, data, costs, and resources to gain a comprehensive view before restructuring.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Finding the right solution&lt;/strong&gt;: Businesses may either develop custom systems internally or leverage external solution providers depending on resources and urgency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ensuring enterprise-wide commitment&lt;/strong&gt;: Building a culture of respect, creativity, and learning is essential. Departments should work closely together to foster knowledge sharing and adoption of new technologies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Current Situation of Digital Transformation for Businesses in Vietnam&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;According to &lt;strong&gt;FPT Digital&lt;/strong&gt;, here are some insights on Digital Transformation in Vietnam during 2020&amp;ndash;2021:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Over &lt;strong&gt;92% of businesses&lt;/strong&gt; have shown interest or have already applied Digital Transformation in operations. However, fewer than 10% consider their efforts successful in creating essential business value.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Small and medium-sized enterprises (SMEs) make up &lt;strong&gt;97% of all businesses in Vietnam&lt;/strong&gt;, yet most lack sufficient innovation and technological capabilities for Digital Transformation. Specifically, 92% have little knowledge of Digital Transformation, and 72% do not know where to start.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Most companies apply software solutions for multi-channel management, online sales, and distribution management. These activities are mostly within &lt;strong&gt;Stage 1: Digitization&lt;/strong&gt; and partly &lt;strong&gt;Stage 2: Digitalization&lt;/strong&gt;, but effectiveness remains limited. Many fall into the &amp;ldquo;Digital Transformation trap&amp;rdquo; by applying partial technologies while believing they have completed the journey. Very few have reached the ultimate stage: &lt;strong&gt;Stage 3 &amp;ndash; Business Model Transformation&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;The above provides a comprehensive overview of Digital Transformation definitions and benefits.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If you want a &lt;strong&gt;comprehensive consultation on building a Digital Transformation roadmap for your business&lt;/strong&gt;, please schedule a consultation with DTSVN here.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-09T03:58:05.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:58:04.809Z</createdDate>
+	<createdDate_dt>2025-08-28T03:58:04.809Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:58:04.809Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:58:04.809Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

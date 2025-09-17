@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/about-en</content-type>
+	<display-template>/templates/web/About-en.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e653</objectGroupId>
+	<objectId>e653dac5-3a32-8c08-5557-761a0a64c67a</objectId>
+	<internal-name>Giới thiệu-en</internal-name>
+	<navLabel>Giới thiệu-en</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>about</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<banner_o item-list="true">	<item datasource="banner">	<key>/site/components/ce9a3de3-978c-0555-256d-8aa62e4b18b0.xml</key>
+	<value>banner-about-en</value>
+	<include>/site/components/ce9a3de3-978c-0555-256d-8aa62e4b18b0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></banner_o>
+	<solution_o item-list="true">	<item datasource="dTSVNCUNGCPTRNBGIIPHP">	<key>/site/components/4e84f869-dbc2-5485-d62f-8ec66be6d400.xml</key>
+	<value>DTSVN CUNG CẤP TRỌN BỘ GIẢI PHÁP-en</value>
+	<include>/site/components/4e84f869-dbc2-5485-d62f-8ec66be6d400.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></solution_o>
+	<strengths_o item-list="true">	<item datasource="thmnhcaDTSVN">	<key>/site/components/55ae063f-04df-c544-857f-a3bdcb47bb6c.xml</key>
+	<value>Thế mạnh của DTSVN</value>
+	<include>/site/components/55ae063f-04df-c544-857f-a3bdcb47bb6c.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></strengths_o>
+	<achievements_o item-list="true">	<item>	<key>/site/components/5c47ec44-a2d4-e543-25ad-2df91d640ce3.xml</key>
+	<value>thành tựu en</value>
+	<include>/site/components/5c47ec44-a2d4-e543-25ad-2df91d640ce3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></achievements_o>
+	<leader_o item-list="true">	<item>	<key>/site/components/ce1e1da3-e441-240f-400f-aa978af983c9.xml</key>
+	<value>leader en</value>
+	<include>/site/components/ce1e1da3-e441-240f-400f-aa978af983c9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></leader_o>
+	<member_o item-list="true">	<item datasource="thnhvin">	<key>/site/components/d9bd1f5b-5f53-5cdb-5ad4-535a7dfd35bd.xml</key>
+	<value>thành viên en</value>
+	<include>/site/components/d9bd1f5b-5f53-5cdb-5ad4-535a7dfd35bd.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></member_o>
+	<client_o item-list="true">	<item datasource="khchhng">	<key>/site/components/d6b2713b-227d-6b49-227e-61daccf2bef5.xml</key>
+	<value>50+ khách hàng en</value>
+	<include>/site/components/d6b2713b-227d-6b49-227e-61daccf2bef5.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></client_o>
+	<partner_o item-list="true">	<item datasource="itc">	<key>/site/components/60527de7-b7d1-1856-230e-5754ae26978d.xml</key>
+	<value>đối tác en</value>
+	<include>/site/components/60527de7-b7d1-1856-230e-5754ae26978d.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></partner_o>
+	<createdDate>2025-07-08T03:26:13.073Z</createdDate>
+	<createdDate_dt>2025-07-08T03:26:13.073Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T08:37:52.568Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T08:37:52.568Z</lastModifiedDate_dt>
+	<customer_section_subtitle_s>CUSTOMER</customer_section_subtitle_s>
+	<customer_section_title_s>DTSVN has been connecting with many credit institutions, large, medium and small businesses</customer_section_title_s>
+	<client_partner_s>DTSVN Client</client_partner_s>
+	<customer_section_link_s/>
+	<strategic_section_subtitle_s>Typical partners of DTSVN</strategic_section_subtitle_s>
+	<strategic_section_title_s>DTSVN has been a strategic partner of the world's leading MarTech platforms, with long-term cooperative relationships with reputable businesses and organizations in many fields.</strategic_section_title_s>
+	<strategic_section_link_s/>
+	<customer_section_image_s>/static-assets/images/dtkh.jpg</customer_section_image_s>
+	<strategic_section_image_s>/static-assets/images/lxt.jpg</strategic_section_image_s>
+	<customer_partnerships_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Goverment Agencies </title_s>
+	<description_s>National Assembly Office; Department of Defense; The Ministry of Finance; Insurance Supervision Administration; General Department of Customs; Customs &amp; Technical Department</description_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>Small and medium-sized banks and financial institutions</title_s>
+	<description_s>VietCapital Bank, Pinetree, LotteFinance...</description_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>Banks, large-scale financial institutions</title_s>
+	<description_s>Vietinbank, BIDV, BaovietLife, EVNFinance, MSB, NCB, PVCom Bank, VNPayment.</description_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>Foreign enterprises </title_s>
+	<description_s>VIETFUN CORPORATION, POLYCOM, AVAY, Fujitsu, HP, DELL.</description_s>
+	</item></customer_partnerships_o>
+	<strategic_partnerships_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>INSIDER </title_s>
+	<description_s>Insider: Insider is a platform that collects data from various channels and helps improve user experiences in real-time. It uses this data to personalize interactions with users, making their experience smoother and more enjoyable.</description_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>ADJUST</title_s>
+	<description_s>Adjust is a platform designed to help businesses analyze and measure how effective their mobile app advertising campaigns are. </description_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>NUCLENT </title_s>
+	<description_s>Nuclent is a platform that simplifies the process of building and managing applications. It also helps automate workflows, making tasks quicker and easier to handle, which saves time and increases efficiency.</description_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>ORTHER PARTNERS </title_s>
+	<description_s>Clerver Tap, Odoo, BEAU, eNAO, Meeyland.</description_s>
+	</item></strategic_partnerships_o>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0f49</objectGroupId>
+	<objectId>0f492ffd-91f0-1643-f56a-530fe39d713e</objectId>
+	<file-name>0f492ffd-91f0-1643-f56a-530fe39d713e.xml</file-name>
+	<folder-name/>
+	<internal-name>Banner martech</internal-name>
+	<name_page_s>Dịch vụ Martech</name_page_s>
+	<title_s>Dịch vụ Vận hành nền tảng CEP</title_s>
+	<subtitle_s>DTSVN là đơn vị chuyên cung cấp dịch vụ vận hành và quản lý nền tảng CEP (Customer Engagement Platform) hàng đầu tại Việt Nam, hỗ trợ các Doanh nghiệp trong việc tối ưu các hoạt động Marketing Automation và các hoạt động kinh doanh.  Với mục tiêu truyền động lực và giúp Doanh nghiệp chủ động định hình tương lai, DTSVN tập trung vào các giá trị cốt lõi, mang lại sự đột phá và lợi thế cạnh tranh trên thị trường.</subtitle_s>
+	<createdDate>2025-08-26T09:50:40.211Z</createdDate>
+	<createdDate_dt>2025-08-26T09:50:40.211Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T09:50:40.211Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T09:50:40.211Z</lastModifiedDate_dt>
+</component>

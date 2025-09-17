@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-project</content-type>
+	<display-template>/templates/web/item-project.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a552</objectGroupId>
+	<objectId>a552036b-aab6-5cbc-0d18-12c7c2379d66</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>a552036b-aab6-5cbc-0d18-12c7c2379d66</folder-name>
+	<internal-name>BIDV nghiệm thu dự án Martech trên Website</internal-name>
+	<navLabel>BIDV nghiệm thu dự án Martech trên Website</navLabel>
+	<key_main_s/>
+	<title_vi_s>BIDV nghiệm thu dự án Martech trên Website</title_vi_s>
+	<title_en_s>BIDV accepts Martech project on Website </title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/481776588_656018000280406_6157405450186861741_n.jpg</img_main_s>
+	<info_main_t>Trước khi triển khai, BIDV đã gặp rất nhiều vấn đề trong việc tiếp cận, thu hút và giữ chân Khách hàng trên Webiste. Thấu hiểu nhu cầu và mong muốn của BIDV, DTSVN cùng với Insider – Đơn vị cung cấp giải pháp Marketing Automation hàng đầu trên thế giới đã phối hợp tư vấn và triển khai nhằm tăng cường khả năng nhận diện thương hiệu, bán chéo sản phẩm, hỗ trợ hoạt động chăm sóc khách hàng và cải thiện trải nghiệm người dùng.</info_main_t>
+	<info_main_en_t>Before implementation, BIDV encountered many problems in approaching, attracting and retaining customers on the website. Understanding BIDV's needs and desires, DTSVN together with Insider - the world's leading Marketing Automation solution provider, coordinated consulting and implementation to enhance brand recognition, cross-sell products, support customer care activities and improve user experience.</info_main_en_t>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Trước khi triển khai, BIDV đ&amp;atilde; gặp rất nhiều vấn đề trong việc tiếp cận, thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n Kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n Webiste. Thấu hiểu nhu cầu v&amp;agrave; mong muốn của BIDV, DTSVN c&amp;ugrave;ng với Insider &amp;ndash; Đơn vị cung cấp giải ph&amp;aacute;p Marketing Automation h&amp;agrave;ng đầu tr&amp;ecirc;n thế giới đ&amp;atilde; phối hợp tư vấn v&amp;agrave; triển khai nhằm tăng cường khả năng nhận diện thương hiệu, b&amp;aacute;n ch&amp;eacute;o sản phẩm, hỗ trợ hoạt động chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; cải thiện trải nghiệm người d&amp;ugrave;ng.&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Before implementation, BIDV encountered many problems in approaching, attracting and retaining customers on the website. Understanding BIDV's needs and desires, DTSVN together with Insider - the world's leading Marketing Automation solution provider, coordinated consulting and implementation to enhance brand recognition, cross-sell products, support customer care activities and improve user experience.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2024-08-08T02:32:18.000Z</time_create_dt>
+	<createdDate>2025-08-28T02:32:16.711Z</createdDate>
+	<createdDate_dt>2025-08-28T02:32:16.711Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T02:32:16.711Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T02:32:16.711Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

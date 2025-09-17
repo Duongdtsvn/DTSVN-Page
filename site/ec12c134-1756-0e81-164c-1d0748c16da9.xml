@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>
+	<display-template>/templates/web/Component-Service.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ec12</objectGroupId>
+	<objectId>ec12c134-1756-0e81-164c-1d0748c16da9</objectId>
+	<file-name>ec12c134-1756-0e81-164c-1d0748c16da9.xml</file-name>
+	<folder-name/>
+	<internal-name>Dịch vụ</internal-name>
+	<title_s>Dịch vụ</title_s>
+	<text_s/>
+	<service_o item-list="true">	<item>	<key_main_s/>
+	<title_s>Khóa học BA</title_s>
+	<link_s>/course-of-ba</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Tư vấn CDS</title_s>
+	<link_s>/digital-transformation</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item></service_o>
+	<createdDate>2025-08-21T07:56:47.027Z</createdDate>
+	<createdDate_dt>2025-08-21T07:56:47.027Z</createdDate_dt>
+	<lastModifiedDate>2025-08-21T07:56:47.027Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-21T07:56:47.027Z</lastModifiedDate_dt>
+</component>

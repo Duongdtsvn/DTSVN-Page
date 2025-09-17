@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d86e</objectGroupId>
+	<objectId>d86e0661-4c13-6b52-8f95-b012369d7fbf</objectId>
+	<internal-name>Mục tiêu khóa học</internal-name>
+	<orientation_s>Mục tiêu khóa học</orientation_s>
+	<file-name>d86e0661-4c13-6b52-8f95-b012369d7fbf.xml</file-name>
+	<folder-name/>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Cung cấp các kiến thức từ cơ bản đến nâng cao về Business Analyst bao gồm phân tích quản lý, phân tích hệ thống và phân tích dữ liệu.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Trang bị cho các học viên các kỹ năng cần thiết để làm việc trong nghề bao gồm: Kỹ năng giao tiếp, Kỹ năng phân tích và xử lý vấn đề, Kỹ năng quản lý và đàm phán...</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>Mở rộng cơ hội học tập cao hơn và cơ hội nghề nghiệp trong ngành nghề Phân tích nghiệp vụ - ngành nghề có xu hướng phát triển mạnh trong thời gian tới.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-04T08:29:19.601Z</createdDate>
+	<createdDate_dt>2025-07-04T08:29:19.601Z</createdDate_dt>
+	<lastModifiedDate>2025-07-04T08:29:19.601Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-04T08:29:19.601Z</lastModifiedDate_dt>
+</component>

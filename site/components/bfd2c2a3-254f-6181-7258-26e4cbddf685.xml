@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner-home</content-type>
+	<display-template>/templates/web/Component-Banner-Home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bfd2</objectGroupId>
+	<objectId>bfd2c2a3-254f-6181-7258-26e4cbddf685</objectId>
+	<file-name>bfd2c2a3-254f-6181-7258-26e4cbddf685.xml</file-name>
+	<folder-name/>
+	<internal-name>Banner Home</internal-name>
+	<title1_s>Giải Pháp Phần Mềm Số Cho Ngành Tài Chính &amp; Ngân Hàng</title1_s>
+	<subtitle1_s>"DTSVN đồng hành cùng các tổ chức Tài chính &amp; Ngân hàng giải quyết các giới hạn của hệ thống thủ công"</subtitle1_s>
+	<cover_mobile_s>/static-assets/images/dtsvn_cover_photo.jpg</cover_mobile_s>
+	<cover_pc_s>/static-assets/images/dtsvn_cover_photo.jpg</cover_pc_s>
+	<createdDate>2025-06-25T08:52:13.818Z</createdDate>
+	<createdDate_dt>2025-06-25T08:52:13.818Z</createdDate_dt>
+	<lastModifiedDate>2025-08-04T09:29:26.872Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-04T09:29:26.872Z</lastModifiedDate_dt>
+	<contact_s>Liên hệ ngay</contact_s>
+</component>

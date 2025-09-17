@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/cds-consulting</content-type>
+	<display-template>/templates/web/pages/CDS-Consulting.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>90f6</objectGroupId>
+	<objectId>90f6ec7b-0880-173e-f7cb-8a76405d0ca2</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>digital-transformation</folder-name>
+	<internal-name>Tư vấn CDS-en</internal-name>
+	<navLabel>Tư vấn CDS-en</navLabel>
+	<vision_title_s>Problems &amp; Formulas When Digital Transformation</vision_title_s>
+	<vision_description_s>Is your business facing the following difficulties when Digital Transformation?</vision_description_s>
+	<strength_title_s>Digital transformation consulting service packages</strength_title_s>
+	<team_title_s>Digital Transformation Consulting Team at DTSVN</team_title_s>
+	<team_description_s>With a team of experts with more than 10 years of experience in the field of Digital Transformation and using advanced approaches, DTSVN is committed to accompanying businesses on the Digital Transformation journey, helping to optimize operations and improve business efficiency.</team_description_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<banner_o item-list="true">	<item datasource="banner">	<key>/site/components/0b9f5c5c-9b69-cef8-75a0-a50929f04639.xml</key>
+	<value>banner tư vấn cds en</value>
+	<include>/site/components/0b9f5c5c-9b69-cef8-75a0-a50929f04639.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></banner_o>
+	<why_choose_o item-list="true">	<item datasource="tisaobnnnchnDTSVNtrinkhai">	<key>/site/components/2913c331-fa58-9aa5-34ac-d097f1566041.xml</key>
+	<value>Tại sao bạn nên chọn DTSVN để triển khai?-en</value>
+	<include>/site/components/2913c331-fa58-9aa5-34ac-d097f1566041.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></why_choose_o>
+	<service_packages_o item-list="true">	<item>	<icon_s/>
+	<number_s>01</number_s>
+	<title_s>Basic consulting</title_s>
+	<description_html>&lt;p&gt;For businesses that are just starting out and want to transform digitally &lt;br /&gt;✔️Assess digital readiness and maturity &lt;br /&gt;✔️Assess digital culture &lt;br /&gt;✔️Build priority lists, digital initiatives &lt;br /&gt;✔️Build digital transformation strategies and roadmaps&lt;/p&gt;</description_html>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<icon_s/>
+	<number_s>02</number_s>
+	<title_s>In-depth consulting</title_s>
+	<description_html>&lt;div&gt;
+&lt;div&gt;For businesses that want to optimize digital transformation infrastructure&lt;br /&gt;✔️Evaluate and propose optimization of IT infrastructure&lt;br /&gt;✔️Transform business models towards digital orientation&lt;br /&gt;✔️Optimize operations for businesses&lt;br /&gt;✔️Build customer strategies in the digital environment&lt;/div&gt;
+&lt;/div&gt;</description_html>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<icon_s/>
+	<number_s>03</number_s>
+	<title_s>Advanced consulting</title_s>
+	<description_html>&lt;div&gt;
+&lt;div&gt;For businesses that want to develop comprehensive digital transformation &lt;br /&gt;Talk directly 1:1 so we can understand your business's digital transformation needs&lt;/div&gt;
+&lt;/div&gt;</description_html>
+	<disableFlattening>false</disableFlattening>
+	</item></service_packages_o>
+	<member_o item-list="true">	<item datasource="thnhvinlinkttrinkhai">	<key>/site/components/724f2146-50fe-1032-610f-aa57d62d7542.xml</key>
+	<value>thành viên liên kết triển khai</value>
+	<include>/site/components/724f2146-50fe-1032-610f-aa57d62d7542.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></member_o>
+	<vision_background_image_s>/static-assets/images/vision-bg.jpg</vision_background_image_s>
+	<createdDate>2025-07-10T00:39:21.717Z</createdDate>
+	<createdDate_dt>2025-07-10T00:39:21.717Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T18:00:04.405Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T18:00:04.405Z</lastModifiedDate_dt>
+	<vision_challenges_o item-list="true">	<item>	<title_s>Decreased productivity</title_s>
+	<description_s>Many unnamed jobs, manual jobs create personnel in the business that take time to solve, not focusing on important jobs.</description_s>
+	</item>	<item>	<title_s>Complicated workflow</title_s>
+	<description_s>The most unsynchronized process between prohibitions, prohibited equipment in the work room makes the business's operational efficiency slow down.</description_s>
+	</item>	<item>	<title_s>Inconsistent data analysis</title_s>
+	<description_s>Manual data management in the traditional and ununified way leads to lack of transparency and slow progress in work to make timely decisions for the business.</description_s>
+	</item>	<item>	<title_s>Declining business efficiency</title_s>
+	<description_s>Customers lose their livestock and no longer return to the business because there is no regular and continuous customer care method.</description_s>
+	</item></vision_challenges_o>
+	<team_members_o item-list="true">	<item>	<image_s>/static-assets/images/nbc.png</image_s>
+	<name_s>Mr. Nguyen Ba Chien</name_s>
+	<position_s> Chairman and CEO of DTSVN</position_s>
+	</item>	<item>	<image_s>/static-assets/images/thaopt.jpg</image_s>
+	<name_s>Mrs. Nguyen Thi Huong Thao </name_s>
+	<position_s>Liverpool John Moores University – United KingdomChief Consultant at DTSVN</position_s>
+	</item>	<item>	<image_s>/static-assets/images/vtn.png</image_s>
+	<name_s>Dr. Vu Thanh Nam</name_s>
+	<position_s> Ph.D. in Mathematical Foundations for Informatics – Hanoi University of Science and TechnologyChief Technology Officer at DTSVN</position_s>
+	</item></team_members_o>
+</page>

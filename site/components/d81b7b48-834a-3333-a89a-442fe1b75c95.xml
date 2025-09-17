@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-reasons-choosing-dtsvn</content-type>
+	<display-template>/templates/web/Component-reasons-choosing-DTSVN.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d81b</objectGroupId>
+	<objectId>d81b7b48-834a-3333-a89a-442fe1b75c95</objectId>
+	<internal-name>Lý do lựa chọn DTSVN</internal-name>
+	<title_s>Lý do lựa chọn DTSVN</title_s>
+	<subtitle_s>DTSVN đã thành công trong việc xây dựng phần mềm đáp ứng cho mọi tổ chức tín dụng. Hóa giải nhiều trở ngại, tiết kiệm chi phí, lợi nhuận tăng cao.</subtitle_s>
+	<file-name>d81b7b48-834a-3333-a89a-442fe1b75c95.xml</file-name>
+	<folder-name/>
+	<reasons_choosing_o item-list="true">	<item>	<title_s>Phản hồi và xử lý lỗi nhanh</title_s>
+	<subtitle_s>Phản hồi và giải quyết nhanh chóng các lỗi về hệ thống ngay khi khách hàng gặp phải, bằng cả onsite và offsite.</subtitle_s>
+	</item>	<item>	<title_s>Đội ngũ giàu kinh nghiệm</title_s>
+	<subtitle_s>Chúng tôi có đội ngũ chuyên gia kinh nghiệm nhiều năm trong lĩnh vực phần mềm ngành tài chính, ngân hàng.</subtitle_s>
+	</item>	<item>	<title_s>Hiểu rõ về nghiệp vụ</title_s>
+	<subtitle_s>Chúng tôi thiết kế, đánh giá và xây dựng hệ thống công nghệ từ sự hiểu biết thấu đáo về yêu cầu quản lý của bạn</subtitle_s>
+	</item>	<item>	<title_s>Giao tiếp vô cùng dễ hiểu</title_s>
+	<subtitle_s>Mọi thắc mắc của bạn sẽ được đội ngũ kỹ thuật sẽ trả lời, giải thích cặn kẽ cho bạn hiểu tường tận.</subtitle_s>
+	</item>	<item>	<title_s>Giải pháp tất cả trong một</title_s>
+	<subtitle_s>Xử lý tất cả các khía cạnh cơ sở hạ tầng CNTT, bao gồm phần cứng, phần mềm và các nhu cầu công nghệ khác.</subtitle_s>
+	</item>	<item>	<title_s>100% đảm bảo hài lòng</title_s>
+	<subtitle_s>Các dịch vụ của chúng tôi sẽ làm cho bạn hạnh phúc, mang lại giá trị cho bạn, đảm bảo bạn sẽ thấy hài lòng.</subtitle_s>
+	</item></reasons_choosing_o>
+	<createdDate>2025-07-11T02:54:02.831Z</createdDate>
+	<createdDate_dt>2025-07-11T02:54:02.831Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T02:54:02.831Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T02:54:02.831Z</lastModifiedDate_dt>
+</component>

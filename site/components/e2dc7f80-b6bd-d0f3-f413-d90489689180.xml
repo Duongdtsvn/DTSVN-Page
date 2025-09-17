@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e2dc</objectGroupId>
+	<objectId>e2dc7f80-b6bd-d0f3-f413-d90489689180</objectId>
+	<internal-name>banner nhà đầu tư en</internal-name>
+	<name_page_s>Investors</name_page_s>
+	<title_s>Investors</title_s>
+	<subtitle_s/>
+	<file-name>e2dc7f80-b6bd-d0f3-f413-d90489689180.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-07-08T09:41:08.505Z</createdDate>
+	<createdDate_dt>2025-07-08T09:41:08.505Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T09:41:08.505Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T09:41:08.505Z</lastModifiedDate_dt>
+</component>

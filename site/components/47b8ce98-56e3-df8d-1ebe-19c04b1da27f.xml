@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>47b8</objectGroupId>
+	<objectId>47b8ce98-56e3-df8d-1ebe-19c04b1da27f</objectId>
+	<internal-name>Banner Giới thiệu</internal-name>
+	<name_page_s>Giới thiệu</name_page_s>
+	<title_s>Về chúng tôi</title_s>
+	<subtitle_s>Giúp tối ưu nguồn lực, thúc đẩy hiệu quả kinh doanh và mang lại lợi nhuận cho các doanh nghiệp</subtitle_s>
+	<file-name>47b8ce98-56e3-df8d-1ebe-19c04b1da27f.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-07-07T03:48:33.597Z</createdDate>
+	<createdDate_dt>2025-07-07T03:48:33.597Z</createdDate_dt>
+	<lastModifiedDate>2025-07-07T03:48:33.597Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-07T03:48:33.597Z</lastModifiedDate_dt>
+</component>

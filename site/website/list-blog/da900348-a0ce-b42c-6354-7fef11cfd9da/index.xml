@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da90</objectGroupId>
+	<objectId>da900348-a0ce-b42c-6354-7fef11cfd9da</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>da900348-a0ce-b42c-6354-7fef11cfd9da</folder-name>
+	<internal-name>5 bước giúp doanh nghiệp tuân thủ các “yêu cầu bắt buộc” từ NHNN đúng hạn, giảm rủi ro và tăng tốc cạnh tranh</internal-name>
+	<navLabel>5 bước giúp doanh nghiệp tuân thủ các “yêu cầu bắt buộc” từ NHNN đúng hạn, giảm rủi ro và tăng tốc cạnh tranh</navLabel>
+	<title_vi_s>5 bước giúp doanh nghiệp tuân thủ các “yêu cầu bắt buộc” từ NHNN đúng hạn, giảm rủi ro và tăng tốc cạnh tranh</title_vi_s>
+	<title_en_s>5 Steps to Help Businesses Meet SBV’s Mandatory Requirements On Time, Reduce Risks, and Accelerate Competitiveness</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Business-News</key>
+	<value_smv>Tin kinh doanh</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/ai____________-vcg41n1472123004.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Tu&amp;acirc;n thủ y&amp;ecirc;u cầu bắt buộc (Mandatory) từ Ng&amp;acirc;n h&amp;agrave;ng Nh&amp;agrave; nước (NHNN) l&amp;agrave; nghĩa vụ kh&amp;ocirc;ng thể thiếu đối với c&amp;aacute;c tổ chức t&amp;iacute;n dụng, fintech, c&amp;ocirc;ng ty bảo hiểm hay trung gian thanh to&amp;aacute;n. Thế nhưng, biến nghĩa vụ ph&amp;aacute;p l&amp;yacute; n&amp;agrave;y th&amp;agrave;nh lợi thế cạnh tranh bền vững lại l&amp;agrave; c&amp;acirc;u chuyện ho&amp;agrave;n to&amp;agrave;n kh&amp;aacute;c &amp;ndash;&amp;nbsp;đ&amp;ograve;i hỏi sự chủ động, tư duy chiến lược v&amp;agrave; một lộ tr&amp;igrave;nh triển khai b&amp;agrave;i bản.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;agrave;m thế n&amp;agrave;o để kh&amp;ocirc;ng chỉ l&amp;agrave;m cho xong, m&amp;agrave; c&amp;ograve;n l&amp;agrave;m đ&amp;uacute;ng, đủ v&amp;agrave; kịp thời? Theo c&amp;aacute;c chuy&amp;ecirc;n gia của DTSVN &amp;ndash; đơn vị đồng h&amp;agrave;nh c&amp;ugrave;ng nhiều tổ chức lớn trong h&amp;agrave;nh tr&amp;igrave;nh chuyển đổi số v&amp;agrave; bảo mật th&amp;ocirc;ng tin &amp;ndash; dưới đ&amp;acirc;y l&amp;agrave; 5 bước thực tiễn m&amp;agrave; nhiều doanh nghiệp lớn đang &amp;aacute;p dụng để biến &amp;aacute;p lực th&amp;agrave;nh động lực đổi mới, biến nghĩa vụ th&amp;agrave;nh cơ hội vươn l&amp;ecirc;n dẫn đầu.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bước 1: Giải m&amp;atilde; y&amp;ecirc;u cầu,&amp;nbsp;biến văn bản ph&amp;aacute;p l&amp;yacute; th&amp;agrave;nh kế hoạch h&amp;agrave;nh động&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;ocirc;ng tư, Quyết định hay hướng dẫn kỹ thuật từ NHNN thường d&amp;agrave;i v&amp;agrave; chứa nhiều chi tiết phức tạp. Việc đầu ti&amp;ecirc;n doanh nghiệp cần l&amp;agrave;m l&amp;agrave; b&amp;oacute;c t&amp;aacute;ch v&amp;agrave; trả lời r&amp;otilde; r&amp;agrave;ng ba c&amp;acirc;u hỏi: &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Một l&amp;agrave;:&lt;/strong&gt;&amp;nbsp;Y&amp;ecirc;u cầu cụ thể l&amp;agrave; g&amp;igrave;?&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hai l&amp;agrave;:&lt;/strong&gt;&amp;nbsp;&amp;Aacute;p dụng cho đối tượng, hệ thống hay dịch vụ n&amp;agrave;o?&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ba l&amp;agrave;:&lt;/strong&gt;&amp;nbsp;Hạn ch&amp;oacute;t thực hiện l&amp;agrave; khi n&amp;agrave;o?&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ đ&amp;oacute;, doanh nghiệp c&amp;oacute; thể x&amp;acirc;y dựng kế hoạch h&amp;agrave;nh động r&amp;otilde; r&amp;agrave;ng: x&amp;aacute;c định c&amp;aacute;c hạng mục bắt buộc, ước t&amp;iacute;nh khối lượng c&amp;ocirc;ng việc, dự tr&amp;ugrave; ng&amp;acirc;n s&amp;aacute;ch v&amp;agrave; nguồn nh&amp;acirc;n sự cần thiết.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; dụ, nếu y&amp;ecirc;u cầu bắt buộc x&amp;aacute;c thực đa yếu tố (MFA) cho to&amp;agrave;n bộ giao dịch trực tuyến, doanh nghiệp cần r&amp;agrave; so&amp;aacute;t bao nhi&amp;ecirc;u k&amp;ecirc;nh số đang vận h&amp;agrave;nh, số lượng hệ thống cũ cần chỉnh sửa v&amp;agrave; khả năng ảnh hưởng đến trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng. Để đ&amp;aacute;p ứng kịp thời v&amp;agrave; to&amp;agrave;n diện, doanh nghiệp cũng n&amp;ecirc;n triển khai th&amp;ecirc;m c&amp;aacute;c lớp bảo mật như m&amp;atilde; h&amp;oacute;a dữ liệu, quản l&amp;yacute; chứng chỉ số v&amp;agrave; &amp;aacute;p dụng c&amp;ocirc;ng nghệ bảo vệ giao dịch đạt chuẩn quốc tế &amp;ndash; điển h&amp;igrave;nh như giải ph&amp;aacute;p V-OS từ V-Key.&amp;nbsp;Nhờ vậy, doanh nghiệp c&amp;oacute; thể tạo ra &amp;ldquo;bản đồ&amp;rdquo; minh bạch, tr&amp;aacute;nh bỏ s&amp;oacute;t hạng mục v&amp;agrave; dễ d&amp;agrave;ng thuyết phục l&amp;atilde;nh đạo ph&amp;ecirc; duyệt nguồn lực, biến &amp;aacute;p lực tu&amp;acirc;n thủ th&amp;agrave;nh bước đệm n&amp;acirc;ng cấp hệ thống.&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bước 2: Đặt deadline nội bộ sớm hơn 2 &amp;ndash; 3 th&amp;aacute;ng&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhiều doanh nghiệp chỉ b&amp;aacute;m s&amp;aacute;t deadline ch&amp;iacute;nh thức của NHNN, đến khi gặp sự cố th&amp;igrave; trở tay kh&amp;ocirc;ng kịp. B&amp;iacute; quyết nằm ở việc tự x&amp;acirc;y dựng deadline nội bộ sớm hơn từ 60 đến 90 ng&amp;agrave;y so với quy định.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực tế, kh&amp;oacute; tr&amp;aacute;nh khỏi những ph&amp;aacute;t sinh như y&amp;ecirc;u cầu bổ sung từ NHNN, chậm ph&amp;ecirc; duyệt ng&amp;acirc;n s&amp;aacute;ch, lỗi kỹ thuật hay y&amp;ecirc;u cầu th&amp;ecirc;m từ kiểm to&amp;aacute;n nội bộ. Bởi vậy, ngay từ đầu cần l&amp;ecirc;n kế hoạch chi tiết, chia nhỏ tiến độ th&amp;agrave;nh c&amp;aacute;c mốc như khảo s&amp;aacute;t, thiết kế, ph&amp;aacute;t triển, kiểm thử v&amp;agrave; đ&amp;agrave;o tạo. Đồng thời ph&amp;acirc;n r&amp;otilde; tr&amp;aacute;ch nhiệm cho từng ph&amp;ograve;ng ban v&amp;agrave; d&amp;agrave;nh ra khoảng 10 &amp;ndash; 20% thời gian dự ph&amp;ograve;ng. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhờ c&amp;aacute;ch l&amp;agrave;m n&amp;agrave;y, ngay cả khi gặp trục trặc, doanh nghiệp vẫn đủ thời gian xử l&amp;yacute; v&amp;agrave; kịp ho&amp;agrave;n th&amp;agrave;nh trước hạn ch&amp;oacute;t. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bước 3: Gắn tu&amp;acirc;n thủ v&amp;agrave;o KPI&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một trong những nguy&amp;ecirc;n nh&amp;acirc;n khiến nhiều tổ chức trễ hạn kh&amp;ocirc;ng phải do năng lực yếu m&amp;agrave; do coi Mandatory chỉ l&amp;agrave; dự &amp;aacute;n phụ. Để thay đổi điều đ&amp;oacute;, doanh nghiệp cần biến c&amp;aacute;c hạng mục tu&amp;acirc;n thủ th&amp;agrave;nh KPI cụ thể của ph&amp;ograve;ng CNTT, ph&amp;aacute;p chế, vận h&amp;agrave;nh v&amp;agrave; c&amp;aacute;c bộ phận li&amp;ecirc;n quan. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, t&amp;iacute;ch hợp lu&amp;ocirc;n c&amp;aacute;c y&amp;ecirc;u cầu Mandatory v&amp;agrave;o quy tr&amp;igrave;nh ph&amp;aacute;t triển sản phẩm, dịch vụ mới. Tổ chức họp r&amp;agrave; so&amp;aacute;t định kỳ h&amp;agrave;ng tuần hoặc h&amp;agrave;ng th&amp;aacute;ng để cập nhật tiến độ v&amp;agrave; xử l&amp;yacute; kịp thời c&amp;aacute;c vướng mắc ph&amp;aacute;t sinh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;ch l&amp;agrave;m n&amp;agrave;y gi&amp;uacute;p giảm &amp;aacute;p lực v&amp;agrave;o ph&amp;uacute;t ch&amp;oacute;t, tăng t&amp;iacute;nh chủ động của đội ngũ v&amp;agrave; sẵn s&amp;agrave;ng cung cấp b&amp;aacute;o c&amp;aacute;o, t&amp;agrave;i liệu khi NHNN hoặc kiểm to&amp;aacute;n y&amp;ecirc;u cầu.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bước 4: Tận dụng c&amp;ocirc;ng nghệ v&amp;agrave; &amp;ldquo;bắt tay&amp;rdquo; c&amp;ugrave;ng chuy&amp;ecirc;n gia&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng phải doanh nghiệp n&amp;agrave;o cũng đủ nh&amp;acirc;n lực, thời gian v&amp;agrave; chuy&amp;ecirc;n m&amp;ocirc;n để tự triển khai to&amp;agrave;n bộ c&amp;aacute;c hạng mục tu&amp;acirc;n thủ, nhất l&amp;agrave; khi thời hạn từ NHNN kh&amp;aacute; gấp v&amp;agrave; y&amp;ecirc;u cầu kỹ thuật ng&amp;agrave;y c&amp;agrave;ng phức tạp.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hiện nay,&amp;nbsp;nhiều tổ chức t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; fintech đ&amp;atilde; lựa chọn c&amp;aacute;ch tiếp cận linh hoạt hơn: ứng dụng phần mềm quản trị tu&amp;acirc;n thủ để theo d&amp;otilde;i tiến độ, tự động nhắc deadline v&amp;agrave; lưu trữ hồ sơ đầy đủ; đồng thời hợp t&amp;aacute;c với c&amp;aacute;c đối t&amp;aacute;c c&amp;ocirc;ng nghệ uy t&amp;iacute;n để triển khai những giải ph&amp;aacute;p trọng yếu như x&amp;aacute;c thực đa yếu tố, m&amp;atilde; h&amp;oacute;a dữ liệu v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t giao dịch. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo &amp;ocirc;ng Nguyễn B&amp;aacute; Chiến, Tổng gi&amp;aacute;m đốc DTSVN, việc tự ph&amp;aacute;t triển c&amp;aacute;c giải ph&amp;aacute;p bảo mật phức tạp như x&amp;aacute;c thực đa yếu tố hay quản l&amp;yacute; kh&amp;oacute;a m&amp;atilde; h&amp;oacute;a thường tốn k&amp;eacute;m v&amp;agrave; thiếu đồng bộ. Đ&amp;acirc;y l&amp;agrave; l&amp;yacute; do doanh nghiệp cần hợp t&amp;aacute;c với c&amp;aacute;c đối t&amp;aacute;c c&amp;ocirc;ng nghệ uy t&amp;iacute;n.&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bước 5: R&amp;agrave; so&amp;aacute;t, b&amp;aacute;o c&amp;aacute;o chủ động trước thay đổi mới&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngay cả khi đ&amp;atilde; ho&amp;agrave;n th&amp;agrave;nh đ&amp;uacute;ng hạn, doanh nghiệp vẫn cần bước r&amp;agrave; so&amp;aacute;t cuối c&amp;ugrave;ng để đảm bảo chất lượng. Kiểm tra hồ sơ gửi NHNN c&amp;oacute; đầy đủ v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c kh&amp;ocirc;ng, hệ thống thực tế vận h&amp;agrave;nh ra sao, quy tr&amp;igrave;nh v&amp;agrave; t&amp;agrave;i liệu nội bộ đ&amp;atilde; được cập nhật hay chưa, đội ngũ li&amp;ecirc;n quan đ&amp;atilde; được đ&amp;agrave;o tạo đầy đủ chưa. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sau đ&amp;oacute;, doanh nghiệp cần đ&amp;uacute;c kết b&amp;agrave;i học kinh nghiệm, điều chỉnh lại &amp;ldquo;bản đồ tu&amp;acirc;n thủ&amp;rdquo; để &amp;aacute;p dụng cho c&amp;aacute;c đợt Mandatory tiếp theo v&amp;agrave; lu&amp;ocirc;n theo d&amp;otilde;i s&amp;aacute;t những thay đổi mới từ NHNN.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhờ vậy, doanh nghiệp kh&amp;ocirc;ng chỉ giảm chi ph&amp;iacute; ph&amp;aacute;t sinh trong tương lai m&amp;agrave; c&amp;ograve;n x&amp;acirc;y dựng h&amp;igrave;nh ảnh tổ chức chuy&amp;ecirc;n nghiệp, uy t&amp;iacute;n trong mắt regulator, Đối t&amp;aacute;c v&amp;agrave; Kh&amp;aacute;ch h&amp;agrave;ng. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tu&amp;acirc;n thủ y&amp;ecirc;u cầu bắt buộc (Mandatory) kh&amp;ocirc;ng chỉ l&amp;agrave; nghĩa vụ ph&amp;aacute;p l&amp;yacute; đơn thuần. Đ&amp;acirc;y c&amp;ograve;n l&amp;agrave; cơ hội để doanh nghiệp n&amp;acirc;ng cấp hệ thống, tinh gọn quy tr&amp;igrave;nh vận h&amp;agrave;nh v&amp;agrave; tạo&amp;nbsp;uy t&amp;iacute;n tr&amp;ecirc;n thị trường. Với 5 bước chủ động từ giải m&amp;atilde; y&amp;ecirc;u cầu, đặt deadline sớm, đưa v&amp;agrave;o KPI, tận dụng c&amp;ocirc;ng nghệ, đến kiểm tra v&amp;agrave; cải tiến li&amp;ecirc;n tục doanh nghiệp ho&amp;agrave;n to&amp;agrave;n c&amp;oacute; thể biến &amp;aacute;p lực tu&amp;acirc;n thủ th&amp;agrave;nh lợi thế cạnh tranh bền vững, giảm thiểu rủi ro v&amp;agrave; tăng tốc tr&amp;ecirc;n h&amp;agrave;nh tr&amp;igrave;nh ph&amp;aacute;t triển d&amp;agrave;i hạn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh &amp;ndash; Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Compliance with mandatory requirements issued by the State Bank of Vietnam (SBV) is a non-negotiable obligation for financial institutions, fintech companies, insurance providers, and payment intermediaries. However, transforming legal obligations into long-term competitive advantages is a completely different challenge &amp;mdash; one that demands proactivity, strategic thinking, and a well-structured execution roadmap.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;So how can organizations not just "tick the boxes" but ensure compliance is accurate, complete, and timely? According to DTSVN &amp;ndash; a trusted partner of major organizations in digital transformation and cybersecurity &amp;ndash; here are five practical steps leading businesses are taking to turn regulatory pressure into momentum for innovation, and obligations into opportunities for market leadership.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;Step 1: Decode the Requirements &amp;ndash; Turn Legal Documents into Actionable Plans&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Circulars, decisions, and technical guidelines from the SBV can be lengthy and complex. The first step is to break them down and answer three key questions:&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What is the specific requirement?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;To whom, which systems or services does it apply?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;What is the compliance deadline?&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;Based on this, businesses can build a clear action plan: identifying required items, estimating workload, budgeting, and allocating resources.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For example, if multi-factor authentication (MFA) is mandated for all online transactions, organizations must assess how many digital channels are active, how many legacy systems need updates, and the impact on customer experience. To meet requirements promptly and comprehensively, businesses should also implement additional security layers like data encryption, digital certificate management, and internationally compliant transaction protection technologies &amp;mdash; such as the V-OS solution from V-Key.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With this approach, businesses create a transparent &amp;ldquo;compliance map&amp;rdquo; that ensures nothing is missed and provides strong justification for management to allocate resources &amp;mdash; turning compliance pressure into a springboard for system upgrades.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;Step 2: Set Internal Deadlines 2&amp;ndash;3 Months Ahead&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Many organizations rely solely on SBV&amp;rsquo;s official deadlines, only to find themselves scrambling when unexpected issues arise. The key is to set internal deadlines 60 to 90 days earlier than mandated.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Delays in budget approvals, additional SBV requirements, technical glitches, or internal audit feedback are not uncommon. That&amp;rsquo;s why it&amp;rsquo;s critical to create a detailed schedule from the start, breaking it into clear milestones like assessment, design, development, testing, and training. Assign clear responsibilities to each department and reserve 10&amp;ndash;20% of the timeline as contingency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This approach ensures that even with setbacks, businesses still have time to recover and deliver on time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;Step 3: Tie Compliance to KPIs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;One major reason for missed deadlines isn&amp;rsquo;t lack of capability &amp;mdash; it&amp;rsquo;s lack of prioritization. Many organizations treat mandatory compliance as a side project. To change this, businesses should turn compliance items into measurable KPIs for IT, legal, operations, and other relevant teams.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mandatory requirements should also be integrated into the product and service development lifecycle. Regular weekly or monthly review meetings should be held to update progress and resolve issues promptly.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This promotes proactive execution, reduces last-minute panic, and ensures readiness to present reports or documentation whenever requested by the SBV or internal auditors.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;Step 4: Leverage Technology and Partner with Experts&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Not every organization has the manpower, time, or expertise to implement all compliance tasks in-house &amp;mdash; especially given the tight SBV timelines and increasing technical complexity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Today, many financial institutions and fintech firms are adopting a more flexible approach: using compliance management software to track progress, automate reminders, and maintain thorough documentation. They also collaborate with reputable technology partners to implement critical solutions such as MFA, data encryption, and transaction monitoring.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to Mr. Nguyen Ba Chien, CEO of DTSVN, developing complex security solutions like MFA or key management in-house can be costly and inconsistent. That&amp;rsquo;s why it&amp;rsquo;s crucial to engage trusted tech partners for implementation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;Step 5: Review and Report Proactively Before New Changes&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Even after meeting compliance deadlines, businesses must conduct a final review to ensure quality. This includes verifying the completeness and accuracy of documents submitted to the SBV, evaluating actual system performance, updating internal processes and documentation, and confirming staff have received adequate training.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;From there, businesses should document lessons learned, refine their compliance roadmap for future mandates, and continuously monitor regulatory updates from the SBV.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By doing so, they reduce future costs, improve operational resilience, and position themselves as professional and trustworthy players in the eyes of regulators, partners, and customers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Compliance with SBV's mandatory requirements is more than just a legal responsibility &amp;mdash; it's an opportunity for businesses to upgrade their systems, streamline operations, and build market credibility. With five strategic steps &amp;mdash; decoding regulations, setting early deadlines, embedding compliance into KPIs, leveraging technology, and proactively reviewing outcomes &amp;mdash; organizations can transform compliance pressure into a sustainable competitive advantage, minimize risk, and accelerate long-term growth.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;&lt;strong&gt;About DTSVN&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;DTSVN&lt;/strong&gt; is a pioneering digital transformation company specializing in cutting-edge digital solutions tailored for Vietnam&amp;rsquo;s Finance and Banking sector. DTSVN helps financial institutions rapidly modernize their technology infrastructure to meet digital transformation demands.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 &lt;strong&gt;Contact us today&lt;/strong&gt; for consultation and to experience our solutions firsthand.&lt;/p&gt;</content_en_html>
+	<createdDate>2025-07-14T08:56:41.600Z</createdDate>
+	<createdDate_dt>2025-07-14T08:56:41.600Z</createdDate_dt>
+	<lastModifiedDate>2025-08-07T07:11:39.414Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-07T07:11:39.414Z</lastModifiedDate_dt>
+	<time_create_dt>2025-05-12T07:44:58.000Z</time_create_dt>
+	<time_create_dt_tz>Asia/Bangkok</time_create_dt_tz>
+</page>

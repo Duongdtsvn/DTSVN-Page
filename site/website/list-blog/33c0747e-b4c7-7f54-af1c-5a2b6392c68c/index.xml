@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>33c0</objectGroupId>
+	<objectId>33c0747e-b4c7-7f54-af1c-5a2b6392c68c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>33c0747e-b4c7-7f54-af1c-5a2b6392c68c</folder-name>
+	<internal-name>DTSVN ký kết hợp tác chiến lược toàn diện cùng FORCS</internal-name>
+	<navLabel>DTSVN ký kết hợp tác chiến lược toàn diện cùng FORCS </navLabel>
+	<title_vi_s>DTSVN ký kết hợp tác chiến lược toàn diện cùng FORCS</title_vi_s>
+	<title_en_s>DTSVN signed a comprehensive strategic cooperation agreement with FORCS</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>activeDtsvn</key>
+	<value_smv>Hoạt động DTSVN</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/z6953007369447_96a56c4d6ce6660d752f3999d6af08f4.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Th&amp;aacute;ng 4 vừa qua tại H&amp;agrave; Nội, C&amp;ocirc;ng ty Cổ phần Giải ph&amp;aacute;p Chuyển đổi số Việt Nam (DTSVN) v&amp;agrave; C&amp;ocirc;ng ty TNHH FORCS đ&amp;atilde; ch&amp;iacute;nh thức k&amp;yacute; kết thỏa thuận hợp t&amp;aacute;c chiến lược to&amp;agrave;n diện.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; sự kiện đ&amp;aacute;nh dấu bước ngoặt quan trọng trong việc kết hợp giữa hai C&amp;ocirc;ng ty h&amp;agrave;ng đầu trong lĩnh vực c&amp;ocirc;ng nghệ Việt Nam &amp;ndash; H&amp;agrave;n Quốc, mang lại c&amp;aacute;c giải ph&amp;aacute;p c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến v&amp;agrave; tối ưu cho kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thỏa thuận hợp t&amp;aacute;c giữa FORCS v&amp;agrave; DTSVN tập trung v&amp;agrave;o việc tư vấn v&amp;agrave; cung cấp giải ph&amp;aacute;p c&amp;ocirc;ng nghệ cho kh&amp;aacute;ch h&amp;agrave;ng, bao gồm c&amp;aacute;c sản phẩm của FORCS v&amp;agrave; DTSVN. Hai b&amp;ecirc;n sẽ c&amp;ugrave;ng nhau triển khai v&amp;agrave; giới thiệu những sản phẩm, dịch vụ đến tay kh&amp;aacute;ch h&amp;agrave;ng dựa tr&amp;ecirc;n c&amp;aacute;c nguy&amp;ecirc;n tắc v&amp;agrave; lợi &amp;iacute;ch chung.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong qu&amp;aacute; tr&amp;igrave;nh hợp t&amp;aacute;c, DTSVN v&amp;agrave; FORCS thống nhất sử dụng c&amp;aacute;c sản phẩm/dịch vụ của đối t&amp;aacute;c giới thiệu, quảng b&amp;aacute; tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh của m&amp;igrave;nh nhằm tiếp cận cung cấp cho kh&amp;aacute;ch h&amp;agrave;ng giải ph&amp;aacute;p to&amp;agrave;n diện. Hai b&amp;ecirc;n kết hợp kinh doanh dựa tr&amp;ecirc;n ti&amp;ecirc;u ch&amp;iacute; &amp;ldquo;Win &amp;ndash; Win&amp;rdquo; v&amp;agrave; hướng tới n&amp;acirc;ng cao trải nghiệm cho mọi kh&amp;aacute;ch h&amp;agrave;ng. &amp;nbsp;&lt;/p&gt;
+&lt;figure style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953007298578_f6d83d14a7a3983ad163b7dbd07212fd.jpg" alt="" width="2560" height="1919"&gt;&lt;img&gt;&lt;/figure&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sự kiện đ&amp;aacute;nh dấu bước tiến mới của DTSVN&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với 30 năm h&amp;igrave;nh th&amp;agrave;nh v&amp;agrave; ph&amp;aacute;t triển, FORCS đ&amp;atilde; v&amp;agrave; đang khẳng định vị thế ti&amp;ecirc;n phong trong ng&amp;agrave;nh. FORCS đ&amp;atilde; thiết lập hơn 5.000 kh&amp;aacute;ch h&amp;agrave;ng tham khảo tr&amp;ecirc;n nhiều ng&amp;agrave;nh c&amp;ocirc;ng nghiệp kh&amp;aacute;c nhau. Với sự hiện diện mạnh mẽ tại H&amp;agrave;n Quốc, Nhật Bản v&amp;agrave; Đ&amp;ocirc;ng Nam &amp;Aacute;, FORCS li&amp;ecirc;n tục mở rộng dấu ấn to&amp;agrave;n cầu của m&amp;igrave;nh đến 20 quốc gia v&amp;agrave; hợp t&amp;aacute;c với hơn 100 c&amp;ocirc;ng ty tr&amp;ecirc;n to&amp;agrave;n thế giới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nổi bật trong số đ&amp;oacute; c&amp;oacute; Giải ph&amp;aacute;p b&amp;aacute;o c&amp;aacute;o doanh nghiệp, Giải ph&amp;aacute;p ph&amp;aacute;t triển t&amp;agrave;i liệu điện tử OZ Report, Dịch vụ hợp đồng điện tử dựa tr&amp;ecirc;n đ&amp;aacute;m m&amp;acirc;y OZ e-Form, eformsign.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong lĩnh vực giải ph&amp;aacute;p chuyển đổi số,&amp;nbsp;&lt;strong&gt;DTSVN&lt;/strong&gt;&amp;nbsp;l&amp;agrave; đơn vị ti&amp;ecirc;n phong cung cấp c&amp;aacute;c giải ph&amp;aacute;p số h&amp;oacute;a cho c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng, Tổ chức t&amp;agrave;i ch&amp;iacute;nh tại Việt Nam. DTSVN đ&amp;atilde; đạt được nhiều th&amp;agrave;nh tựu nổi bật trong việc ph&amp;aacute;t triển phần mềm, ứng dụng Big Data, giải ph&amp;aacute;p số h&amp;oacute;a v&amp;agrave; c&amp;ocirc;ng nghệ số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đặc biệt, trong năm 2025, DTSVN vinh dự được trao&amp;nbsp;&lt;strong&gt;Giải thưởng Sao Khu&amp;ecirc;&lt;/strong&gt;&amp;nbsp;&amp;ldquo;&lt;strong&gt;Dịch vụ Vận h&amp;agrave;nh Martech&amp;rdquo;&lt;/strong&gt;&amp;nbsp;&amp;ndash; một minh chứng r&amp;otilde; n&amp;eacute;t cho năng lực c&amp;ocirc;ng nghệ, sự đổi mới s&amp;aacute;ng tạo v&amp;agrave; hiệu quả m&amp;agrave; DTSVN mang lại cho kh&amp;aacute;ch h&amp;agrave;ng trong h&amp;agrave;nh tr&amp;igrave;nh chuyển đổi số.&lt;/p&gt;
+&lt;figure style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953007333889_c36b5295e8a1552d997b1b906c5a0f57.jpg" alt="" width="2560" height="1838"&gt;&lt;img&gt;&lt;/figure&gt;
+&lt;p style="text-align: justify;"&gt;Với phương ch&amp;acirc;m &amp;ldquo;C&amp;ugrave;ng mang lại gi&amp;aacute; trị, c&amp;ugrave;ng nhau ph&amp;aacute;t triển to&amp;agrave;n diện &amp;ndash; Bring values together&amp;rdquo;, DTSVN &amp;ndash; đ&amp;atilde; v&amp;agrave; đang đồng h&amp;agrave;nh c&amp;ugrave;ng nhiều doanh nghiệp, tổ chức tr&amp;ecirc;n cả nước trong qu&amp;aacute; tr&amp;igrave;nh tạo dựng, x&amp;acirc;y dựng thương hiệu uy t&amp;iacute;n &amp;amp; chất lượng với kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sự kiện l&amp;agrave; dấu mốc khởi đầu cho chuỗi hợp t&amp;aacute;c giữa hai b&amp;ecirc;n để c&amp;ugrave;ng tập trung x&amp;acirc;y dựng v&amp;agrave; cung cấp giải ph&amp;aacute;p c&amp;ocirc;ng nghệ vận h&amp;agrave;nh tối ưu d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh tại Việt Nam; Gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh ng&amp;agrave;y c&amp;agrave;ng ho&amp;agrave;n thiện v&amp;agrave; n&amp;acirc;ng cao trải nghiệm người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;----------------------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với việc hợp t&amp;aacute;c c&amp;ugrave;ng nhiều c&amp;ocirc;ng ty c&amp;ocirc;ng nghệ h&amp;agrave;ng đầu tr&amp;ecirc;n thế giới, DTSVN đ&amp;atilde; v&amp;agrave; đang cung cấp h&amp;agrave;ng loạt giải ph&amp;aacute;p c&amp;ocirc;ng nghệ ưu việt c&amp;ugrave;ng c&amp;aacute;c ứng dụng s&amp;aacute;ng tạo trong lĩnh vực phần mềm, số h&amp;oacute;a; DTSVN đang được nhiều Ng&amp;acirc;n h&amp;agrave;ng, Doanh nghiệp t&amp;agrave;i ch&amp;iacute;nh lớn lựa chọn: VietinBank, BIDV, Vietnam Airlines,&amp;hellip;&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In April this year in Hanoi, &lt;strong&gt;Vietnam Digital Transformation Solutions Joint Stock Company (DTSVN)&lt;/strong&gt; and &lt;strong&gt;FORCS Co., Ltd.&lt;/strong&gt; officially signed a comprehensive strategic cooperation agreement.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This event marks an important milestone in the collaboration between two leading companies in the Vietnam &amp;ndash; Korea technology sector, bringing advanced and optimized technology solutions to customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The cooperation agreement between FORCS and DTSVN focuses on consulting and providing technology solutions for customers, including products from both FORCS and DTSVN. The two parties will jointly deploy and introduce products and services to customers based on common principles and mutual benefits.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;During the cooperation, DTSVN and FORCS agreed to use each other&amp;rsquo;s products/services for promotion on their own channels, thereby reaching and delivering comprehensive solutions to customers. The two parties will conduct business cooperation based on a &lt;strong&gt;&amp;ldquo;Win&amp;ndash;Win&amp;rdquo;&lt;/strong&gt; principle, aiming to enhance the overall customer experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953007298578_f6d83d14a7a3983ad163b7dbd07212fd.jpg" alt="" width="2560" height="1919"&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;A New Milestone for DTSVN&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;With 30 years of establishment and development, FORCS has been affirming its pioneering position in the industry. FORCS has established more than 5,000 customer references across various industries. With a strong presence in South Korea, Japan, and Southeast Asia, FORCS continuously expands its global footprint to 20 countries and cooperates with more than 100 companies worldwide.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Among its outstanding offerings are &lt;strong&gt;Enterprise Reporting Solutions, OZ Report Electronic Document Development Solutions, and the Cloud-based Electronic Contract Services OZ e-Form and eformsign.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In the field of digital transformation solutions, &lt;strong&gt;DTSVN&lt;/strong&gt; is a pioneer in providing digitalization solutions for banks and financial institutions in Vietnam. DTSVN has achieved many remarkable accomplishments in software development, Big Data applications, digitalization, and digital technology solutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Notably, in 2025, DTSVN was honored with the &lt;strong&gt;Sao Khue Award for &amp;ldquo;Martech Operations Service&amp;rdquo;&lt;/strong&gt; &amp;ndash; a clear testament to DTSVN&amp;rsquo;s technological capacity, innovation, and efficiency in delivering value to customers throughout their digital transformation journey.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;img src="/static-assets/images/z6953007333889_c36b5295e8a1552d997b1b906c5a0f57.jpg" alt="" width="2560" height="1838"&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the motto &lt;strong&gt;&amp;ldquo;Bring values together &amp;ndash; Together we grow comprehensively,&amp;rdquo;&lt;/strong&gt; DTSVN has been and continues to accompany many enterprises and organizations across the country in building reputable and high-quality brands with customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This event marks the beginning of a series of collaborations between the two companies, focusing on building and providing optimal operational technology solutions tailored specifically for banks and financial institutions in Vietnam, thereby helping them improve and enhance user experience.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;By cooperating with many leading technology companies worldwide, DTSVN has been providing a wide range of advanced technology solutions and innovative applications in the fields of software and digitalization. DTSVN has become a trusted choice of major banks and financial enterprises such as &lt;strong&gt;VietinBank, BIDV, Vietnam Airlines,&lt;/strong&gt; and many others.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-14T04:24:49.000Z</time_create_dt>
+	<createdDate>2025-08-28T04:24:48.480Z</createdDate>
+	<createdDate_dt>2025-08-28T04:24:48.480Z</createdDate_dt>
+	<lastModifiedDate>2025-09-05T02:53:59.083Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-05T02:53:59.083Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

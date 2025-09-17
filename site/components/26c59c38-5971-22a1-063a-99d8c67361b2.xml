@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-member</content-type>
+	<display-template>/templates/web/Component-member.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>26c5</objectGroupId>
+	<objectId>26c59c38-5971-22a1-063a-99d8c67361b2</objectId>
+	<file-name>26c59c38-5971-22a1-063a-99d8c67361b2.xml</file-name>
+	<folder-name/>
+	<internal-name>thành viên en</internal-name>
+	<title5_s>Deployment associate members</title5_s>
+	<member_o item-list="true">	<item>	<url_s/>
+	<image_member_s>/static-assets/images/beau.png</image_member_s>
+	</item>	<item>	<url_s/>
+	<image_member_s>/static-assets/images/enao1.png</image_member_s>
+	</item>	<item>	<url_s/>
+	<image_member_s>/static-assets/images/logo-mate.png</image_member_s>
+	</item>	<item>	<url_s/>
+	<image_member_s>/static-assets/images/z6780091458608_769564767f69d878abd60bdfb8c1ccfa-copy-1.jpg</image_member_s>
+	</item></member_o>
+	<createdDate>2025-07-07T09:00:54.306Z</createdDate>
+	<createdDate_dt>2025-07-07T09:00:54.306Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T07:16:02.703Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T07:16:02.703Z</lastModifiedDate_dt>
+</component>

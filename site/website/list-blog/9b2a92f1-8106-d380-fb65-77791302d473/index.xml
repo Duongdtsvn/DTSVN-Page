@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b2a</objectGroupId>
+	<objectId>9b2a92f1-8106-d380-fb65-77791302d473</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>9b2a92f1-8106-d380-fb65-77791302d473</folder-name>
+	<internal-name>Cách gia tăng tỷ lệ chuyển đổi từ khách hàng hiện tại với Automation</internal-name>
+	<navLabel>Cách gia tăng tỷ lệ chuyển đổi từ khách hàng hiện tại với Automation</navLabel>
+	<title_vi_s>Cách gia tăng tỷ lệ chuyển đổi từ khách hàng hiện tại với Automation</title_vi_s>
+	<title_en_s>How to Increase Conversion Rates from Existing Customers with Automation</title_en_s>
+	<img_main_s>/static-assets/images/tang-ty-le-chuyen-doi.jpg</img_main_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; đến 75% kh&amp;aacute;ch h&amp;agrave;ng tiềm năng sẽ dừng lại ở giai đoạn thu thập th&amp;ocirc;ng tin, 80% kh&amp;aacute;ch h&amp;agrave;ng sẽ mua sản phẩm của đối thủ cạnh tranh nếu bạn kh&amp;ocirc;ng follow li&amp;ecirc;n tục.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Hiện nay nhiều doanh nghiệp sẵn s&amp;agrave;ng bỏ ra khoản tiền lớn để tập trung mang về kh&amp;aacute;ch h&amp;agrave;ng tiềm năng mới nhưng lại kh&amp;ocirc;ng thể tạo ra chuyển đổi được cho nh&amp;oacute;m n&amp;agrave;y. Vậy tại sao kh&amp;aacute;ch h&amp;agrave;ng hiện tại lại l&amp;agrave; những người chưa được chăm s&amp;oacute;c một c&amp;aacute;ch đ&amp;uacute;ng nghĩa? Giải ph&amp;aacute;p n&amp;agrave;o gi&amp;uacute;p doanh nghiệp c&amp;oacute; thể tiếp thị đến tất cả c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng đang c&amp;oacute;? Trong b&amp;agrave;i viết n&amp;agrave;y, DTSVN sẽ bật m&amp;iacute; cho bạn c&amp;aacute;ch kiếm nhiều tiền hơn từ c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng hiện tại với Marketing Automation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Kh&amp;aacute;ch đ&amp;atilde; mua h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với những kh&amp;aacute;ch đ&amp;atilde; mua h&amp;agrave;ng, cần c&amp;oacute; một phương &amp;aacute;n chăm s&amp;oacute;c ri&amp;ecirc;ng biệt để gia tăng tỷ lệ t&amp;aacute;i k&amp;yacute;, gia hạn hoặc k&amp;yacute; hợp đồng theo năm. Vậy để c&amp;oacute; thể tạo kết nối gần gũi với kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; kh&amp;eacute;o l&amp;eacute;o th&amp;ocirc;ng b&amp;aacute;o cho họ biết khi n&amp;agrave;o c&amp;oacute; thể gia hạn để tiếp tục sử dụng sản phẩm của doanh nghiệp th&amp;igrave; Email/SMS Automation sẽ gi&amp;uacute;p bạn gửi những th&amp;ocirc;ng tin n&amp;agrave;y đến kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bằng việc thiết lập những email tự động để gửi đi v&amp;agrave;o những ng&amp;agrave;y kh&amp;aacute;ch h&amp;agrave;ng kết th&amp;uacute;c hợp đồng, những vị kh&amp;aacute;ch n&amp;agrave;y sẽ nhắc nhở tự động rằng m&amp;igrave;nh c&amp;oacute; thể gia hạn hợp đồng hoặc t&amp;aacute;i k&amp;yacute; hợp đồng v&amp;agrave;o một thời điểm th&amp;iacute;ch hợp để tăng khả năng gia hạn.&lt;img&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Cold Lead&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với những cold lead, họ l&amp;agrave; những kh&amp;aacute;ch h&amp;agrave;ng tiềm năng đ&amp;atilde; dừng tương t&amp;aacute;c với doanh nghiệp trong một thời gian, nguy&amp;ecirc;n nh&amp;acirc;n c&amp;oacute; thể do thời gian trước họ chưa đủ điều kiện để mua h&amp;agrave;ng. Nhưng nếu hiện tại họ đ&amp;atilde; sẵn s&amp;agrave;ng th&amp;igrave; việc x&amp;acirc;y dựng một c&amp;ocirc;ng cụ chăm s&amp;oacute;c tự động để h&amp;acirc;m n&amp;oacute;ng lại mối quan hệ n&amp;agrave;y l&amp;agrave; điều cần thiết để c&amp;aacute;c doanh nghiệp thu h&amp;uacute;t lại sự ch&amp;uacute; &amp;yacute; của những kh&amp;aacute;ch h&amp;agrave;ng n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y bắt đầu tạo ấn tượng trở lại bằng những email cập nhật tin tức mới về doanh nghiệp của bạn, đang c&amp;oacute; g&amp;igrave; mới? Những offer hấp dẫn n&amp;agrave;o đang chờ đ&amp;oacute;n kh&amp;aacute;ch m&amp;agrave; bạn c&amp;oacute; thể gửi đi ngay lập tức để xem kh&amp;aacute;ch c&amp;oacute; cảm thấy hứng th&amp;uacute; với doanh nghiệp trở lại kh&amp;ocirc;ng?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Hot Lead&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; những kh&amp;aacute;ch h&amp;agrave;ng lu&amp;ocirc;n thường xuy&amp;ecirc;n gh&amp;eacute; thăm website của bạn, đồng thời cũng l&amp;agrave; những kh&amp;aacute;ch h&amp;agrave;ng mở email bạn gửi đến thường xuy&amp;ecirc;n v&amp;agrave; c&amp;oacute; tương t&amp;aacute;c cao tr&amp;ecirc;n mạng x&amp;atilde; hội. Điều n&amp;agrave;y chứng tỏ rằng đ&amp;acirc;y l&amp;agrave; những vị kh&amp;aacute;ch lu&amp;ocirc;n hứng th&amp;uacute; v&amp;agrave; quan t&amp;acirc;m đến doanh nghiệp của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với marketing automation, bạn c&amp;oacute; thể dễ d&amp;agrave;ng theo d&amp;otilde;i những h&amp;agrave;nh vi m&amp;agrave; nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng tiềm năng n&amp;agrave;y l&amp;agrave;m khi truy cập v&amp;agrave;o trang web của m&amp;igrave;nh, hoặc tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n email để c&amp;oacute; c&amp;aacute;i nh&amp;igrave;n r&amp;otilde; hơn về h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; gia tăng cơ hội chuyển đổi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; dụ: Khi những kh&amp;aacute;ch h&amp;agrave;ng tiềm năng n&amp;agrave;y truy cập v&amp;agrave;o trang web v&amp;agrave; tải xuống b&amp;aacute;o gi&amp;aacute; th&amp;igrave; chứng tỏ họ đang quan t&amp;acirc;m đến c&amp;aacute;c giải ph&amp;aacute;p của c&amp;ocirc;ng ty bạn cho những vấn đề họ đang gặp phải. Sau khi biết được vấn đề m&amp;agrave; kh&amp;aacute;ch quan t&amp;acirc;m, bạn c&amp;oacute; thể sử dụng Marketing Automation để thiết lập một email tự động offer cho họ một bản demo giải ph&amp;aacute;p hay một buổi tư vấn miễn ph&amp;iacute;. Những h&amp;agrave;nh động đơn giản n&amp;agrave;y sẽ gi&amp;uacute;p bạn thu h&amp;uacute;t &amp;ldquo;hot lead&amp;rdquo; v&amp;agrave; thể hiện sự quan t&amp;acirc;m của bạn đến những kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Kh&amp;aacute;ch h&amp;agrave;ng tiềm năng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; đến 61% c&amp;aacute;c Marketer chuyển tất cả c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng tiềm năng trực tiếp đến bộ phận b&amp;aacute;n h&amp;agrave;ng, nhưng thực tế chỉ c&amp;oacute; 27% trong số n&amp;agrave;y thực sự sẵn s&amp;agrave;ng hoặc đồng &amp;yacute; n&amp;oacute;i chuyện với bộ phận b&amp;aacute;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vậy l&amp;agrave;m sao để c&amp;oacute; thể biến những kh&amp;aacute;ch h&amp;agrave;ng tiềm năng n&amp;agrave;y th&amp;agrave;nh những kh&amp;aacute;ch h&amp;agrave;ng đủ ti&amp;ecirc;u chuẩn? H&amp;atilde;y sử dụng phần mềm Marketing Automation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bằng thao t&amp;aacute;c gửi email tự động cho những kh&amp;aacute;ch h&amp;agrave;ng n&amp;agrave;y để chia sẻ c&amp;aacute;c t&amp;agrave;i liệu hữu &amp;iacute;ch dựa theo nhu cầu hoặc vấn đề m&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng đang gặp phải. Nếu bạn cung cấp cho họ những kiến thức đ&amp;uacute;ng với những g&amp;igrave; họ đang t&amp;igrave;m, bạn sẽ nhanh ch&amp;oacute;ng được kh&amp;aacute;ch h&amp;agrave;ng tin tưởng v&amp;agrave; đưa ra quyết định.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: Tổng hợp&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Up to &lt;strong&gt;75% of potential customers stop at the information-gathering stage&lt;/strong&gt;, and &lt;strong&gt;80% of customers will purchase from competitors if you don&amp;rsquo;t follow up consistently&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Today, many businesses are willing to spend a significant amount of money to attract new leads, but they still fail to convert them. So why are current customers not being properly taken care of? What solutions can help businesses effectively market to all of their existing customers?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In this article, DTSVN will reveal how you can make more money from your current customers with &lt;strong&gt;Marketing Automation&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;1. Existing Customers&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;For customers who have already purchased, it is necessary to have a dedicated nurturing plan to increase the chances of renewals, contract extensions, or annual agreements. To build a closer connection with customers and tactfully inform them when it&amp;rsquo;s time to renew their contracts or continue using your company&amp;rsquo;s products, &lt;strong&gt;Email/SMS Automation&lt;/strong&gt; can be used to deliver these reminders.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By setting up automated emails to be sent on the days their contracts expire, customers will automatically be reminded that they can renew or re-sign their contracts at the right time&amp;mdash;ultimately increasing renewal rates.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;2. Cold Leads&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Cold leads are those who have stopped engaging with your business for some time&amp;mdash;possibly because they weren&amp;rsquo;t ready to purchase before. But if they are now in a better position to buy, building an automated nurturing process to &amp;ldquo;warm up&amp;rdquo; this relationship becomes essential for re-engaging their attention.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Start by leaving a strong impression again through emails that update them on your company&amp;rsquo;s latest news. What&amp;rsquo;s new? What attractive offers are waiting for them? Sending these messages can quickly spark renewed interest in your business.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;3. Hot Leads&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;These are the prospects who frequently visit your website, open your emails often, and engage actively on social media. This shows they are highly interested and already paying attention to your business.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With marketing automation, you can easily track the behaviors of these leads when they interact with your website or email, giving you a clearer understanding of their interests and increasing your chances of conversion.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Example:&lt;/strong&gt; When leads download a quotation from your website, it indicates they are exploring your company&amp;rsquo;s solutions for their challenges. Once you know what they are interested in, you can use Marketing Automation to set up automated emails that offer them a product demo or a free consultation. These simple actions help capture &amp;ldquo;hot leads&amp;rdquo; and show genuine care for your prospects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;4. Potential Leads&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Research shows that &lt;strong&gt;61% of marketers send all leads directly to sales teams&lt;/strong&gt;, but in reality, only &lt;strong&gt;27% of them are actually ready or willing to talk to sales&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;So how do you turn these potential leads into qualified customers? The answer is through &lt;strong&gt;Marketing Automation software&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By sending automated emails that share valuable resources tailored to their needs or pain points, you can provide the exact knowledge they are searching for. This approach quickly builds trust, making it easier for customers to make a purchase decision.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Source: Compiled&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions tailored for businesses in Vietnam&amp;rsquo;s Finance and Banking sector. We help banks and financial institutions quickly upgrade their technology systems to drive digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;📩 Contact us now for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-06-02T09:39:54.000Z</time_create_dt>
+	<createdDate>2025-08-25T09:39:53.049Z</createdDate>
+	<createdDate_dt>2025-08-25T09:39:53.049Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T09:39:53.049Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T09:39:53.049Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-detail-leader</content-type>
+	<display-template>/templates/web/components/Component-detailLeader.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3de0</objectGroupId>
+	<objectId>3de0ffd4-78c8-a24d-5dd2-e13d9c6d6e0e</objectId>
+	<file-name>3de0ffd4-78c8-a24d-5dd2-e13d9c6d6e0e.xml</file-name>
+	<folder-name/>
+	<internal-name>Nguyễn Bá Chiến</internal-name>
+	<detail_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Trình độ học vấn</title_s>
+	<subtitle_s>Tốt nghiệp Đại học quốc gia Hà Nội</subtitle_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>Kinh nghiệm làm việc</title_s>
+	<subtitle_s>Kinh nghiệm hơn 20 năm trong lĩnh vực bán hàng và lãnh đạo kinh doanh với các công ty công nghệ hàng đầu thế giới tại Việt Nam.</subtitle_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>Lĩnh vực chuyên môn</title_s>
+	<subtitle_s>Có kiến ​​thức vững chắc và đã được chứng minh trong việc chuyển đổi kỹ thuật số tập trung vào dịch vụ Tài chính &amp; Ngân hàng.</subtitle_s>
+	</item></detail_o>
+	<createdDate>2025-06-30T07:44:40.577Z</createdDate>
+	<createdDate_dt>2025-06-30T07:44:40.577Z</createdDate_dt>
+	<lastModifiedDate>2025-06-30T07:44:40.577Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-06-30T07:44:40.577Z</lastModifiedDate_dt>
+</component>

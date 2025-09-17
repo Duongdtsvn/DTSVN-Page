@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-project</content-type>
+	<display-template>/templates/web/page-project.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>eac9</objectGroupId>
+	<objectId>eac93d73-1748-9c5b-2f27-6b76acf3767f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>projects</folder-name>
+	<internal-name>DỰ ÁN</internal-name>
+	<navLabel>Các dự án DTSVN đã triển khai</navLabel>
+	<title_main_s>Các dự án DTSVN đã triển khai</title_main_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<text_main_t>Xuyên suốt quá trình phát triển, đội ngũ DTSVN đã triển khai nhiều dự án đa dạng ở nhiều lĩnh vực khác nhau</text_main_t>
+	<createdDate>2025-07-09T19:01:06.439Z</createdDate>
+	<createdDate_dt>2025-07-09T19:01:06.439Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T10:50:22.910Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T10:50:22.910Z</lastModifiedDate_dt>
+</page>

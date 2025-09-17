@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1873</objectGroupId>
+	<objectId>1873e917-f745-b62b-34a7-6256462079c8</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1873e917-f745-b62b-34a7-6256462079c8</folder-name>
+	<internal-name>Tận dụng AI để ngăn chặn rủi ro gian lận trong ngành Ngân hàng</internal-name>
+	<navLabel>Tận dụng AI để ngăn chặn rủi ro gian lận trong ngành Ngân hàng</navLabel>
+	<title_vi_s>Tận dụng AI để ngăn chặn rủi ro gian lận trong ngành Ngân hàng</title_vi_s>
+	<title_en_s>Leveraging AI to Prevent Fraud Risks in the Banking Industry</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/unnamed--5-.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;C&amp;aacute;c phương ph&amp;aacute;p ph&amp;aacute;t hiện gian lận truyền thống thường gặp kh&amp;oacute; khăn trong việc đối ph&amp;oacute; với c&amp;aacute;c h&amp;igrave;nh thức gian lận ng&amp;agrave;y c&amp;agrave;ng tinh vi v&amp;agrave; phức tạp. Để giải quyết vấn đề n&amp;agrave;y, tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) đang nổi l&amp;ecirc;n như một giải ph&amp;aacute;p hiệu quả. Nhờ khả năng ph&amp;acirc;n t&amp;iacute;ch dữ liệu lớn một c&amp;aacute;ch vượt trội, AI gi&amp;uacute;p tăng cường v&amp;agrave; bổ sung đ&amp;aacute;ng kể c&amp;aacute;c chiến lược ph&amp;ograve;ng chống gian lận của ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Những rủi ro gian lận phổ biến trong ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng t&amp;agrave;i ch&amp;iacute;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Trộm cắp danh t&amp;iacute;nh v&amp;agrave; chiếm đoạt t&amp;agrave;i khoản&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trộm cắp danh t&amp;iacute;nh li&amp;ecirc;n quan đến việc những kẻ lừa đảo đ&amp;aacute;nh cắp th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n để truy cập tr&amp;aacute;i ph&amp;eacute;p v&amp;agrave;o t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng. Chiếm đoạt t&amp;agrave;i khoản xảy ra khi những kẻ lừa đảo đ&amp;aacute;nh cắp th&amp;ocirc;ng tin đăng nhập để truy cập v&amp;agrave; thao t&amp;uacute;ng c&amp;aacute;c t&amp;agrave;i khoản một c&amp;aacute;ch bất hợp ph&amp;aacute;p. Đ&amp;acirc;y l&amp;agrave; một trong những h&amp;igrave;nh thức lừa đảo phổ biến nhất, trong đ&amp;oacute; th&amp;ocirc;ng tin nhận dạng c&amp;aacute; nh&amp;acirc;n dễ bị đ&amp;aacute;nh cắp v&amp;agrave; sử dụng bất hợp ph&amp;aacute;p thường gồm: t&amp;ecirc;n, số điện thoại, địa chỉ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một h&amp;igrave;nh thức gian lận cơ bản kh&amp;aacute;c l&amp;agrave; đ&amp;aacute;nh cắp th&amp;ocirc;ng tin x&amp;aacute;c thực, bao gồm việc lấy cắp th&amp;ocirc;ng tin nhạy cảm như số ID, mật khẩu, th&amp;ocirc;ng tin thẻ của kh&amp;aacute;ch h&amp;agrave;ng ng&amp;acirc;n h&amp;agrave;ng. Kẻ lừa đảo sử dụng th&amp;ocirc;ng tin n&amp;agrave;y để tiến h&amp;agrave;nh chiếm đoạt t&amp;agrave;i khoản, g&amp;acirc;y ra những thiệt hại nghi&amp;ecirc;m trọng cho nạn nh&amp;acirc;n v&amp;agrave; c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ảnh hưởng: Những loại gian lận n&amp;agrave;y c&amp;oacute; thể dẫn đến c&amp;aacute;c giao dịch tr&amp;aacute;i ph&amp;eacute;p, r&amp;uacute;t tiền bất hợp ph&amp;aacute;p v&amp;agrave; hoặc g&amp;acirc;y thiệt hại l&amp;acirc;u d&amp;agrave;i cho t&amp;iacute;n dụng v&amp;agrave; t&amp;igrave;nh h&amp;igrave;nh t&amp;agrave;i ch&amp;iacute;nh của nạn nh&amp;acirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dưới đ&amp;acirc;y l&amp;agrave; một số ứng dụng phổ biến m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng đang &amp;aacute;p dụng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;X&amp;aacute;c thực sinh trắc học:&lt;/strong&gt;&amp;nbsp;Sinh trắc học cung cấp phương ph&amp;aacute;p x&amp;aacute;c thực an to&amp;agrave;n hơn v&amp;agrave; kh&amp;oacute; giả mạo hơn so với mật khẩu hoặc m&amp;atilde; PIN v&amp;agrave; ng&amp;agrave;y c&amp;agrave;ng được sử dụng phổ biến rộng r&amp;atilde;i hơn. B&amp;ecirc;n cạnh t&amp;iacute;nh bảo mật, x&amp;aacute;c thực sinh trắc học c&amp;ograve;n hỗ trợ người d&amp;ugrave;ng c&amp;oacute; thể x&amp;aacute;c thực nhanh ch&amp;oacute;ng v&amp;agrave; dễ d&amp;agrave;ng m&amp;agrave; kh&amp;ocirc;ng cần nhớ mật khẩu phức tạp. Một số loại x&amp;aacute;c thực sinh trắc học phổ biến gồm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Nhận Diện Khu&amp;ocirc;n Mặt:&lt;/em&gt;&amp;nbsp;Ng&amp;acirc;n h&amp;agrave;ng &amp;aacute;p dụng c&amp;ocirc;ng nghệ nhận diện khu&amp;ocirc;n mặt để x&amp;aacute;c thực người d&amp;ugrave;ng khi đăng nhập v&amp;agrave;o t&amp;agrave;i khoản v&amp;agrave; thực hiện c&amp;aacute;c giao dịch c&amp;oacute; rủi ro cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Qu&amp;eacute;t Dấu V&amp;acirc;n Tay:&amp;nbsp;&lt;/em&gt;Người d&amp;ugrave;ng x&amp;aacute;c thực bằng dấu v&amp;acirc;n tay tr&amp;ecirc;n ứng dụng ng&amp;acirc;n h&amp;agrave;ng di động.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Nhận Diện Giọng N&amp;oacute;i:&amp;nbsp;&lt;/em&gt;Hệ thống AI x&amp;aacute;c thực danh t&amp;iacute;nh người d&amp;ugrave;ng th&amp;ocirc;ng qua nhận diện giọng n&amp;oacute;i khi thực hiện giao dịch qua điện thoại.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sinh trắc học h&amp;agrave;nh vi:&amp;nbsp;&lt;/strong&gt;Hệ thống AI li&amp;ecirc;n tục gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c h&amp;agrave;nh vi của người d&amp;ugrave;ng, như tốc độ g&amp;otilde; ph&amp;iacute;m, chuyển động chuột v&amp;agrave; th&amp;oacute;i quen điều hướng. Những sai lệch so với h&amp;agrave;nh vi b&amp;igrave;nh thường sẽ k&amp;iacute;ch hoạt cảnh b&amp;aacute;o cho c&amp;aacute;c hoạt động chiếm đoạt t&amp;agrave;i khoản tiềm ẩn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;X&amp;aacute;c thực đa yếu tố (MFA):&lt;/strong&gt;&amp;nbsp;MFA th&amp;ecirc;m một lớp bảo mật bổ sung, l&amp;agrave;m cho kẻ gian kh&amp;oacute; truy cập tr&amp;aacute;i ph&amp;eacute;p hơn. Kết hợp c&amp;aacute;c thuật to&amp;aacute;n AI nhằm đ&amp;aacute;nh gi&amp;aacute; mức độ rủi ro của c&amp;aacute;c lần đăng nhập dựa tr&amp;ecirc;n c&amp;aacute;c yếu tố như thiết bị, vị tr&amp;iacute; v&amp;agrave; h&amp;agrave;nh vi của người d&amp;ugrave;ng. C&amp;aacute;c lần đăng nhập c&amp;oacute; rủi ro cao y&amp;ecirc;u cầu c&amp;aacute;c bước x&amp;aacute;c thực bổ sung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;X&amp;aacute;c minh danh t&amp;iacute;nh:&lt;/strong&gt;&amp;nbsp;AI hiệu quả trong việc nhận diện t&amp;agrave;i liệu giả hoặc bị chỉnh sửa, ngăn chặn kẻ gian mở t&amp;agrave;i khoản hoặc chiếm đoạt t&amp;agrave;i khoản hiện c&amp;oacute;. AI x&amp;aacute;c minh t&amp;iacute;nh x&amp;aacute;c thực của c&amp;aacute;c t&amp;agrave;i liệu danh t&amp;iacute;nh (v&amp;iacute; dụ: hộ chiếu, giấy ph&amp;eacute;p l&amp;aacute;i xe) trong qu&amp;aacute; tr&amp;igrave;nh mở t&amp;agrave;i khoản v&amp;agrave; thực hiện c&amp;aacute;c giao dịch c&amp;oacute; rủi ro cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gian lận thanh to&amp;aacute;n v&amp;agrave; lừa đảo&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Gian lận thanh to&amp;aacute;n l&amp;agrave; một trong những mối đe dọa nghi&amp;ecirc;m trọng đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng, g&amp;acirc;y ra thiệt hại t&amp;agrave;i ch&amp;iacute;nh lớn v&amp;agrave; l&amp;agrave;m suy giảm niềm tin của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c h&amp;igrave;nh thức gian lận phổ biến bao gồm: gian lận thẻ t&amp;iacute;n dụng th&amp;ocirc;ng qua việc sử dụng th&amp;ocirc;ng tin thẻ t&amp;iacute;n dụng để thực hiện c&amp;aacute;c giao dịch tr&amp;aacute;i ph&amp;eacute;p, gian lận chuyển khoản bằng h&amp;igrave;nh thức lừa đảo kh&amp;aacute;ch h&amp;agrave;ng hoặc nh&amp;acirc;n vi&amp;ecirc;n ng&amp;acirc;n h&amp;agrave;ng thực hiện c&amp;aacute;c giao dịch chuyển khoản kh&amp;ocirc;ng hợp lệ, v&amp;agrave; gian lận t&amp;agrave;i khoản trực tuyến th&amp;ocirc;ng qua chiếm đoạt t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng trực tuyến th&amp;ocirc;ng qua c&amp;aacute;c cuộc tấn c&amp;ocirc;ng như phishing v&amp;agrave; malware.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong một cuộc tấn c&amp;ocirc;ng lừa đảo, kẻ lừa đảo li&amp;ecirc;n hệ với một c&amp;aacute; nh&amp;acirc;n qua email, tin nhắn hoặc thậm ch&amp;iacute; l&amp;agrave; một cuộc gọi điện thoại giả l&amp;agrave;m tổ chức ng&amp;acirc;n h&amp;agrave;ng của họ. Mục ti&amp;ecirc;u cuối c&amp;ugrave;ng của những kẻ lừa đảo l&amp;agrave; thuyết phục mục ti&amp;ecirc;u nhấp v&amp;agrave;o li&amp;ecirc;n kết tải phần mềm độc hại, ransomware hoặc phần mềm gi&amp;aacute;n điệp v&amp;agrave;o m&amp;aacute;y t&amp;iacute;nh của họ hoặc để cung cấp th&amp;ocirc;ng tin nhận dạng c&amp;aacute; nh&amp;acirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ảnh hưởng: C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng phải chịu tổn thất lớn từ c&amp;aacute;c giao dịch gian lận v&amp;agrave; chi ph&amp;iacute; bồi ho&amp;agrave;n cho kh&amp;aacute;ch h&amp;agrave;ng. Điều n&amp;agrave;y đồng thời dẫn đến c&amp;aacute;c khoản đầu tư mới để sửa lỗi v&amp;agrave; n&amp;acirc;ng cấp hệ thống bảo mật v&amp;agrave; c&amp;aacute;c giải ph&amp;aacute;p ph&amp;ograve;ng chống gian lận. Ngo&amp;agrave;i ra, c&amp;aacute;c h&amp;agrave;nh vi gian lận n&amp;agrave;y sẽ g&amp;acirc;y tổn hại lớn đến uy t&amp;iacute;n của ng&amp;acirc;n h&amp;agrave;ng, dẫn đến mất niềm tin của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; giảm thiểu lượng kh&amp;aacute;ch h&amp;agrave;ng mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hệ thống AI c&amp;oacute; thể gi&amp;aacute;m s&amp;aacute;t c&amp;aacute;c giao dịch trong thời gian thực, sử dụng thuật to&amp;aacute;n học m&amp;aacute;y để x&amp;aacute;c định c&amp;aacute;c mẫu đ&amp;aacute;ng ngờ v&amp;agrave; gắn cờ c&amp;aacute;c giao dịch c&amp;oacute; khả năng gian lận. B&amp;ecirc;n cạnh đ&amp;oacute;, nhiều ng&amp;acirc;n h&amp;agrave;ng đ&amp;atilde; ph&amp;aacute;t triển c&amp;aacute;c giải ph&amp;aacute;p chấm điểm rủi ro gian lận. Th&amp;ocirc;ng qua AI, ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể chấm điểm rủi ro cho c&amp;aacute;c giao dịch dựa tr&amp;ecirc;n nhiều yếu tố kh&amp;aacute;c nhau đồng thời ph&amp;acirc;n t&amp;iacute;ch dữ liệu giao dịch lịch sử để dự đo&amp;aacute;n v&amp;agrave; ngăn chặn c&amp;aacute;c hoạt động gian lận trong tương lai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. C&amp;aacute;c r&amp;agrave;o cản v&amp;agrave; th&amp;aacute;ch thức khi ứng dụng AI ph&amp;ograve;ng tr&amp;aacute;nh rủi ro gian lận trong ng&amp;acirc;n h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh những ưu điểm th&amp;igrave; việc sử dụng AI trong ph&amp;aacute;t hiện gian lận cũng đối mặt với 2 th&amp;aacute;ch thức ch&amp;iacute;nh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hộp đen (Black Box):&lt;/strong&gt;&amp;nbsp;C&amp;aacute;c thuật to&amp;aacute;n AI thường hoạt động như một &amp;ldquo;hộp đen&amp;rdquo;, che giấu qu&amp;aacute; tr&amp;igrave;nh ra quyết định. Điều n&amp;agrave;y g&amp;acirc;y kh&amp;oacute; khăn trong việc hiểu v&amp;agrave; tin tưởng c&amp;aacute;c quyết định của AI, đặc biệt khi xảy ra lỗi. Ngo&amp;agrave;i ra, thiếu minh bạch l&amp;agrave;m cho việc kiểm so&amp;aacute;t v&amp;agrave; điều chỉnh AI trở n&amp;ecirc;n kh&amp;oacute; khăn. Điều n&amp;agrave;y đặc biệt quan trọng trong ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng, nơi y&amp;ecirc;u cầu tu&amp;acirc;n thủ c&amp;aacute;c quy định nghi&amp;ecirc;m ngặt. Khi kh&amp;ocirc;ng thể theo d&amp;otilde;i c&amp;aacute;ch AI ra quyết định, c&amp;aacute;c vấn đề đạo đức sẽ nảy sinh v&amp;iacute; dụ rủi ro dẫn đến những quyết định kh&amp;ocirc;ng c&amp;ocirc;ng bằng hoặc thi&amp;ecirc;n vị.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;iacute;nh k&amp;eacute;m hiệu quả trước c&amp;aacute;c mối đe dọa phi kỹ thuật:&lt;/strong&gt;&amp;nbsp;AI chủ yếu hiệu quả trong m&amp;ocirc;i trường kỹ thuật số, trong khi nhiều mối đe dọa gian lận diễn ra ngo&amp;agrave;i m&amp;ocirc;i trường n&amp;agrave;y. V&amp;iacute; dụ, AI gặp kh&amp;oacute; khăn trong việc ph&amp;aacute;t hiện v&amp;agrave; ngăn chặn c&amp;aacute;c mối đe dọa gian lận ngoại tuyến. V&amp;iacute; dụ, một kẻ lừa đảo c&amp;oacute; thể r&amp;uacute;t tiền từ m&amp;aacute;y ATM nếu biết m&amp;atilde; PIN của nạn nh&amp;acirc;n, điều m&amp;agrave; AI kh&amp;oacute; ngăn chặn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể c&amp;acirc;n nhắc bổ sung một số hoạt động kết hợp c&amp;ugrave;ng AI để giải quyết hiệu quả hơn c&amp;aacute;c th&amp;aacute;ch thức n&amp;ecirc;u tr&amp;ecirc;n. V&amp;iacute; dụ c&amp;aacute;c hoạt động&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Đảm bảo minh bạch:&lt;/em&gt;&amp;nbsp;Đảm bảo t&amp;iacute;nh minh bạch trong qu&amp;aacute; tr&amp;igrave;nh ph&amp;aacute;t triển v&amp;agrave; triển khai AI. Sử dụng c&amp;aacute;c giao diện quản l&amp;yacute; m&amp;agrave; c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong nh&amp;oacute;m c&amp;oacute; thể tự tin điều hướng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Kiểm tra v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t:&amp;nbsp;&lt;/em&gt;Thực hiện kiểm tra định kỳ v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t qu&amp;aacute; tr&amp;igrave;nh ra quyết định của AI để đảm bảo t&amp;iacute;nh nhất qu&amp;aacute;n v&amp;agrave; minh bạch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Bổ sung biện ph&amp;aacute;p KYC:&amp;nbsp;&lt;/em&gt;&amp;Aacute;p dụng c&amp;aacute;c biện ph&amp;aacute;p kiểm so&amp;aacute;t KYC bổ sung như x&amp;aacute;c thực hai yếu tố để ngăn chặn truy cập vật l&amp;yacute; tr&amp;aacute;i ph&amp;eacute;p v&amp;agrave;o t&amp;agrave;i khoản.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Hợp Nhất Biện Ph&amp;aacute;p Bảo Mật:&lt;/em&gt;&amp;nbsp;Kết hợp AI với c&amp;aacute;c biện ph&amp;aacute;p bảo mật vật l&amp;yacute; v&amp;agrave; quy tr&amp;igrave;nh thủ c&amp;ocirc;ng để đảm bảo bảo vệ to&amp;agrave;n diện&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. 03 xu hướng mới về ứng dụng AI ph&amp;ograve;ng tr&amp;aacute;nh rủi ro gian lận trong ng&amp;acirc;n h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tương lai của AI trong ph&amp;ograve;ng chống gian lận đầy hứa hẹn với những tiến bộ kh&amp;ocirc;ng ngừng về c&amp;ocirc;ng nghệ v&amp;agrave; phương ph&amp;aacute;p AI. C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể mong đợi những cải tiến hơn nữa về t&amp;iacute;nh ch&amp;iacute;nh x&amp;aacute;c v&amp;agrave; hiệu quả của hệ thống ph&amp;aacute;t hiện v&amp;agrave; ngăn chặn gian lận. Một số hướng đi trong tương lai bao gồm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Explainable AI (XAI)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Explainable AI (XAI) l&amp;agrave; một nh&amp;aacute;nh của tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) tập trung v&amp;agrave;o việc ph&amp;aacute;t triển c&amp;aacute;c hệ thống AI c&amp;oacute; khả năng giải th&amp;iacute;ch r&amp;otilde; r&amp;agrave;ng v&amp;agrave; minh bạch qu&amp;aacute; tr&amp;igrave;nh ra quyết định của m&amp;igrave;nh. Mục ti&amp;ecirc;u của XAI l&amp;agrave; gi&amp;uacute;p người d&amp;ugrave;ng hiểu được c&amp;aacute;ch AI hoạt động, tại sao n&amp;oacute; đưa ra c&amp;aacute;c quyết định cụ thể, v&amp;agrave; đảm bảo rằng c&amp;aacute;c quyết định n&amp;agrave;y c&amp;oacute; thể được kiểm tra v&amp;agrave; x&amp;aacute;c minh. Trong ph&amp;ograve;ng chống gian lận, XAI gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng hiểu r&amp;otilde; hơn về l&amp;yacute; do tại sao một giao dịch bị đ&amp;aacute;nh dấu l&amp;agrave; gian lận, từ đ&amp;oacute; cải thiện c&amp;aacute;c biện ph&amp;aacute;p ph&amp;ograve;ng chống gian lận. Ngo&amp;agrave;i ra, khi một giao dịch bị từ chối, XAI c&amp;oacute; thể cung cấp l&amp;yacute; do cụ thể, gi&amp;uacute;p kh&amp;aacute;ch h&amp;agrave;ng hiểu v&amp;agrave; tin tưởng v&amp;agrave;o quy tr&amp;igrave;nh bảo mật của ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;An ninh mạng được hỗ trợ bởi AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi c&amp;aacute;c mối đe dọa mạng trở n&amp;ecirc;n phức tạp hơn, AI c&amp;oacute; thể đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong việc tăng cường c&amp;aacute;c biện ph&amp;aacute;p an ninh mạng. C&amp;aacute;c hệ thống được hỗ trợ bởi AI c&amp;oacute; thể ph&amp;aacute;t hiện v&amp;agrave; ứng ph&amp;oacute; với c&amp;aacute;c cuộc tấn c&amp;ocirc;ng mạng trong thời gian thực, bảo vệ c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh khỏi nhiều loại gian lận kh&amp;aacute;c nhau, bao gồm c&amp;aacute;c cuộc tấn c&amp;ocirc;ng lừa đảo v&amp;agrave; ransomware.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;iacute;ch hợp với Blockchain&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc t&amp;iacute;ch hợp AI với c&amp;ocirc;ng nghệ blockchain c&amp;oacute; thể tăng cường t&amp;iacute;nh bảo mật v&amp;agrave; minh bạch của c&amp;aacute;c giao dịch t&amp;agrave;i ch&amp;iacute;nh. AI c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch dữ liệu blockchain để x&amp;aacute;c định c&amp;aacute;c hoạt động gian lận, trong khi blockchain cung cấp bản ghi chống giả mạo cho tất cả c&amp;aacute;c giao dịch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: IBM&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Traditional fraud detection methods often face difficulties in dealing with increasingly sophisticated and complex forms of fraud. To address this issue, Artificial Intelligence (AI) is emerging as an effective solution. With its superior ability to analyze big data, AI significantly enhances and supplements banks&amp;rsquo; fraud prevention strategies.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;1. Common Fraud Risks in the Banking and Financial Industry&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Identity Theft and Account Takeover&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Identity theft involves fraudsters stealing personal information to gain unauthorized access to bank accounts. Account takeover occurs when fraudsters steal login credentials to access and manipulate accounts illegally. This is one of the most common types of fraud, where personal identification information such as name, phone number, and address is easily stolen and misused.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Another basic type of fraud is credential theft, which includes stealing sensitive information such as IDs, passwords, and card details of bank customers. Fraudsters use this information to take over accounts, causing serious damage to victims and financial institutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Impact:&lt;/strong&gt; These types of fraud can lead to unauthorized transactions, illegal withdrawals, and long-term harm to victims&amp;rsquo; credit and financial health.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Below are some common applications that banks are implementing:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Biometric Authentication:&lt;/strong&gt; Biometrics provides a more secure and harder-to-fake authentication method compared to passwords or PINs and is increasingly being used. In addition to security, biometrics allow users to authenticate quickly and easily without remembering complex passwords. Common biometric authentication methods include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Facial Recognition:&lt;/strong&gt; Banks use facial recognition to authenticate users when logging in or performing high-risk transactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fingerprint Scanning:&lt;/strong&gt; Users authenticate using fingerprints on mobile banking applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Voice Recognition:&lt;/strong&gt; AI systems authenticate users through voice recognition when making phone transactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Behavioral Biometrics:&lt;/strong&gt; AI systems continuously monitor and analyze user behaviors, such as typing speed, mouse movement, and navigation habits. Deviations from normal patterns trigger alerts for potential account takeover.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-Factor Authentication (MFA):&lt;/strong&gt; MFA adds an extra security layer, making it harder for fraudsters to gain unauthorized access. Combined with AI algorithms, MFA evaluates login risk levels based on device, location, and user behavior. High-risk logins require additional authentication steps.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Identity Verification:&lt;/strong&gt; AI is effective in identifying forged or manipulated documents, preventing fraudsters from opening accounts or hijacking existing ones. AI verifies the authenticity of identity documents (e.g., passports, driver&amp;rsquo;s licenses) during account opening and high-risk transactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Payment Fraud and Scams&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Payment fraud is one of the most serious threats to banks, causing major financial losses and undermining customer trust.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Common fraud types include: credit card fraud through unauthorized use of card information, transfer fraud where customers or bank employees are tricked into unauthorized fund transfers, and online banking fraud through account takeovers using phishing or malware attacks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In a phishing attack, fraudsters contact individuals via email, text, or phone, pretending to be their bank. The ultimate goal is to trick victims into clicking on malicious links to install malware, ransomware, or spyware on their devices, or to provide personal identification information.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Banks suffer significant losses from fraudulent transactions and customer reimbursements. This also leads to additional investments in fixing errors, upgrading security systems, and implementing fraud prevention solutions. Moreover, fraud undermines the bank&amp;rsquo;s reputation, erodes customer trust, and reduces new customer acquisition.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI systems can monitor transactions in real time, using machine learning algorithms to identify suspicious patterns and flag potentially fraudulent transactions. Additionally, many banks have developed fraud risk scoring solutions. Through AI, banks can score transactions based on multiple factors while analyzing historical data to predict and prevent future fraudulent activities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;2. Barriers and Challenges in Applying AI for Fraud Prevention in Banking&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Alongside its advantages, using AI in fraud detection also faces two major challenges:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Black Box Problem:&lt;/strong&gt; AI algorithms often operate like a &amp;ldquo;black box,&amp;rdquo; concealing the decision-making process. This makes it difficult to understand and trust AI&amp;rsquo;s decisions, especially when errors occur. Lack of transparency complicates AI control and adjustment. This is particularly important in banking, where strict regulatory compliance is required. When AI decision-making cannot be traced, ethical issues arise, such as unfair or biased decisions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ineffectiveness Against Non-Technical Threats:&lt;/strong&gt; AI is primarily effective in digital environments, while many fraud threats occur outside of them. For example, AI struggles to detect and prevent offline fraud. A fraudster could withdraw money from an ATM if they know the victim&amp;rsquo;s PIN, something AI cannot easily stop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Banks may consider supplementing AI with additional measures to address these challenges more effectively. Examples include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Ensuring transparency during AI development and deployment, with management interfaces that teams can confidently navigate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conducting regular audits and monitoring AI decision-making to ensure consistency and transparency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implementing additional KYC controls such as two-factor authentication to prevent unauthorized physical account access.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrating AI with physical security measures and manual processes for comprehensive protection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;3. Three Emerging AI Trends in Fraud Prevention in Banking&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;The future of AI in fraud prevention looks promising, with continuous technological advancements. Financial institutions can expect greater accuracy and efficiency in fraud detection and prevention systems. Some future directions include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI (XAI):&lt;/strong&gt;&lt;br&gt;XAI focuses on developing AI systems that can clearly and transparently explain their decision-making process. Its goal is to help users understand how AI works, why it makes specific decisions, and ensure those decisions can be audited. In fraud prevention, XAI enables banks to better understand why a transaction is flagged as fraudulent, improving countermeasures. Additionally, when a transaction is declined, XAI can provide specific reasons, helping customers trust the bank&amp;rsquo;s security processes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AI-Powered Cybersecurity:&lt;/strong&gt;&lt;br&gt;As cyber threats become more complex, AI plays a crucial role in strengthening cybersecurity measures. AI-driven systems can detect and respond to cyberattacks in real time, protecting financial institutions from a wide range of fraud threats, including phishing and ransomware.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Integration with Blockchain:&lt;/strong&gt;&lt;br&gt;Combining AI with blockchain technology can enhance transaction security and transparency. AI can analyze blockchain data to detect fraudulent activities, while blockchain provides tamper-proof records of all transactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Reference Source: IBM&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by DTSVN &amp;ndash; Digital Transformation Solutions for the Banking &amp;amp; Finance Industry&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company, providing the latest digital solutions tailored for enterprises in the Banking &amp;amp; Finance sector in Vietnam; helping banks and financial institutions quickly upgrade their technology systems to support Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;📩 Contact us now for consultation and solution experience.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-24T06:44:01.000Z</time_create_dt>
+	<createdDate>2025-08-26T06:44:00.289Z</createdDate>
+	<createdDate_dt>2025-08-26T06:44:00.289Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T06:44:00.289Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T06:44:00.289Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>
+	<display-template>/templates/web/Component-Service.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1169</objectGroupId>
+	<objectId>11690e51-8629-0054-5d94-c192f696d02a</objectId>
+	<internal-name>Dịch Vụ</internal-name>
+	<title_s>Dịch vụ</title_s>
+	<text_s/>
+	<file-name>11690e51-8629-0054-5d94-c192f696d02a.xml</file-name>
+	<folder-name/>
+	<service_o item-list="true">	<item>	<key_main_s>test</key_main_s>
+	<title_s>test</title_s>
+	<link_s>test</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item></service_o>
+	<createdDate>2025-08-21T07:51:15.234Z</createdDate>
+	<createdDate_dt>2025-08-21T07:51:15.234Z</createdDate_dt>
+	<lastModifiedDate>2025-08-21T07:51:15.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-21T07:51:15.234Z</lastModifiedDate_dt>
+</component>

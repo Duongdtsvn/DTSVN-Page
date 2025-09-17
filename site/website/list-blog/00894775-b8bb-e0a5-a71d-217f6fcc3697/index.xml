@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0089</objectGroupId>
+	<objectId>00894775-b8bb-e0a5-a71d-217f6fcc3697</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>00894775-b8bb-e0a5-a71d-217f6fcc3697</folder-name>
+	<internal-name>DTSVN Tuyển dụng: Sales Support</internal-name>
+	<navLabel>DTSVN Tuyển dụng: Sales Support</navLabel>
+	<title_vi_s>DTSVN Tuyển dụng: Sales Support</title_vi_s>
+	<title_en_s>DTSVN Recruitment: Sales Support</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/tuyen-dung--1-.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;- Thực hiện follow, khai th&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng chiến lược được giao;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;- Hỗ trợ Demo, tư vấn cho kh&amp;aacute;ch h&amp;agrave;ng về c&amp;aacute;c sản phẩm, giải ph&amp;aacute;p phần mềm;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;- Đ&amp;agrave;m ph&amp;aacute;n, thực hiện hồ sơ, hợp đồng, đấu thầu;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;- Theo d&amp;otilde;i t&amp;igrave;nh h&amp;igrave;nh triển khai phần mềm, duy tr&amp;igrave; chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng, theo d&amp;otilde;i thanh quyết to&amp;aacute;n hợp đồng;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Phối hợp với c&amp;aacute;c bộ phận, ph&amp;ograve;ng ban thực hiện c&amp;ocirc;ng việc kinh doanh;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;-&amp;nbsp;&lt;a style="color: #000000;"&gt;Phối hợp, l&amp;agrave;m việc với H&amp;atilde;ng c&amp;ocirc;ng nghệ tư vấn giải ph&amp;aacute;p phần mềm&lt;/a&gt;;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;- L&amp;ecirc;n kế hoạch v&amp;agrave; thực hiện c&amp;ocirc;ng việc theo đ&amp;uacute;ng mục ti&amp;ecirc;u cam kết.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;-&amp;nbsp;&lt;/a&gt;Tốt nghiệp ĐH CNTT, T&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, Kinh tế, Ngoại thương, Ngoại giao;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Y&amp;ecirc;u th&amp;iacute;ch c&amp;ocirc;ng việc quan hệ kh&amp;aacute;ch h&amp;agrave;ng, ngoại giao, kinh doanh, CNTT;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Đ&amp;atilde; l&amp;agrave;m sale trong CNTT &amp;ndash; phần mềm từ 2 năm trở l&amp;ecirc;n hoặc sale trong Ng&amp;acirc;n h&amp;agrave;ng;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Đ&amp;atilde; l&amp;agrave;m sale/sale support trong c&amp;aacute;c H&amp;atilde;ng c&amp;ocirc;ng nghệ nước ngo&amp;agrave;i tại VN;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- C&amp;oacute; base về CNTT hoặc T&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Đặc biệt ưu tiền sale đ&amp;atilde;/đang tham gia c&amp;aacute;c dự &amp;aacute;n phần mềm cho Ng&amp;acirc;n h&amp;agrave;ng, t&amp;agrave;i ch&amp;iacute;nh, ch&amp;iacute;nh phủ;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- T&amp;iacute;nh chủ động cao, nhiệt huyết, năng động trong suy nghĩ;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Tiếng Anh giao tiếp tốt + đọc hiểu t&amp;agrave;i liệu.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;a style="color: #000000;"&gt;-&amp;nbsp;&lt;/a&gt;Thu nhập rất cạnh tranh;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Thưởng kinh doanh hấp dẫn;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Cơ chế cổ phần ưu đ&amp;atilde;i;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- C&amp;aacute;c chế độ bảo hiểm theo Luật lao động + bảo hiểm ưu đ&amp;atilde;i;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- Teambuilding, nghỉ h&amp;egrave; v&amp;agrave; c&amp;aacute;c ph&amp;uacute;c lợi kh&amp;aacute;c;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- L&amp;agrave;m việc với team kinh nghiệm chuy&amp;ecirc;n s&amp;acirc;u về T&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, c&amp;ocirc;ng nghệ;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;- M&amp;ocirc;i trường cởi mở, hấp dẫn, thời gian linh hoạt.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;&lt;em&gt;Gửi CV qua mail: vietla@dtsvn.net hoặc SĐT: 0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Perform follow-up and develop assigned strategic customers;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support demo sessions, provide consulting for customers on software products and solutions;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Negotiate, prepare documents, contracts, and participate in bidding processes;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor software implementation, maintain customer care, and follow up on contract settlement;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coordinate with departments and teams to carry out business activities;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborate and work with technology vendors to provide software solutions;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop plans and execute tasks according to committed objectives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Bachelor&amp;rsquo;s degree in IT, Finance &amp;amp; Banking, Economics, International Trade, or International Relations;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Passion for customer relations, diplomacy, business, and IT;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At least 2 years of sales experience in IT/software or sales in the banking industry;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience in sales/sales support at international technology companies in Vietnam;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Background in IT or Finance &amp;amp; Banking;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strongly preferred: sales professionals who have participated in software projects for banking, finance, or government sectors;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Highly proactive, enthusiastic, and dynamic mindset;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good English communication skills + ability to read and understand documents.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Highly competitive income;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attractive sales incentives;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Preferential stock options;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Insurance according to labor law + additional benefits;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teambuilding, summer vacation, and other perks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with an experienced team specializing in Finance, Banking, and Technology;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open, engaging work environment with flexible working hours.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;How to Apply&lt;/strong&gt;&lt;br&gt;Interested candidates please send your CV to DTSVN: &lt;strong&gt;&lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;Hotline: &lt;strong&gt;0356604448&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-06-11T08:58:34.000Z</time_create_dt>
+	<createdDate>2025-08-25T08:58:33.440Z</createdDate>
+	<createdDate_dt>2025-08-25T08:58:33.440Z</createdDate_dt>
+	<lastModifiedDate>2025-09-15T07:57:45.028Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-15T07:57:45.028Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

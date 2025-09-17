@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7233</objectGroupId>
+	<objectId>7233da50-62e2-6acd-0bdf-a571efe87c08</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>7233da50-62e2-6acd-0bdf-a571efe87c08</folder-name>
+	<internal-name>6 Cách sử dụng Chatbot để tăng doanh số cuối năm </internal-name>
+	<navLabel>6 Cách sử dụng Chatbot để tăng doanh số cuối năm </navLabel>
+	<title_vi_s>6 Cách sử dụng Chatbot để tăng doanh số cuối năm </title_vi_s>
+	<title_en_s>6 Ways to Use Chatbots to Increase Year-End Sales</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/tu-dong-quy-trinh-voi-chatbot.gif</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot l&amp;agrave; giải ph&amp;aacute;p được c&amp;aacute;c doanh nghiệp sử dụng phổ biến nhằm tự động h&amp;oacute;a quy tr&amp;igrave;nh b&amp;aacute;n h&amp;agrave;ng, th&amp;uacute;c đẩy kinh doanh. C&amp;ugrave;ng DTSVN t&amp;igrave;m hiểu 6 c&amp;aacute;ch sử dụng tin nhắn chatbot để tăng doanh số hiệu quả nhất nh&amp;eacute;!&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;N&amp;acirc;ng cao nhận thức về thương hiệu qua Chatbot&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot c&amp;oacute; thể gửi h&amp;agrave;ng loạt tin nhắn của doanh nghiệp đến những nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng cụ thể đ&amp;atilde; từng tương t&amp;aacute;c tr&amp;ecirc;n fanpage. Sử dụng tin nhắn chatbot, doanh nghiệp c&amp;oacute; thể thu thập được th&amp;ocirc;ng tin li&amp;ecirc;n lạc của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; mở rộng c&amp;aacute;c chiến dịch tiếp thị tr&amp;ecirc;n nhiều c&amp;ocirc;ng cụ kh&amp;aacute;c như email marketing, telesale,&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, chatbot c&amp;ograve;n đ&amp;oacute;ng vai tr&amp;ograve; như một trợ l&amp;yacute; ảo trực tiếp đ&amp;oacute;n tiếp những kh&amp;aacute;ch h&amp;agrave;ng lần đầu đến với fanpage. Với khả năng c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a từng kh&amp;aacute;ch h&amp;agrave;ng, chatbot giải đ&amp;aacute;p nhanh ch&amp;oacute;ng những thắc mắc về sản phẩm bằng ng&amp;ocirc;n từ th&amp;acirc;n thiện, tự nhi&amp;ecirc;n, đem lại thiện cảm cho kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot thay mặt doanh nghiệp đem đến những th&amp;ocirc;ng tin hữu &amp;iacute;ch v&amp;agrave; trải nghiệm tốt đẹp cho người d&amp;ugrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tiếp cận lại kh&amp;aacute;ch h&amp;agrave;ng qua tin nhắn chatbot&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot kh&amp;ocirc;ng chỉ gi&amp;uacute;p kh&amp;aacute;ch ho&amp;agrave;n thiện c&amp;aacute;c giao dịch lần đầu m&amp;agrave; c&amp;ograve;n khuyến kh&amp;iacute;ch họ quay trở lại.&amp;nbsp;Chatbot miễn ph&amp;iacute; của Bizfly c&amp;oacute; khả năng tạo v&amp;agrave; gửi đi h&amp;agrave;ng ng&amp;agrave;n coupon cho từng kh&amp;aacute;ch h&amp;agrave;ng cụ thể. N&amp;oacute; lu&amp;ocirc;n hữu &amp;iacute;ch để nhắc nhở kh&amp;aacute;ch h&amp;agrave;ng rằng bạn coi trọng việc họ đ&amp;atilde; lựa chọn mua sản phẩm n&amp;agrave;y v&amp;agrave; nhắc nhở họ những trải nghiệm tuyệt vời khi mua h&amp;agrave;ng từ bạn lần đầu ti&amp;ecirc;n.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, chatbot c&amp;oacute; khả năng ghi nhận những đ&amp;aacute;nh gi&amp;aacute;, y&amp;ecirc;u cầu của người d&amp;ugrave;ng để đưa ra những sản phẩm tương tự, ph&amp;ugrave; hợp với họ. Dựa tr&amp;ecirc;n lịch sử hội thoại,&amp;nbsp;ph&amp;acirc;n t&amp;iacute;ch dữ liệu thu nhận, chatbot đưa ra những lời đề nghị, giới thiệu hấp dẫn cho kh&amp;aacute;ch h&amp;agrave;ng&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Điều hướng người d&amp;ugrave;ng đến website&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot kh&amp;ocirc;ng chỉ trả lời m&amp;agrave; c&amp;ograve;n cung cấp c&amp;aacute;c lựa chọn nhằm điều hướng kh&amp;aacute;ch h&amp;agrave;ng t&amp;igrave;m đến website/landing page của doanh nghiệp. Website l&amp;agrave; nơi lưu trữ đầy đủ th&amp;ocirc;ng tin, giới thiệu sản phẩm, đăng k&amp;yacute; t&amp;agrave;i khoản, tiến h&amp;agrave;nh giao dịch,&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng dễ d&amp;agrave;ng để kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể tiếp cận đến đ&amp;uacute;ng nơi họ mong muốn. V&amp;igrave; vậy, chatbot đ&amp;oacute;ng vai tr&amp;ograve; như "hướng dẫn vi&amp;ecirc;n", hỗ trợ đưa kh&amp;aacute;ch truy cập đến đ&amp;uacute;ng nơi họ cần. Việc đưa c&amp;aacute;c&amp;nbsp;CTA v&amp;agrave;o chatbot cần c&amp;oacute; sự tinh tế v&amp;agrave; sắp xếp hợp l&amp;yacute; để kh&amp;ocirc;ng tạo cảm gi&amp;aacute;c ch&amp;agrave;o mời qu&amp;aacute; nhiều đến người d&amp;ugrave;ng.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Cải thiện dịch vụ kh&amp;aacute;ch h&amp;agrave;ng&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng c&amp;oacute; một kh&amp;aacute;ch n&amp;agrave;o muốn phải đợi chờ hay phải trải qua những bước thanh to&amp;aacute;n d&amp;agrave;i d&amp;ograve;ng, rắc rối. Tr&amp;ecirc;n thực tế, c&amp;oacute; tới 80% c&amp;acirc;u hỏi dịch vụ của kh&amp;aacute;ch h&amp;agrave;ng h&amp;agrave;ng ng&amp;agrave;y đều được chatbot trả lời.&amp;nbsp;Phản hồi ngay lập tức, trả lời th&amp;ocirc;ng minh dựa tr&amp;ecirc;n keyword kh&amp;aacute;ch h&amp;agrave;ng, hạn chế t&amp;igrave;nh trạng rớt kh&amp;aacute;ch, mắc lỗi khi nhắn tin, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a người d&amp;ugrave;ng với ng&amp;ocirc;n từ tự nhi&amp;ecirc;n gi&amp;uacute;p chatbot để lại ấn tượng tốt đẹp với người d&amp;ugrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot c&amp;oacute; khả năng tạo v&amp;agrave; ph&amp;aacute;t h&amp;agrave;ng loạt c&amp;aacute;c coupon, tổ chức c&amp;aacute;c chương tr&amp;igrave;nh tri &amp;acirc;n, gửi đi h&amp;agrave;ng loạt th&amp;ocirc;ng điệp của doanh nghiệp đến kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;Rất nhiều người sử dụng sản phẩm của doanh nghiệp kh&amp;ocirc;ng chỉ v&amp;igrave; ch&amp;acirc;t lượng sản phẩm m&amp;agrave; c&amp;ograve;n v&amp;igrave; c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng, chế độ hậu m&amp;atilde;i tốt.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trực tiếp gửi đi những m&amp;atilde; giảm gi&amp;aacute;, qu&amp;agrave; tặng, lời tri &amp;acirc;n gi&amp;uacute;p người d&amp;ugrave;ng cảm nhận được sự quan t&amp;acirc;m của thương hiệu, th&amp;iacute;ch th&amp;uacute; v&amp;agrave; muốn gắn b&amp;oacute; d&amp;agrave;i l&amp;acirc;u với thương hiệu.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Trả lời tin nhắn của kh&amp;aacute;ch h&amp;agrave;ng ngay lập tức&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chỉ cần chậm một v&amp;agrave;i gi&amp;acirc;y, kh&amp;aacute;ch h&amp;agrave;ng rất c&amp;oacute; thể kh&amp;ocirc;ng c&amp;ograve;n &amp;yacute; định mua h&amp;agrave;ng, hoặc thậm ch&amp;iacute; t&amp;igrave;m được một sản phẩm của b&amp;ecirc;n kh&amp;aacute;c. Trong thời đại c&amp;ocirc;ng nghệ số, người d&amp;ugrave;ng đ&amp;atilde; quen với việc tự động h&amp;oacute;a c&amp;ocirc;ng việc v&amp;agrave; kh&amp;ocirc;ng th&amp;iacute;ch chờ đợi.&amp;nbsp;Với&amp;nbsp;khả năng phản hồi theo kịch bản ngay lập tức, chatbot giảm thiểu thời gian "chết" trong c&amp;aacute;c cuộc hội thoại.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot hoạt động độc lập 24/7, sẵn s&amp;agrave;ng cung cấp sự trợ gi&amp;uacute;p cho kh&amp;aacute;ch h&amp;agrave;ng mọi l&amp;uacute;c mọi nơi.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Cải thiện doanh số nhờ tiếp thị tr&amp;ograve; chuyện&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Một chatbot miễn ph&amp;iacute; trọn đời với đầy đủ t&amp;iacute;nh năng gi&amp;uacute;p bạn kết nối kh&amp;ocirc;ng giới hạn c&amp;aacute;c fanpage.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cung cấp dịch vụ kh&amp;aacute;ch h&amp;agrave;ng 24/7, hỗ trợ chốt đơn ngay tr&amp;ecirc;n chat, hỗ trợ cho c&amp;aacute;c chiến dịch tiếp thị lặp lại,...chatbot gi&amp;uacute;p doanh nghiệp tăng gấp 3 doanh số v&amp;agrave; thậm ch&amp;iacute; c&amp;ograve;n nhiều hơn nữa.&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chatbot kh&amp;ocirc;ng chỉ giới thiệu sản phẩm m&amp;agrave; c&amp;ograve;n hỗ trợ cho kh&amp;aacute;ch h&amp;agrave;ng cả trong qu&amp;aacute; tr&amp;igrave;nh tham khảo, mua h&amp;agrave;ng, hậu mua h&amp;agrave;ng. N&amp;oacute;i c&amp;aacute;ch kh&amp;aacute;c, n&amp;oacute; kh&amp;ocirc;ng kh&amp;aacute;c g&amp;igrave; mỗi kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; một người trợ l&amp;yacute; ri&amp;ecirc;ng gi&amp;uacute;p đỡ họ c&amp;oacute; h&amp;agrave;nh tr&amp;igrave;nh mua h&amp;agrave;ng thuận lợi.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nhờ việc tạo mối quan hệ khăng kh&amp;iacute;t giữa doanh nghiệp v&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng gi&amp;uacute;p mở ra nhiều cơ hội resell &amp;ndash; upsell &amp;ndash; cros sellcho sản phẩm hiện tại v&amp;agrave; sản phẩm kh&amp;aacute;c.&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Chatbot ng&amp;agrave;y c&amp;agrave;ng khẳng định được vai tr&amp;ograve; của m&amp;igrave;nh trong thời đại mua sắm trực tuyến. Sử dụng tin nhắn chatbot đ&amp;uacute;ng c&amp;aacute;ch gi&amp;uacute;p doanh nghiệp tăng doanh số, x&amp;acirc;y dựng quy tr&amp;igrave;nh chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng chuy&amp;ecirc;n nghiệp, tự động, hiệu quả.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Chatbot is a solution widely used by businesses to automate sales processes and boost business growth. Let&amp;rsquo;s explore with DTSVN the 6 most effective ways to use chatbot messaging to increase revenue!&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Raise Brand Awareness through Chatbots&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots can send bulk messages from businesses to specific customer groups who have previously interacted on the fanpage. By using chatbot messages, businesses can collect customer contact information and expand marketing campaigns across other tools such as email marketing, telesales, etc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In addition, chatbots act as virtual assistants that directly welcome first-time visitors to the fanpage. With the ability to personalize each customer, chatbots quickly answer product inquiries in a friendly, natural tone, creating a positive impression on customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots represent businesses by delivering useful information and a great user experience.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Retarget Customers through Chatbot Messaging&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots not only help customers complete their initial transactions but also encourage them to return. Bizfly&amp;rsquo;s free chatbot can create and send thousands of coupons to individual customers. It is always useful to remind customers that you value their choice to purchase your product and remind them of the great experience they had when shopping with you the first time.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In addition, chatbots can record user feedback and requests to suggest similar and relevant products. Based on chat history and collected data analysis, chatbots provide attractive recommendations and introductions for customers.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Drive Users to the Website&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots not only answer questions but also provide options to direct customers to the company&amp;rsquo;s website/landing page. The website stores complete information, product introductions, account registration, transaction processing, etc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It&amp;rsquo;s not always easy for customers to reach exactly what they&amp;rsquo;re looking for. Therefore, chatbots act as &amp;ldquo;guides,&amp;rdquo; helping visitors navigate to the right place. Adding CTAs into chatbots requires sophistication and proper arrangement to avoid overwhelming users with too many sales pitches.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Improve Customer Service&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;No customer wants to wait or go through a long, complicated checkout process. In fact, up to 80% of daily customer service questions can be answered by chatbots. Instant responses, intelligent answers based on customer keywords, reduced drop-offs, fewer errors when messaging, and user personalization with natural language all help chatbots leave a good impression.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots can create and distribute bulk coupons, organize gratitude programs, and send business messages to customers on a large scale. Many customers choose a company not only because of product quality but also because of excellent customer service and after-sales care.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Directly sending discount codes, gifts, and thank-you notes helps users feel the brand&amp;rsquo;s care, enjoy the experience, and want to stay loyal longer.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Reply to Customer Messages Instantly&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Just a few seconds of delay, and customers may lose interest in buying&amp;mdash;or even find an alternative product elsewhere. In the digital age, users are accustomed to automation and dislike waiting. With instant scripted responses, chatbots minimize &amp;ldquo;dead time&amp;rdquo; in conversations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots operate independently 24/7, ready to provide customer assistance anytime, anywhere.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Boost Sales with Conversational Marketing&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;A free lifetime chatbot with full features helps you connect unlimited fanpages.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By providing 24/7 customer service, supporting instant order closing in chat, and assisting with repeat marketing campaigns, chatbots help businesses triple their sales&amp;mdash;or even more.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots not only introduce products but also support customers throughout the entire journey: researching, purchasing, and post-purchase. In other words, it&amp;rsquo;s like each customer having their own personal assistant ensuring a smooth shopping journey.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By building strong relationships between businesses and customers, chatbots open up many opportunities for reselling, upselling, and cross-selling existing and new products.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chatbots are increasingly asserting their role in the era of online shopping. Using chatbot messaging properly helps businesses increase sales and build a professional, automated, and efficient customer care process.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance &amp;ndash; Banking sector in Vietnam; helping banks and financial institutions quickly complete their technology systems for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for consultation and to experience the solution here.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-08T03:45:25.000Z</time_create_dt>
+	<createdDate>2025-08-26T03:45:24.132Z</createdDate>
+	<createdDate_dt>2025-08-26T03:45:24.132Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T03:45:24.132Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T03:45:24.132Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

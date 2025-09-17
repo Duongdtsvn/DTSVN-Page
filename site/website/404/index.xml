@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-404</content-type>
+	<display-template>/templates/web/pages/Page-404.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f491</objectGroupId>
+	<objectId>f49127ad-9437-de0c-cd84-82d2dc0351d9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>404</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Trang Lỗi</internal-name>
+	<navLabel>Trang Lỗi</navLabel>
+	<createdDate>2025-09-08T03:40:33.342Z</createdDate>
+	<createdDate_dt>2025-09-08T03:40:33.342Z</createdDate_dt>
+	<lastModifiedDate>2025-09-08T03:40:33.342Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-08T03:40:33.342Z</lastModifiedDate_dt>
+</page>
