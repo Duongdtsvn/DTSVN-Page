@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0185</objectGroupId>
+	<objectId>01859e81-8602-1b24-6ebe-7cad22ab8792</objectId>
+	<internal-name>Lộ trình phát triển của 1 Business Analyst  </internal-name>
+	<navLabel>Lộ trình phát triển của 1 Business Analyst </navLabel>
+	<title_vi_s>Lộ trình phát triển của 1 Business Analyst</title_vi_s>
+	<title_en_s>Development Path of a Business Analyst</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>01859e81-8602-1b24-6ebe-7cad22ab8792</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Business-Analytics</key>
+	<value_smv>Business Analytics</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/145432364_lo-trinh-thang-tien-nganh-qa-1.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Level 1: Fresher Business Analyst&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Level 2: Junior Business Analyst&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Level 3: Senior Business Analyst&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Level 4.1: Business Analyst Team Leader&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Level 4.2: Management Consultant&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Level 5: C-Level hoặc Entrepreneur&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bạn đang&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-business-analytics/business-analyst-la-gi/"&gt;t&amp;igrave;m hiểu về nghề Business Analyst&lt;/a&gt;&amp;nbsp;nhưng chưa r&amp;otilde; lộ tr&amp;igrave;nh thăng tiến v&amp;agrave; hướng đi ph&amp;aacute;t triển sự nghiệp trong nghề như thế n&amp;agrave;o? B&amp;agrave;i viết dưới đ&amp;acirc;y của DTSVN sẽ giải đ&amp;aacute;p cho bạn c&amp;aacute;c cấp bậc trong vị tr&amp;iacute; c&amp;ocirc;ng việc BA n&amp;oacute;i chung.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Level 1: Fresher Business Analyst&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; vị tr&amp;iacute; m&amp;agrave; c&amp;aacute;c bạn sẽ bắt đầu khi mới v&amp;agrave;o nghề &amp;ndash; Fresher BA, 1 số c&amp;ocirc;ng ty kh&amp;aacute;c c&amp;oacute; thể gọi với c&amp;aacute;i t&amp;ecirc;n Associate BA. Ở Level n&amp;agrave;y chủ yếu sẽ l&amp;agrave; c&amp;aacute;c bạn BA mới ra trường, đang thực tập hoặc đ&amp;atilde; l&amp;agrave;m được từ 1 &amp;ndash; 2 năm kinh nghiệm.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c bạn ở cấp bậc n&amp;agrave;y đều đ&amp;atilde; c&amp;oacute; kiến thức cơ bản về BA v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch vấn đề v&amp;agrave; sẽ được c&amp;aacute;c anh/chị tiền bối trong nghề training c&amp;aacute;c kỹ năng v&amp;agrave; mindset về c&amp;aacute;ch tiếp cận dự &amp;aacute;n v&amp;agrave; hệ thống, c&amp;aacute;c tool hay d&amp;ugrave;ng, c&amp;aacute;ch l&amp;agrave;m t&amp;agrave;i liệu,&amp;hellip; cũng như hỗ trợ c&amp;aacute;c anh chị trong c&amp;aacute;c đầu việc kh&amp;aacute;c.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu bạn muốn c&amp;oacute; 1 lộ tr&amp;igrave;nh học hỏi v&amp;agrave; ph&amp;aacute;t triển r&amp;otilde; r&amp;agrave;ng th&amp;igrave; h&amp;atilde;y chọn m&amp;ocirc;i trường tập đo&amp;agrave;n hoặc c&amp;aacute;c c&amp;ocirc;ng ty lớn, c&amp;ograve;n nếu bạn muốn thử sức với mọi kh&amp;iacute;a cạnh trong BA rồi sau đ&amp;oacute; ph&amp;aacute;t triển theo điểm mạnh của m&amp;igrave;nh th&amp;igrave; m&amp;ocirc;i trường start up sẽ ph&amp;ugrave; hợp với bạn hơn.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Level 2: Junior Business Analyst&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Ở Level n&amp;agrave;y &amp;ndash; Junior BA, c&amp;aacute;c bạn đ&amp;atilde; t&amp;iacute;ch lũy được 2 &amp;ndash; 3 năm kinh nghiệm l&amp;agrave;m trong nghề, đ&amp;atilde; c&amp;oacute; khả năng l&amp;agrave;m việc độc lập v&amp;agrave; chủ động trong c&amp;ocirc;ng việc hơn n&amp;ecirc;n sẽ được giao nhiều task c&amp;oacute; độ kh&amp;oacute; cao hơn. Tuy vậy, c&amp;aacute;c bạn vẫn sẽ cần sự hỗ trợ từ c&amp;aacute;c anh chị Senior BA để c&amp;oacute; thể giải quyết được c&amp;aacute;c vấn đề phức tạp hơn cũng như đề xuất c&amp;aacute;c giải ph&amp;aacute;p cho c&amp;aacute;c dự &amp;aacute;n ở quy m&amp;ocirc; lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong giai đoạn n&amp;agrave;y, c&amp;aacute;c bạn sẽ phải vận dụng nhiều về c&amp;aacute;c kỹ năng analysis, document cũng như khả năng giao tiếp v&amp;agrave; c&amp;aacute;c kỹ năng mềm nhằm đảm bảo hiệu suất c&amp;ocirc;ng việc ở mức tốt nhất.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Level 3: Senior Business Analyst&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Đến Level n&amp;agrave;y &amp;ndash; Senior BA, c&amp;aacute;c bạn đ&amp;atilde; c&amp;oacute; hơn 3 năm kinh nghiệm ở trong mảng BA v&amp;agrave; t&amp;iacute;ch lũy được nhiều kỹ năng từ l&amp;agrave;m việc độc lập cho đến giao tiếp hiệu quả, xử l&amp;yacute; vấn đề tốt.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ở cấp độ n&amp;agrave;y, c&amp;aacute;c bạn sẽ giải quyết c&amp;aacute;c vấn đề đa chiều v&amp;agrave; c&amp;oacute; nhiều b&amp;ecirc;n tham gia hơn.&amp;nbsp;Về y&amp;ecirc;u cầu cho cấp độ n&amp;agrave;y, c&amp;aacute;c bạn sẽ phải c&amp;oacute; kiến thức chuy&amp;ecirc;n s&amp;acirc;u trong 1 lĩnh vực (VD như CRM, ERP,&amp;hellip;) hoặc nghiệp vụ nhất định (Kế to&amp;aacute;n, T&amp;agrave;i ch&amp;iacute;nh, Ng&amp;acirc;n h&amp;agrave;ng, Marketing,&amp;hellip;).&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, bạn cũng phải biết l&amp;ecirc;n plan c&amp;ugrave;ng PM cho dự &amp;aacute;n để đề xuất v&amp;agrave; thử nghiệm giải ph&amp;aacute;p POC (Proof Of Concept &amp;ndash; chuẩn bị demo giải ph&amp;aacute;p), chuẩn bị proposal. C&amp;ocirc;ng đoạn n&amp;agrave;y thường được đến với c&amp;aacute;i ti&amp;ecirc;n l&amp;agrave; Pre-Sale.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Level 4.1: Business Analyst Team Leader&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Sau một thời gian ở vị tr&amp;iacute; Senior BA, người l&amp;agrave;m nghề n&amp;agrave;y c&amp;oacute; thể promote l&amp;ecirc;n c&amp;aacute;c vị tr&amp;iacute; cao hơn tuỳ thuộc v&amp;agrave;o cơ cấu tổ chức của c&amp;ocirc;ng ty. Cụ thể l&amp;agrave;: BA Project Lead, BA Manager, hoặc c&amp;ograve;n c&amp;oacute; BA Program Lead, BA Practice Lead.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;uacute;c n&amp;agrave;y BA kh&amp;ocirc;ng những quản l&amp;yacute; c&amp;ocirc;ng việc của m&amp;igrave;nh nữa m&amp;agrave; phạm vi được mở rộng hơn l&amp;agrave; training, định hướng, manage c&amp;aacute;c BA kh&amp;aacute;c trong team để c&amp;ugrave;ng đạt được mục ti&amp;ecirc;u của dự &amp;aacute;n. L&amp;agrave; đầu mối l&amp;agrave;m việc trực tiếp với c&amp;aacute;c bộ phận kh&amp;aacute;c trong c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Level 4.2: Management Consultant&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y cũng l&amp;agrave; 1 nh&amp;aacute;nh kh&amp;aacute;c khi bạn kh&amp;ocirc;ng muốn ph&amp;aacute;t triển theo hướng quản l&amp;yacute;. Ở Level n&amp;agrave;y, bạn sẽ tập trung v&amp;agrave;o việc tư vấn giải ph&amp;aacute;p cho b&amp;ecirc;n kh&amp;aacute;ch h&amp;agrave;ng. C&amp;ocirc;ng việc ch&amp;iacute;nh của bạn sẽ l&amp;agrave; gặp c&amp;aacute;c vị tr&amp;iacute; C-Level từ c&amp;aacute;c c&amp;ocirc;ng ty, tập đo&amp;agrave;n kh&amp;aacute;c nhau tr&amp;ecirc;n to&amp;agrave;n quốc hoặc to&amp;agrave;n thế giới để l&amp;agrave;m việc v&amp;agrave; đề xuất giải ph&amp;aacute;p dựa tr&amp;ecirc;n bối cảnh c&amp;ocirc;ng ty của họ.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kinh nghiệm t&amp;iacute;ch lũy cho vị tr&amp;iacute; n&amp;agrave;y rất l&amp;agrave; lớn, từ 7 &amp;ndash; 10 năm kinh nghiệm v&amp;agrave; b&amp;ecirc;n cạnh đ&amp;oacute; ta sẽ c&amp;ograve;n phải c&amp;acirc;n nhắc th&amp;ecirc;m 1 số yếu tố để c&amp;oacute; thể l&amp;ecirc;n được vị tr&amp;iacute; n&amp;agrave;y như thị trường, may mắn, c&amp;aacute;c mối quan hệ chất lượng,&amp;hellip;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Level 5: C-Level hoặc Entrepreneur&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y ch&amp;iacute;nh l&amp;agrave; nấc thang cao nhất trong c&amp;aacute;c cấp bậc vị tr&amp;iacute; ở nghề BA. Ở vị tr&amp;iacute; C-Level, ta sẽ c&amp;oacute; thể chọn được nhiều vị tr&amp;iacute; C-Level kh&amp;aacute;c nhau t&amp;ugrave;y v&amp;agrave;o sơ đồ tổ chức của C&amp;ocirc;ng ty như CIO &amp;ndash; Chief Information Officer,&amp;nbsp; CTO &amp;ndash; Chief Technology Officer hoặc COO &amp;ndash; Chief Operating Officer.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Entrepreneur, ch&amp;uacute;ng ta đ&amp;atilde; đủ lực để ra l&amp;agrave;m ri&amp;ecirc;ng v&amp;agrave; mở hẳn 1 doanh nghiệp cho ch&amp;iacute;nh m&amp;igrave;nh. Để tồn tại v&amp;agrave; ph&amp;aacute;t triển được tr&amp;ecirc;n thị trường kinh doanh, ch&amp;uacute;ng ta cần phải c&amp;oacute; USP &amp;ndash; Điểm mạnh của m&amp;igrave;nh so với đối thủ, v&amp;agrave; 1 trong những điều quan trọng nhất đ&amp;oacute; ch&amp;iacute;nh l&amp;agrave; kiến thức domain trong 1 ng&amp;agrave;nh cụ thể.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; tất cả mọi thứ về cấp bậc v&amp;agrave; lộ tr&amp;igrave;nh thăng tiến trong nghề BA. DTSVN mong c&amp;aacute;c bạn giải đ&amp;aacute;p được thắc mắc của m&amp;igrave;nh cũng như định h&amp;igrave;nh được sự nghiệp của m&amp;igrave;nh để ph&amp;aacute;t triển hơn nữa trong nghề.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Level 1: Fresher Business Analyst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Level 2: Junior Business Analyst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Level 3: Senior Business Analyst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Level 4.1: Business Analyst Team Leader&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Level 4.2: Management Consultant&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Level 5: C-Level or Entrepreneur&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;Are you exploring the &lt;strong&gt;Business Analyst career path&lt;/strong&gt; but still unsure about the career progression and advancement opportunities? This article by DTSVN will help you understand the levels and growth path in the BA profession in general.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Level 1: Fresher Business Analyst&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;This is the entry-level position when you first start your career &amp;ndash; &lt;strong&gt;Fresher BA&lt;/strong&gt;, which in some companies may also be called &lt;strong&gt;Associate BA&lt;/strong&gt;. At this level, you are typically a fresh graduate, an intern, or someone with 1&amp;ndash;2 years of experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;BAs at this stage usually have a basic understanding of business analysis and problem-solving. They will receive training from senior colleagues on essential skills and mindset: how to approach projects and systems, commonly used tools, documentation methods, &amp;hellip; and also provide support on various tasks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If you want a clear learning and development roadmap, you should choose a corporate or large-company environment. On the other hand, if you prefer to try your hand at different aspects of BA and later grow into your strengths, then a startup environment may suit you better.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Level 2: Junior Business Analyst&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;At this level &amp;ndash; &lt;strong&gt;Junior BA&lt;/strong&gt;, you usually have accumulated 2&amp;ndash;3 years of experience in the field. You are now able to work more independently and proactively, and therefore are assigned more complex tasks. However, you may still require support from Senior BAs when handling highly complex issues or proposing solutions for large-scale projects.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In this phase, you will need to leverage your &lt;strong&gt;analysis skills, documentation abilities, communication, and soft skills&lt;/strong&gt; to maintain high work efficiency.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Level 3: Senior Business Analyst&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;At the &lt;strong&gt;Senior BA&lt;/strong&gt; level, you usually have more than 3 years of experience and have developed a broad range of skills: independent work, effective communication, and solid problem-solving.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;At this stage, you will be solving multi-dimensional problems involving multiple stakeholders. A requirement for this level is having &lt;strong&gt;deep knowledge in a specific domain&lt;/strong&gt; (e.g., CRM, ERP) or a specialized business area (e.g., Accounting, Finance, Banking, Marketing, &amp;hellip;).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Additionally, you will collaborate with Project Managers to &lt;strong&gt;develop project plans, propose and test Proof of Concept (POC) solutions, and prepare proposals&lt;/strong&gt;. This phase is often associated with what is called the &lt;strong&gt;Pre-Sales&lt;/strong&gt; process.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Level 4.1: Business Analyst Team Leader&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;After working as a Senior BA, you can be promoted to higher positions depending on the company&amp;rsquo;s organizational structure. These may include &lt;strong&gt;BA Project Lead, BA Manager, BA Program Lead, or BA Practice Lead&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;At this point, your responsibilities expand beyond managing your own work. You will now be &lt;strong&gt;training, guiding, and managing other BAs&lt;/strong&gt; in your team to achieve project goals. You also act as the primary liaison with other departments in the company.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Level 4.2: Management Consultant&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;This is an alternative path if you prefer not to pursue management roles. At this level, you focus on &lt;strong&gt;consulting solutions for clients&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Your main tasks include meeting with &lt;strong&gt;C-Level executives&lt;/strong&gt; from different companies and corporations (nationally or globally) to analyze their business context and propose tailored solutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Reaching this level typically requires &lt;strong&gt;7&amp;ndash;10 years of experience&lt;/strong&gt; along with additional factors such as market dynamics, opportunities, and valuable professional relationships.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Level 5: C-Level or Entrepreneur&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;This is the &lt;strong&gt;highest rung&lt;/strong&gt; in the BA career ladder. At the &lt;strong&gt;C-Level&lt;/strong&gt;, you may take on roles such as &lt;strong&gt;CIO (Chief Information Officer), CTO (Chief Technology Officer), or COO (Chief Operating Officer)&lt;/strong&gt;, depending on the company&amp;rsquo;s organizational structure.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As an &lt;strong&gt;Entrepreneur&lt;/strong&gt;, you may have the capacity to start your own business. To survive and grow in a competitive market, you need a &lt;strong&gt;USP (Unique Selling Proposition)&lt;/strong&gt; &amp;ndash; your competitive advantage compared to others. One of the most critical factors here is &lt;strong&gt;deep domain knowledge&lt;/strong&gt; in a specific industry.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;These are the key stages and career progression in the BA profession. DTSVN hopes this article helps you answer your questions and shape your career direction to grow further in this field.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-17T03:16:17.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:16:16.651Z</createdDate>
+	<createdDate_dt>2025-08-28T03:16:16.651Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:16:16.651Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:16:16.651Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

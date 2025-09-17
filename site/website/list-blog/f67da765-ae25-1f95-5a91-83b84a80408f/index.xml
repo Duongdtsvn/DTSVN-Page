@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f67d</objectGroupId>
+	<objectId>f67da765-ae25-1f95-5a91-83b84a80408f</objectId>
+	<internal-name>Ngân hàng dưới dạng dịch vụ: Lợi ích của API trong ngân hàng mở</internal-name>
+	<navLabel>Ngân hàng dưới dạng dịch vụ: Lợi ích của API trong ngân hàng mở</navLabel>
+	<title_vi_s>Ngân hàng dưới dạng dịch vụ: Lợi ích của API trong ngân hàng mở</title_vi_s>
+	<title_en_s>Banking as a Service: The Benefits of APIs in Open Banking </title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>f67da765-ae25-1f95-5a91-83b84a80408f</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/a11111-954.jpeg</img_main_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;acirc;n h&amp;agrave;ng dưới dạng dịch vụ (BaaS) v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng mở c&amp;oacute; vẻ tương đồng, nhưng thực tế c&amp;oacute; một sự kh&amp;aacute;c biệt giữa hai m&amp;ocirc; h&amp;igrave;nh n&amp;agrave;y. Ng&amp;acirc;n h&amp;agrave;ng mở cung cấp quyền truy cập v&amp;agrave;o dữ liệu kh&amp;aacute;ch h&amp;agrave;ng của ng&amp;acirc;n h&amp;agrave;ng, trong khi BaaS mở rộng hơn, cho ph&amp;eacute;p c&amp;aacute;c b&amp;ecirc;n thứ ba truy cập v&amp;agrave;o c&amp;aacute;c chức năng v&amp;agrave; dịch vụ ng&amp;acirc;n h&amp;agrave;ng. V&amp;igrave; vậy, BaaS kh&amp;ocirc;ng chỉ kết hợp t&amp;iacute;nh năng của ng&amp;acirc;n h&amp;agrave;ng mở m&amp;agrave; c&amp;ograve;n t&amp;iacute;ch hợp cả nền tảng API ng&amp;acirc;n h&amp;agrave;ng, tạo ra một hệ sinh th&amp;aacute;i dịch vụ t&amp;agrave;i ch&amp;iacute;nh đa dạng v&amp;agrave; mạnh mẽ hơn.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tại sao nền tảng BaaS lại l&amp;agrave; giải ph&amp;aacute;p tốt nhất?&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; &amp;yacute; nghĩa của việc trở th&amp;agrave;nh một ng&amp;acirc;n h&amp;agrave;ng đang thay đổi. Khi c&amp;aacute;c k&amp;ecirc;nh kỹ thuật số ng&amp;agrave;y c&amp;agrave;ng phổ biến trong mọi lĩnh vực của cuộc sống từ giải tr&amp;iacute;, mua sắm đến cả việc đặt lịch hẹn kh&amp;aacute;m &amp;ndash; kỳ vọng của người ti&amp;ecirc;u d&amp;ugrave;ng cũng dần thay đổi, hướng đến những trải nghiệm liền mạch, nhanh ch&amp;oacute;ng v&amp;agrave; dễ d&amp;agrave;ng. Sự chuyển đổi n&amp;agrave;y đ&amp;ograve;i hỏi c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng phải th&amp;iacute;ch nghi v&amp;agrave; đ&amp;aacute;p ứng nhu cầu trải nghiệm ng&amp;agrave;y c&amp;agrave;ng cao của kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; tạo ra lợi thế cạnh tranh bền vững trong kỷ nguy&amp;ecirc;n số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một nghi&amp;ecirc;n cứu mới của Galileo phối hợp c&amp;ugrave;ng American Banker tiết lộ rằng 78% c&amp;aacute;c l&amp;atilde;nh đạo ng&amp;acirc;n h&amp;agrave;ng cấp cao hiện đang ưu ti&amp;ecirc;n ph&amp;aacute;t triển khả năng cung cấp Dịch vụ Ng&amp;acirc;n h&amp;agrave;ng như một Nền tảng (BaaS). Đ&amp;aacute;ng ch&amp;uacute; &amp;yacute;, 59% trong số c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng tập trung v&amp;agrave;o BaaS đ&amp;atilde; &amp;iacute;t nhất bước v&amp;agrave;o giai đoạn thử nghiệm, cho thấy sự chuyển đổi mạnh mẽ của ng&amp;agrave;nh trong việc t&amp;iacute;ch hợp c&amp;aacute;c giải ph&amp;aacute;p dịch vụ ng&amp;acirc;n h&amp;agrave;ng s&amp;aacute;ng tạo.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng truyền thống với lợi thế c&amp;ocirc;ng nghệ c&amp;oacute; thể ngăn chặn mối đe dọa của fintech bằng c&amp;aacute;ch tham gia v&amp;agrave;o ng&amp;agrave;nh BaaS để chia sẻ dữ liệu v&amp;agrave; cơ sở hạ tầng của họ. Thay v&amp;igrave; cạnh tranh, hợp t&amp;aacute;c l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a cho một chiến lược ng&amp;acirc;n h&amp;agrave;ng th&amp;agrave;nh c&amp;ocirc;ng. Hơn nữa, c&amp;aacute;c nền tảng Ng&amp;acirc;n h&amp;agrave;ng dưới dạng Dịch vụ tăng cường t&amp;iacute;nh minh bạch t&amp;agrave;i ch&amp;iacute;nh bằng c&amp;aacute;ch cho ph&amp;eacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng mở API của họ cho b&amp;ecirc;n thứ ba để ph&amp;aacute;t triển c&amp;aacute;c dịch vụ mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;BaaS cũng cung cấp cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng th&amp;ocirc;ng tin chi tiết hơn về kh&amp;aacute;ch h&amp;agrave;ng bằng c&amp;aacute;ch x&amp;aacute;c định nhu cầu t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; h&amp;agrave;nh vi mua sắm của kh&amp;aacute;ch h&amp;agrave;ng, m&amp;agrave; c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể sử dụng để tạo ra c&amp;aacute;c ưu đ&amp;atilde;i được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a cho kh&amp;aacute;ch h&amp;agrave;ng của họ. Kh&amp;ocirc;ng c&amp;oacute; g&amp;igrave; ngạc nhi&amp;ecirc;n khi 80% kh&amp;aacute;ch h&amp;agrave;ng của ng&amp;acirc;n h&amp;agrave;ng phản hồi c&amp;aacute;c ưu đ&amp;atilde;i được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Nền tảng ng&amp;acirc;n h&amp;agrave;ng mở v&amp;agrave; API&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;BaaS v&amp;agrave; API song h&amp;agrave;nh với nhau, ngay cả khi n&amp;oacute;i đến thao t&amp;aacute;c dữ liệu. Chức năng n&amp;agrave;y rất cần thiết để sắp xếp, lập bản đồ, hoặc thay đổi dữ liệu trước khi đưa v&amp;agrave;o phần phụ trợ, tr&amp;igrave;nh b&amp;agrave;y cho kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; &amp;yacute; định mở rộng việc sử dụng API để giảm thiểu sự phức tạp của CNTT, th&amp;uacute;c đẩy sự nhanh nhẹn v&amp;agrave; trao quyền cho c&amp;aacute;c đối t&amp;aacute;c. BaaS c&amp;oacute; kiến tr&amp;uacute;c m&amp;ocirc;-đun kết hợp chức năng dễ quản l&amp;yacute; v&amp;agrave; k&amp;eacute;o thả để đơn giản h&amp;oacute;a phần phụ trợ phức tạp cho c&amp;aacute;c nh&amp;agrave; ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;API cung cấp cho c&amp;aacute;c ứng dụng một mức độ m&amp;ocirc;-đun mới. API cho ph&amp;eacute;p c&amp;aacute;c nh&amp;agrave; ph&amp;aacute;t triển tận dụng kiến thức của c&amp;aacute;c chương tr&amp;igrave;nh kh&amp;aacute;c. Khi một c&amp;ocirc;ng ty tạo ra một ứng dụng, họ kh&amp;ocirc;ng c&amp;ograve;n phải ph&amp;aacute;t minh lại b&amp;aacute;nh xe trong c&amp;aacute;c lĩnh vực như x&amp;aacute;c thực, giao tiếp, xử l&amp;yacute; thanh to&amp;aacute;n v&amp;agrave; lập bản đồ. Thay v&amp;agrave;o đ&amp;oacute;, c&amp;aacute;c nh&amp;agrave; ph&amp;aacute;t triển c&amp;oacute; thể sử dụng c&amp;aacute;c chức năng v&amp;agrave; khả năng plug-in liền mạch của API. API cho ph&amp;eacute;p c&amp;aacute;c ứng dụng v&amp;agrave; th&amp;agrave;nh phần hệ thống kết nối với nhau tr&amp;ecirc;n cả mạng nội bộ v&amp;agrave; Internet.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lợi &amp;iacute;ch của API Ng&amp;acirc;n h&amp;agrave;ng mở:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Thu h&amp;uacute;t v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng : c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể tiếp cận kh&amp;aacute;ch h&amp;agrave;ng tiềm năng mới hiệu quả hơn v&amp;agrave; với chi ph&amp;iacute; thấp hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Nguồn doanh thu mới: Ng&amp;acirc;n h&amp;agrave;ng t&amp;iacute;nh ph&amp;iacute; đối t&amp;aacute;c kh&amp;ocirc;ng phải ng&amp;acirc;n h&amp;agrave;ng cho mỗi giao dịch API.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Hiện đại h&amp;oacute;a chức năng c&amp;ocirc;ng nghệ: Hệ thống ng&amp;acirc;n h&amp;agrave;ng linh hoạt v&amp;agrave; nhanh nhẹn hơn gi&amp;uacute;p đẩy nhanh qu&amp;aacute; tr&amp;igrave;nh ph&amp;aacute;t triển sản phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tương lai BaaS Banking&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dịch vụ ng&amp;acirc;n h&amp;agrave;ng dưới h&amp;igrave;nh thức Banking as a Service (BaaS), API v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng mở đều xoay quanh một kh&amp;aacute;i niệm cốt l&amp;otilde;i: cấp quyền truy cập cho b&amp;ecirc;n thứ ba v&amp;agrave;o dữ liệu v&amp;agrave; th&amp;ocirc;ng tin x&amp;aacute;c thực của ng&amp;acirc;n h&amp;agrave;ng. Điều n&amp;agrave;y kh&amp;ocirc;ng chỉ tạo ra những sản phẩm mới m&amp;agrave; c&amp;ograve;n n&amp;acirc;ng cao trải nghiệm người ti&amp;ecirc;u d&amp;ugrave;ng. BaaS cho ph&amp;eacute;p b&amp;ecirc;n thứ ba khai th&amp;aacute;c những khả năng của ng&amp;acirc;n h&amp;agrave;ng th&amp;ocirc;ng qua việc sử dụng API v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng mở.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tất cả những phương thức n&amp;agrave;y đ&amp;atilde; l&amp;agrave;m thay đổi diện mạo hoạt động ng&amp;acirc;n h&amp;agrave;ng truyền thống, mở ra cơ hội cho cả ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; c&amp;aacute;c doanh nghiệp phi ng&amp;acirc;n h&amp;agrave;ng tăng cường khả năng cạnh tranh v&amp;agrave; tối đa h&amp;oacute;a lợi nhuận.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: ebanKIT&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Banking-as-a-Service (BaaS) and Open Banking may seem similar, but in reality, there is a distinct difference between the two models.&lt;/strong&gt; Open Banking provides access to customer data from banks, while BaaS goes further, allowing third parties to access banking functions and services. Therefore, BaaS not only incorporates the features of Open Banking but also integrates the banking API platform, creating a more diverse and powerful financial services ecosystem.&lt;br&gt;&lt;strong&gt;Why is BaaS the best solution?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The banking industry and the very meaning of being a bank are changing. As digital channels become more prevalent in every aspect of life&amp;mdash;from entertainment, shopping, to even booking medical appointments&amp;mdash;consumer expectations are also shifting toward seamless, fast, and convenient experiences. This transformation requires banks to adapt and meet increasingly higher customer experience demands, thereby creating sustainable competitive advantages in the digital era.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A recent study by Galileo in collaboration with American Banker revealed that &lt;strong&gt;78% of senior bank executives are currently prioritizing the development of Banking-as-a-Service (BaaS) capabilities.&lt;/strong&gt; Notably, 59% of the banks focusing on BaaS have at least entered the trial stage, highlighting the strong transformation of the industry in integrating innovative banking service solutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Traditional banks with technological advantages can mitigate the threat of fintech by engaging in the BaaS industry to share their data and infrastructure. Instead of competing, collaboration is the key to a successful banking strategy. Furthermore, BaaS platforms enhance financial transparency by allowing banks to open their APIs to third parties to develop new services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;BaaS also provides banks with deeper customer insights by identifying customer financial needs and purchasing behaviors, which financial institutions can leverage to create personalized offers for their clients. Unsurprisingly, &lt;strong&gt;80% of banking customers respond positively to personalized offers.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Open Banking Platforms and APIs&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;BaaS and APIs go hand in hand, even when it comes to data operations. This function is essential for organizing, mapping, or transforming data before sending it to the backend, ultimately presented to customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks intend to expand API usage to reduce IT complexity, boost agility, and empower partners. BaaS features a modular architecture that combines manageable functionality with drag-and-drop simplicity, streamlining complex backend operations for developers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;APIs provide applications with a new level of modularity. APIs allow developers to leverage the expertise of other programs. When a company builds an application, it no longer has to reinvent the wheel in areas such as authentication, communication, payment processing, and mapping. Instead, developers can use the seamless plug-in functionality of APIs. APIs enable applications and system components to connect with each other across both intranets and the Internet.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits of Open Banking APIs include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attracting and retaining customers:&lt;/strong&gt; Banks can reach new potential customers more effectively and at lower costs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;New revenue streams:&lt;/strong&gt; Banks charge non-bank partners for each API transaction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modernizing technology functions:&lt;/strong&gt; More flexible and agile banking systems accelerate product development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;The Future of BaaS Banking&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Banking-as-a-Service (BaaS), APIs, and Open Banking all revolve around a core concept: granting third-party access to banks&amp;rsquo; data and credentials. This not only creates new products but also enhances consumer experiences. BaaS allows third parties to leverage banks&amp;rsquo; capabilities through the use of APIs and Open Banking.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;All these approaches have reshaped the traditional banking landscape, opening opportunities for both banks and non-bank enterprises to strengthen competitiveness and maximize profitability.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Source: ebanKIT&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;Compiled by the DTSVN Author Team &amp;ndash; Digital Transformation Solutions for the Banking &amp;amp; Finance Industry&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digital solutions specifically designed for enterprises in the Banking &amp;amp; Finance sector in Vietnam; helping banks and financial institutions quickly complete their technology systems to accelerate Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;📩 Contact us now for consultation and to experience our solutions here.&amp;nbsp;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-30T09:45:56.000Z</time_create_dt>
+	<createdDate>2025-08-25T09:45:54.809Z</createdDate>
+	<createdDate_dt>2025-08-25T09:45:54.809Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T09:45:54.809Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T09:45:54.809Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

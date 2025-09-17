@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>96b1</objectGroupId>
+	<objectId>96b12ba3-a37d-ca76-3d07-e1d065c5c3f3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>96b12ba3-a37d-ca76-3d07-e1d065c5c3f3</folder-name>
+	<internal-name>Bạn có biết: 13 lợi ích của quản lý thông tin?</internal-name>
+	<navLabel>Bạn có biết: 13 lợi ích của quản lý thông tin?</navLabel>
+	<title_vi_s>Bạn có biết: 13 lợi ích của quản lý thông tin?</title_vi_s>
+	<title_en_s>Did you know: 13 benefits of information management?</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/gpo-nganh-he-thong-thong-tin-quan-ly3-1-1-1-.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Khi khối lượng th&amp;ocirc;ng tin tăng l&amp;ecirc;n, hầu hết c&amp;aacute;c tổ chức đều gặp kh&amp;oacute; khăn trong việc quản l&amp;yacute; th&amp;ocirc;ng tin. Lợi &amp;iacute;ch quản l&amp;yacute; th&amp;ocirc;ng tin l&amp;agrave; l&amp;yacute; do ch&amp;iacute;nh tại sao c&amp;aacute;c c&amp;ocirc;ng ty đầu tư v&amp;agrave;o c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin.&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;13 lợi &amp;iacute;ch h&amp;agrave;ng đầu của việc quản l&amp;yacute; th&amp;ocirc;ng tin:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. N&amp;acirc;ng cao năng suất&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Lợi &amp;iacute;ch đầu ti&amp;ecirc;n của việc quản l&amp;yacute; th&amp;ocirc;ng tin l&amp;agrave; l&amp;agrave;m tăng năng suất v&amp;agrave; hiệu quả. Khả năng quản l&amp;yacute; th&amp;ocirc;ng tin sẽ gi&amp;uacute;p bạn sử dụng thời gian hiệu quả hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2.&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;ruy cập nhanh hơn&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Quản l&amp;yacute; th&amp;ocirc;ng tin gi&amp;uacute;p truy cập th&amp;ocirc;ng tin quan trọng dễ d&amp;agrave;ng hơn. C&amp;ocirc;ng&amp;nbsp;việc của nh&amp;agrave; quản l&amp;yacute; th&amp;ocirc;ng tin sẽ dễ d&amp;agrave;ng hơn nhiều nếu biết c&amp;aacute;ch tận dụng tối đa nguồn th&amp;ocirc;ng tin của C&amp;ocirc;ng&amp;nbsp;ty; từ đ&amp;oacute;&amp;nbsp;cải thiện chất lượng, độ ch&amp;iacute;nh x&amp;aacute;c,&amp;nbsp;kịp thời của việc quản l&amp;yacute; th&amp;ocirc;ng tin doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. X&amp;acirc;y dựng ch&amp;iacute;nh s&amp;aacute;ch hiệu quả&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Lợi &amp;iacute;ch thứ ba của quản l&amp;yacute; th&amp;ocirc;ng tin l&amp;agrave; khả năng tạo ra một ch&amp;iacute;nh s&amp;aacute;ch th&amp;ocirc;ng tin tối&amp;nbsp;ưu. Nếu ch&amp;iacute;nh s&amp;aacute;ch th&amp;ocirc;ng tin kh&amp;ocirc;ng r&amp;otilde; r&amp;agrave;ng, c&amp;ocirc;ng ty kh&amp;ocirc;ng thể dự đo&amp;aacute;n kết quả của c&amp;aacute;c hoạt động hoặc &amp;aacute;p dụng&amp;nbsp;ch&amp;iacute;nh s&amp;aacute;ch&amp;nbsp;một c&amp;aacute;ch hiệu quả.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều&amp;nbsp;quan trọng&amp;nbsp;l&amp;agrave; truyền đạt r&amp;otilde; r&amp;agrave;ng về ch&amp;iacute;nh s&amp;aacute;ch v&amp;agrave; hướng dẫn th&amp;ocirc;ng tin của tổ chức tới tất cả nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; gi&amp;uacute;p họ quản l&amp;yacute; v&amp;ograve;ng đời th&amp;ocirc;ng tin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Hỗ trợ kinh doanh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Quản l&amp;yacute; th&amp;ocirc;ng tin đ&amp;uacute;ng c&amp;aacute;ch sẽ gi&amp;uacute;p c&amp;aacute;c c&amp;ocirc;ng ty theo d&amp;otilde;i c&amp;aacute;c thay đổi v&amp;agrave; cải thiện hiệu suất. Doanh&amp;nbsp;nghiệp d&amp;ugrave;ng những kết quả n&amp;agrave;y&amp;nbsp;để lập kế hoạch, tổ chức v&amp;agrave; theo d&amp;otilde;i th&amp;ocirc;ng tin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một trong những lợi &amp;iacute;ch quản l&amp;yacute; th&amp;ocirc;ng tin quan trọng nhất l&amp;agrave; cung cấp th&amp;ocirc;ng tin cần thiết để hỗ trợ c&amp;aacute;c quy tr&amp;igrave;nh kinh doanh, ra quyết định v&amp;agrave; vận h&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Cải thiện hiệu suất&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch th&amp;ocirc;ng tin nhanh ch&amp;oacute;ng bằng c&amp;aacute;ch điều chỉnh chi tiết c&amp;aacute;c nhiệm vụ v&amp;agrave; quy tr&amp;igrave;nh nhằm cải thiện kết quả kinh doanh. Ph&amp;acirc;n t&amp;iacute;ch n&amp;agrave;y cũng gi&amp;uacute;p họ t&amp;igrave;m hiểu c&amp;aacute;ch sản phẩm hoặc dịch vụ ph&amp;ugrave; hợp với y&amp;ecirc;u cầu của thị trường hoặc nhu cầu của c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. Tăng t&amp;iacute;nh bảo mật&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c c&amp;ocirc;ng ty cần xử l&amp;yacute;, lưu trữ v&amp;agrave; quản l&amp;yacute; dữ liệu theo c&amp;aacute;ch bảo mật v&amp;agrave; an to&amp;agrave;n. C&amp;aacute;c biện ph&amp;aacute;p bảo mật kh&amp;aacute;c nhau được sử dụng như m&amp;atilde; h&amp;oacute;a, hệ thống kiểm so&amp;aacute;t truy cập, tường lửa v&amp;agrave; c&amp;aacute;c biện ph&amp;aacute;p kh&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;7. Tăng cường tu&amp;acirc;n thủ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Quản&amp;nbsp;l&amp;yacute; th&amp;ocirc;ng tin&amp;nbsp;gi&amp;uacute;p c&amp;aacute;c c&amp;ocirc;ng ty theo d&amp;otilde;i dữ liệu hoặc cung cấp cho b&amp;ecirc;n kh&amp;aacute;c để đảm bảo tu&amp;acirc;n thủ c&amp;aacute;c quy định ph&amp;aacute;p l&amp;yacute; hoặc quy tắc ứng xử. Ngo&amp;agrave;i ra, th&amp;ocirc;ng tin c&amp;oacute; thể được sử dụng để x&amp;aacute;c định nguồn dữ liệu v&amp;agrave; quyền truy cập.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8. Giảm&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;thiểu&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;rủi ro&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Quản l&amp;yacute; th&amp;ocirc;ng tin gi&amp;uacute;p tổ chức giảm rủi ro&amp;nbsp;về việc&amp;nbsp;bảo mật. Một trong những lợi &amp;iacute;ch quản l&amp;yacute; th&amp;ocirc;ng tin quan trọng nhất l&amp;agrave; tăng cường bảo mật v&amp;agrave; giảm thiểu rủi ro. Bảo mật th&amp;ocirc;ng tin giữ cho&amp;nbsp;&amp;ldquo;dữ liệu tuyệt mật&amp;rdquo;&amp;nbsp;khỏi c&amp;aacute;c mối đe dọa vật l&amp;yacute; v&amp;agrave; điện tử, nhưng quan trọng hơn, n&amp;oacute; ngăn chặn truy cập tr&amp;aacute;i ph&amp;eacute;p v&amp;agrave;o mạng&amp;nbsp;ri&amp;ecirc;ng của&amp;nbsp;c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c c&amp;ocirc;ng ty cần tu&amp;acirc;n theo một bộ quy tắc v&amp;agrave; quy tr&amp;igrave;nh đảm bảo an to&amp;agrave;n, bảo mật v&amp;agrave; quyền ri&amp;ecirc;ng tư cho c&amp;aacute;c quy tr&amp;igrave;nh kinh doanh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;9. Tối&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;ưu&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;dịch vụ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c c&amp;ocirc;ng ty cần cung cấp cho kh&amp;aacute;ch h&amp;agrave;ng c&amp;aacute;c dịch vụ cần thiết để đ&amp;aacute;p ứng nhu cầu v&amp;agrave; mong đợi của họ. Quản l&amp;yacute; th&amp;ocirc;ng tin l&amp;agrave; một trong những yếu tố được sử dụng khi cung cấp c&amp;aacute;c dịch vụ n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;10. Kinh doanh th&amp;ocirc;ng minh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kinh doanh đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong việc quản l&amp;yacute; một lượng lớn dữ liệu. Quản l&amp;yacute; th&amp;ocirc;ng tin gi&amp;uacute;p đưa ra c&amp;aacute;ch chung lưu trữ v&amp;agrave; truy cập dữ liệu để bộ phận kinh doanh thu thập dữ liệu từ tất cả c&amp;aacute;c bộ phận của tổ chức&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;11. Đảm bảo&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;t&amp;iacute;nh li&amp;ecirc;n tục của&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;dữ liệu&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi một tổ chức c&amp;oacute; một lượng lớn th&amp;ocirc;ng tin trong hệ thống của m&amp;igrave;nh, tổ chức cần c&amp;oacute; kế hoạch kh&amp;ocirc;i phục khẩn cấp dữ li&amp;ecirc;u khi c&amp;oacute; sự cố xảy ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;12. Khắc phục sự&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;cố&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu một hệ thống hoặc một th&amp;agrave;nh phần của bị lỗi, sẽ rất kh&amp;oacute; để ho&amp;agrave;n th&amp;agrave;nh nhiệm vụ cụ thể bị gi&amp;aacute;n đoạn. Quản&amp;nbsp;l&amp;yacute; th&amp;ocirc;ng tin được sử dụng để&amp;nbsp;đảm bảo th&amp;ocirc;ng tin c&amp;oacute; thể được truy xuất lại trong trường hợp gặp sự cố.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;13. Ph&amp;acirc;n t&amp;iacute;ch dữ liệu&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;acirc;n t&amp;iacute;ch dữ liệu c&amp;oacute; thể nhanh ch&amp;oacute;ng x&amp;aacute;c định xu hướng v&amp;agrave; th&amp;ocirc;ng tin chuy&amp;ecirc;n s&amp;acirc;u, sau đ&amp;oacute; c&amp;oacute; thể sử dụng những th&amp;ocirc;ng tin n&amp;agrave;y để cung cấp cho qu&amp;aacute; tr&amp;igrave;nh ra quyết định.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;oacute;m lại, tổ chức cần nắm bắt được những xu hướng quản l&amp;yacute; th&amp;ocirc;ng tin hiệu quả v&amp;agrave; mới nhất năm 2023, v&amp;iacute; dụ như:&amp;nbsp;Tăng cường tập trung v&amp;agrave;o chất lượng th&amp;ocirc;ng tin; &amp;Aacute;p dụng quản trị th&amp;ocirc;ng tin;&amp;nbsp;Sử dụng Tr&amp;iacute; tuệ nh&amp;acirc;n tạo AI;&amp;nbsp;Tự động h&amp;oacute;a quy tr&amp;igrave;nh kinh doanh;&amp;nbsp;Tận dụng c&amp;ocirc;ng nghệ Robot phần mềm RPA;&amp;nbsp;Nắm bắt triển khai đ&amp;aacute;m m&amp;acirc;y;&amp;nbsp;Tăng cường t&amp;iacute;ch hợp với c&amp;aacute;c hệ thống kh&amp;aacute;c;&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: Theecmconsultant&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&lt;a href="https://dtsvn.net/contact-us"&gt;&amp;nbsp;tại đ&amp;acirc;y&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Some of the top information management benefits are improved productivity and efficiency, faster information access, enhanced support of business needs, enhanced compliance, improved risk management, and informed business decisions.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Information Management Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Information management benefits are the main reason why companies invest in information technology. There are a lot of challenges related to properly managing information but if done properly it would help in tons of ways.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;We have identified the top 13 benefits of information management:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Improved productivity and efficiency&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The first benefit of information management is that it increases your productivity and efficiency. Your ability to manage information will increase your workload significantly by making you more efficient with your time.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Faster information access&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One of the most important information management benefits is that it helps you to access important information more easily. If you are an information manager, your job will be much easier if you have a better idea of how to make the most of your information resources and improve the quality, accuracy, and timeliness of your&amp;nbsp;enterprise information management.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Develop an effective information policy&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The third benefit of information management is the ability to create a successful information policy. Without a well-defined information policy, a company cannot predict the outcome of its information practices or apply them effectively in the real world.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The key is to communicate a clear image of the organization&amp;rsquo;s information policy and guidelines to all employees and help them&amp;nbsp;manage information life cycle.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Support business needs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Managing information properly will help companies to track changes and improve performance. They use it for planning, organizing, and tracking information.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One of the most important information management benefits is to provide the needed information to support business processes, decision-making, and operations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Improved performance&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Organizations are able to analyze information quickly by adjusting the details of tasks and processes in order to improve business results. This analysis also helps them learn how their products or services match the market requirements or company&amp;rsquo;s needs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. Robust security&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Companies need to process, store and manage data in a secure and safe manner. Various&amp;nbsp;security measures&amp;nbsp;are used such as encryption, access control systems, firewalls, and others.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;7. Enhanced compliance&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;IM helps companies track the data they generate or supply to other people or organizations in order to ensure compliance with legal regulations or codes of conduct. In addition, the information can be used to identify the source of the data and who they need to talk with in order to gain access.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8. Improved risk management&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Following the&amp;nbsp;latest trends in information management&amp;nbsp;will help your organization decrease security risks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One of the most critical information management benefits is to&amp;nbsp;increase security and reduce risk. Information security keeps confidential data safe from both physical and electronic threats, but even more importantly, it prevents unauthorized access to the corporate network.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Companies need to follow a set of rules and procedures that ensure the safety, security, and privacy of their business processes. IM is used for following these rules by organizations such as banks, financial institutions, or Internet service providers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;9. Optimized service delivery&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Companies need to provide customers with the required services in order to meet their needs and expectations. Information management&amp;nbsp;is one of the elements that are used when providing these services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;10. Business intelligence&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Businesses play a vital role in the management of large amounts of data. Information management helps businesses when collecting data from all parts of the organization, by providing them with a common way to store and access this data.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;11. Business continuity&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;IM is used when an organization has a large amount of information in its system. Although many companies have emergency recovery plans, they still lose information that can be crucial for the success of the whole operation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;12. Disaster recovery&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If a system or a component of it were to fail, it would be difficult to get back online and finish the specific task that had been interrupted. IM is used to ensure this information can be retrieved again in case of failure. The system should also be able to continue operating given that the specific component has failed in the first place.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;13. Data analytics&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Organizations that make use of data analytics can quickly identify trends and insights, which can then be used to inform decision-making. For example, if a certain type of business has a tendency toward fraud or theft, it might be more effective to focus on these problems where the volume of data is higher than for other types of business&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: Theecmconsultant&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Collected by the author&amp;nbsp; DTSVN team - Digital transformation solutions for the Finance - Banking&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking field in Vietnam; helping banks and financial institutions quickly complete the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now and experience our significant software solution here.&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-07-10T06:04:13.000Z</time_create_dt>
+	<createdDate>2025-08-25T06:04:12.547Z</createdDate>
+	<createdDate_dt>2025-08-25T06:04:12.547Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T06:04:12.547Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T06:04:12.547Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

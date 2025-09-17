@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>05f1</objectGroupId>
+	<objectId>05f1790a-2e90-02ce-d95a-019c7c11eff3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>05f1790a-2e90-02ce-d95a-019c7c11eff3</folder-name>
+	<internal-name>Cách Ngân hàng xử lý quan hệ hợp tác với các Fintech và các rủi ro khác như thế nào?</internal-name>
+	<navLabel>Cách Ngân hàng xử lý quan hệ hợp tác với các Fintech và các rủi ro khác như thế nào?</navLabel>
+	<title_vi_s>Cách Ngân hàng xử lý quan hệ hợp tác với các Fintech và các rủi ro khác như thế nào?</title_vi_s>
+	<title_en_s>How does the Bank handle Fintech partnerships and other risks?</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/ngan-hang-bat-tay-fintech-phan-1-hop-tac-ngan-hang-fintech-trong-dieu-kien-on-dinh-tai-chinh-toan-dien-2.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Hiện nay, tiềm năng của việc kết nối giữa c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng truyền thống v&amp;agrave; c&amp;aacute;c c&amp;ocirc;ng ty t&amp;agrave;i ch&amp;iacute;nh (Fintech) đang trở n&amp;ecirc;n hấp dẫn. Điều n&amp;agrave;y mở ra cơ hội mới để mang đến những dịch vụ t&amp;agrave;i ch&amp;iacute;nh tiện &amp;iacute;ch hơn v&amp;agrave; tối ưu h&amp;oacute;a trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng. Tuy nhi&amp;ecirc;n, để th&amp;agrave;nh c&amp;ocirc;ng trong mối quan hệ n&amp;agrave;y, việc x&amp;acirc;y dựng chiến lược th&amp;ocirc;ng minh v&amp;agrave; quản l&amp;yacute; rủi ro hiệu quả l&amp;agrave; v&amp;ocirc; c&amp;ugrave;ng quan trọng.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đẩy mạnh quản trị rủi ro v&amp;agrave; tu&amp;acirc;n thủ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh đang đầu tư nhiều hơn v&amp;agrave;o quản trị rủi ro v&amp;agrave; tu&amp;acirc;n thủ, được gọi chung l&amp;agrave; GRC (Governance &amp;ndash; Risk &amp;ndash; Compliance). Tuy nhi&amp;ecirc;n, c&amp;oacute; nhiều c&amp;aacute;ch tiếp cận kh&amp;aacute;c nhau giữa c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave;&amp;nbsp; mang lại kết quả kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cuộc khảo s&amp;aacute;t do Ncontracts thực hiện với CBANC cung cấp c&amp;aacute;i nh&amp;igrave;n s&amp;acirc;u sắc về sự phức tạp của quản l&amp;yacute; rủi ro trong m&amp;ocirc;i trường hiện tại v&amp;agrave; cho biết mức độ h&amp;agrave;i l&amp;ograve;ng của c&amp;aacute;c gi&amp;aacute;m đốc điều h&amp;agrave;nh với c&amp;aacute;c phương ph&amp;aacute;p tiếp cận kh&amp;aacute;c nhau m&amp;agrave; họ đang thực hiện.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khoảng 40% c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh tham gia cuộc khảo s&amp;aacute;t c&amp;oacute; t&amp;agrave;i sản hơn 1 tỷ USD, phần c&amp;ograve;n lại c&amp;oacute; quy m&amp;ocirc; nhỏ hơn. Ph&amp;acirc;n t&amp;iacute;ch về quy m&amp;ocirc; t&amp;agrave;i sản như sau: 6,8% - hơn 10 tỷ USD t&amp;agrave;i sản; 33,3% c&amp;oacute; 1 tỷ USD đến 10 tỷ USD; 19,7% c&amp;oacute;500 triệu USD đến 1 tỷ USD; v&amp;agrave; 40,1% - dưới 500 triệu USD.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ch&amp;uacute; trọng việc t&amp;igrave;m kiếm đối t&amp;aacute;c trong lĩnh vực Fintech đang l&amp;agrave; ưu ti&amp;ecirc;n h&amp;agrave;ng đầu&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với c&amp;aacute;c quan hệ đối t&amp;aacute;c fintech, cho vay l&amp;agrave; phổ biến nhất, nhưng c&amp;aacute;c khoản thanh to&amp;aacute;n v&amp;agrave; rủi ro c&amp;ocirc;ng nghệ cũng đang được ch&amp;uacute; &amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng c&amp;oacute; g&amp;igrave; ngạc nhi&amp;ecirc;n khi c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh đang d&amp;agrave;nh sự quan t&amp;acirc;m đặc biệt cho việc quản l&amp;yacute; tu&amp;acirc;n thủ (được nhắc đến trong 72,2% trường hợp) v&amp;agrave; bảo mật mạng (chiếm 62% trường hợp) khi họ đ&amp;aacute;nh gi&amp;aacute; c&amp;aacute;c mối quan hệ đối t&amp;aacute;c. Thực tế, tầm quan trọng của việc đối t&amp;aacute;c fintech phải thể hiện r&amp;otilde; việc tu&amp;acirc;n thủ kh&amp;ocirc;ng thể bị đ&amp;aacute;nh gi&amp;aacute; thấp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực tế, c&amp;ocirc;ng ty fintech m&amp;agrave; kh&amp;ocirc;ng thể chứng minh được khả năng quản l&amp;yacute; tu&amp;acirc;n thủ mạnh mẽ sẽ rất kh&amp;oacute; c&amp;oacute; cơ hội hợp t&amp;aacute;c với bất kỳ ng&amp;acirc;n h&amp;agrave;ng hay hiệp hội t&amp;iacute;n dụng n&amp;agrave;o. V&amp;igrave; rủi ro vi phạm c&amp;aacute;c quy định v&amp;agrave; vướng mắc về tu&amp;acirc;n thủ l&amp;agrave; điều m&amp;agrave; kh&amp;ocirc;ng ai muốn đối mặt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lựa chọn đối t&amp;aacute;c Fintech ph&amp;ugrave; hợp: Đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; Hợp t&amp;aacute;c&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong bối cảnh đặt rủi ro v&amp;agrave; tu&amp;acirc;n thủ l&amp;ecirc;n h&amp;agrave;ng đầu, c&amp;aacute;ch c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh xử l&amp;yacute; mối quan hệ hợp t&amp;aacute;c với c&amp;aacute;c đối t&amp;aacute;c fintech tiềm năng cũng phức tạp v&amp;agrave; đa dạng hơn. Theo một cuộc khảo s&amp;aacute;t gần đ&amp;acirc;y, c&amp;oacute; sự ch&amp;ecirc;nh lệch r&amp;otilde; rệt trong c&amp;aacute;ch họ đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; quản l&amp;yacute; mối quan hệ n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hầu hết c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh (54,7%) b&amp;aacute;o c&amp;aacute;o sử dụng chương tr&amp;igrave;nh quản l&amp;yacute; nh&amp;agrave; cung cấp để đ&amp;aacute;nh gi&amp;aacute; c&amp;aacute;c đối t&amp;aacute;c fintech tiềm năng. Điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave; họ đ&amp;atilde; lập th&amp;agrave;nh văn bản c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch v&amp;agrave; thủ tụcdưới sự gi&amp;aacute;m s&amp;aacute;t chặt chẽ của cơ quan quản l&amp;yacute; trong lĩnh vực n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n,cũng c&amp;oacute; tới 28,4% tổ chức kh&amp;ocirc;ng chỉ bỏ qua chương tr&amp;igrave;nh quản l&amp;yacute; nh&amp;agrave; cung cấp m&amp;agrave; c&amp;ograve;n thiếu quan t&amp;acirc;m đến mảng n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực tế cho thấy, hiện nay, th&amp;ocirc;ng tin c&amp;oacute; thể truyền tải nhanh ch&amp;oacute;ng v&amp;agrave; lan rộng, cảt&amp;iacute;ch cực lẫn ti&amp;ecirc;u cực. Điều quan trọng l&amp;agrave; c&amp;aacute;c fintech, đặc biệt l&amp;agrave; những người mới gia nhập, phải cẩn trọng v&amp;agrave; đảm bảo m&amp;igrave;nh nắm vững c&amp;aacute;c nguy&amp;ecirc;n tắc quản l&amp;yacute; rủi ro, tu&amp;acirc;n thủ v&amp;agrave; c&amp;aacute;c lĩnh vực kh&amp;aacute;c, để kh&amp;ocirc;ng bị l&amp;atilde;ng qu&amp;ecirc;n trong cuộc cạnh tranh khốc liệt n&amp;agrave;y trở th&amp;agrave;nh đối t&amp;aacute;c của c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tối ưu h&amp;oacute;a nguồn nh&amp;acirc;n lực cho quản l&amp;yacute; rủi ro v&amp;agrave; tu&amp;acirc;n thủ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng một tổ chức t&amp;agrave;i ch&amp;iacute;nh n&amp;agrave;o tham gia trong cuộc khảo s&amp;aacute;t đang c&amp;oacute; kế hoạch cắt giảm số lượng nh&amp;acirc;n vi&amp;ecirc;n trong c&amp;aacute;c bộ phận quản l&amp;yacute; rủi ro v&amp;agrave; tu&amp;acirc;n thủ, theo th&amp;ocirc;ng tin từ cuộc khảo s&amp;aacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Số liệu cho thấy chỉ c&amp;oacute; hơn 40% trong số họ đang l&amp;ecirc;n kế hoạch tăng cường nh&amp;oacute;m c&amp;ocirc;ng việc li&amp;ecirc;n quan đến rủi ro v&amp;agrave; tu&amp;acirc;n thủ, với sự ch&amp;uacute; trọng hơn v&amp;agrave;o lĩnh vực tu&amp;acirc;n thủ (27.6%) so với rủi ro (13%). Phần c&amp;ograve;n lại đang duy tr&amp;igrave; mức ổn định về lực lượng nh&amp;acirc;n sự.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc xem x&amp;eacute;t một khoảng thời gian 18 th&amp;aacute;ng trước đ&amp;acirc;y, nơi m&amp;agrave; người tham gia khảo s&amp;aacute;t đ&amp;atilde; đặt ra c&amp;aacute;c c&amp;acirc;u hỏi v&amp;agrave; quan t&amp;acirc;m, sẽ gi&amp;uacute;p l&amp;agrave;m s&amp;aacute;ng tỏ l&amp;yacute; do tại sao nhiều ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;iacute;n dụng đang cảm thấy cần phải gia tăng số lượng nh&amp;acirc;n sự mảng n&amp;agrave;y một c&amp;aacute;ch đ&amp;aacute;ng kể. Người đứng đầu c&amp;aacute;c cơ quan kiểm tra&amp;nbsp; đ&amp;atilde; thể hiện sự quan t&amp;acirc;m đặc biệt đối với việc quản l&amp;yacute; rủi ro (30.4%), theo sau bởi quản l&amp;yacute; tu&amp;acirc;n thủ (33.7%), kiểm to&amp;aacute;n v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t (34.7%), cũng như lĩnh vực CNTT/bảo mật dữ liệu/an ninh mạng (30.5%), v&amp;agrave; quản l&amp;yacute; c&amp;aacute;c nh&amp;agrave; cung cấp b&amp;ecirc;n thứ ba (29.5%), tất cả đều đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong việc duy tr&amp;igrave; tu&amp;acirc;n thủ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;ch tiếp cận thủ c&amp;ocirc;ng trong quản l&amp;yacute; rủi ro t&amp;agrave;i ch&amp;iacute;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nghi&amp;ecirc;n cứu cũng cho thấy rằng nhiều tổ chức t&amp;agrave;i ch&amp;iacute;nh vẫn đang phụ thuộc mạnh v&amp;agrave;o c&amp;aacute;c quy tr&amp;igrave;nh thủ c&amp;ocirc;ng trong việc quản l&amp;yacute; rủi ro v&amp;agrave; tu&amp;acirc;n thủ. Điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave;, họ vẫn đang theo d&amp;otilde;i mọi kh&amp;iacute;a cạnh bằng c&amp;aacute;ch thủ c&amp;ocirc;ng, th&amp;ocirc;ng qua việc sử dụng c&amp;aacute;c c&amp;ocirc;ng cụ cơ bản như bảng t&amp;iacute;nh v&amp;agrave; email, thay v&amp;igrave; &amp;aacute;p dụng những c&amp;ocirc;ng cụ hiện đại v&amp;agrave; hiệu quả hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo khảo s&amp;aacute;t, hơn một phần tư (24%) c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh tiếp tục sử dụng quy tr&amp;igrave;nh thủ c&amp;ocirc;ng trong c&amp;ocirc;ng việc của họ đ&amp;atilde; thể hiện sự kh&amp;ocirc;ng h&amp;agrave;i l&amp;ograve;ng với phương ph&amp;aacute;p n&amp;agrave;y. Họ cho biết rằng việc tiếp tục sử dụng quy tr&amp;igrave;nh thủ c&amp;ocirc;ng đ&amp;atilde; l&amp;agrave;m nảy sinh những rủi ro v&amp;agrave; vấn đề về dữ liệu, hệ thống v&amp;agrave; c&amp;ocirc;ng cụ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Cơn s&amp;oacute;ng cải c&amp;aacute;ch quản l&amp;yacute; rủi ro: Doanh nghiệp đ&amp;oacute;n đầu hợp t&amp;aacute;c với nhiều nh&amp;agrave; cung cấp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo khảo s&amp;aacute;t, ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave;tổ chức t&amp;agrave;i ch&amp;iacute;nh sử dụng nhiều nh&amp;agrave; cung cấp &amp;iacute;t c&amp;oacute; khả năng &amp;ldquo;rất h&amp;agrave;i l&amp;ograve;ng&amp;rdquo; với c&amp;aacute;c nỗ lực tu&amp;acirc;n thủ v&amp;agrave; rủi ro của họ so với những tổ chức sử dụng một nh&amp;agrave; cung cấp duy nhất gần gấp ba lần.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong số c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; hiệp hội t&amp;iacute;n dụng tận dụng một giải ph&amp;aacute;p duy nhất từ một nh&amp;agrave; cung cấp duy nhất, 30% h&amp;agrave;i l&amp;ograve;ng. Điều n&amp;agrave;y được định nghĩa l&amp;agrave; c&amp;oacute; sự hiểu biết đầy đủ về rủi ro v&amp;agrave; t&amp;igrave;nh trạng tu&amp;acirc;n thủ của họ v&amp;agrave; khả năng dễ d&amp;agrave;ng b&amp;aacute;o c&amp;aacute;o những th&amp;ocirc;ng tin đ&amp;oacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mức độ h&amp;agrave;i l&amp;ograve;ng của họ cao hơn đ&amp;aacute;ng kể so với những người sử dụng nhiều nh&amp;agrave; cung cấp (13,3%) v&amp;agrave; những người c&amp;oacute; quy tr&amp;igrave;nh thủ c&amp;ocirc;ng (10,3%).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đạt được lợi thế cạnh tranh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những rủi ro m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; hiệp hội t&amp;iacute;n dụng phải giải quyết ng&amp;agrave;y c&amp;agrave;ng trở n&amp;ecirc;n phức tạp v&amp;agrave; m&amp;ocirc;i trường ph&amp;aacute;p l&amp;yacute; cũng vậy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sử dụng c&amp;aacute;c quy tr&amp;igrave;nh thủ c&amp;ocirc;ng để quản l&amp;yacute; những th&amp;aacute;ch thức về tu&amp;acirc;n thủ v&amp;agrave; rủi ro n&amp;agrave;y kh&amp;ocirc;ng c&amp;ograve;n l&amp;agrave; một c&amp;aacute;ch tiếp cận bền vững. C&amp;aacute;ch tiếp cận n&amp;agrave;y dẫn đến lỗ hổng về dữ liệu, hệ thống v&amp;agrave; c&amp;ocirc;ng cụ, khiến c&amp;aacute;c tổ chức kh&amp;ocirc;ng c&amp;oacute; c&amp;aacute;i nh&amp;igrave;n s&amp;acirc;u sắc cần thiết cho việc ra quyết định chiến lược.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một giải ph&amp;aacute;p tự động l&amp;agrave; một khoản đầu tư v&amp;agrave;o khả năng phục hồi v&amp;agrave; th&amp;agrave;nh c&amp;ocirc;ng trong tương lai của một tổ chức. C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; hiệp hội t&amp;iacute;n dụng &amp;aacute;p dụng c&amp;aacute;c giải ph&amp;aacute;p t&amp;iacute;ch hợp, phức tạp hơn sẽ c&amp;oacute; dữ liệu v&amp;agrave; th&amp;ocirc;ng tin chi tiết về doanh nghiệp c&amp;oacute; gi&amp;aacute; trị nhất cũng như vị tr&amp;iacute; tu&amp;acirc;n thủ mạnh nhất, tạo cơ hội đạt được lợi thế cạnh tranh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: THE FINANCIAL BRAND &amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;-------------&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p tại đ&amp;acirc;y.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;How are bank and credit union leaders coping as regulators step up the pressure? A survey of bank and credit union executives offers a lot of insight into their approach to managing risk and compliance. It covers bank-fintech partnerships, staffing and more. There are even details about what areas examiners are focusing on.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;By Rafael DeLeon of Ncontracts&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Risk and compliance are top of mind for financial institutions of all sizes and for good reason. Keeping up with new regulatory requirements continues to be a challenge.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A recent example is the Consumer Financial Protection Bureau&amp;rsquo;s final version of 1071, the small business lending data collection rule. This new rule requires additional reporting on commercial and small business loan applications, similar to Home Mortgage Disclosure Act reporting.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Meanwhile, regulators are cracking down, particularly around fair lending. In 2022 alone, the CFPB levied approximately $3.7 billion in&amp;nbsp;civil money penalties as a result of its enforcement actions. From operational and fraud risk to liquidity and market risk, financial institutions are also facing greater threats than ever before.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Adding to these challenges, third-party vendor management is also getting more scrutiny, in part because of the growing banking-as-a-service trend. In June, the&amp;nbsp;Interagency Guidance on Third-Party Relationships was finalized (two years after it was initially proposed). This aligns vendor management requirements across the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corp. and the Federal Reserve and replaces previous guidance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;How are bank and credit union leaders coping with all of these demands? And what strategies they are using to ensure their institutions stay in line?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In a survey of nearly 150 executives at U.S. banks and credit unions, several major trends emerged related to staffing, vendor management and technology, among other things.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Risk and Compliance Efforts on the Rise&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To keep their heads above water,&amp;nbsp;financial institutions are investing more heavily in governance, risk and compliance efforts,&amp;nbsp;known collectively as GRC. Yet approaches vary across financial institutions and these approaches yield different results.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The survey, which Ncontracts conducted with CBANC, offers insight into the intricacies of risk management in the current environment and gives a sense of how satisfied executives are with various approaches they are taking.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Particularly relevant given the latest guidance on third-party vendor relationships, it assesses the factors affecting the evaluation and selection of fintech partnerships. The use of vendors for risk and compliance and the effectiveness of different approaches in data collection are also covered. So, too, is examiner scrutiny.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;About 40% of the financial institutions participating in the survey have more than $1 billion of assets, with the rest being smaller. The breakdown in terms of asset size is as follows: 6.8%, more than $10 billion of assets; 33.3%, $1 billion to $10 billion; 19.7%, $500 million to $1 billion; and 40.1%, less than $500 million.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Most Are Hunting for Fintech Partnerships&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;More than half of banks and credit unions participating in the survey (52.9%) report plans to evaluate fintech partnerships in the next one to two years.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As for the types of fintech partnerships they are interested in, lending is the most popular, but payments and risktech also are getting attention. Regtech is on the list for some as well. There were seven different types of fintechs listed in all.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Not surprisingly, financial institutions that are on the hunt for fintech partners are prioritizing compliance management (72.2%) and cybersecurity (62%) when evaluating partnerships. The importance of a fintech partner&amp;rsquo;s compliance posture cannot be underestimated.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If a fintech can&amp;rsquo;t demonstrate a strong compliance management program, no bank or credit union will want to touch it. The risk of compliance violations and regulatory trouble is just too high.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Evaluating Which Fintech Partners to Work With&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As risk and compliance remain top of mind, most financial institutions (54.7%) report using a vendor management program to evaluate potential fintech partners. This means they have documented policies and procedures in place &amp;nbsp;which is good news, given the heightened regulatory scrutiny in this area.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, an astounding 28.4% do not have a vendor management program. This is most common among the banks and credit unions with less than $500 million in assets.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Meanwhile, 80% of the survey respondents report that the fintechs they&amp;rsquo;ve reviewed have a solid understanding of regulatory requirements and other key factors.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This is&amp;nbsp;not&amp;nbsp;to suggest that fintechs in general are doing well in terms of regulatory compliance.&amp;nbsp;What it means is that financial institutions are only seriously considering fintechs that have mastered risk management, compliance and other key areas.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The world of banking is small and word spreads fast. So fintechs without mastery in these areas aren&amp;rsquo;t even getting meetings.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Staffing Up in Risk and Compliance&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Not a single financial institution in the survey plans to reduce headcount across its compliance and risk management departments &amp;nbsp;which is telling.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Just over 40% plan to add to their risk and compliance teams, more so in compliance (27.6%) than risk (13%). The rest are holding steady in terms of staffing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A look at where examiners have had questions and concerns in the last 18 months casts some light on why many banks and credit unions are feeling the need to bulk up. Survey participants report that their examiners showed extra interest in risk management (30.4%), compliance management (33.7%), audit and findings (34.7%), IT/data security/cybersecurity (30.5%) and third-party vendor management (29.5%), all of which play an essential role in compliance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, adding compliance staff isn&amp;rsquo;t just a matter of budgeting for the additional expense. While finding talent is increasingly difficult across many areas of banking, hiring risk and compliance specialists has been especially challenging. Community banks and credit unions in remote parts of the country are struggling the most with this.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Many Still Using Manual Processes &amp;nbsp;a Risky Approach&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The survey also found that many financial institutions still rely on manual processes for risk and compliance. That is, they track everything manually using spreadsheets, emails and other less-than-ideal tools.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This is most common among banks and credit unions with less than $1 billion of assets, a sign that as an institution grows, manual processes simply can&amp;rsquo;t keep pace.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nearly a quarter (24%) of financial institutions that leverage manual processes report being dissatisfied with the approach, citing gaps in their data, systems and tools.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Manual processes are also red flags for regulators. In fact, the survey found that banks and credit unions with a manual approach were 16.8% more likely to experience examiner questions and concerns about compliance management.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The smaller institutions with a manual approach include 36.4% of those with less than $500 million in assets and 40% of those with $500 million to $1 billion of assets.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Also, 13% of the institutions with more than $10 billion of assets use manual processes. Notably, none of those with between $1 billion and $10 billion of assets do.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Juggling Multiple Risk Management Vendors&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Manual processes are clearly not ideal. But having too many vendors also appears to be problematic.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to the survey, financial institutions that use multiple vendors are less likely to be &amp;ldquo;very satisfied&amp;rdquo; with their risk and compliance efforts compared with those that leverage a single vendor by a factor of nearly three.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Among the banks and credit unions that leverage a single solution from a single vendor, 30% are satisfied. This is defined as having a full understanding of their risk and compliance status and the ability to easily report such information to inform strategy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Their satisfaction level is substantially higher than those using multiple vendors (13.3%) and those with manual processes (10.3%).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In addition, those using multiple solutions from different providers were 68.1% more likely to have examiners raise issues with third-party vendor management and 60% more likely to get examiner questions or concerns in the area of IT, data security and cybersecurity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gaining a Competitive Advantage&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The risks that banks and credit unions must navigate are getting increasingly complex, and so is the regulatory environment.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Using manual processes to manage these risk and compliance challenges is no longer a sustainable approach. This approach results in gaps in data, systems and tools, which leaves institutions without the insight needed for strategic decision-making.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;An automated solution is an investment in an institution&amp;rsquo;s resilience and future success. Banks and credit unions that adopt more sophisticated, integrated solutions will have the most valuable data and business insights and the strongest compliance positions, creating the opportunity to gain a competitive advantage.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: The Finacial Brand&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Collected by the author&amp;nbsp; DTSVN team - Digital transformation solutions for the Finance - Banking&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking field in Vietnam; helping banks and financial institutions quickly complete the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now and experience our significant software solution here.&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-05-22T10:15:03.000Z</time_create_dt>
+	<createdDate>2025-08-25T10:15:02.360Z</createdDate>
+	<createdDate_dt>2025-08-25T10:15:02.360Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T10:24:08.255Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T10:24:08.255Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

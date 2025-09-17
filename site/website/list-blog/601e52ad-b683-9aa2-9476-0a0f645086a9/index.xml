@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>601e</objectGroupId>
+	<objectId>601e52ad-b683-9aa2-9476-0a0f645086a9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>601e52ad-b683-9aa2-9476-0a0f645086a9</folder-name>
+	<internal-name>DTSVN Tuyển dụng: Tester</internal-name>
+	<navLabel>DTSVN Tuyển dụng: Tester</navLabel>
+	<title_vi_s>DTSVN Tuyển dụng: Tester</title_vi_s>
+	<title_en_s>DTSVN Recruitment: Tester</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/hinh-anh-tuyen-dung-dep-chuyen-nghiep-an-tuong--1-.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;X&amp;acirc;y dựng kế hoạch v&amp;agrave; phương ph&amp;aacute;p kiểm thử;&lt;/li&gt;
+&lt;li&gt;X&amp;acirc;y dựng kịch bản/ trường hợp kiểm thử cho c&amp;aacute;c phần mềm ứng dụng;&lt;/li&gt;
+&lt;li&gt;Thực hiện việc kiểm thử SIT/UAT c&amp;aacute;c phần mềm ứng dụng;&lt;/li&gt;
+&lt;li&gt;Theo d&amp;otilde;i việc xử l&amp;yacute; lỗi của đội ph&amp;aacute;t triển v&amp;agrave; tổng hợp b&amp;aacute;o c&amp;aacute;o tiến độ kiểm thử, c&amp;aacute;c vướng mắc l&amp;ecirc;n c&amp;aacute;c cấp quản l&amp;yacute;/Quản trị dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;Thực hiện c&amp;aacute;c c&amp;ocirc;ng việc li&amp;ecirc;n quan đến ph&amp;aacute;t triển/kiểm thử tự động phần mềm (automation testing) gồm:&lt;br&gt;-&amp;nbsp;Ph&amp;aacute;t triển framework v&amp;agrave; đ&amp;agrave;o tạo&lt;br&gt;-&amp;nbsp;Automation tester&lt;br&gt;-&amp;nbsp;Performance testing (load/stress&amp;hellip;)&lt;br&gt;-&amp;nbsp;Tham gia x&amp;acirc;y dựng, ho&amp;agrave;n thiện b&amp;aacute;o c&amp;aacute;o kiểm thử v&amp;agrave; c&amp;aacute;c t&amp;agrave;i liệu dự &amp;aacute;n li&amp;ecirc;n quan đến to&amp;agrave;n bộ qu&amp;aacute; tr&amp;igrave;nh kiểm thử.&lt;/li&gt;
+&lt;li&gt;Tham gia triển khai c&amp;aacute;c Dự &amp;aacute;n C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin;&lt;/li&gt;
+&lt;li&gt;Tham gia nghi&amp;ecirc;n cứu khoa học, x&amp;acirc;y dựng c&amp;aacute;c sản phẩm nội bộ;&lt;/li&gt;
+&lt;li&gt;Tham gia c&amp;aacute;c kho&amp;aacute; đ&amp;agrave;o tạo;&lt;/li&gt;
+&lt;li&gt;X&amp;acirc;y dựng t&amp;agrave;i liệu hướng dẫn người d&amp;ugrave;ng.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Bằng cử nh&amp;acirc;n (hoặc tương đương) trong lĩnh vực c&amp;oacute; li&amp;ecirc;n quan;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; từ 1 năm kinh nghiệm test manual;&lt;/li&gt;
+&lt;li&gt;Hiểu biết về phương ph&amp;aacute;p Agile/Scrum v&amp;agrave; c&amp;aacute;ch quản l&amp;yacute; chất lượng hoạt động trong đ&amp;oacute;;&lt;/li&gt;
+&lt;li&gt;Kiến thức s&amp;acirc;u rộng về kỹ thuật lập tr&amp;igrave;nh, phương ph&amp;aacute;p v&amp;agrave; c&amp;ocirc;ng cụ đảm bảo chất lượng;&lt;/li&gt;
+&lt;li&gt;Kỹ năng m&amp;aacute;y t&amp;iacute;nh bao gồm quản l&amp;yacute; cơ sở dữ liệu;&lt;/li&gt;
+&lt;li&gt;Kỹ năng ph&amp;acirc;n t&amp;iacute;ch, giải quyết vấn đề v&amp;agrave; ra quyết định;&lt;/li&gt;
+&lt;li&gt;Kỹ năng l&amp;agrave;m việc nh&amp;oacute;m tốt;&lt;/li&gt;
+&lt;li&gt;Kỹ năng trao đổi truyền đạt tốt;&lt;/li&gt;
+&lt;li&gt;Th&amp;agrave;nh thạo c&amp;aacute;c phương ph&amp;aacute;p hay nhất để thử nghiệm, kiểm so&amp;aacute;t phi&amp;ecirc;n bản v&amp;agrave; quản l&amp;yacute; lỗi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Được nhận mức thu nhập cạnh tranh;&lt;/li&gt;
+&lt;li&gt;Được ph&amp;aacute;t triển sản phẩm lớn, quy m&amp;ocirc; h&amp;agrave;ng triệu người d&amp;ugrave;ng;&lt;/li&gt;
+&lt;li&gt;Được hưởng Bảo hiểm x&amp;atilde; hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp theo chế độ nh&amp;agrave; nước ban h&amp;agrave;nh;&lt;/li&gt;
+&lt;li&gt;Nghỉ ph&amp;eacute;p năm v&amp;agrave; c&amp;aacute;c ng&amp;agrave;y nghỉ lễ Tết kh&amp;aacute;c theo quy định của nh&amp;agrave; nước Việt Nam;&lt;/li&gt;
+&lt;li&gt;M&amp;ocirc;i trường cực kỳ năng động, vui vẻ v&amp;agrave; thoải m&amp;aacute;i, nơi c&amp;aacute;c bạn được thỏa sức s&amp;aacute;ng tạo v&amp;agrave; thể hiện đam m&amp;ecirc;, ph&amp;aacute;t triển bản th&amp;acirc;n.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Gửi CV qua mail: vietla@dtsvn.net hoặc SĐT: 0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Build test plans and methodologies;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop test scenarios/test cases for application software;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Execute SIT/UAT testing for application software;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor bug fixing by the development team and consolidate test progress reports, issues to management/Project Manager;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform tasks related to software automation testing, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Framework development and training&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automation tester&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Performance testing (load/stress, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in building, finalizing test reports and project documents related to the entire testing process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in the implementation of Information Technology Projects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in scientific research, developing internal products;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attend training courses;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop user manuals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Bachelor&amp;rsquo;s degree (or equivalent) in a related field;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At least 1 year of manual testing experience;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understanding of Agile/Scrum methodology and quality management practices within it;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Extensive knowledge of programming techniques, quality assurance methods and tools;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer skills including database management;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong analytical, problem-solving and decision-making skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good teamwork skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good communication skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proficient in best practices for testing, version control, and bug management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive salary;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Opportunity to develop large-scale products serving millions of users;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entitled to Social Insurance, Health Insurance, Unemployment Insurance in accordance with State regulations;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Annual leave and public holidays in compliance with Vietnam&amp;rsquo;s labor laws;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Extremely dynamic, fun, and comfortable working environment where you can freely express creativity, passion, and personal growth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Interested candidates please send CV to DTSVN:&amp;nbsp;&lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hotline: 0356 504 448&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-07-11T05:59:28.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:59:27.167Z</createdDate>
+	<createdDate_dt>2025-08-25T05:59:27.167Z</createdDate_dt>
+	<lastModifiedDate>2025-09-15T08:06:25.802Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-15T08:06:25.802Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

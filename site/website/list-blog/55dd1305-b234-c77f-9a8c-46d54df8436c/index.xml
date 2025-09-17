@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>55dd</objectGroupId>
+	<objectId>55dd1305-b234-c77f-9a8c-46d54df8436c</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<internal-name>DTSVN tuyển dụng: Project Manager – Quản trị dự án </internal-name>
+	<navLabel>DTSVN tuyển dụng: Project Manager – Quản trị dự án</navLabel>
+	<title_vi_s>DTSVN tuyển dụng: Project Manager – Quản trị dự án</title_vi_s>
+	<title_en_s>DTSVN is recruiting: Project Manager - Project Management</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>55dd1305-b234-c77f-9a8c-46d54df8436c</folder-name>
+	<img_main_s>/static-assets/images/images2244558-1.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Quản l&amp;yacute; kỳ vọng của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan để đảm bảo đạt được c&amp;aacute;c mục ti&amp;ecirc;u của dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; v&amp;agrave; kiểm so&amp;aacute;t tiến độ, chất lượng, chi ph&amp;iacute; dự &amp;aacute;n theo kế hoạch đ&amp;atilde; thỏa thuận v&amp;agrave; ph&amp;ecirc; duyệt;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; Nguồn lực theo thỏa thuận trước với th&amp;agrave;nh vi&amp;ecirc;n v&amp;agrave; ph&amp;ugrave; hợp với điều lệ dự &amp;aacute;n, kế hoạch dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m c&amp;ocirc;ng t&amp;aacute;c quản l&amp;yacute; rủi ro dự &amp;aacute;n cho c&amp;aacute;c dự &amp;aacute;n được gia;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; tranh chấp v&amp;agrave; giải tr&amp;igrave;nh ph&amp;ugrave; hợp trong lĩnh vực dự &amp;aacute;n được giao;&lt;/li&gt;
+&lt;li&gt;Đảm bảo c&amp;aacute;c hoạt động của dự &amp;aacute;n tu&amp;acirc;n thủ c&amp;aacute;c quy định nội bộ cũng như c&amp;aacute;c quy định &amp;aacute;p dụng kh&amp;aacute;c cho c&amp;aacute;c dự &amp;aacute;n được giao;&lt;/li&gt;
+&lt;li&gt;Hỗ trợ trong việc x&amp;aacute;c định phạm vi v&amp;agrave; mục ti&amp;ecirc;u của dự &amp;aacute;n, với sự tham gia của tất cả c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan v&amp;agrave; đảm bảo t&amp;iacute;nh khả thi về mặt kỹ thuật;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; th&amp;ocirc;ng tin li&amp;ecirc;n lạc trong dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;Đảm bảo nguồn lực sẵn c&amp;oacute; v&amp;agrave; ph&amp;acirc;n bổ nguồn lực hợp l&amp;yacute; trong dự &amp;aacute;n được giao&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; c&amp;aacute;c thay đổi đối với phạm vi dự &amp;aacute;n, tiến độ dự &amp;aacute;n v&amp;agrave; chi ph&amp;iacute; dự &amp;aacute;n bằng c&amp;aacute;ch sử dụng c&amp;aacute;c kỹ thuật th&amp;iacute;ch hợp theo phương ph&amp;aacute;p luận quản l&amp;yacute; dự &amp;aacute;n của ng&amp;acirc;n h&amp;agrave;ng;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; th&amp;agrave;nh c&amp;ocirc;ng mối quan hệ với kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; tất cả c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan;&lt;/li&gt;
+&lt;li&gt;Chịu tr&amp;aacute;ch nhiệm kết quả triển khai dự &amp;aacute;n.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Bằng Cử nh&amp;acirc;n (hoặc cao hơn) về Ng&amp;acirc;n h&amp;agrave;ng, CNTT hoặc Quản l&amp;yacute;;&lt;/li&gt;
+&lt;li&gt;Ưu ti&amp;ecirc;n chứng chỉ Quản l&amp;yacute; dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; &amp;iacute;t nhất 2-3 năm l&amp;agrave;m Quản l&amp;yacute; dự &amp;aacute;n về ph&amp;aacute;t triển phần mềm;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kinh nghiệm trong một lĩnh vực ng&amp;acirc;n h&amp;agrave;ng cụ thể &amp;iacute;t nhất từ ​​2-3 năm;&lt;/li&gt;
+&lt;li&gt;Hiểu v&amp;ograve;ng đời ph&amp;aacute;t triển phần mềm (SDLC);&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; thể giao tiếp tiếng Anh (bắt buộc).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Thu nhập cạnh tranh, thưởng kinh doanh hấp dẫn theo dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;Cơ chế cổ phần ưu đ&amp;atilde;i;&lt;/li&gt;
+&lt;li&gt;C&amp;aacute;c chế độ bảo hiểm theo Luật lao động + bảo hiểm ưu đ&amp;atilde;i;&lt;/li&gt;
+&lt;li&gt;Teambuilding, nghỉ m&amp;aacute;t v&amp;agrave; c&amp;aacute;c ph&amp;uacute;c lợi kh&amp;aacute;c;&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m việc với team kinh nghiệm chuy&amp;ecirc;n s&amp;acirc;u về T&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, c&amp;ocirc;ng nghệ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Gửi CV qua mail: vietla@dtsvn.net hoặc SĐT: 0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Manage stakeholder expectations to ensure project objectives are achieved;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage and control project schedule, quality, and cost according to the agreed and approved plan;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage resources as agreed with team members and in accordance with project charter and project plan;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform risk management for assigned projects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage disputes and provide appropriate explanations within the assigned project scope;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ensure project activities comply with internal regulations as well as other applicable regulations for assigned projects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support in defining project scope and objectives, involving all relevant stakeholders and ensuring technical feasibility;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage project communications;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ensure resource availability and proper allocation within assigned projects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage changes to project scope, schedule, and cost using appropriate techniques under the bank&amp;rsquo;s project management methodology;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Successfully manage the relationship with clients and all stakeholders;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take responsibility for project implementation outcomes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Bachelor&amp;rsquo;s degree (or higher) in Banking, IT, or Management;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Project Management certification is preferred;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At least 2&amp;ndash;3 years of experience as a Project Manager in software development;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At least 2&amp;ndash;3 years of experience in a specific banking domain;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good understanding of the Software Development Life Cycle (SDLC);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;English communication skills (mandatory).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive income and attractive project-based performance bonus;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Preferential stock option scheme;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Insurance benefits in accordance with Labor Law + premium insurance;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teambuilding, company trips, and other benefits;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with an experienced team in Banking, Finance, and Technology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Interested candidates, please send your CV to&amp;nbsp;&lt;strong&gt;DTSVN: &lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hotline: &lt;em&gt;0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-06-25T08:04:13.000Z</time_create_dt>
+	<createdDate>2025-08-25T08:04:12.760Z</createdDate>
+	<createdDate_dt>2025-08-25T08:04:12.760Z</createdDate_dt>
+	<lastModifiedDate>2025-09-15T08:05:27.322Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-15T08:05:27.322Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

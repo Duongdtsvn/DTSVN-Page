@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-achievements</content-type>
+	<display-template>/templates/web/Component-Achievements.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5c47</objectGroupId>
+	<objectId>5c47ec44-a2d4-e543-25ad-2df91d640ce3</objectId>
+	<file-name>5c47ec44-a2d4-e543-25ad-2df91d640ce3.xml</file-name>
+	<folder-name/>
+	<internal-name>thành tựu en</internal-name>
+	<achievements_s>Achievements</achievements_s>
+	<achievements_o item-list="true">	<item>	<number_s>20+</number_s>
+	<subtitle4_s>Projects recognized as outstanding industry initiatives</subtitle4_s>
+	</item>	<item>	<number_s>80+</number_s>
+	<subtitle4_s>DTSVN projects successfully implemented since establishment</subtitle4_s>
+	</item>	<item>	<number_s>80%</number_s>
+	<subtitle4_s>Projects exceed initial goals and expectations</subtitle4_s>
+	</item>	<item>	<number_s>2022</number_s>
+	<subtitle4_s>The year DTSVN is honored with Sao Khue Award</subtitle4_s>
+	</item></achievements_o>
+	<createdDate>2025-07-07T09:21:44.910Z</createdDate>
+	<createdDate_dt>2025-07-07T09:21:44.910Z</createdDate_dt>
+	<lastModifiedDate>2025-07-07T09:21:44.910Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-07T09:21:44.910Z</lastModifiedDate_dt>
+</component>

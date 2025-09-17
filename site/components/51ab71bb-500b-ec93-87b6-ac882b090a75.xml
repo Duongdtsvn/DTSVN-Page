@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-list-blog-lv2</content-type>
+	<display-template>/templates/web/Component-list-blog-lv2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>51ab</objectGroupId>
+	<objectId>51ab71bb-500b-ec93-87b6-ac882b090a75</objectId>
+	<file-name>51ab71bb-500b-ec93-87b6-ac882b090a75.xml</file-name>
+	<folder-name/>
+	<internal-name>test</internal-name>
+	<title_s>tessttststst</title_s>
+	<date_s>13</date_s>
+	<image_s/>
+	<category_s> Tin công nghệ</category_s>
+	<max_articles_i>6</max_articles_i>
+	<createdDate>2025-07-02T08:42:27.062Z</createdDate>
+	<createdDate_dt>2025-07-02T08:42:27.062Z</createdDate_dt>
+	<lastModifiedDate>2025-07-02T08:51:25.161Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-02T08:51:25.161Z</lastModifiedDate_dt>
+</component>

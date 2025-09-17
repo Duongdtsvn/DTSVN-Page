@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5623</objectGroupId>
+	<objectId>5623744a-d765-56d2-a3fe-3a198daafedd</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>5623744a-d765-56d2-a3fe-3a198daafedd</folder-name>
+	<internal-name>DTSVN tuyển dụng: Chuyên viên Content Creator</internal-name>
+	<navLabel>DTSVN tuyển dụng: Chuyên viên Content Creator</navLabel>
+	<title_vi_s>DTSVN tuyển dụng: Chuyên viên Content Creator</title_vi_s>
+	<title_en_s>DTSVN is recruiting: Content Creator Specialist</title_en_s>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/tuyen-dung.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Kĩ năng: S&amp;aacute;ng tạo nội dung, X&amp;acirc;y dựng kịch bản, Thiết kế ảnh,...&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;S&amp;aacute;ng&amp;nbsp;tạo&amp;nbsp;nội&amp;nbsp;dung Đa&amp;nbsp;k&amp;ecirc;nh: Ph&amp;aacute;t triển nội dung s&amp;aacute;ng tạo v&amp;agrave; thu h&amp;uacute;t tr&amp;ecirc;n blog, notification, email, Facebook, SMS, landing page theo kế hoạch đ&amp;atilde; định, đảm bảo t&amp;iacute;nh nhất qu&amp;aacute;n v&amp;agrave; sự hấp dẫn của th&amp;ocirc;ng điệp thương hiệu;&lt;/li&gt;
+&lt;li&gt;Ph&amp;aacute;t&amp;nbsp;triển&amp;nbsp;concept&amp;nbsp;nội&amp;nbsp;dung: Hỗ trợ trong việc định hướng v&amp;agrave; ph&amp;aacute;t triển c&amp;aacute;c concept nội dung mới, mang t&amp;iacute;nh viral tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh digital, tạo hiệu ứng lan truyền v&amp;agrave; tăng cường mức độ tương t&amp;aacute;c với kh&amp;aacute;n giả mục ti&amp;ecirc;u;&lt;/li&gt;
+&lt;li&gt;&amp;Yacute;&amp;nbsp;tưởng&amp;nbsp;cho&amp;nbsp;chiến&amp;nbsp;dịch: Đề xuất &amp;yacute; tưởng s&amp;aacute;ng tạo cho c&amp;aacute;c chương tr&amp;igrave;nh quảng c&amp;aacute;o, chiến dịch online v&amp;agrave; offline, đảm bảo đ&amp;aacute;nh tr&amp;uacute;ng insight kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; tạo ra hiệu ứng lan truyền tốt;&lt;/li&gt;
+&lt;li&gt;Cập&amp;nbsp;nhật&amp;nbsp;th&amp;ocirc;ng&amp;nbsp;tin&amp;nbsp;sản&amp;nbsp;phẩm v&amp;agrave;&amp;nbsp;dịch&amp;nbsp;vụ: Li&amp;ecirc;n tục cập nhật v&amp;agrave; t&amp;iacute;ch hợp những thay đổi cần thiết về sản phẩm, dịch vụ v&amp;agrave; ch&amp;iacute;nh s&amp;aacute;ch tr&amp;ecirc;n trang web v&amp;agrave; app v&amp;agrave;o nội dung;&lt;/li&gt;
+&lt;li&gt;Nghi&amp;ecirc;n&amp;nbsp;cứu v&amp;agrave;&amp;nbsp;đ&amp;aacute;nh&amp;nbsp;gi&amp;aacute;: Nghi&amp;ecirc;n cứu v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; c&amp;aacute;c k&amp;ecirc;nh marketing mới cũng như ph&amp;acirc;n t&amp;iacute;ch chiến lược truyền th&amp;ocirc;ng của đối thủ, đ&amp;oacute;ng g&amp;oacute;p v&amp;agrave;o việc lập kế hoạch nội dung v&amp;agrave; chiến lược marketing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tốt nghiệp Cao đẳng/Đại học chuy&amp;ecirc;n ng&amp;agrave;nh Marketing, B&amp;aacute;o ch&amp;iacute;, Thiết kế mỹ thuật hoặc c&amp;oacute; li&amp;ecirc;n quan đến s&amp;aacute;ng tạo, marketing;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kinh nghiệm/ hoặc kiến thức trong lĩnh vực Martech, ưu ti&amp;ecirc;n ứng vi&amp;ecirc;n đ&amp;atilde; từng l&amp;agrave;m c&amp;aacute;c dự &amp;aacute;n MKT Automation;&lt;/li&gt;
+&lt;li&gt;Kinh nghiệm từ 2 năm trở l&amp;ecirc;n ở c&amp;aacute;c vị tr&amp;iacute; tương đương, c&amp;oacute; kinh nghiệm trong lĩnh vực T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; một lợi thế;&lt;/li&gt;
+&lt;li&gt;Khả năng ng&amp;ocirc;n ngữ/h&amp;igrave;nh ảnh tốt, linh hoạt, muốn trải nghiệm l&amp;agrave;m cho nhiều lĩnh vực kh&amp;aacute;c nhau;&lt;/li&gt;
+&lt;li&gt;Y&amp;ecirc;u th&amp;iacute;ch s&amp;aacute;ng tạo, nhất l&amp;agrave; dưới &amp;aacute;p lực lớn, nhanh nhạy xu hướng, nắm bắt xu thế quảng c&amp;aacute;o, content marketing;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; khả năng tốt về tr&amp;igrave;nh b&amp;agrave;y, thuyết phục v&amp;agrave; giao tiếp tốt;&lt;/li&gt;
+&lt;li&gt;Ưu ti&amp;ecirc;n khi biết sử dụng th&amp;agrave;nh thạo một số c&amp;ocirc;ng cụ, phần mềm photoshop, thiết kế cơ bản;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kinh nghiệm l&amp;agrave;m việc với c&amp;aacute;c tập đo&amp;agrave;n lớn, ưu ti&amp;ecirc;n đ&amp;atilde;/đang tham gia c&amp;aacute;c dự &amp;aacute;n phần mềm cho Ng&amp;acirc;n h&amp;agrave;ng, t&amp;agrave;i ch&amp;iacute;nh, ch&amp;iacute;nh phủ;&lt;/li&gt;
+&lt;li&gt;Tiếng Anh giao tiếp + đọc hiểu t&amp;agrave;i liệu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền lợi được hưởng&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Thu nhập cạnh tranh;&lt;/li&gt;
+&lt;li&gt;Thưởng KPIs hấp dẫn;&lt;/li&gt;
+&lt;li&gt;C&amp;aacute;c chế độ bảo hiểm theo Luật lao động + bảo hiểm ưu đ&amp;atilde;i;&lt;/li&gt;
+&lt;li&gt;Teambuilding, nghỉ h&amp;egrave; v&amp;agrave; c&amp;aacute;c ph&amp;uacute;c lợi kh&amp;aacute;c;&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m việc với team kinh nghiệm chuy&amp;ecirc;n s&amp;acirc;u về T&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, c&amp;ocirc;ng nghệ;&lt;/li&gt;
+&lt;li&gt;M&amp;ocirc;i trường cởi mở, hấp dẫn, thời gian linh hoạt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Gửi CV qua mail: vietla@dtsvn.net hoặc SĐT: 0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt; Content creation, Script development, Graphic design, &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-channel content creation:&lt;/strong&gt; Develop creative and engaging content on blog, notification, email, Facebook, SMS, landing page according to the set plan, ensuring consistency and attractiveness of the brand message;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Content concept development:&lt;/strong&gt; Support in orienting and developing new, viral content concepts across digital channels, creating viral effects and enhancing engagement with target audiences;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ideas for campaigns:&lt;/strong&gt; Propose creative ideas for advertising programs, online and offline campaigns, ensuring they hit customer insights and create strong viral effects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Product and service updates:&lt;/strong&gt; Continuously update and integrate necessary changes regarding products, services, and policies on the website and app into the content;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Research and evaluation:&lt;/strong&gt; Research and evaluate new marketing channels as well as analyze competitors&amp;rsquo; communication strategies, contributing to content planning and marketing strategy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Job Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;College/University degree in Marketing, Journalism, Fine Arts Design, or related to creativity/marketing;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience and/or knowledge in Martech, priority given to candidates who have participated in MKT Automation projects;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At least 2 years of experience in similar positions, experience in Finance &amp;ndash; Banking is a plus;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong language/visual skills, flexible, eager to experience in various fields;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Passion for creativity, especially under high pressure, quick to catch trends and grasp advertising, content marketing tendencies;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good presentation, persuasion, and communication skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Priority given to candidates proficient in some tools/software such as Photoshop and basic design;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience working with large corporations, priority for those who have participated/are participating in software projects for Banking, Finance, Government;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;English communication + ability to read and understand documents.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive income;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Attractive KPI bonus;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Insurance policies according to Labor Law + preferential insurance;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teambuilding, summer vacation, and other benefits;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with a team of in-depth experience in Finance, Banking, and Technology;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open, engaging environment with flexible working hours.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interested candidates please send CV to DTSVN:&lt;/strong&gt; &lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotline:&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-07-22T05:27:13.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:27:12.969Z</createdDate>
+	<createdDate_dt>2025-08-25T05:27:12.969Z</createdDate_dt>
+	<lastModifiedDate>2025-09-15T07:56:42.415Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-15T07:56:42.415Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

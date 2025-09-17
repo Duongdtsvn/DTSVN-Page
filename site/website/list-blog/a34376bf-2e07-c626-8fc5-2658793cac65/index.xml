@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a343</objectGroupId>
+	<objectId>a34376bf-2e07-c626-8fc5-2658793cac65</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>a34376bf-2e07-c626-8fc5-2658793cac65</folder-name>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<internal-name>DTSVN tuyển dụng: Junior Java Developer</internal-name>
+	<navLabel>DTSVN tuyển dụng: Junior Java Developer</navLabel>
+	<title_vi_s>DTSVN tuyển dụng: Junior Java Developer</title_vi_s>
+	<title_en_s>DTSVN is recruiting: Junior Java Developer</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/anh-tuyen-dung-de-thuong.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Domain: Ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; c&amp;aacute;c tổ chức T&amp;agrave;i ch&amp;iacute;nh&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tham gia v&amp;agrave;o to&amp;agrave;n bộ v&amp;ograve;ng đời ứng dụng, tập trung v&amp;agrave;o lập tr&amp;igrave;nh, c&amp;agrave;i đặt triển khai;&lt;/li&gt;
+&lt;li&gt;Viết m&amp;atilde; hiệu quả, c&amp;oacute; thể kiểm tra được;&lt;/li&gt;
+&lt;li&gt;Đảm bảo thiết kế tu&amp;acirc;n thủ c&amp;aacute;c đặc tả;&lt;/li&gt;
+&lt;li&gt;Tham gia kiểm thử, sửa lỗi;&lt;/li&gt;
+&lt;li&gt;Tham gia x&amp;acirc;y dựng t&amp;agrave;i liệu;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu kinh nghiệm v&amp;agrave; kỹ năng&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tốt nghiệp Cao đẳng, Đại học chuy&amp;ecirc;n ng&amp;agrave;nh CNTT hoặc li&amp;ecirc;n quan CNTT: Hệ thống th&amp;ocirc;ng tin, C&amp;ocirc;ng nghệ phần mềm, To&amp;aacute;n tin, HTTT Quản l&amp;yacute;;&lt;/li&gt;
+&lt;li&gt;1+ năm kinh nghiệm lập tr&amp;igrave;nh java, J2EE, (c&amp;oacute; khả năng deploy tr&amp;ecirc;n c&amp;aacute;c application server như tomcat, weblogic, &amp;hellip;);&lt;/li&gt;
+&lt;li&gt;1+ năm kinh nghiệm l&amp;agrave;m việc với c&amp;aacute;c CSDL, ORM (như hibernate);&lt;/li&gt;
+&lt;li&gt;Ưu ti&amp;ecirc;n đ&amp;atilde; c&amp;oacute; lập tr&amp;igrave;nh với API (SOAP, REST);&lt;/li&gt;
+&lt;li&gt;Kinh nghiệm sử dụng c&amp;ocirc;ng cụ quản l&amp;yacute; m&amp;atilde; nguồn: git;&lt;/li&gt;
+&lt;li&gt;Kiến thức cơ bản về m&amp;ocirc; h&amp;igrave;nh ứng dụng web, HTML, CSS, JS;&lt;/li&gt;
+&lt;li&gt;Kỹ năng viết t&amp;agrave;i liệu, kỹ năng tr&amp;igrave;nh b&amp;agrave;y, giao tiếp, kỹ năng l&amp;agrave;m việc nh&amp;oacute;m;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền lợi&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Được tham gia hỗ trợ, chia sẻ bởi Ban đều h&amp;agrave;nh c&amp;oacute; bề d&amp;agrave;y kinh nghiệm trong lĩnh vực ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh;&lt;/li&gt;
+&lt;li&gt;Được hưởng c&amp;aacute;c chế độ đầy đủ theo Luật lao động;&lt;/li&gt;
+&lt;li&gt;Được tự do ph&amp;aacute;t triển năng lực bản th&amp;acirc;n v&amp;agrave; đầu tư từ c&amp;ocirc;ng ty;&lt;/li&gt;
+&lt;li&gt;Thu nhập rất cạnh tranh, m&amp;ocirc;i trưởng l&amp;agrave;m việc linh hoạt, vủi vẻ v&amp;agrave; tự do s&amp;aacute;ng tạo;&lt;/li&gt;
+&lt;li&gt;Lộ tr&amp;igrave;nh c&amp;ocirc;ng việc r&amp;otilde; r&amp;agrave;ng, minh bạch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Gửi CV qua mail: vietla@dtsvn.net hoặc SĐT: 0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Domain: Banking and Financial Institutions&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in the entire application lifecycle, focusing on programming, implementation, and deployment;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Write efficient, testable code;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ensure designs comply with specifications;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in testing and bug fixing;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Contribute to documentation development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Requirements &amp;ndash; Experience and Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;College or University degree in IT or related fields: Information Systems, Software Engineering, Informatics, Management Information Systems;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1+ year of experience in Java, J2EE programming (capable of deploying on application servers such as Tomcat, WebLogic, etc.);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1+ year of experience working with databases and ORM (such as Hibernate);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience with API development (SOAP, REST) is a plus;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience using source code management tools: Git;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Basic knowledge of web application models, HTML, CSS, JS;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong documentation, presentation, communication, and teamwork skills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Supported and guided by an executive team with extensive experience in the banking and financial sectors;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Full benefits in accordance with the Labor Law;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Freedom to develop personal capabilities with company investment;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Very competitive salary, flexible and friendly working environment, encouraging creativity;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clear and transparent career path.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Interested candidates, please send your CV to DTSVN:&lt;/strong&gt; &lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;br&gt;&lt;strong&gt;Hotline:&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;0356604448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-23T06:49:34.000Z</time_create_dt>
+	<createdDate>2025-08-26T06:49:33.958Z</createdDate>
+	<createdDate_dt>2025-08-26T06:49:33.958Z</createdDate_dt>
+	<lastModifiedDate>2025-09-15T08:03:53.715Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-15T08:03:53.715Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

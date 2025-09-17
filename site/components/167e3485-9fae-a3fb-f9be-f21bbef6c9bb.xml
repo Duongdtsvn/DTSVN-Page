@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-home-motto</content-type>
+	<display-template>/templates/web/Component-Home-Motto.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>167e</objectGroupId>
+	<objectId>167e3485-9fae-a3fb-f9be-f21bbef6c9bb</objectId>
+	<file-name>167e3485-9fae-a3fb-f9be-f21bbef6c9bb.xml</file-name>
+	<folder-name/>
+	<internal-name>Phương châm en</internal-name>
+	<title3_s>With the slogan "Bring values together", DTSVN has been accompanying many businesses and organizations across the country in the process of creating and building prestigious &amp; quality brands with customers.</title3_s>
+	<author_s>Mr. Nguyen Ba Chien @ CEO DTSVN</author_s>
+	<icon_s/>
+	<createdDate>2025-07-07T09:20:10.834Z</createdDate>
+	<createdDate_dt>2025-07-07T09:20:10.834Z</createdDate_dt>
+	<lastModifiedDate>2025-07-07T09:20:10.834Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-07T09:20:10.834Z</lastModifiedDate_dt>
+</component>

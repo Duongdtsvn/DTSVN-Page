@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3201</objectGroupId>
+	<objectId>32011b5f-59ce-2e9f-b560-4f192bfdcc4b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>32011b5f-59ce-2e9f-b560-4f192bfdcc4b</folder-name>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Bảo mật Ngân hàng và những cách tốt nhất để bảo vệ thông tin ngân hàng trực tuyến của bạn </internal-name>
+	<navLabel>Bảo mật Ngân hàng và những cách tốt nhất để bảo vệ thông tin ngân hàng trực tuyến của bạn</navLabel>
+	<title_vi_s>Bảo mật Ngân hàng và những cách tốt nhất để bảo vệ thông tin ngân hàng trực tuyến của bạn</title_vi_s>
+	<title_en_s>Banking Security and Best Ways to Protect Your Online Banking Information </title_en_s>
+	<img_main_s>/static-assets/images/unnamed--4-.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;acirc;n h&amp;agrave;ng số (ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; di động) gi&amp;uacute;p quản l&amp;yacute; t&amp;agrave;i ch&amp;iacute;nh dễ d&amp;agrave;ng. Với c&amp;ocirc;ng nghệ ng&amp;acirc;n h&amp;agrave;ng số, bạn c&amp;oacute; thể thanh to&amp;aacute;n h&amp;oacute;a đơn, gửi tiền v&amp;agrave; chuyển tiền từ bất cứ nơi n&amp;agrave;o bạn ở. Do sự tiện lợi, ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; di động l&amp;agrave; hai c&amp;aacute;ch phổ biến nhất để gửi ng&amp;acirc;n h&amp;agrave;ng. Nhưng ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; di động an to&amp;agrave;n đến mức n&amp;agrave;o? V&amp;agrave; th&amp;ocirc;ng tin của bạn c&amp;oacute; an to&amp;agrave;n kh&amp;ocirc;ng? &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; uy t&amp;iacute;n thực hiện nhiều biện ph&amp;aacute;p bảo mật. Nhưng bạn c&amp;oacute; thể tự m&amp;igrave;nh thực hiện một số bước để giữ cho c&amp;aacute;c th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n v&amp;agrave; t&amp;agrave;i ch&amp;iacute;nh của m&amp;igrave;nh kh&amp;ocirc;ng lọt v&amp;agrave;o tay tin tặc.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6 c&amp;aacute;ch để bảo vệ th&amp;ocirc;ng tin ng&amp;acirc;n h&amp;agrave;ng trực tuyến&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Thay đổi mật khẩu thường xuy&amp;ecirc;n&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thường xuy&amp;ecirc;n cập nhật mật khẩu của bạn l&amp;agrave; một bước quan trọng trong việc bảo vệ t&amp;agrave;i khoản trực tuyến của bạn khỏi bị truy cập tr&amp;aacute;i ph&amp;eacute;p, l&amp;yacute; tưởng nhất l&amp;agrave; ba đến bốn th&amp;aacute;ng một lần. C&amp;aacute;ch l&amp;agrave;m n&amp;agrave;y thu hẹp cơ hội cho những kẻ x&amp;acirc;m nhập mạng c&amp;oacute; thể đ&amp;atilde; lấy được th&amp;ocirc;ng tin đăng nhập của bạn. Nếu bạn thấy kh&amp;oacute; khăn khi nghĩ ra mật khẩu mới, h&amp;atilde;y c&amp;acirc;n nhắc sử dụng tr&amp;igrave;nh tạo mật khẩu. C&amp;aacute;c c&amp;ocirc;ng cụ như tr&amp;igrave;nh tạo của TeamPassword tạo ra mật khẩu ngẫu nhi&amp;ecirc;n, an to&amp;agrave;n, hợp l&amp;yacute; h&amp;oacute;a quy tr&amp;igrave;nh một c&amp;aacute;ch đ&amp;aacute;ng kể. Việc thiết lập mật khẩu mạnh mẽ v&amp;agrave; ri&amp;ecirc;ng biệt cho từng t&amp;agrave;i khoản của bạn đ&amp;oacute;ng vai tr&amp;ograve; l&amp;agrave; biện ph&amp;aacute;p bảo vệ h&amp;agrave;ng đầu trước c&amp;aacute;c mối đe dọa mạng tiềm ẩn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. K&amp;iacute;ch hoạt x&amp;aacute;c thực hai yếu tố&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tận dụng x&amp;aacute;c thực đa yếu tố nếu n&amp;oacute; c&amp;oacute; sẵn th&amp;ocirc;ng qua ng&amp;acirc;n h&amp;agrave;ng hoặc hiệp hội t&amp;iacute;n dụng của bạn. Biện ph&amp;aacute;p bảo mật n&amp;agrave;y, c&amp;ograve;n được gọi l&amp;agrave; x&amp;aacute;c thực hai yếu tố, tạo ra một biện ph&amp;aacute;p bảo vệ bổ sung bằng c&amp;aacute;ch y&amp;ecirc;u cầu hai loại x&amp;aacute;c minh ri&amp;ecirc;ng biệt trước khi cấp quyền truy cập thường l&amp;agrave; mật khẩu của bạn kết hợp với m&amp;atilde; số nhận được qua tin nhắn văn bản hoặc email, đảm bảo c&amp;aacute;c phi&amp;ecirc;n đăng nhập an to&amp;agrave;n hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Tr&amp;aacute;nh Wi-Fi c&amp;ocirc;ng cộng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; triển vọng quản l&amp;yacute; t&amp;agrave;i ch&amp;iacute;nh của bạn, như gửi tiền hoặc chuyển tiền, từ sự thoải m&amp;aacute;i trong một qu&amp;aacute;n c&amp;agrave; ph&amp;ecirc; ấm c&amp;uacute;ng c&amp;oacute; vẻ hấp dẫn, nhưng điều quan trọng l&amp;agrave; phải xem x&amp;eacute;t c&amp;aacute;c rủi ro về an to&amp;agrave;n. Những tin tặc th&amp;ocirc;ng th&amp;aacute;i c&amp;oacute; thể chặn dữ liệu của bạn chỉ từ một v&amp;agrave;i chỗ ngồi. Việc kết nối nhầm với mạng Wi-Fi lừa đảo cũng c&amp;oacute; thể khiến thiết bị của bạn dễ bị phần mềm độc hại tấn c&amp;ocirc;ng. Trong trường hợp bạn kh&amp;ocirc;ng c&amp;oacute; lựa chọn n&amp;agrave;o kh&amp;aacute;c ngo&amp;agrave;i việc sử dụng kết nối Wi-Fi c&amp;ocirc;ng cộng, h&amp;atilde;y thực hiện c&amp;aacute;c biện ph&amp;aacute;p ph&amp;ograve;ng ngừa: t&amp;igrave;m &amp;ldquo;https&amp;rdquo; trong URL của trang web để đảm bảo li&amp;ecirc;n kết an to&amp;agrave;n hoặc thiết lập VPN tr&amp;ecirc;n thiết bị di động hoặc m&amp;aacute;y t&amp;iacute;nh x&amp;aacute;ch tay của bạn để c&amp;oacute; th&amp;ecirc;m một lớp của sự bảo vệ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Đăng k&amp;yacute; cho th&amp;ocirc;ng b&amp;aacute;o Ng&amp;acirc;n h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cảnh b&amp;aacute;o ng&amp;acirc;n h&amp;agrave;ng th&amp;ocirc;ng b&amp;aacute;o cho bạn khi một số h&amp;agrave;nh động xảy ra. Bạn nhận được th&amp;ocirc;ng b&amp;aacute;o gần như ngay lập tức về bất kỳ hoạt động đ&amp;aacute;ng ngờ hoặc gian lận tiềm ẩn n&amp;agrave;o. Bạn thường c&amp;oacute; thể nhận được th&amp;ocirc;ng b&amp;aacute;o qua email hoặc văn bản về những điều sau:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Số dư thấp hoặc cao&lt;/li&gt;
+&lt;li&gt;Giao dịch t&amp;iacute;n dụng v&amp;agrave; ghi nợ mới&lt;/li&gt;
+&lt;li&gt;T&amp;agrave;i khoản b&amp;ecirc;n ngo&amp;agrave;i được li&amp;ecirc;n kết mới&lt;/li&gt;
+&lt;li&gt;Lần thử đăng nhập kh&amp;ocirc;ng th&amp;agrave;nh c&amp;ocirc;ng&lt;/li&gt;
+&lt;li&gt;Thay đổi mật khẩu&lt;/li&gt;
+&lt;li&gt;Cập nhật th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Nếu bạn nhận được cảnh b&amp;aacute;o v&amp;agrave; nghi ngờ c&amp;oacute; hoạt động gian lận hoặc đ&amp;aacute;ng ngờ. H&amp;atilde;y li&amp;ecirc;n hệ ngay với ng&amp;acirc;n h&amp;agrave;ng hoặc hiệp hội t&amp;iacute;n dụng của bạn. Sau đ&amp;oacute;, thay đổi mật khẩu ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; di động của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. H&amp;atilde;y cảnh gi&amp;aacute;c với những tr&amp;ograve; lừa đảo qua mạng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Lừa đảo được xếp hạng l&amp;agrave; một trong những chiến thuật phổ biến nhất được những kẻ trộm danh t&amp;iacute;nh triển khai để lấy dữ liệu t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; c&amp;aacute; nh&amp;acirc;n nhạy cảm. Th&amp;ocirc;ng thường, h&amp;agrave;nh vi gian lận n&amp;agrave;y li&amp;ecirc;n quan đến c&amp;aacute;c kỹ thuật lừa đảo nhằm mục đ&amp;iacute;ch lấy th&amp;ocirc;ng tin b&amp;iacute; mật của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; nhiều chi&amp;ecirc;u tr&amp;ograve; lừa đảo kh&amp;aacute;c nhau tồn tại, mặc d&amp;ugrave; ch&amp;uacute;ng thường biểu hiện dưới dạng email hoặc tin nhắn văn bản lừa đảo. V&amp;iacute; dụ: nhận được một email c&amp;oacute; nội dung rất giống với th&amp;ocirc;ng tin li&amp;ecirc;n lạc ch&amp;iacute;nh thức từ tổ chức t&amp;agrave;i ch&amp;iacute;nh của bạn, nhắc bạn đăng nhập v&amp;agrave;o cổng ng&amp;acirc;n h&amp;agrave;ng của m&amp;igrave;nh để gửi th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n cập nhật.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi nhấp v&amp;agrave;o si&amp;ecirc;u li&amp;ecirc;n kết được cung cấp, bạn sẽ tin rằng m&amp;igrave;nh đang truy cập một trang web hợp ph&amp;aacute;p; tuy nhi&amp;ecirc;n, đ&amp;oacute; l&amp;agrave; một mặt tiền giả mạo. Ngo&amp;agrave;i ra, việc truy cập v&amp;agrave;o li&amp;ecirc;n kết c&amp;oacute; thể v&amp;ocirc; t&amp;igrave;nh c&amp;agrave;i đặt phần mềm theo d&amp;otilde;i độc hại tr&amp;ecirc;n thiết bị của bạn, từ đ&amp;oacute; tạo điều kiện cho kẻ trộm ghi lại thao t&amp;aacute;c g&amp;otilde; ph&amp;iacute;m của bạn v&amp;agrave; đ&amp;aacute;nh cắp th&amp;ocirc;ng tin đăng nhập của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong cả hai trường hợp, th&amp;ocirc;ng tin đăng nhập của bạn đều bị x&amp;acirc;m phạm m&amp;agrave; bạn kh&amp;ocirc;ng hề biết. Do đ&amp;oacute;, điều quan trọng l&amp;agrave; phải tiếp cận c&amp;aacute;c email y&amp;ecirc;u cầu dữ liệu t&amp;agrave;i ch&amp;iacute;nh hoặc ri&amp;ecirc;ng tư của bạn với sự cảnh gi&amp;aacute;c v&amp;agrave; s&amp;aacute;ng suốt cao độ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. Chọn dịch vụ t&amp;agrave;i ch&amp;iacute;nh đ&amp;aacute;ng tin cậy&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; c&amp;aacute;c ứng dụng fintech, chẳng hạn như c&amp;aacute;c ứng dụng ng&amp;acirc;n h&amp;agrave;ng di động, thuận tiện cho c&amp;aacute;c giao dịch t&amp;agrave;i ch&amp;iacute;nh như quản l&amp;yacute; t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng, thanh to&amp;aacute;n h&amp;oacute;a đơn, chuyển tiền v&amp;agrave; mua h&amp;agrave;ng, nhưng mức độ bảo mật của ch&amp;uacute;ng lại kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ưu ti&amp;ecirc;n bảo mật khi chọn ứng dụng ng&amp;acirc;n h&amp;agrave;ng di động bằng c&amp;aacute;ch đảm bảo bạn đang sử dụng ứng dụng hợp ph&amp;aacute;p từ ng&amp;acirc;n h&amp;agrave;ng của m&amp;igrave;nh. C&amp;aacute;ch an to&amp;agrave;n nhất để tải xuống l&amp;agrave; tải trực tiếp qua trang web ng&amp;acirc;n h&amp;agrave;ng của bạn. Nếu bạn chọn tải xuống từ App Store hoặc Google Play, h&amp;atilde;y d&amp;agrave;nh ch&amp;uacute;t thời gian để x&amp;aacute;c nhận t&amp;iacute;nh x&amp;aacute;c thực của ứng dụng bằng c&amp;aacute;ch kiểm tra th&amp;ocirc;ng tin của nh&amp;agrave; ph&amp;aacute;t triển được liệt k&amp;ecirc; v&amp;agrave; duyệt qua phản hồi của người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y thận trọng khi quyết định chia sẻ th&amp;ocirc;ng tin đăng nhập ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; di động của bạn với bất kỳ ứng dụng b&amp;ecirc;n thứ ba n&amp;agrave;o, đặc biệt l&amp;agrave; c&amp;aacute;c c&amp;ocirc;ng cụ lập ng&amp;acirc;n s&amp;aacute;ch y&amp;ecirc;u cầu th&amp;ocirc;ng tin đ&amp;oacute; để đồng bộ h&amp;oacute;a v&amp;agrave; t&amp;oacute;m tắt t&amp;igrave;nh trạng t&amp;agrave;i ch&amp;iacute;nh của bạn. Điều n&amp;agrave;y c&amp;oacute; thể khiến dữ liệu nhạy cảm của bạn gặp c&amp;aacute;c lỗ hổng tiềm ẩn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;acirc;n h&amp;agrave;ng trực tuyến mang lại sự thuận tiện v&amp;agrave; kiểm so&amp;aacute;t cuộc sống t&amp;agrave;i ch&amp;iacute;nh của bạn. Bạn c&amp;oacute; thể giảm thiểu rủi ro bằng c&amp;aacute;ch chủ động v&amp;agrave; bảo vệ th&amp;ocirc;ng tin ng&amp;acirc;n h&amp;agrave;ng trực tuyến của m&amp;igrave;nh. L&amp;agrave;m như vậy sẽ giảm tỷ lệ th&amp;ocirc;ng tin của bạn rơi v&amp;agrave;o tay kẻ xấu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo:&amp;nbsp; Finance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Managing your finances is incredibly straightforward thanks to the innovations in digital banking, encompassing both online and mobile platforms. These technologies allow you the flexibility to take care of monetary transactions such as paying bills, depositing checks, and transferring funds on the go. Their unmatched convenience has cemented online and mobile banking as the go-to methods for financial management, with a substantial 78% of Americans expressing a preference for these digital options.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, questions linger about the security of online and mobile banking platforms and the safety of users&amp;rsquo; sensitive information within them.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It&amp;rsquo;s important to acknowledge that while trustworthy financial institutions are at the forefront of implementing robust security protocols to protect clients&amp;rsquo; data, there still remains a proactive role for customers. Taking personal security measures is crucial in bolstering your defense against potential cyber threats, ensuring your financial and personal information remains secure.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Online Banking Security Tips&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#1 Change Passwords Regularly&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Regularly updating your passwords is a critical step in protecting your online accounts from unauthorized access, ideally every three to four months. This practice narrows the window of opportunity for cyber intruders who may have obtained your credentials. If you find the task of coming up with new passwords daunting, consider using a password generator. Tools like TeamPassword&amp;rsquo;s generator produce secure, random passwords, streamlining the process significantly. Establishing robust and distinct passwords for each of your accounts serves as the foremost defense against potential cyber threats.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#2 Provide Only Basic Information to Buyers&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If you have a business, of any size, you have to give customers your details. This customer data does not pose a threat to your business but does not reveal anything unnecessary, including your identity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;By the way, you can change your location for security reasons or to expand your reach on Facebook Marketplace. For this purpose, VPN for business is actively used. Considering that only regional offers are available in the marketplace, changing the region is the only solution. If you&amp;rsquo;re looking for a more specific tool, take a look at VeePN.com and its VPN service. It has 2500+ VPN servers and a ton of security features that allow you to safely and easily change regions. VPN also protects your information from everyone: ISPs, hackers, large corporations, etc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#3 Enable Two-factor Authentication&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Take advantage of multi-factor authentication if it&amp;rsquo;s available through your bank or credit union. This security measure, also known as two-factor authentication, layers an additional safeguard by requiring two separate types of verification before granting access&amp;mdash;typically your password combined with a numeric code received via text message or email, ensuring safer login sessions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#4 Avoid Public Wi-Fi&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;While the prospect of managing your finances, like depositing checks or transferring funds, from the comfort of a cozy caf&amp;eacute; might seem appealing, it&amp;rsquo;s important to consider the safety risks. Savvy hackers could potentially intercept your data from just a few seats away. Mistakenly connecting to a fraudulent Wi-Fi network can also leave your device vulnerable to malicious software attacks. In situations where you have no alternative but to use a public Wi-Fi connection, take precautions: look for &amp;ldquo;https&amp;rdquo; in the website&amp;rsquo;s URL to ensure a secure link, or set up a VPN on your mobile device or laptop for an extra layer of protection.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#5 Be Wary of Phishing Scams&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Phishing ranks as one of the most prevalent tactics deployed by identity thieves to obtain sensitive personal and financial data. Typically, this fraud involves deceptive techniques aimed at extracting your confidential details.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Various guises of phishing scams exist, though they often manifest in the form of deceptive emails or text messages. Take, for instance, receiving an email that bears a striking resemblance to official communication from your financial institution, prompting you to sign into your banking portal to submit updated personal details.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Upon clicking the provided hyperlink, you&amp;rsquo;re led to believe you&amp;rsquo;re accessing a legitimate website; however, it&amp;rsquo;s a counterfeit fa&amp;ccedil;ade. Alternatively, engaging with the link may inadvertently install malicious tracking software on your device, thereby enabling thieves to record your keystrokes and steal your credentials.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In either scenario, your login information is compromised, albeit unbeknownst to you. Hence, it&amp;rsquo;s vital to approach emails requesting your financial or private data with heightened vigilance and discernment.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;#6 Choose Reliable Financial Services&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;While fintech applications, such as those for mobile banking, are convenient for financial transactions like managing bank accounts, paying bills, transferring funds, and making purchases, their security levels vary.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Prioritize security when selecting a mobile banking application by ensuring you&amp;rsquo;re using a legitimate app from your bank. The safest route to download is directly through your bank&amp;rsquo;s website. Should you choose to download from the App Store or Google Play, take a moment to confirm the authenticity of the app by examining the listed developer&amp;rsquo;s information and browsing through user feedback.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Exercise caution when deciding to share your online and mobile banking credentials with any third-party applications, particularly budgeting tools that require such information to synchronize and summarize your financial status. This could expose your sensitive data to potential vulnerabilities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Experience the ease and empowerment of managing your finances with online banking. Enhance your financial security by taking charge and safeguarding your sensitive banking data. By staying vigilant, you greatly reduce the chances of unauthorized access to your personal information.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Reference source: Finance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Helping banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&amp;nbsp;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-21T10:20:10.000Z</time_create_dt>
+	<createdDate>2025-08-25T10:20:09.477Z</createdDate>
+	<createdDate_dt>2025-08-25T10:20:09.477Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T10:20:09.477Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T10:20:09.477Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

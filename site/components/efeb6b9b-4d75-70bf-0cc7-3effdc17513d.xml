@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>efeb</objectGroupId>
+	<objectId>efeb6b9b-4d75-70bf-0cc7-3effdc17513d</objectId>
+	<file-name>efeb6b9b-4d75-70bf-0cc7-3effdc17513d.xml</file-name>
+	<folder-name/>
+	<internal-name>Kết quả bạn nhận được sau khi học xong khóa học</internal-name>
+	<orientation_s>Kết quả bạn nhận được sau khi học xong khóa học Bu</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s/>
+	<text_s>Hiểu rõ hơn về hoạt động của ngành ngân hàng và các quy trình liên quan.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Nắm được các kỹ năng phân tích và đánh giá dữ liệu, giúp bạn có thể đưa ra các quyết định chính xác và hiệu quả.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Tăng cường khả năng tương tác và giao tiếp với các bên liên quan trong ngành Ngân hàng.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Cải thiện khả năng quản lý dự án và thực hiện các dự án liên quan đến ngành Ngân hàng.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Có cơ hội thăng tiến trong sự nghiệp và tăng thu nhập ở ngành.</text_s>
+	</item>	<item>	<number_s/>
+	<text_s>Được cập nhật kiến thức mới nhất về công nghệ và xu hướng trong ngành Ngân hàng.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-07T02:17:56.937Z</createdDate>
+	<createdDate_dt>2025-07-07T02:17:56.937Z</createdDate_dt>
+	<lastModifiedDate>2025-07-07T02:17:56.937Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-07T02:17:56.937Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/partners-customer</content-type>
+	<display-template>/templates/web/pages/Partners-customer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c10d</objectGroupId>
+	<objectId>c10df12d-306a-0dd5-9f4b-55fc1bcc3adf</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>partners-customer</folder-name>
+	<internal-name>Đối tác – Khách hàng</internal-name>
+	<navLabel>Đối tác – Khách hàng</navLabel>
+	<customer_section_subtitle_s>Quan hệ khách hàng</customer_section_subtitle_s>
+	<customer_section_title_s>DTSVN đã và đang kết nối tới nhiều tổ chức tín dụng, các doanh nghiệp lớn, vừa và nhỏ</customer_section_title_s>
+	<strategic_section_subtitle_s>Quan hệ đối tác</strategic_section_subtitle_s>
+	<strategic_section_title_s>DTSVN đã và đang là đối tác chiến lược của các nền tảng MarTech hàng đầu thế giới, có quan hệ hợp tác lâu dài cùng các doanh nghiệp, tổ chức uy tín trong nhiều lĩnh vực.</strategic_section_title_s>
+	<banner_o item-list="true">	<item datasource="banner">	<key>/site/components/e32678e8-ae00-40f5-a739-dee502bfa65c.xml</key>
+	<value>banner đối tác khách hàng</value>
+	<include>/site/components/e32678e8-ae00-40f5-a739-dee502bfa65c.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></banner_o>
+	<achievements_o item-list="true">	<item datasource="consntng">	<key>/site/components/ef453480-3a36-5027-60cd-2583ad5c534e.xml</key>
+	<value>Con số ấn tượng</value>
+	<include>/site/components/ef453480-3a36-5027-60cd-2583ad5c534e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></achievements_o>
+	<client_o item-list="true">	<item>	<key>/site/components/600b3a14-498b-59b9-abb2-f32db29d1280.xml</key>
+	<value>50+ Khách hàng đã đồng hành cùng chúng tôi</value>
+	<include>/site/components/600b3a14-498b-59b9-abb2-f32db29d1280.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></client_o>
+	<partner_o item-list="true">	<item>	<key>/site/components/2ad96b85-2a40-350a-83b6-081b2576d202.xml</key>
+	<value>Đối tác tiêu biểu của DTSVN</value>
+	<include>/site/components/2ad96b85-2a40-350a-83b6-081b2576d202.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></partner_o>
+	<customer_section_image_s>/static-assets/images/dtkh.jpg</customer_section_image_s>
+	<strategic_section_image_s>/static-assets/images/lxt.jpg</strategic_section_image_s>
+	<customer_partnerships_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>Cơ quan ban ngành nhà nước</title_s>
+	<description_s>Văn phòng quốc hội; Bộ quốc phòng; Bộ tài chính; Cục quản lí giám sát bảo hiểm; Tổng cục Hải quan; Cục CNTT &amp; KT Hải quan</description_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>Ngân hàng, tổ chức tài chính nhỏ và vừa</title_s>
+	<description_s>VietCapital Bank, Pinetree, LotteFinance...</description_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>Ngân hàng, tổ chức tài chính quy mô lớn</title_s>
+	<description_s>Vietinbank, BIDV, BaovietLife, EVNFinance, MSB, NCB, PVCom Bank, VNPayment.</description_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>Doanh nghiệp nước ngoài</title_s>
+	<description_s>VIETFUN CORPORATION, POLYCOM, AVAY, Fujitsu, HP, DELL.</description_s>
+	</item></customer_partnerships_o>
+	<strategic_partnerships_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>INSIDER</title_s>
+	<description_s>Nền tảng thu thập dữ liệu đa kênh và tối ưu trải nghiệm người dùng theo thời gian thực.</description_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>ADJUST</title_s>
+	<description_s>Nền tảng cung cấp các công cụ phân tích và đo lường hiệu quả của các chiến dịch quảng cáo dành cho ứng dụng di động.</description_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>NUCLENT</title_s>
+	<description_s>Nền tảng cung cấp giải pháp xây dựng, quản lý ứng dụng và tự động hóa quy trình làm việc một cách dễ dàng và nhanh chóng.</description_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>Các đối tác khác</title_s>
+	<description_s>CleverTap, Odoo, Beau, eNAO, Meeyland, Focs, VFS, Crayon, Appselyer, V-Kay, Lạc Long Quân, Rosemedia</description_s>
+	</item></strategic_partnerships_o>
+	<createdDate>2025-07-10T18:59:03.694Z</createdDate>
+	<createdDate_dt>2025-07-10T18:59:03.694Z</createdDate_dt>
+	<lastModifiedDate>2025-08-05T04:02:33.757Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-05T04:02:33.757Z</lastModifiedDate_dt>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<client_partner_s>Đối tác của DTSVN</client_partner_s>
+</page>

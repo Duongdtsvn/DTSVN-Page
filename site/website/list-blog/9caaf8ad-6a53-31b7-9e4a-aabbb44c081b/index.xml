@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9caa</objectGroupId>
+	<objectId>9caaf8ad-6a53-31b7-9e4a-aabbb44c081b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>9caaf8ad-6a53-31b7-9e4a-aabbb44c081b</folder-name>
+	<internal-name>Những rủi ro gian lận mà Ngân hàng đối mặt trong hệ sinh thái Tài chính nhúng </internal-name>
+	<navLabel>Những rủi ro gian lận mà Ngân hàng đối mặt trong hệ sinh thái Tài chính nhúng</navLabel>
+	<title_vi_s>Những rủi ro gian lận mà Ngân hàng đối mặt trong hệ sinh thái Tài chính nhúng</title_vi_s>
+	<title_en_s>Fraud Risks Banks Face in the Embedded Finance Ecosystem </title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/hacker-17139333022581193323982--1-.webp</img_main_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Hầu hết c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; đối t&amp;aacute;c của họ thường tập trung v&amp;agrave;o vấn đề tu&amp;acirc;n thủ hơn l&amp;agrave; ngăn chặn gian lận. Tuy nhi&amp;ecirc;n, c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng lại tiềm ẩn nguy cơ gian lận đ&amp;aacute;ng kể, c&amp;oacute; thể g&amp;acirc;y ra tổn thất t&amp;agrave;i ch&amp;iacute;nh lớn cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng v&amp;agrave; b&amp;agrave;i to&amp;aacute;n gian lận&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng mang lại cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cả cơ hội v&amp;agrave; th&amp;aacute;ch thức lớn. Về cơ hội, ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể mở rộng danh mục sản phẩm v&amp;agrave; tăng trưởng doanh thu. Tuy nhi&amp;ecirc;n, sự phức tạp trong quan hệ t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng v&amp;agrave; thiếu minh bạch về vai tr&amp;ograve; của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan thường dẫn đến nhiều kh&amp;oacute; khăn khi ph&amp;aacute;t sinh gian lận. Vậy ai sẽ chịu tr&amp;aacute;ch nhiệm khi xảy ra tổn thất? Ng&amp;acirc;n h&amp;agrave;ng hay đối t&amp;aacute;c của họ?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;ocirc;ng thường, ph&amp;iacute;a đối t&amp;aacute;c sẽ l&amp;agrave; b&amp;ecirc;n phải chịu tr&amp;aacute;ch nhiệm. Tuy nhi&amp;ecirc;n, ngay cả khi ng&amp;acirc;n h&amp;agrave;ng kh&amp;ocirc;ng trực tiếp chịu thiệt hại, họ vẫn cần đầu tư mạnh mẽ v&amp;agrave;o c&amp;aacute;c biện ph&amp;aacute;p ph&amp;ograve;ng chống gian lận t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng v&amp;igrave; những l&amp;yacute; do sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Ng&amp;acirc;n h&amp;agrave;ng muốn c&amp;aacute;c chương tr&amp;igrave;nh n&amp;agrave;y tiếp tục hoạt động v&amp;agrave; mang lại lợi nhuận.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Họ cũng cần bảo vệ danh tiếng của m&amp;igrave;nh trước những rủi ro tiềm ẩn từ c&amp;aacute;c vụ gian lận. Việc ngăn chặn gian lận trong hệ sinh th&amp;aacute;i t&amp;agrave;i ch&amp;iacute;nh, bao gồm cả c&amp;aacute;c đối t&amp;aacute;c li&amp;ecirc;n quan, l&amp;agrave; điều cần thiết (d&amp;ugrave; tổn thất t&amp;agrave;i ch&amp;iacute;nh về mặt kỹ thuật thuộc về "kh&amp;aacute;ch h&amp;agrave;ng của đối t&amp;aacute;c", ng&amp;acirc;n h&amp;agrave;ng vẫn đang đ&amp;aacute;p ứng nhu cầu của c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng đ&amp;oacute;).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Ng&amp;acirc;n h&amp;agrave;ng kh&amp;ocirc;ng muốn thu h&amp;uacute;t sự ch&amp;uacute; &amp;yacute; qu&amp;aacute; mức từ c&amp;aacute;c cơ quan quản l&amp;yacute; chỉ v&amp;igrave; một mối quan hệ đối t&amp;aacute;c kh&amp;ocirc;ng an to&amp;agrave;n trong chương tr&amp;igrave;nh t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu một thương hiệu trong chương tr&amp;igrave;nh t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng ph&amp;aacute; sản do kh&amp;ocirc;ng kiểm so&amp;aacute;t được gian lận, ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể phải g&amp;aacute;nh chịu tổn thất ph&amp;aacute;t sinh. V&amp;iacute; dụ, điều n&amp;agrave;y c&amp;oacute; thể xảy ra khi một chuỗi b&amp;aacute;n lẻ mở rộng qu&amp;aacute; mức v&amp;agrave; kh&amp;ocirc;ng c&amp;ograve;n khả năng thanh to&amp;aacute;n, dẫn đến những thiệt hại lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; rủi ro tu&amp;acirc;n thủ vẫn l&amp;agrave; mối lo ngại h&amp;agrave;ng đầu đối với ng&amp;acirc;n h&amp;agrave;ng khi tham gia v&amp;agrave;o hệ sinh th&amp;aacute;i t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng, đặc biệt l&amp;agrave; trong bối cảnh những sự cố gần đ&amp;acirc;y, tuy nhi&amp;ecirc;n việc chỉ tập trung v&amp;agrave;o tu&amp;acirc;n thủ c&amp;oacute; thể tạo ra những th&amp;aacute;ch thức kh&amp;aacute;c cho c&amp;aacute;c quan hệ đối t&amp;aacute;c n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mỗi khi một c&amp;ocirc;ng ty ra mắt một sản phẩm t&amp;agrave;i ch&amp;iacute;nh mới, n&amp;oacute; sẽ trở th&amp;agrave;nh mục ti&amp;ecirc;u hấp dẫn cho những kẻ gian lận muốn khai th&amp;aacute;c k&amp;ecirc;nh mới n&amp;agrave;y. Đặc biệt, trong thế giới t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng, nơi c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh được triển khai trong c&amp;aacute;c m&amp;ocirc;i trường phi t&amp;agrave;i ch&amp;iacute;nh, nguy cơ gian lận c&amp;agrave;ng gia tăng. Kinh nghiệm l&amp;agrave; yếu tố then chốt trong việc ngăn chặn gian lận, v&amp;agrave; những doanh nghiệp mới tham gia v&amp;agrave;o lĩnh vực dịch vụ t&amp;agrave;i ch&amp;iacute;nh, chưa quen với c&amp;aacute;c rủi ro tiềm ẩn, thường l&amp;agrave; mục ti&amp;ecirc;u h&amp;agrave;ng đầu của những kẻ xấu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thay v&amp;igrave; chỉ tập trung v&amp;agrave;o tu&amp;acirc;n thủ, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng bảo trợ n&amp;ecirc;n bắt đầu c&amp;aacute;c quan hệ đối t&amp;aacute;c t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng, với c&amp;aacute;c giải ph&amp;aacute;p cung cấp c&amp;aacute;i nh&amp;igrave;n tổng thể về tu&amp;acirc;n thủ quy định v&amp;agrave; ph&amp;ograve;ng ngừa gian lận. Bằng c&amp;aacute;ch n&amp;agrave;y, họ c&amp;oacute; cơ hội giảm thiểu rủi ro tu&amp;acirc;n thủ v&amp;agrave; gian lận, đồng thời cải thiện mối quan hệ với c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; c&amp;aacute;c đối t&amp;aacute;c c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng phải đối mặt với những th&amp;aacute;ch thức n&amp;agrave;o khi n&amp;oacute;i đến biện ph&amp;aacute;p chống gian lận cho c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong khi c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể muốn thiết lập c&amp;aacute;c quy tr&amp;igrave;nh ph&amp;ograve;ng ngừa gian lận chung cho mọi trường hợp để duy tr&amp;igrave; sự gi&amp;aacute;m s&amp;aacute;t đối với c&amp;aacute;c quan hệ đối t&amp;aacute;c t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng của họ, điều n&amp;agrave;y c&amp;oacute; thể g&amp;acirc;y ra những r&amp;agrave;o cản đ&amp;aacute;ng kể:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trước hết, đ&amp;acirc;y kh&amp;ocirc;ng phải l&amp;agrave; mục ti&amp;ecirc;u thực tế. Cũng giống như những kẻ lừa đảo li&amp;ecirc;n tục thay đổi chiến thuật v&amp;agrave; kh&amp;aacute;m ph&amp;aacute; c&amp;aacute;c k&amp;ecirc;nh mới để thực hiện h&amp;agrave;nh vi gian lận, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng, đối t&amp;aacute;c v&amp;agrave; c&amp;aacute;c trung gian c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh cũng cần phải điều chỉnh c&amp;aacute;c chiến lược ph&amp;ograve;ng ngừa gian lận để chống lại c&amp;aacute;c cuộc tấn c&amp;ocirc;ng gian lận.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, nếu một ng&amp;acirc;n h&amp;agrave;ng tự x&amp;acirc;y dựng giải ph&amp;aacute;p của ri&amp;ecirc;ng m&amp;igrave;nh, cơ sở hạ tầng của họ c&amp;oacute; thể kh&amp;ocirc;ng đủ t&amp;iacute;nh linh hoạt v&amp;agrave; nhanh nhạy để đ&amp;aacute;p ứng nhu cầu của mọi quan hệ đối t&amp;aacute;c t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết quả l&amp;agrave;, họ c&amp;oacute; thể &amp;eacute;p buộc c&amp;aacute;c đối t&amp;aacute;c v&amp;agrave; c&amp;ocirc;ng ty c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave;o c&amp;aacute;c hệ thống cứng nhắc, c&amp;oacute; khả năng k&amp;igrave;m h&amp;atilde;m sự tăng trưởng, tạo ra sự nhầm lẫn v&amp;agrave; g&amp;acirc;y ra t&amp;igrave;nh trạng thiếu tr&amp;aacute;ch nhiệm. Sự phức tạp của quy tr&amp;igrave;nh l&amp;agrave;m việc v&amp;agrave; sự gia tăng ma s&amp;aacute;t của kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể ảnh hưởng đến chi ph&amp;iacute; hoạt động v&amp;agrave; l&amp;agrave;m hỏng tỷ lệ chuyển đổi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Một v&amp;iacute; dụ về việc thay đổi nhu cầu ph&amp;ograve;ng chống gian lận&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giả sử một ng&amp;acirc;n h&amp;agrave;ng t&amp;agrave;i trợ c&amp;oacute; hai quan hệ đối t&amp;aacute;c t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng trong lĩnh vực kh&amp;aacute;c biệt với nhau. Đối t&amp;aacute;c đầu ti&amp;ecirc;n l&amp;agrave; một c&amp;ocirc;ng ty t&amp;agrave;i ch&amp;iacute;nh: một c&amp;ocirc;ng ty fintech cung cấp thẻ ghi nợ t&amp;ugrave;y chỉnh cho c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp nhỏ. Đối t&amp;aacute;c thứ hai l&amp;agrave; một doanh nghiệp phi t&amp;agrave;i ch&amp;iacute;nh: một c&amp;ocirc;ng ty bảo hiểm cung cấp t&amp;agrave;i khoản tiết kiệm l&amp;atilde;i suất cao cho người ti&amp;ecirc;u d&amp;ugrave;ng, với c&amp;aacute;c quy định rất cụ thể về thời gian gửi v&amp;agrave; r&amp;uacute;t tiền.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dịch vụ của c&amp;ocirc;ng ty bảo hiểm dễ bị c&amp;aacute;c cuộc tấn c&amp;ocirc;ng như đ&amp;aacute;nh cắp danh t&amp;iacute;nh, lừa đảo qua phishing, tấn c&amp;ocirc;ng kỹ thuật x&amp;atilde; hội v&amp;agrave; chiếm đoạt t&amp;agrave;i khoản. B&amp;ecirc;n cạnh đ&amp;oacute;, c&amp;aacute;c chương tr&amp;igrave;nh thẻ ghi nợ cũng dễ gặp phải gian lận danh t&amp;iacute;nh tổng hợp v&amp;agrave; gian lận khi kh&amp;ocirc;ng c&amp;oacute; thẻ. Mặc d&amp;ugrave; c&amp;oacute; một số rủi ro chung, nhưng r&amp;otilde; r&amp;agrave;ng rằng mỗi quan hệ đối t&amp;aacute;c n&amp;agrave;y c&amp;oacute; những lỗ hổng v&amp;agrave; y&amp;ecirc;u cầu ri&amp;ecirc;ng biệt khi n&amp;oacute;i đến ph&amp;ograve;ng ngừa gian lận.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vậy, ng&amp;acirc;n h&amp;agrave;ng sẽ quyết định ngưỡng ti&amp;ecirc;u chuẩn ph&amp;ograve;ng ngừa gian lận tối thiểu như thế n&amp;agrave;o? Giả sử họ &amp;aacute;p dụng c&amp;ugrave;ng một y&amp;ecirc;u cầu cơ bản cho cả hai đối t&amp;aacute;c th&amp;ocirc;ng qua cơ sở hạ tầng của m&amp;igrave;nh, th&amp;igrave; t&amp;igrave;nh huống n&amp;agrave;y sẽ trở th&amp;agrave;nh một t&amp;igrave;nh thế tiến tho&amp;aacute;i lưỡng nan.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc c&amp;acirc;n nhắc xử l&amp;yacute; gian lận danh t&amp;iacute;nh tổng hợp v&amp;agrave; gian lận kh&amp;ocirc;ng c&amp;oacute; thẻ trong c&amp;aacute;c chương tr&amp;igrave;nh thẻ ghi nợ c&amp;oacute; thể khiến kh&amp;aacute;ch h&amp;agrave;ng cảm thấy bất tiện, đặc biệt đối với c&amp;aacute;c c&amp;ocirc;ng ty bảo hiểm đ&amp;atilde; thiết lập những quy định nghi&amp;ecirc;m ngặt. Tuy nhi&amp;ecirc;n, nếu ng&amp;acirc;n h&amp;agrave;ng cố gắng qu&amp;aacute; mức để giảm thiểu sự phiền h&amp;agrave; cho kh&amp;aacute;ch h&amp;agrave;ng bằng c&amp;aacute;ch nới lỏng qu&amp;aacute; nhiều biện ph&amp;aacute;p bảo vệ, họ c&amp;oacute; thể v&amp;ocirc; t&amp;igrave;nh tạo điều kiện cho c&amp;aacute;c h&amp;agrave;nh vi gian lận lợi dụng những lỗ hổng trong hệ thống thẻ ghi nợ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng c&amp;oacute; giải ph&amp;aacute;p đủ linh hoạt, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng sẽ phải đối mặt với một t&amp;igrave;nh thế kh&amp;oacute; khăn, đầy phức tạp, v&amp;agrave; đối diện với nguy cơ chịu qu&amp;aacute; nhiều rủi ro. Khi kịch bản n&amp;agrave;y nh&amp;acirc;n l&amp;ecirc;n với h&amp;agrave;ng chục, thậm ch&amp;iacute; h&amp;agrave;ng trăm đối t&amp;aacute;c, sự phức tạp của hệ sinh th&amp;aacute;i t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng sẽ trở n&amp;ecirc;n r&amp;otilde; r&amp;agrave;ng v&amp;agrave; kh&amp;oacute; kiểm so&amp;aacute;t hơn rất nhiều.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo:&amp;nbsp; Alloy&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Most banks and their partners tend to focus more on compliance issues rather than fraud prevention. However, embedded finance products carry significant fraud risks that can cause substantial financial losses for banks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Embedded Finance and the Fraud Challenge&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Embedded finance brings both major opportunities and challenges for banks. On the opportunity side, banks can expand their product portfolios and drive revenue growth. However, the complexity of embedded finance relationships and the lack of transparency regarding the roles of involved parties often lead to difficulties when fraud occurs. So, who bears the responsibility for losses&amp;mdash;the bank or its partner?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In most cases, the partner is held accountable. However, even if the bank does not directly suffer financial damage, it still needs to invest heavily in fraud prevention measures in embedded finance for the following reasons:&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Banks want these programs to remain operational and profitable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;They must also protect their reputation from potential risks associated with fraud. Preventing fraud within the financial ecosystem, including partners, is essential (even if the financial loss technically belongs to the &amp;ldquo;partner&amp;rsquo;s customer,&amp;rdquo; the bank is still serving those customers&amp;rsquo; needs).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Banks want to avoid attracting excessive attention from regulators due to insecure partnerships in their embedded finance programs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;If a brand in an embedded finance program collapses due to uncontrolled fraud, banks may end up bearing the resulting losses. For example, this could happen if a retail chain overexpands and becomes insolvent, leading to significant damages.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;While compliance risks remain the top concern for banks in embedded finance ecosystems&amp;mdash;especially in light of recent incidents&amp;mdash;focusing solely on compliance can create additional challenges for these partnerships.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Every time a company launches a new financial product, it becomes an attractive target for fraudsters seeking to exploit this new channel. Particularly in the world of embedded finance, where financial products are deployed in non-financial environments, the risk of fraud increases. Experience plays a key role in fraud prevention, and businesses newly entering financial services&amp;mdash;unfamiliar with hidden risks&amp;mdash;are often prime targets for malicious actors.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Instead of focusing only on compliance, sponsoring banks should approach embedded finance partnerships with solutions that provide a holistic view of both regulatory compliance and fraud prevention. By doing so, they can minimize compliance and fraud risks while also strengthening relationships with their customers and fintech partners.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;What challenges do banks face in fraud prevention for embedded finance products?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;While banks may want to establish universal fraud prevention processes to maintain oversight of their embedded finance partnerships, this approach can create significant barriers:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;First, it is not a realistic goal. Just as fraudsters constantly change tactics and explore new channels for attacks, banks, partners, and fintech intermediaries must also adapt their fraud prevention strategies to combat these evolving threats.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Additionally, if a bank builds its own solution, its infrastructure may lack the flexibility and agility needed to meet the requirements of every embedded finance partnership.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As a result, banks may end up forcing partners and fintechs into rigid systems that hinder growth, cause confusion, and create accountability gaps. Increased workflow complexity and customer friction can raise operating costs and damage conversion rates.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;An example of changing fraud prevention needs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Imagine a sponsoring bank with two embedded finance partnerships in very different sectors. The first partner is a financial company: a fintech providing customized debit cards for small business customers. The second is a non-financial enterprise: an insurance company offering high-yield savings accounts to consumers, with specific rules on deposit and withdrawal timing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The insurance company&amp;rsquo;s service is vulnerable to attacks such as identity theft, phishing scams, social engineering, and account takeovers. Meanwhile, debit card programs are prone to synthetic identity fraud and card-not-present fraud. While there are some shared risks, it is clear that each partnership carries distinct vulnerabilities and fraud prevention requirements.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;So how should a bank set minimum fraud prevention standards? If they apply the same baseline requirements to both partners through their infrastructure, this becomes a dilemma.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Addressing synthetic identity fraud and card-not-present fraud in debit card programs could create inconvenience for customers&amp;mdash;especially for insurance companies that already enforce strict regulations. On the other hand, if the bank loosens too many safeguards to minimize friction, it may inadvertently expose debit card systems to fraud exploitation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Without flexible solutions, banks face a difficult and complex balancing act, along with the risk of assuming too much exposure. As this scenario multiplies across dozens&amp;mdash;or even hundreds&amp;mdash;of partners, the complexity of the embedded finance ecosystem becomes far more apparent and harder to manage.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Source: Alloy&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by DTSVN Authors &amp;ndash; Digital Transformation Solutions for the Financial &amp;amp; Banking Industry.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing cutting-edge digital solutions tailored to enterprises in the Financial and Banking sector in Vietnam, helping banks and financial institutions rapidly upgrade their technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us today for consultation and to experience our solutions.&amp;nbsp;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-26T10:05:41.000Z</time_create_dt>
+	<createdDate>2025-08-25T10:05:40.559Z</createdDate>
+	<createdDate_dt>2025-08-25T10:05:40.559Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T10:05:40.559Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T10:05:40.559Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/investors</content-type>
+	<display-template>/templates/web/pages/Investors.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7fb7</objectGroupId>
+	<objectId>7fb74e04-6bfd-4a51-d33e-113300a924bb</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>investors</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>nhà đầu tư em (Copy 2)</internal-name>
+	<navLabel>nhà đầu tư em</navLabel>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<banner_o item-list="true">	<item datasource="banner">	<key>/site/components/e2dc7f80-b6bd-d0f3-f413-d90489689180.xml</key>
+	<value>banner nhà đầu tư en</value>
+	<include>/site/components/e2dc7f80-b6bd-d0f3-f413-d90489689180.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></banner_o>
+	<investors_o item-list="true">	<item>	<title_s>ORGANIZATION CHART</title_s>
+	<image_s>/static-assets/images/nbc.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/hoidongcovan.jpg</image_s>
+	<title_s>Vision – Mission – Core Values</title_s>
+	</item>	<item>	<image_s>/static-assets/images/tam-nhin-va-su-menh.jpg</image_s>
+	<title_s>Consultant committee</title_s>
+	</item>	<item>	<image_s>/static-assets/images/sodotochuc.png</image_s>
+	<title_s>Message from Chairman of the BOD</title_s>
+	</item></investors_o>
+	<createdDate>2025-07-08T09:40:29.666Z</createdDate>
+	<createdDate_dt>2025-07-08T09:40:29.666Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T02:44:42.084Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T02:44:42.084Z</lastModifiedDate_dt>
+</page>

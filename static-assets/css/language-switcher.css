@@ -1,0 +1,291 @@
+/* ===== STYLES CHO NÚT CHUYỂN ĐỔI NGÔN NGỮ ===== */
+/* Container chính chứa các nút ngôn ngữ */
+.language-switcher {
+    display: flex;
+    /* Sắp xếp các nút theo hàng ngang */
+    align-items: center;
+    /* Căn giữa các nút theo chiều dọc */
+    gap: 8px;
+    /* Khoảng cách giữa các nút */
+    margin: 0;
+    /* Xóa margin mặc định */
+    background: none;
+    /* Không có nền */
+    box-shadow: none;
+    /* Không có bóng đổ */
+    padding: 0 0 0 8px;
+    /* Padding bên trái 8px */
+}
+
+/* Kiểu dáng cho từng nút ngôn ngữ */
+.language-switcher .lang-btn {
+    background: #fff;
+    /* Nền trắng */
+    border: 1.5px solid #2B6BB2;
+    /* Viền xanh dương */
+    color: #2B6BB2;
+    /* Chữ xanh dương */
+    padding: 4px 12px;
+    /* Padding trong nút */
+    border-radius: 16px;
+    /* Bo tròn góc */
+    text-decoration: none;
+    /* Không gạch chân */
+    font-weight: 500;
+    /* Độ đậm chữ */
+    font-size: 13px;
+    /* Kích thước chữ */
+    transition: all 0.2s;
+    /* Hiệu ứng chuyển đổi mượt */
+    cursor: pointer;
+    /* Con trỏ chuột */
+    min-width: 32px;
+    /* Chiều rộng tối thiểu */
+    text-align: center;
+    /* Căn giữa chữ */
+    display: inline-block;
+    /* Hiển thị inline-block */
+    box-shadow: 0 1px 4px rgba(43, 107, 178, 0.07);
+    /* Bóng đổ nhẹ */
+}
+
+/* Hiệu ứng khi hover và trạng thái active */
+.language-switcher .lang-btn:hover,
+.language-switcher .lang-btn.active {
+    background: #2B6BB2;
+    /* Nền xanh dương khi hover/active */
+    color: #fff;
+    /* Chữ trắng */
+    border-color: #2B6BB2;
+    /* Viền xanh dương */
+}
+
+/* Hiệu ứng focus cho accessibility */
+.language-switcher .lang-btn:focus {
+    outline: 2px solid #2B6BB2;
+    /* Viền focus xanh dương */
+    outline-offset: 2px;
+    /* Khoảng cách viền focus */
+}
+
+/* ===== ĐẢM BẢO HIỂN THỊ RÕ TRÊN HEADER XANH ===== */
+/* Override style cho nút ngôn ngữ trong header có nền xanh */
+.sec-pageTitle__share .language-switcher .lang-btn {
+    background: #fff;
+    /* Luôn có nền trắng */
+    color: #2B6BB2;
+    /* Chữ xanh dương */
+    border: 1.5px solid #2B6BB2;
+    /* Viền xanh dương */
+}
+
+/* Hiệu ứng hover/active trong header xanh */
+.sec-pageTitle__share .language-switcher .lang-btn.active,
+.sec-pageTitle__share .language-switcher .lang-btn:hover {
+    background: #2B6BB2;
+    /* Nền xanh khi hover/active */
+    color: #fff;
+    /* Chữ trắng */
+}
+
+/* ===== BỐ CỤC HEADER ===== */
+/* Container chính của header */
+.sec-pageTitle__header {
+    display: flex;
+    /* Sắp xếp theo hàng ngang */
+    justify-content: space-between;
+    /* Căn đều 2 bên */
+    align-items: center;
+    /* Căn giữa theo chiều dọc */
+    margin-bottom: 20px;
+    /* Khoảng cách dưới */
+    padding: 15px 0;
+    /* Padding trên dưới */
+    border-bottom: 1px solid #eee;
+    /* Đường kẻ dưới */
+}
+
+/* ===== STYLES CHO BREADCRUMB ===== */
+/* Container chứa breadcrumb */
+.sec-pageTitle__breadcrumb {
+    margin: 0;
+    /* Xóa margin */
+    padding: 0 45px;
+    /* Xóa padding */
+    list-style: none;
+    /* Bỏ dấu chấm đầu dòng */
+    display: flex;
+    /* Sắp xếp theo hàng ngang */
+    gap: 10px;
+    /* Khoảng cách giữa các item */
+    align-items: center;
+    /* Căn giữa theo chiều dọc */
+    flex-wrap: wrap;
+    /* Cho phép xuống dòng */
+}
+
+/* Từng item trong breadcrumb */
+.sec-pageTitle__breadcrumb li {
+    display: flex;
+    /* Sắp xếp theo hàng ngang */
+    align-items: center;
+    /* Căn giữa theo chiều dọc */
+}
+
+/* Dấu ">" giữa các item (trừ item cuối) */
+.sec-pageTitle__breadcrumb li:not(:last-child)::after {
+    content: ">";
+    /* Nội dung dấu ">" */
+    margin-left: 10px;
+    /* Khoảng cách bên trái */
+    color: #666;
+    /* Màu xám */
+    font-weight: 500;
+    /* Độ đậm chữ */
+}
+
+/* Link trong breadcrumb */
+.sec-pageTitle__breadcrumb a {
+    color: inherit;
+    /* Màu xanh dương */
+    text-decoration: none;
+    /* Không gạch chân */
+    font-weight: 500;
+    /* Độ đậm chữ */
+    transition: color 0.3s ease;
+    /* Hiệu ứng chuyển màu */
+}
+
+/* Hiệu ứng hover cho link */
+.sec-pageTitle__breadcrumb a:hover {
+    color: #1a4a8a;
+    /* Màu xanh đậm hơn */
+    text-decoration: underline;
+    /* Gạch chân khi hover */
+}
+
+/* Text thường trong breadcrumb */
+.sec-pageTitle__breadcrumb span {
+    color: #666;
+    /* Màu xám */
+    font-weight: 500;
+    /* Độ đậm chữ */
+}
+
+/* ===== CHUYỂN ĐỔI NỘI DUNG THEO NGÔN NGỮ ===== */
+/* Ẩn nội dung tiếng Anh mặc định */
+.entry-text[data-lang="en"],
+.sec-pageTitle__title[data-lang="en"] {
+    display: none;
+    /* Ẩn hoàn toàn */
+}
+
+/* Hiển thị nội dung tiếng Việt mặc định */
+.entry-text[data-lang="vi"],
+.sec-pageTitle__title[data-lang="vi"] {
+    display: block;
+    /* Hiển thị bình thường */
+}
+
+/* ===== THIẾT KẾ RESPONSIVE ===== */
+/* Màn hình tablet và nhỏ hơn (768px trở xuống) */
+@media (max-width: 768px) {
+
+    /* Header chuyển thành cột dọc */
+    .sec-pageTitle__header {
+        flex-direction: column;
+        /* Sắp xếp theo cột */
+        gap: 15px;
+        /* Khoảng cách giữa các phần */
+        align-items: flex-start;
+        /* Căn trái */
+        padding: 10px 0;
+        /* Giảm padding */
+    }
+
+    /* Giảm khoảng cách giữa các nút ngôn ngữ */
+    .language-switcher {
+        gap: 6px;
+        /* Khoảng cách nhỏ hơn */
+        padding-left: 4px;
+        /* Padding trái nhỏ hơn */
+    }
+
+    /* Giảm kích thước nút ngôn ngữ */
+    .language-switcher .lang-btn {
+        padding: 3px 8px;
+        /* Padding nhỏ hơn */
+        font-size: 12px;
+        /* Chữ nhỏ hơn */
+    }
+
+    /* Giảm kích thước chữ breadcrumb */
+    .sec-pageTitle__breadcrumb {
+        font-size: 14px;
+        /* Chữ nhỏ hơn */
+    }
+}
+
+/* Màn hình điện thoại (480px trở xuống) */
+@media (max-width: 480px) {
+
+    /* Nút ngôn ngữ căn giữa toàn bộ chiều rộng */
+    .language-switcher {
+        align-self: stretch;
+        /* Chiếm toàn bộ chiều rộng */
+        justify-content: center;
+        /* Căn giữa các nút */
+    }
+
+    .sec-pageTitle__breadcrumb {
+        font-size: 13px;
+        gap: 8px;
+    }
+
+    .sec-pageTitle__breadcrumb li:not(:last-child)::after {
+        margin-left: 8px;
+    }
+}
+
+/* Animation for language switching */
+.entry-text,
+.sec-pageTitle__title {
+    transition: opacity 0.3s ease;
+    opacity: 1;
+}
+
+.entry-text.fade-out,
+.sec-pageTitle__title.fade-out {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.entry-text.fade-in,
+.sec-pageTitle__title.fade-in {
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+/* Đảm bảo khi reload trang, chỉ phần tử đúng ngôn ngữ mới display: block, còn lại display: none */
+.entry-text[data-lang="en"],
+.sec-pageTitle__title[data-lang="en"] {
+    display: none;
+}
+
+.entry-text[data-lang="vi"],
+.sec-pageTitle__title[data-lang="vi"] {
+    display: block;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .language-switcher .lang-btn {
+        border-width: 3px;
+    }
+
+    .language-switcher .lang-btn.active {
+        background: #000;
+        color: #fff;
+        border-color: #000;
+    }
+}

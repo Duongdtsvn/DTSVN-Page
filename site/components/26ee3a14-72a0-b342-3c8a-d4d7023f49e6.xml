@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>26ee</objectGroupId>
+	<objectId>26ee3a14-72a0-b342-3c8a-d4d7023f49e6</objectId>
+	<internal-name>Định hướng sản phẩm</internal-name>
+	<orientation_s>Định hướng sản phẩm</orientation_s>
+	<file-name>26ee3a14-72a0-b342-3c8a-d4d7023f49e6.xml</file-name>
+	<folder-name/>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Sản phầm phần mềm hỗ trợ theo chuẩn Basel II của ủy ban Basel</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Chống giao dịch gian lận cho ATM trên nền tảng trí tuệ nhân tạo</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>Cổng thông tin điện tử; các sản phẩm UI/UX, portal...</text_s>
+	</item>	<item>	<number_s>04</number_s>
+	<text_s>Dịch vụ sản phẩm dựa trên dữ liệu lớn và trí tuệ nhân tạo</text_s>
+	</item>	<item>	<number_s>05</number_s>
+	<text_s>Dịch vụ phát triển xây dựng phần mềm theo yêu cầu</text_s>
+	</item>	<item>	<number_s>06</number_s>
+	<text_s>Dịch vụ phát tích hợp với hệ thống: ECM; BPM; BI…</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-03T04:38:36.967Z</createdDate>
+	<createdDate_dt>2025-07-03T04:38:36.967Z</createdDate_dt>
+	<lastModifiedDate>2025-07-03T04:38:36.967Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-03T04:38:36.967Z</lastModifiedDate_dt>
+</component>

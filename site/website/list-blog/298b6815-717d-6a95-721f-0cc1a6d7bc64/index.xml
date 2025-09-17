@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>298b</objectGroupId>
+	<objectId>298b6815-717d-6a95-721f-0cc1a6d7bc64</objectId>
+	<internal-name>5 vai trò hữu dụng hàng đầu của AI cho doanh nghiệp FinTech hiện nay </internal-name>
+	<navLabel>5 vai trò hữu dụng hàng đầu của AI cho doanh nghiệp FinTech hiện nay  </navLabel>
+	<title_vi_s>5 vai trò hữu dụng hàng đầu của AI cho doanh nghiệp FinTech hiện nay </title_vi_s>
+	<title_en_s>The Top 5 Generative AI Use Cases For Your FinTech Business </title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>298b6815-717d-6a95-721f-0cc1a6d7bc64</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/z485386550576543d02f16f55b04440bd487afdcbaa39c0-1730252549596-17302525496961054285360-1730257012001-1730257012178990142495.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Từ chatbot đến dự b&amp;aacute;o bảo tr&amp;igrave;, c&amp;aacute;c doanh nghiệp (DN) trong mọi ng&amp;agrave;nh đều đang đưa tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) v&amp;agrave;o hoạt động để mang lại gi&amp;aacute; trị kinh doanh. Đ&amp;acirc;y l&amp;agrave; nơi AI đang c&amp;oacute; t&amp;aacute;c động lớn nhất.&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Trong b&amp;agrave;i viết n&amp;agrave;y, ch&amp;uacute;ng ta sẽ kh&amp;aacute;m ph&amp;aacute; 5 v&amp;iacute; dụ ti&amp;ecirc;u biểu về c&amp;aacute;ch &amp;aacute;p dụng tr&amp;iacute; tuệ nh&amp;acirc;n tạo trong thế giới thực.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Ph&amp;aacute;t hiện v&amp;agrave; ngăn chặn gian lận &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo Allied Market Research,&amp;nbsp;thị trường ph&amp;aacute;t hiện v&amp;agrave; ngăn chặn gian lận to&amp;agrave;n cầu đạt 29,5 tỷ USD v&amp;agrave;o năm 2022 v&amp;agrave; dự kiến sẽ đạt hơn 252 tỷ USD v&amp;agrave;o năm 2032, v&amp;agrave; AI tổng qu&amp;aacute;t trong FinTech sẽ đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong đ&amp;oacute;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với sự tiến bộ của AI, c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh đ&amp;agrave;o tạo c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch lượng dữ liệu giao dịch khổng lồ v&amp;agrave; t&amp;igrave;m ra c&amp;aacute;c mẫu bất thường dẫn đến c&amp;aacute;c giao dịch gian lận. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, gen-AI c&amp;oacute; thể ph&amp;aacute;t hiện h&amp;agrave;nh vi bất thường của người d&amp;ugrave;ng v&amp;agrave; c&amp;aacute;c mẫu sơ s&amp;agrave;i trong dữ liệu, đồng thời ngăn chặn gian lận xảy ra.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI c&amp;oacute; khả năng th&amp;iacute;ch ứng với việc học v&amp;agrave; li&amp;ecirc;n tục cập nhật dữ liệu v&amp;agrave; mẫu mới;&amp;nbsp;đ&amp;oacute;n đầu c&amp;aacute;c mối đe dọa tiềm ẩn sẽ l&amp;agrave;m giảm tổn thất t&amp;agrave;i ch&amp;iacute;nh.&amp;nbsp;Tuy nhi&amp;ecirc;n, c&amp;aacute;c c&amp;ocirc;ng ty c&amp;oacute; thể cập nhật thủ c&amp;ocirc;ng tập dữ liệu về c&amp;ocirc;ng nghệ AI tổng qu&amp;aacute;t của m&amp;igrave;nh để đẩy nhanh qu&amp;aacute; tr&amp;igrave;nh học hỏi của c&amp;ocirc;ng cụ n&amp;agrave;y.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nh&amp;igrave;n chung, c&amp;aacute;c c&amp;ocirc;ng ty c&amp;ocirc;ng nghệ t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể ngăn chặn v&amp;agrave; bảo vệ dịch vụ kh&amp;aacute;ch h&amp;agrave;ng của họ khỏi mọi h&amp;igrave;nh thức gian lận kỹ thuật số bằng c&amp;ocirc;ng nghệ n&amp;agrave;y.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Chấm điểm t&amp;iacute;n dụng v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; rủi ro &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c c&amp;ocirc;ng ty FinTech đang tận dụng AI một c&amp;aacute;ch mạnh mẽ.&amp;nbsp;Đổi mới t&amp;iacute;nh năng chấm điểm t&amp;iacute;n dụng bằng AI tổng hợp gi&amp;uacute;p t&amp;iacute;nh to&amp;aacute;n c&amp;aacute;c quyết định cho vay ch&amp;iacute;nh x&amp;aacute;c hơn.&amp;nbsp;Với sự trợ gi&amp;uacute;p của AI, c&amp;aacute;c c&amp;ocirc;ng ty dịch vụ t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch xu hướng tr&amp;ecirc;n thị trường, lịch sử giao dịch, th&amp;oacute;i quen chi ti&amp;ecirc;u v&amp;agrave; c&amp;aacute;c dữ liệu li&amp;ecirc;n quan kh&amp;aacute;c để đưa ra quyết định tốt hơn v&amp;agrave; s&amp;aacute;ng suốt hơn.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, AI tổng hợp d&amp;agrave;nh cho FinTech cũng đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong việc đ&amp;aacute;nh gi&amp;aacute; điểm t&amp;iacute;n dụng.&amp;nbsp;N&amp;oacute; c&amp;oacute; thể dễ d&amp;agrave;ng ph&amp;acirc;n t&amp;iacute;ch dữ liệu kh&amp;aacute;ch h&amp;agrave;ng như lịch sử t&amp;iacute;n dụng, h&amp;agrave;nh vi mua h&amp;agrave;ng v&amp;agrave; thu nhập của một c&amp;aacute; nh&amp;acirc;n th&amp;ocirc;ng qua thuật to&amp;aacute;n n&amp;acirc;ng cao.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hơn nữa,&amp;nbsp;c&amp;aacute;c c&amp;ocirc;ng ty FinTech c&amp;oacute; thể sử dụng n&amp;oacute; để nhận dạng mẫu, giảm sai lệch v&amp;agrave; t&amp;iacute;nh to&amp;aacute;n dự đo&amp;aacute;n tổng thể về mức độ tin cậy t&amp;iacute;n dụng của một c&amp;aacute; nh&amp;acirc;n.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. AI s&amp;aacute;ng tạo cho giao dịch thuật to&amp;aacute;n&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giao dịch thuật to&amp;aacute;n tr&amp;ecirc;n thị trường ngoại hối li&amp;ecirc;n quan đến việc đặt h&amp;agrave;ng c&amp;aacute;c hướng dẫn giao dịch tự động v&amp;agrave; được lập tr&amp;igrave;nh về gi&amp;aacute;, thời gian v&amp;agrave; khối lượng.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo nghi&amp;ecirc;n cứu năm 2019,&amp;nbsp;giao dịch thuật to&amp;aacute;n chiếm 92% tổng giao dịch tr&amp;ecirc;n thị trường ngoại hối.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với tr&amp;iacute; tuệ nh&amp;acirc;n tạo tổng hợp, bạn c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch xu hướng dữ liệu thị trường v&amp;agrave; điều kiện thị trường theo thời gian thực để đưa ra dự đo&amp;aacute;n trong tương lai.&amp;nbsp;Hơn nữa, bạn c&amp;oacute; thể tự động h&amp;oacute;a quy tr&amp;igrave;nh giao dịch cho c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh của m&amp;igrave;nh v&amp;agrave; giao dịch dựa tr&amp;ecirc;n ph&amp;acirc;n t&amp;iacute;ch dữ liệu v&amp;agrave; nhận dạng mẫu thuật to&amp;aacute;n.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. C&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong một nghi&amp;ecirc;n cứu ở Mỹ với hơn 1.000 người, 77% người Mỹ cảm thấy lo lắng về t&amp;igrave;nh h&amp;igrave;nh t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; 58% cho biết t&amp;agrave;i ch&amp;iacute;nh kiểm so&amp;aacute;t cuộc sống của họ.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với sự hỗ trợ của AI tổng hợp, c&amp;aacute;c lời khuy&amp;ecirc;n t&amp;agrave;i ch&amp;iacute;nh như quyết định đầu tư v&amp;agrave; lập kế hoạch t&amp;agrave;i ch&amp;iacute;nh sẽ ch&amp;iacute;nh x&amp;aacute;c hơn v&amp;agrave; &amp;iacute;t tốn thời gian hơn.&amp;nbsp;Giờ đ&amp;acirc;y, n&amp;oacute; c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch chi ph&amp;iacute;, đề xuất đầu tư, quản l&amp;yacute; rủi ro v&amp;agrave; lập kế hoạch đầu tư t&amp;ugrave;y chỉnh cho bạn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Tu&amp;acirc;n thủ quy định v&amp;agrave; b&amp;aacute;o c&amp;aacute;o &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh, điều quan trọng l&amp;agrave; c&amp;aacute;c cơ quan FinTech phải tu&amp;acirc;n theo c&amp;aacute;c quy định t&amp;agrave;i ch&amp;iacute;nh bắt buộc.&amp;nbsp;AI c&amp;oacute; thể gi&amp;uacute;p bạn tu&amp;acirc;n thủ c&amp;aacute;c quy định t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; loại bỏ khả năng vi phạm tu&amp;acirc;n thủ quy định.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI c&amp;oacute; thể đọc c&amp;aacute;c t&amp;agrave;i liệu t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; ph&amp;aacute;p l&amp;yacute; rộng lớn cũng như theo d&amp;otilde;i những thay đổi trong quy định trong thời gian thực.&amp;nbsp;Tận dụng lợi thế n&amp;agrave;y, bạn c&amp;oacute; thể tự động h&amp;oacute;a c&amp;aacute;c nhiệm vụ, giảm lỗi của con người, tu&amp;acirc;n thủ c&amp;aacute;c quy định quan trọng v&amp;agrave; tr&amp;aacute;nh bị phạt.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Nguồn: Geniusee&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt; &amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;If you&amp;rsquo;re in the FinTech industry, you have heard of ChatGPT. It has been storming the internet. ChatGPT is a training model and a generative AI tool with Generative Adversarial Networks (GANs) algorithms that can predict real-life information based on its learning dataset.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Generative AI models have various uses for FinTech businesses, for instance, providing several FinTech solutions&amp;mdash;from combating fraud to asset management and credit scoring. In this article, you&amp;rsquo;ll learn about the top five use cases for generative AI from the real world.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;These examples will show you how to implement generative AI in your FinTech business and become more efficient. Read on!&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1.&amp;nbsp;Generative AI&amp;nbsp;For&amp;nbsp;Fraud Detection&amp;nbsp;And Prevention&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As per Allied Market Research,&amp;nbsp;the global fraud detection and prevention market was $29.5 billion in 2022 and is expected to reach over $252 billion by 2032,&amp;nbsp;and generative AI in FinTech will play a crucial role in it.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the advancement of AI capabilities, training models can analyze enormous amounts of transaction data and find unusual patterns that may lead to fraudulent transactions.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Additionally, gen-AI can detect unusual user behavior and sketchy patterns in data and prevent fraud from happening.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Generative AI&amp;nbsp;is adaptive to learning and continuously updating with new data and patterns; staying ahead of potential threats will reduce financial losses. However, companies can manually update the dataset of their generative AI tech to quicken the tool&amp;rsquo;s learning.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Overall,&amp;nbsp;financial technology companies&amp;nbsp;can prevent and protect their&amp;nbsp;customer service&amp;nbsp;from any kind of digital fraud with this tech.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Example: PayPal using AI to combat fraud&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;PayPal is utilizing&amp;nbsp;generative AI&amp;nbsp;to identify patterns and anomalies in user behavior. They are detecting fraudulent patterns that show unusual activity.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;PayPal collects data such as device details, session analysis, and third-party data. It allows the financial firm to create a detailed profile of users and transactions.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It uses&amp;nbsp;machine learning models&amp;nbsp;to analyze device data, sessions, verification checks, IP addresses, and user behavior to ensure a safe and secure transaction.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2.&amp;nbsp;Generative AI&amp;nbsp;For Credit Scoring And Risk Assessment&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Regarding risk, FinTech companies are leveraging AI with pomp and show. Innovating credit scoring with generative AI helps calculate more accurate lending decisions. With the help of generative AI, financial services companies can analyze trends in the market, transaction history, spending habits, and other relevant data to make better and more informed decisions.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Additionally, generative AI for FinTech also plays a crucial role in credit scoring assessment. It can easily analyze customer data like credit history, buying behavior, and the income of an individual via its advanced algorithm.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Additionally, FinTech companies can use it for pattern recognition, reduce biases, and calculate an overall prediction of an individual's creditworthiness.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Example: Crediture uses Gen-AI for credit scoring&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Crediture, a well-known credit scoring platform, leverages generative AI to generate credit scoring and risk management processes. They trained their systems on their extensive financial data to analyze economic conditions, industry trends, and more. The company can accurately predict bear markets, odd events, market instability, and recessions.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;They also use&amp;nbsp;generative AI algorithms&amp;nbsp;to offer customized lending choices to business borrowers. These algorithms generate tailored credit product recommendations based on a company's financial status using Variational Auto-Encoders (VAE).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3.&amp;nbsp;Generative AI&amp;nbsp;For Algorithmic Trading&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Algorithmic trading in the forex market involves ordering automated and programmed trading instructions for price, time, and volume.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As per research in 2019,&amp;nbsp;algorithmic trading is responsible for 92% of the total trading in the forex market.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With generative artificial intelligence, you can analyze market data trends and real-time market conditions to make future predictions. Further, you can automate the trading process for your&amp;nbsp;financial products&amp;nbsp;and trade based on data analysis and algorithmic pattern identification.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Example: Bridgewater Associates (the world&amp;rsquo;s largest hedge fund) uses AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;When most businesses were thinking about whether to leverage AI or not, Bridgewater Associates, the world&amp;rsquo;s largest hedge fund, had already accepted and employed it for a while. After years of analysis, they found that AI and other large language models can easily analyze data, test theories, and make a positive impact on decision-making.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Greg Jason, co-chief information officer at Bridgewater Associates, said in an interview about the potential of ChatGPT and other&amp;nbsp;artificial intelligence (AI)&amp;nbsp;models that with gen-AI&amp;nbsp;applications, there is an increase in efficiency, a cost reduction, and improvement in the accuracy of market predictions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4.&amp;nbsp;Generative AI&amp;nbsp;For Personalized&amp;nbsp;Financial Services&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In a USA study of over 1,000 people, it was found that 77% of Americans feel anxious about financial situations, and 58% said finances control their lives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the assistance of&amp;nbsp;generative AI, financial advice such as investment decisions and&amp;nbsp;financial planning&amp;nbsp;are more accurate and less time-consuming. It can now analyze expenses, suggest investments, manage risks, and make customized investment plans for you.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For instance,&amp;nbsp;generative AI&amp;nbsp;can create investment portfolios tailored to a person's objectives and risk tolerance, modifying suggestions as needed. Additionally, it will give&amp;nbsp;financial institutions&amp;nbsp;an option to foster their clients with personalized services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Example: Cleo, a personal financing app, uses ChatGPT tech&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cleo is your financial virtual assistant. It is an AI app that leverages ChatGPT to analyze your finances and give budgeting and saving suggestions. Once you link your bank account to the app, it will instantly analyze it and provide you with real-time updates and tips to make smart decisions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Additionally, Cleo answers your financial queries inside the app with their implementation of gen-AI and&amp;nbsp;natural language processing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5.&amp;nbsp;Generative AI&amp;nbsp;For Regulatory Compliance And Reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For financial services, it is critical for FinTech bodies to follow mandatory financial regulations. Thankfully, generative AI can help you stay aligned with financial regulations and eliminate the chances of violating regulatory compliances.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Generative AI can read vast financial and legal documents and monitor changes in regulations in real time. Leveraging this to your advantage, you can automate tasks, decrease human errors, follow important regulations, and avoid penalties.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Example: FintechOS, a cloud-based platform that helps&amp;nbsp;financial institutions&amp;nbsp;manage their regulatory compliance and reporting requirements.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;FintechOS helps banks and financial bodies deploy digital solutions. With its latest update to FintechOS 22, the company is focusing on enhancing digital transformations with its no-code or low-code approach.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Also, they regularly update their services to fulfill financial regulations. Overall, FintechOS offers customized services while adopting regulatory changes for various financial organizations.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: Geniusee&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Helping banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-05-29T09:53:21.000Z</time_create_dt>
+	<createdDate>2025-08-25T09:53:20.982Z</createdDate>
+	<createdDate_dt>2025-08-25T09:53:20.982Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T09:53:20.982Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T09:53:20.982Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

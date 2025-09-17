@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fe69</objectGroupId>
+	<objectId>fe691887-a7d0-0430-d5d3-37ee96fbb028</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>fe691887-a7d0-0430-d5d3-37ee96fbb028</folder-name>
+	<internal-name>5 xu hướng Marketing nổi bật nửa cuối năm 2024</internal-name>
+	<navLabel>5 xu hướng Marketing nổi bật nửa cuối năm 2024</navLabel>
+	<title_vi_s>5 xu hướng Marketing nổi bật nửa cuối năm 2024</title_vi_s>
+	<title_en_s>5 prominent Marketing trends in the second half of 2024</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/960x0-3.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Marketing giống như một "sinh vật sống", n&amp;oacute; kh&amp;ocirc;ng ngừng ph&amp;aacute;t triển v&amp;agrave; th&amp;iacute;ch nghi với sự thay đổi của thị trường, x&amp;atilde; hội. L&amp;agrave; người l&amp;agrave;m Marketing, ch&amp;uacute;ng ta cần cập nhật những phương ph&amp;aacute;p, xu hướng để c&amp;oacute; thể đưa ra những chiến lược ph&amp;ugrave; hợp, thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng tiềm năng, n&amp;acirc;ng cao hiệu quả của hoạt động tiếp thị.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Nửa cuối năm 2024 đang đến gần mang theo những biến chuyển mới trong bức tranh Marketing đầy sắc m&amp;agrave;u. V&amp;agrave; để bứt ph&amp;aacute; trong thị trường cạnh tranh gay gắt, doanh nghiệp cần bắt kịp xu hướng v&amp;agrave; c&amp;oacute; những thay đổi, điều chỉnh cho ph&amp;ugrave; hợp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo Giuseppe Caltabiano, Ph&amp;oacute; gi&amp;aacute;m đốc Marketing tại Rock Content: &amp;ldquo;AI đang kh&amp;ocirc;ng chỉ l&amp;agrave; một c&amp;ocirc;ng cụ hỗ trợ đơn thuần, n&amp;oacute; đang trở th&amp;agrave;nh nền tảng của c&amp;aacute;c chiến dịch Marketing hiệu quả, s&amp;aacute;ng tạo". Trong nội dung dưới đ&amp;acirc;y, DTSVN sẽ l&amp;agrave;m r&amp;otilde; hơn xu hướng sử dụng AI trong Marketing v&amp;agrave; một số trend kh&amp;aacute;c trong nửa cuối năm 2024 n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) len lỏi v&amp;agrave;o mọi ng&amp;oacute;c ng&amp;aacute;ch marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tất nhi&amp;ecirc;n, cuộc c&amp;aacute;ch mạng về tr&amp;iacute; tuệ nh&amp;acirc;n tạo kh&amp;ocirc;ng phải l&amp;uacute;c n&amp;agrave;o cũng thuận buồm xu&amp;ocirc;i gi&amp;oacute;, Những vấn đề về bảo mật dữ liệu, sự phức tạp của hệ thống AI v&amp;agrave; nhu cầu về đội ngũ nh&amp;acirc;n sự c&amp;oacute; tr&amp;igrave;nh độ cao để xử l&amp;yacute; AI l&amp;agrave; một số trở ngại m&amp;agrave; Marketer gặp phải.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhưng d&amp;ugrave; vậy c&amp;aacute;c mặt t&amp;iacute;ch cực vẫn vượt xa nhược điểm của AI. Tr&amp;iacute; tuệ nh&amp;acirc;n tạo đ&amp;atilde; mở ra một c&amp;aacute;nh cửa mới để tăng sự s&amp;aacute;ng tạo, hiệu quả, đồng thời gi&amp;uacute;p c&amp;aacute;c chiến dịch Marketing được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a. AI từ đ&amp;oacute; trở th&amp;agrave;nh một c&amp;ocirc;ng cụ bắt buộc phải c&amp;oacute; nếu Marketer muốn dẫn đầu trong thị trường đầy sự cạnh tranh như hiện nay.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Video chiếm vị tr&amp;iacute; quan trọng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Video vẫn sẽ tiếp tục đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong chiến dịch marketing của c&amp;aacute;c doanh nghiệp trong nửa cuối năm 2024. Theo b&amp;aacute;o c&amp;aacute;o của Hubspot, c&amp;oacute; đến 86% Marketer coi video l&amp;agrave; điều tất yếu trong bất kỳ chiến dịch n&amp;agrave;o, điều n&amp;agrave;y c&amp;oacute; thấy vai tr&amp;ograve; kh&amp;ocirc;ng thể thiếu của video, đặc biệt l&amp;agrave; short video.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Doanh nghiệp c&amp;oacute; thể sử dụng video kể chuyện v&amp;agrave; giới thiệu sản phẩm hoặc đơn giản l&amp;agrave; một video quay h&amp;igrave;nh ảnh của một sản phẩm. Chắc chắn đ&amp;acirc;y sẽ l&amp;agrave; c&amp;aacute;ch tuyệt vời để bạn kết nối với kh&amp;aacute;ch h&amp;agrave;ng, đồng thời truyền đạt th&amp;ocirc;ng điệp đến kh&amp;aacute;n giả.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; đến 75% Marketer cho biết họ sẵn s&amp;agrave;ng d&amp;ugrave;ng video ngắn v&amp;agrave; đăng tải l&amp;ecirc;n Tiktok hoặc Reel trong chiến lược Marketing của m&amp;igrave;nh. Theo đ&amp;oacute;, họ khẳng định c&amp;aacute;c nền tảng n&amp;agrave;y l&amp;agrave; &amp;ldquo;mỏ v&amp;agrave;ng&amp;rdquo; thu h&amp;uacute;t sự ch&amp;uacute; &amp;yacute; cũng như g&amp;acirc;y ảnh hưởng đến kh&amp;aacute;ch h&amp;agrave;ng/người xem.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để tăng hiệu quả của video đối với c&amp;aacute;c chiến dịch Marketing, doanh nghiệp cần ch&amp;uacute; &amp;yacute;:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Hiểu kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh: H&amp;atilde;y nghi&amp;ecirc;n cứu v&amp;agrave; xem kh&amp;aacute;ch h&amp;agrave;ng của bạn th&amp;iacute;ch g&amp;igrave; để từ đ&amp;oacute; tạo ra những video c&amp;oacute; nội dung ph&amp;ugrave; hợp.&lt;/li&gt;
+&lt;li&gt;Sử dụng Social: Đừng qu&amp;ecirc;n d&amp;ugrave;ng Tiktok, Instagram Reel, Facebook Reel đăng tải c&amp;aacute;c video n&amp;agrave;y, đồng thời tiếp cận đến nhiều đối tượng hơn.&lt;/li&gt;
+&lt;li&gt;Tập trung v&amp;agrave;o chất lượng: Video được đầu tư về nội dung, h&amp;igrave;nh ảnh sẽ g&amp;acirc;y ch&amp;uacute; &amp;yacute; với nhiều người v&amp;agrave; tiếp cận được nhiều kh&amp;aacute;ch h&amp;agrave;ng tiềm năng.&lt;/li&gt;
+&lt;li&gt;Sử dụng hashtag cho b&amp;agrave;i đăng: Phần caption cho video tr&amp;ecirc;n Tiktok hay c&amp;aacute;c nền tảng của Meta, bạn c&amp;oacute; thể sử dụng th&amp;ecirc;m hashtag để gi&amp;uacute;p video được ph&amp;acirc;n phối theo chủ đề li&amp;ecirc;n quan, tăng th&amp;ecirc;m lượt xem cho video.&lt;/li&gt;
+&lt;li&gt;Thường xuy&amp;ecirc;n tối ưu: Với mỗi video, bạn cần xem x&amp;eacute;t v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; chất lượng, hiệu quả, sau đ&amp;oacute; cải tiến cho những video sau.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kết hợp Influencer Marketing v&amp;agrave; SEO Marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Influencer Marketing v&amp;agrave; SEO Marketing vẫn tiếp tục l&amp;agrave; hai chiến lược tiếp thị trong những th&amp;aacute;ng cuối của năm 2024.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Influencer marketing đ&amp;atilde; trở th&amp;agrave;nh trụ cột trong c&amp;aacute;c chiến lược Marketing hiện nay. Hầu hết c&amp;aacute;c thương hiệu đều đang hợp t&amp;aacute;c với c&amp;aacute;c KOL, KOC, nh&amp;agrave; s&amp;aacute;ng tạo nội dung trong lĩnh vực của họ để th&amp;uacute;c đẩy doanh số b&amp;aacute;n h&amp;agrave;ng, tăng nhận diện thương hiệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y cho thấy hoạt động Marketing đang c&amp;oacute; xu hướng tập trung v&amp;agrave;o chuy&amp;ecirc;n gia v&amp;agrave; những KOL, KOC đang c&amp;oacute; vai tr&amp;ograve; to lớn trong định h&amp;igrave;nh c&amp;aacute;ch người ti&amp;ecirc;u d&amp;ugrave;ng nh&amp;igrave;n nhận mọi thứ, ra quyết định mua h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, SEO vẫn l&amp;agrave; một chiến lược quan trọng để gi&amp;uacute;p doanh nghiệp th&amp;agrave;nh c&amp;ocirc;ng tr&amp;ecirc;n k&amp;ecirc;nh website. Nhiều b&amp;aacute;o c&amp;aacute;o cho thấy, việc tối ưu h&amp;oacute;a nội dung tr&amp;ecirc;n c&amp;aacute;c c&amp;ocirc;ng cụ t&amp;igrave;m kiếm rất cần thiết, n&amp;oacute; gi&amp;uacute;p doanh nghiệp tạo ra được nội dung c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, hướng đến trải nghiệm của người d&amp;ugrave;ng v&amp;agrave; giải quyết nhu cầu của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết hợp Influencer v&amp;agrave; SEO cho ph&amp;eacute;p doanh nghiệp sử dụng uy t&amp;iacute;n của người ảnh hưởng v&amp;agrave; vẫn đảm bảo nội dung dễ d&amp;agrave;ng t&amp;igrave;m thấy, đ&amp;aacute;p ứng nhu cầu của kh&amp;aacute;n giả. Chắc chắn đ&amp;acirc;y sẽ l&amp;agrave; chiến lược Marketing quan trọng trong nửa cuối năm 2024 v&amp;agrave; năm 2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;X&amp;acirc;y dựng thương hiệu v&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a dựa tr&amp;ecirc;n AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;acirc;y dựng thương hiệu (Branding) v&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a dựa tr&amp;ecirc;n AI đi đ&amp;ocirc;i với nhau để tạo ra chiến lược mạnh mẽ v&amp;agrave; hiệu quả hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;acirc;y dựng thương hiệu kh&amp;ocirc;ng chỉ l&amp;agrave; logo c&amp;ocirc;ng ty, một slogan n&amp;oacute;i về c&amp;ocirc;ng ty. Đ&amp;oacute; l&amp;agrave; điều khiến doanh nghiệp của bạn trở n&amp;ecirc;n đặc biệt cũng như c&amp;aacute;ch doanh nghiệp kết nối với kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh. C&amp;oacute; đến 80% Marketer nghĩ rằng việc c&amp;ocirc;ng ty c&amp;oacute; bản sắc thương hiệu mạnh mẽ l&amp;agrave; yếu tố quan trọng để nổi bật tr&amp;ecirc;n thị trường cạnh tranh như hiện nay. Một thương hiệu đủ tốt sẽ kết nối kh&amp;aacute;ch h&amp;agrave;ng, khiến họ tin tưởng v&amp;agrave; trở th&amp;agrave;nh kh&amp;aacute;ch h&amp;agrave;ng trung th&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI đang thay đổi c&amp;aacute;ch c&amp;aacute;c Marketer &amp;ldquo;n&amp;oacute;i chuyện&amp;rdquo; với kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh. Theo đ&amp;oacute;, c&amp;oacute; đến 60% người l&amp;agrave;m Marketing c&amp;oacute; kế hoạch chi nhiều tiền hơn cho AI để tạo ra nội dung c&amp;oacute; t&amp;iacute;nh năng c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, điều n&amp;agrave;y cho thấy sự quan trọng của AI trong Marketing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi kết hợp x&amp;acirc;y dựng thương hiệu v&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a dựa tr&amp;ecirc;n AI, doanh nghiệp sẽ c&amp;oacute; kế hoạch tiếp thị hiệu quả hơn. Bằng c&amp;aacute;ch sử dụng AI để xem x&amp;eacute;t dữ liệu cũng như h&amp;agrave;nh vi kh&amp;aacute;ch h&amp;agrave;ng, Marketer c&amp;oacute; thể tạo ra th&amp;ocirc;ng điệp, nội dung ph&amp;ugrave; hợp với nhu cầu, sở th&amp;iacute;ch của họ. Điều n&amp;agrave;y sẽ l&amp;agrave;m kh&amp;aacute;ch h&amp;agrave;ng h&amp;agrave;i l&amp;ograve;ng hơn v&amp;agrave; tạo cảm gi&amp;aacute;c doanh nghiệp gắn kết hơn với kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng l&amp;ecirc;n tầm cao mới&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a l&amp;agrave; điều m&amp;agrave; ch&amp;uacute;ng ta n&amp;oacute;i với nhau rất nhiều v&amp;agrave; n&amp;oacute; l&amp;agrave; yếu tố quan trọng đ&amp;aacute;nh gi&amp;aacute; sự th&amp;agrave;nh c&amp;ocirc;ng của một thương hiệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc tạo ra trải nghiệm c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a cho kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave; điều cần thiết. C&amp;oacute; đến 80% Marketer cho rằng việc cải thiện trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave; ưu ti&amp;ecirc;n h&amp;agrave;ng đầu của c&amp;ocirc;ng ty v&amp;igrave; n&amp;oacute; gi&amp;uacute;p doanh nghiệp c&amp;oacute; nhiều kh&amp;aacute;ch h&amp;agrave;ng trung th&amp;agrave;nh, giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng tốt hơn v&amp;agrave; n&amp;acirc;ng cao hiệu quả kinh doanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một điều rất quan trọng khi cải thiện trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng đ&amp;oacute; ch&amp;iacute;nh l&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a. Jobeth Harvey - Manager tại Vinomofo cho biết: &amp;ldquo;Ch&amp;uacute;ng ta c&amp;agrave;ng c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a th&amp;igrave; ch&amp;uacute;ng ta c&amp;agrave;ng nhận được kết quả tốt hơn. Với việc t&amp;iacute;ch hợp c&amp;aacute;c nền tảng, ch&amp;uacute;ng t&amp;ocirc;i c&amp;oacute; th&amp;ecirc;m cơ hội để mang đến trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng đa k&amp;ecirc;nh tốt nhất&amp;rdquo;. Điều n&amp;agrave;y cho thấy tầm quan trọng của việc sử dụng c&amp;ocirc;ng nghệ để mang lại trải nghiệm mượt m&amp;agrave; v&amp;agrave; c&amp;aacute; nh&amp;acirc;n cho kh&amp;aacute;ch h&amp;agrave;ng bất kể họ tương t&amp;aacute;c với thương hiệu của bạn ở đ&amp;acirc;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Lắng nghe phản hồi của kh&amp;aacute;ch h&amp;agrave;ng, thấu hiểu mong muốn của họ qua dữ liệu v&amp;agrave; tương t&amp;aacute;c với họ mọi nền tảng l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a để c&amp;aacute;c Marketer mang đến trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng xuất sắc. Bằng c&amp;aacute;ch tập trung v&amp;agrave;o những yếu tố n&amp;agrave;y, thương hiệu c&amp;oacute; thể kiến tạo một h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng (CX) kh&amp;ocirc;ng chỉ đ&amp;aacute;p ứng m&amp;agrave; c&amp;ograve;n vượt xa kỳ vọng, từ đ&amp;oacute; x&amp;acirc;y dựng l&amp;ograve;ng trung th&amp;agrave;nh v&amp;agrave; th&amp;uacute;c đẩy sự ph&amp;aacute;t triển bền vững.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; thể n&amp;oacute;i, Marketing đang chuyển m&amp;igrave;nh với tốc độ ch&amp;oacute;ng mặt v&amp;agrave; bị t&amp;aacute;c động mạnh mẽ bởi những sự thay đổi của c&amp;ocirc;ng nghệ cũng như kỳ vọng của kh&amp;aacute;ch h&amp;agrave;ng. Hy vọng những th&amp;ocirc;ng tin về xu hướng Marketing tr&amp;ecirc;n đ&amp;acirc;y sẽ hữu &amp;iacute;ch với bạn v&amp;agrave; l&amp;agrave; cơ sở để doanh nghiệp của bạn c&amp;oacute; thể đưa ra những chiến lược tiếp thị ph&amp;ugrave; hợp trong nửa cuối năm 2024.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Tổng hợp&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Marketing is like a "living organism", it constantly develops and adapts to changes in the market and society. As marketers, we need to update methods and trends to be able to come up with appropriate strategies, attract potential customers, and improve the effectiveness of marketing activities.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;The second half of 2024 is approaching, bringing with it new changes in the colorful Marketing picture. And to break through in a fiercely competitive market, businesses need to keep up with trends and make appropriate changes and adjustments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to Giuseppe Caltabiano, Deputy Director of Marketing at Rock Content: "AI is becoming more than just a support tool, it is becoming the foundation of effective, creative marketing campaigns." In the content below, DTSVN will clarify the trend of using AI in Marketing and some other trends in the second half of 2024.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Artificial intelligence (AI) is creeping into every corner of marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Of course, the artificial intelligence revolution is not always smooth sailing, with issues of data security, the complexity of AI systems and the need for highly qualified personnel to Dealing with AI are some of the obstacles that Marketers face.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;But even so, the positives still far outweigh the downsides of AI. Artificial intelligence has opened a new door to increase creativity, efficiency, and help personalize marketing campaigns. AI has since become a must-have tool if Marketers want to lead in today's competitive market.&lt;img&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Video occupies an important position&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Video will continue to play an important role in businesses' marketing campaigns in the second half of 2024. According to Hubspot's report, up to 86% of Marketers consider video to be indispensable in any campaign, this Do you see the indispensable role of video, especially short videos?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Businesses can use videos to tell stories and introduce products or simply a video capturing images of a product. This will certainly be a great way for you to connect with customers and at the same time convey your message to the audience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Up to 75% of Marketers said they are willing to use short videos and post them on Tiktok or Reel in their Marketing strategy. Accordingly, they affirm that these platforms are "gold mines" that attract attention as well as influence customers/viewers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To increase the effectiveness of video for marketing campaigns, businesses need to pay attention to:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Understand your customers: Research and see what your customers like to create videos with appropriate content.&lt;/li&gt;
+&lt;li&gt;Use Social: Don't forget to use Tiktok, Instagram Reel, Facebook Reel to post these videos, and reach more audiences.&lt;/li&gt;
+&lt;li&gt;Focus on quality: Videos invested in content and images will attract the attention of many people and reach many potential customers.&lt;/li&gt;
+&lt;li&gt;Use hashtags for posts: In the caption for videos on Tiktok or Meta platforms, you can use additional hashtags to help the video be distributed according to related topics, increasing the number of views for the video.&lt;/li&gt;
+&lt;li&gt;Regularly optimize: For each video, you need to review and evaluate its quality and effectiveness, then make improvements for the following videos..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Combine Influencer Marketing and SEO Marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Influencer Marketing and SEO Marketing will continue to be two marketing strategies in the final months of 2024.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Influencer marketing has become a mainstay in today's marketing strategies. Most brands are collaborating with KOLs, KOCs, and content creators in their field to promote sales and increase brand awareness.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This shows that Marketing activities are tending to focus on experts and that KOLs and KOCs are playing a huge role in shaping the way consumers see things and make purchasing decisions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Besides, SEO is still an important strategy to help businesses succeed on the website channel. Many reports show that optimizing content on search engines is essential, it helps businesses create personalized content, targeting user experience and addressing their needs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Combining Influencer and SEO allows businesses to leverage the influencer's reputation while still ensuring the content is easy to find and meets the needs of the audience. Surely this will be an important marketing strategy in the second half of 2024 and 2025.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;AI-powered branding and personalization&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Branding and AI-based personalization go hand in hand to create a more powerful and effective strategy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Branding is more than just a company logo, a slogan that talks about the company. It's what makes your business special and how it connects with its customers. Up to 80% of Marketers think that a company having a strong brand identity is an important factor to stand out in today's competitive market. A good enough brand will connect customers, make them trust and become loyal customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI is changing the way marketers "talk" to their customers. Accordingly, up to 60% of marketers plan to spend more money on AI to create content with personalized features, this shows the importance of AI in Marketing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;When combining AI-based branding and personalization, businesses will have a more effective marketing plan. By using AI to review data and customer behavior, Marketers can create messages and content that suit their needs and preferences. This will make customers more satisfied and create a feeling that the business is more connected to its customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Personalize customer experience to new heights&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Personalization is something we talk about a lot and it's an important factor in measuring a brand's success.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Creating a personalized experience for customers is essential. Up to 80% of Marketers think that improving customer experience is a company's top priority because it helps businesses have more loyal customers, better retain customers and improve business efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One thing that is very important when improving customer experience is personalization. Jobeth Harvey - Manager at Vinomofo said: &amp;ldquo;The more personalization we get, the better results we get. With the integration of platforms, we have more opportunities to deliver the best omnichannel customer experience.&amp;rdquo; This shows the importance of using technology to deliver a smooth and personal experience for customers no matter where they interact with your brand.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Listening to customer feedback, understanding their desires through data, and engaging with them across all platforms is the key for Marketers to deliver excellent customer experiences. By focusing on these elements, brands can create a customer journey (CX) that not only meets but exceeds expectations, thereby building loyalty and driving sustainable growth. .&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Epilogue&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It can be said that Marketing is transforming at breakneck speed and is strongly impacted by changes in technology as well as customer expectations. Hopefully the information about Marketing trends above will be useful to you and serve as a basis for your business to come up with appropriate marketing strategies in the second half of 2024.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Reference source: Summary&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Help banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now to get advice and experience the solution here&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-05-23T10:10:57.000Z</time_create_dt>
+	<createdDate>2025-08-25T10:10:56.524Z</createdDate>
+	<createdDate_dt>2025-08-25T10:10:56.524Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T10:10:56.524Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T10:10:56.524Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

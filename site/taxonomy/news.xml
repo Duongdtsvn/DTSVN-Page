@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>12ac</objectGroupId>
+	<objectId>12ac4f17-f6ba-95e7-6e68-224380891379</objectId>
+	<items item-list="true">	<item>	<key>Business-News</key>
+	<value>Tin kinh doanh</value>
+	</item>	<item>	<key>Technology-News</key>
+	<value>Tin công nghệ</value>
+	</item>	<item>	<key>DTSVN-Careers</key>
+	<value>DTSVN Tuyển dụng</value>
+	</item>	<item>	<key>activeDtsvn</key>
+	<value>Hoạt động DTSVN</value>
+	</item>	<item>	<key>Blog</key>
+	<value>Blog</value>
+	</item></items>
+	<internal-name>Doanh mục tin tức</internal-name>
+	<file-name>news.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-07-04T03:44:06.223Z</createdDate>
+	<createdDate_dt>2025-07-04T03:44:06.223Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T06:37:34.402Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T06:37:34.402Z</lastModifiedDate_dt>
+</component>

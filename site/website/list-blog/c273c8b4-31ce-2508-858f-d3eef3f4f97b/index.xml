@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c273</objectGroupId>
+	<objectId>c273c8b4-31ce-2508-858f-d3eef3f4f97b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>c273c8b4-31ce-2508-858f-d3eef3f4f97b</folder-name>
+	<internal-name>Phương pháp quản lý rủi ro ESG trong các Tổ chức Tài chính - Ngân hàng</internal-name>
+	<navLabel>Phương pháp quản lý rủi ro ESG trong các Tổ chức Tài chính - Ngân hàng</navLabel>
+	<title_vi_s>Phương pháp quản lý rủi ro ESG trong các Tổ chức Tài chính - Ngân hàng</title_vi_s>
+	<title_en_s>ESG Risk Management Methods in Financial and Banking Institutions</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/avatar1695624218226-16956242185051846809994.webp</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Trong những năm gần đ&amp;acirc;y, rủi ro M&amp;ocirc;i trường, X&amp;atilde; hội v&amp;agrave; Quản trị (ESG) l&amp;agrave; vấn đề quan trọng cần c&amp;acirc;n nhắc đối với ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng. C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh phải đối mặt với một loạt rủi ro ESG, bao gồm biến đổi kh&amp;iacute; hậu, bất b&amp;igrave;nh đẳng x&amp;atilde; hội v&amp;agrave; c&amp;aacute;c vấn đề quản trị. Quản l&amp;yacute; hiệu quả những rủi ro n&amp;agrave;y l&amp;agrave; điều cần thiết để đảm bảo t&amp;iacute;nh bền vững l&amp;acirc;u d&amp;agrave;i, giảm thiểu tổn thất t&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hiểu&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;về&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;rủi ro ESG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Rủi ro ESG bao gồm nhiều yếu tố c&amp;oacute; thể t&amp;aacute;c động đ&amp;aacute;ng kể đến hoạt động v&amp;agrave; hiệu quả t&amp;agrave;i ch&amp;iacute;nh của ng&amp;acirc;n h&amp;agrave;ng hoặc tổ chức t&amp;agrave;i ch&amp;iacute;nh. Hiểu r&amp;otilde; sự li&amp;ecirc;n kết v&amp;agrave; tương t&amp;aacute;c giữa c&amp;aacute;c yếu tố n&amp;agrave;y l&amp;agrave; quan trọng để quản l&amp;yacute; rủi ro một c&amp;aacute;ch hiệu quả v&amp;agrave; đảm bảo sự bền vững trong hoạt động kinh doanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;oacute; 4 loại&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;loại rủi ro ESG. B&lt;/strong&gt;&lt;strong&gt;ao gồm:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Rủi ro chuyển đổi&lt;/strong&gt;&lt;strong&gt;;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Rủi ro vật chất&lt;/strong&gt;&lt;strong&gt;;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Rủi ro x&amp;atilde; hội&lt;/strong&gt;&lt;strong&gt;;&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Rủi ro quản trị.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thứ nhất, r&lt;/strong&gt;&lt;strong&gt;ủi ro chuyển đổi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Về Kh&amp;iacute;a cạnh ph&amp;aacute;p l&amp;yacute;&lt;/strong&gt;: &amp;Aacute;p dụng thuế carbon (tăng gi&amp;aacute; ph&amp;aacute;t thải kh&amp;iacute; nh&amp;agrave; k&amp;iacute;nh), tăng y&amp;ecirc;u cầu b&amp;aacute;o c&amp;aacute;o ph&amp;aacute;t thải, tăng cường quy định về sản phẩm hoặc dịch vụ hiện c&amp;oacute;, hạn chế cấp ph&amp;eacute;p, tiếp x&amp;uacute;c với c&amp;aacute;c thủ tục tố tụng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Về c&amp;ocirc;ng nghệ:&lt;/strong&gt;&amp;nbsp;Chi ph&amp;iacute; để chuyển đổi sang c&amp;ocirc;ng nghệ ph&amp;aacute;t thải thấp hơn, sự thất bại của c&amp;ocirc;ng nghệ mới l&amp;agrave;m mất vốn đầu tư, sản phẩm thay thế cho c&amp;aacute;c sản phẩm ph&amp;aacute;t thải thấp hơn do đ&amp;oacute; l&amp;agrave;m giảm nhu cầu đối với c&amp;aacute;c sản phẩm hiện c&amp;oacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Về chi ph&amp;iacute;:&lt;/strong&gt;&amp;nbsp;Gi&amp;aacute; nguy&amp;ecirc;n vật liệu tăng, chi ph&amp;iacute; tăng do thay đổi hoặc gi&amp;aacute;n đoạn chuỗi cung ứng, thay đổi h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Về thương hiệu:&lt;/strong&gt;&amp;nbsp;Những thay đổi trong nhận thức v&amp;agrave; sở th&amp;iacute;ch của người ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thứ 2, rủi ro vật chất:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Về thời tiết:&lt;/strong&gt;&amp;nbsp;Tần suất v&amp;agrave; mức độ nghi&amp;ecirc;m trọng của c&amp;aacute;c hiện tượng thời tiết cực đoan tăng l&amp;ecirc;n (v&amp;iacute; dụ như ch&amp;aacute;y rừng, lốc xo&amp;aacute;y, b&amp;atilde;o, lũ lụt).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Về biến đổi kh&amp;iacute; hậu: Những thay đổi trong c&amp;aacute;c kiểu thời tiết, nhiệt độ tăng, mực nước biển d&amp;acirc;ng cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thứ 3, rủi ro x&amp;atilde; hội:&lt;/strong&gt;&amp;nbsp;Kh&amp;ocirc;ng tu&amp;acirc;n thủ c&amp;aacute;c ti&amp;ecirc;u chuẩn lao động, trả lương lao động kh&amp;ocirc;ng thỏa đ&amp;aacute;ng, kh&amp;ocirc;ng đ&amp;aacute;p ứng ti&amp;ecirc;u chuẩn an to&amp;agrave;n c&amp;ocirc;ng nghiệp, bảo vệ sức khỏe cho người lao động v&amp;agrave; an to&amp;agrave;n sản phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thứ 4, rủi ro quản trị:&lt;/strong&gt;&amp;nbsp;Tu&amp;acirc;n thủ ph&amp;aacute;p luật thuế, tham nhũng hoặc cố gắng hối lộ, bồi thường quản l&amp;yacute; cấp cao kh&amp;ocirc;ng ph&amp;ugrave; hợp, nguy cơ trong bảo vệ dữ liệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Những th&amp;aacute;ch thức m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh phải đối mặt về rủi ro ESG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh gặp phải một số th&amp;aacute;ch thức trong việc quản l&amp;yacute; hiệu quả rủi ro ESG, như việc thiếu c&amp;aacute;c khu&amp;ocirc;n khổ ti&amp;ecirc;u chuẩn để đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; b&amp;aacute;o c&amp;aacute;o rủi ro ESG, hạn chế về dữ liệu ESG chất lượng cao, kh&amp;oacute; khăn trong việc t&amp;iacute;ch hợp c&amp;aacute;c yếu tố ESG v&amp;agrave;o qu&amp;aacute; tr&amp;igrave;nh ra quyết định v&amp;agrave; nhu cầu về kỹ năng v&amp;agrave; chuy&amp;ecirc;n m&amp;ocirc;n. Để giải quyết vấn đề n&amp;agrave;y, cần &amp;aacute;p dụng chiến lược chủ động v&amp;agrave; cải thiện ti&amp;ecirc;u chuẩn, dữ liệu, quy tr&amp;igrave;nh v&amp;agrave; đ&amp;agrave;o tạo nh&amp;acirc;n vi&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c phương ph&amp;aacute;p tốt nhất để quản l&amp;yacute; rủi ro ESG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đ&amp;aacute;nh gi&amp;aacute; rủi ro ESG&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&amp;nbsp;Tiến h&amp;agrave;nh đ&amp;aacute;nh gi&amp;aacute; rủi ro ESG to&amp;agrave;n diện để x&amp;aacute;c định v&amp;agrave; hiểu c&amp;aacute;c rủi ro tiềm ẩn cũng như t&amp;aacute;c động của ch&amp;uacute;ng đối với tổ chức. Đ&amp;aacute;nh gi&amp;aacute; n&amp;agrave;y cần bao gồm việc ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c hoạt động nội bộ, chuỗi cung ứng v&amp;agrave; c&amp;aacute;c yếu tố b&amp;ecirc;n ngo&amp;agrave;i như xu hướng ph&amp;aacute;p l&amp;yacute; v&amp;agrave; kỳ vọng của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;iacute;ch hợp c&amp;aacute;c yếu tố ESG&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&amp;nbsp;T&amp;iacute;ch hợp c&amp;aacute;c yếu tố ESG v&amp;agrave;o qu&amp;aacute; tr&amp;igrave;nh ra quyết định, bao gồm đ&amp;aacute;nh gi&amp;aacute; rủi ro t&amp;iacute;n dụng, ph&amp;acirc;n t&amp;iacute;ch đầu tư v&amp;agrave; bảo l&amp;atilde;nh bảo hiểm. Sự t&amp;iacute;ch hợp n&amp;agrave;y cần xem x&amp;eacute;t c&amp;aacute;c t&amp;aacute;c động t&amp;agrave;i ch&amp;iacute;nh tiềm ẩn của c&amp;aacute;c rủi ro v&amp;agrave; cơ hội ESG. Việc ph&amp;aacute;t triển c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh v&amp;agrave; thước đo chuy&amp;ecirc;n biệt kết hợp c&amp;aacute;c c&amp;acirc;n nhắc về ESG c&amp;oacute; thể gi&amp;uacute;p đ&amp;aacute;nh gi&amp;aacute; t&amp;aacute;c động của c&amp;aacute;c yếu tố n&amp;agrave;y đối với hồ sơ rủi ro v&amp;agrave; hiệu quả t&amp;agrave;i ch&amp;iacute;nh của tổ chức.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sự tham gia của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&amp;nbsp;Tương t&amp;aacute;c với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan, bao gồm kh&amp;aacute;ch h&amp;agrave;ng, nh&amp;agrave; đầu tư, nh&amp;acirc;n vi&amp;ecirc;n, cơ quan quản l&amp;yacute; v&amp;agrave; cộng đồng để hiểu những mong đợi v&amp;agrave; mối quan t&amp;acirc;m của họ về c&amp;aacute;c vấn đề ESG. T&amp;iacute;ch cực t&amp;igrave;m kiếm phản hồi v&amp;agrave; th&amp;uacute;c đẩy giao tiếp minh bạch c&amp;oacute; thể gi&amp;uacute;p h&amp;igrave;nh th&amp;agrave;nh c&amp;aacute;c chiến lược quản l&amp;yacute; rủi ro ESG hiệu quả v&amp;agrave; x&amp;acirc;y dựng niềm tin. Việc thiết lập c&amp;aacute;c k&amp;ecirc;nh v&amp;agrave; nền tảng d&amp;agrave;nh ri&amp;ecirc;ng cho sự tham gia của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan c&amp;oacute; thể tạo điều kiện thuận lợi cho đối thoại v&amp;agrave; hợp t&amp;aacute;c li&amp;ecirc;n tục.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; b&amp;aacute;o c&amp;aacute;o rủi ro ESG&lt;/strong&gt;&lt;strong&gt;:&amp;nbsp;&lt;/strong&gt;Thiết lập c&amp;aacute;c cơ chế gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; b&amp;aacute;o c&amp;aacute;o minh bạch để theo d&amp;otilde;i v&amp;agrave; truyền đạt tiến độ của tổ chức trong việc quản l&amp;yacute; rủi ro ESG. Việc c&amp;ocirc;ng bố thường xuy&amp;ecirc;n th&amp;ocirc;ng tin ESG c&amp;oacute; li&amp;ecirc;n quan gi&amp;uacute;p n&amp;acirc;ng cao t&amp;iacute;nh minh bạch, tr&amp;aacute;ch nhiệm giải tr&amp;igrave;nh v&amp;agrave; niềm tin của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan. Việc &amp;aacute;p dụng c&amp;aacute;c khu&amp;ocirc;n khổ b&amp;aacute;o c&amp;aacute;o được c&amp;ocirc;ng nhận như S&amp;aacute;ng kiến B&amp;aacute;o c&amp;aacute;o To&amp;agrave;n cầu (GRI) hoặc Ủy ban Chuẩn mực Kế to&amp;aacute;n Bền vững (SASB) c&amp;oacute; thể cung cấp một c&amp;aacute;ch tiếp cận c&amp;oacute; cấu tr&amp;uacute;c để b&amp;aacute;o c&amp;aacute;o rủi ro ESG v&amp;agrave; gi&amp;uacute;p đ&amp;aacute;nh gi&amp;aacute; hiệu suất so với c&amp;aacute;c c&amp;ocirc;ng ty c&amp;ugrave;ng ng&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hợp t&amp;aacute;c&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt;&amp;nbsp;Hợp t&amp;aacute;c với c&amp;aacute;c đối t&amp;aacute;c trong ng&amp;agrave;nh, cơ quan quản l&amp;yacute;, học viện v&amp;agrave; tổ chức x&amp;atilde; hội d&amp;acirc;n sự để chia sẻ kiến thức, phương ph&amp;aacute;p hay nhất v&amp;agrave; nguồn lực nhằm giải quyết c&amp;aacute;c th&amp;aacute;ch thức chung về ESG.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;oacute;m lại, quản l&amp;yacute; rủi ro ESG đ&amp;atilde; trở th&amp;agrave;nh một điều bắt buộc đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh. Bằng c&amp;aacute;ch hiểu được sự phức tạp của c&amp;aacute;c rủi ro ESG, &amp;aacute;p dụng c&amp;aacute;c phương ph&amp;aacute;p ph&amp;ugrave; hợp v&amp;agrave; hợp t&amp;aacute;c với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan, c&amp;aacute;c tổ chức n&amp;agrave;y c&amp;oacute; thể điều hướng bối cảnh đang thay đổi v&amp;agrave; hướng tới một tương lai bền vững.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: The FinData Like&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In today's rapidly changing landscape, it's crucial for organizations to navigate Environmental, Social, and Governance (ESG) risks effectively. 🏦&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;In today's edition The FinData Lake, we'll demystify it using top bottom approach, and we'll dive deep into concepts and applications of ESG risk management for Banking and Financial Institutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. What is ESG Investing?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;ESG Investing stands for Environmental, social, and governance investing, which refers to a set of standards for a company&amp;rsquo;s behavior used by socially conscious investors to screen potential investments. You can visualize it as a credit score system but ranking ESG activities instead for companies.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In recent years, Environmental, Social, and Governance (ESG) risk has emerged as a critical consideration for the banking and financial industry. Financial institutions face a range of ESG risks, including climate change, social inequalities, and governance issues. Effectively managing these risks is essential to ensure long-term sustainability, protect reputation, and mitigate financial losses.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This article aims to demystify ESG risk and provide valuable insights into best practices that banks and financial institutions can adopt to mitigate these risks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Understanding ESG Risk&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;ESG risk encompasses a wide range of factors that can significantly impact a bank's or financial institution's operations and financial performance. These risks include environmental factors such as climate change and natural resource depletion, social factors like labor practices and community relations, and governance factors such as board diversity and ethical business conduct. Understanding the complexities and interdependencies of these risks is crucial for effective risk management.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Types of ESG Risks:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2.1 Transition Risks&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;a. Policy &amp;amp; Legal&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Introduction of a carbon tax (increased pricing of GHG emissions)&lt;/li&gt;
+&lt;li&gt;Increased emissions reporting requirements&lt;/li&gt;
+&lt;li&gt;Increased regulation of existing products or services&lt;/li&gt;
+&lt;li&gt;Increased permitting restrictions&lt;/li&gt;
+&lt;li&gt;Exposure to lawsuits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;b. Technology&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Cost to transition to lower emissions technology&lt;/li&gt;
+&lt;li&gt;Failure of new technology and resultant loss of investment&lt;/li&gt;
+&lt;li&gt;Product substitution for lower emissions products (and therefore reduced demand for existing products)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;c. Market&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Increased cost of raw materials&lt;/li&gt;
+&lt;li&gt;Increased costs due to supply chain changes or disruption&lt;/li&gt;
+&lt;li&gt;Changing customer behavior&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;d. Reputation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Changes in consumer perception and/or preferences&lt;/li&gt;
+&lt;li&gt;Stigmatization of sector (e.g. extractive sector)&lt;/li&gt;
+&lt;li&gt;Increased stakeholder concern&lt;/li&gt;
+&lt;li&gt;Negative external feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2.2 Physical Risks&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;a. Acute&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Increased frequency and severity of extreme weather events (e.g. wildfires, cyclones, hurricanes, floods)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;b. Chronic&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Increased and extreme changes in weather patterns&lt;/li&gt;
+&lt;li&gt;Temperature increases&lt;/li&gt;
+&lt;li&gt;Sea level rises&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2.3 Social Risks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Noncompliance with labor standards&lt;/li&gt;
+&lt;li&gt;Inadequate payment of labor&lt;/li&gt;
+&lt;li&gt;Lack of assurance of industrial safety standards and health protection for employees&lt;/li&gt;
+&lt;li&gt;Lack of assurance of product safety&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2.4 Governance Risks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Compliance with tax law&lt;/li&gt;
+&lt;li&gt;Corruption or attempted bribery&lt;/li&gt;
+&lt;li&gt;Inappropriate senior management compensation&lt;/li&gt;
+&lt;li&gt;Lack of proper assurance of data protection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. The Significance of ESG Risk in Banking and Financial Institutions&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks and financial institutions have a unique role in society, as they allocate capital and facilitate economic activities. They are exposed to ESG risks through their lending, investment, and insurance activities. Neglecting to address these risks adequately can lead to reputational damage, regulatory scrutiny, legal liabilities, and financial losses. Proactively managing ESG risks will help financial institutions can protect their long-term viability and contribute to sustainable development.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It is well connected to all Risk Management structure of any bank or financial institution; In one way or another, if ESG risk metrics are affected, it'll negatively impact other risk departments such as Financial Risk (Market, Credit, and Liquidity) as well as Non-financial Risk (Operational, Strategic and Reputational).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Challenges Faced by Banks and Financial Institutions Regarding ESG Risk&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks and financial institutions encounter several challenges in effectively managing ESG risks. These challenges include the lack of standardized frameworks for ESG risk assessment and reporting, limited availability of high-quality ESG data, difficulties in integrating ESG factors into decision-making processes, and the need for specialized skills and expertise. Overcoming these challenges requires a proactive and strategic approach.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Best Practices for Managing ESG Risk&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To effectively manage ESG risk, banks and financial institutions can consider the following best practices:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;a. ESG Risk Assessment&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Conduct comprehensive ESG risk assessments to identify and understand potential risks and their impacts on the institution. This assessment should involve analyzing internal practices, supply chains, and external factors such as regulatory trends and stakeholder expectations. Leveraging tools and frameworks provided by industry experts, such as the KPMG ESG Risk Assessment Methodology, can enhance the rigor and accuracy of these assessments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;b. Integration of ESG Factors&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Integrate ESG factors into decision-making processes, including credit risk assessment, investment analysis, and insurance underwriting. This integration should consider the potential financial implications of ESG risks and opportunities. Developing specialized models and metrics that incorporate ESG considerations can help in evaluating the impact of these factors on the institution's risk profile and financial performance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;c. Stakeholder Engagement&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Engage with stakeholders, including customers, investors, employees, regulators, and communities, to understand their expectations and concerns regarding ESG issues. Actively seeking feedback and fostering transparent communication can help in shaping effective ESG risk management strategies and building trust. Establishing dedicated channels and platforms for stakeholder engagement can facilitate ongoing dialogue and collaboration.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;d. ESG Risk Monitoring and Reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Establish robust monitoring and reporting mechanisms to track and communicate the institution's progress in managing ESG risks. Regular disclosure of relevant ESG information can enhance transparency, accountability, and stakeholder confidence. Adopting recognized reporting frameworks such as the Global Reporting Initiative (GRI) or Sustainability Accounting Standards Board (SASB) can provide a structured approach to ESG risk reporting and help benchmark performance against industry peers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;e. Collaboration and Partnerships&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Collaborate with industry peers, regulatory bodies, academia, and civil society organizations to share knowledge, best practices, and resources for addressing common ESG challenges. Participating in industry initiatives and engaging in public-private partnerships can foster innovation, collective action, and contribute to the development of industry-wide standards. Collaboration enables financial institutions to leverage collective intelligence and drive positive change.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. The Role of Regulatory Frameworks&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Regulatory frameworks play a crucial role in promoting and enforcing ESG risk management practices in the banking and financial sector. Governments and regulatory bodies are increasingly introducing ESG-related regulations, guidelines, and reporting requirements. Compliance with these frameworks is essential to ensure alignment with evolving regulatory expectations, avoid penalties, and maintain a competitive edge. Staying informed about regulatory developments and actively participating in shaping policy discussions is crucial for financial institutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For example, The Central Bank of Egypt (CBE) is focusing on Sustainable Finance in light of its latest efforts to combat climate changes. Encouraging all banks in the Egyptian Banking sector to comply with the carbon footprint measurement process.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;7. Implementing Sustainable Finance Solutions&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions can contribute to sustainable development by offering innovative financial products and services that support environmentally and socially responsible projects. These solutions include green bonds, impact investing, sustainable lending, and insurance products that incentivize sustainable practices.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Aligning financial goals with sustainable objectives will assist banks and financial institutions can create positive societal and environmental impacts while enhancing their own competitiveness.&lt;img&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8. The Business Case for ESG Integration&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Integrating ESG considerations into business strategies can deliver several benefits for banks and financial institutions. It can enhance risk management capabilities, attract socially responsible investors, improve long-term profitability, foster innovation, strengthen stakeholder relationships, and enhance brand reputation. ESG integration is not only a moral imperative but also a strategic advantage that positions financial institutions for long-term success.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Harvard Law School recently published a great paper on this topic that examines the potential for corporate managers, boards of directors, and institutional investors around how best to incorporate ESG (environmental, social, governance) factors into strategic and investment decision-making processes. You can check it out here&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;9. Investing in ESG Risk Mitigation&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions should allocate resources and investments towards ESG risk mitigation efforts. This includes conducting due diligence on potential investments, incorporating ESG criteria into investment decisions, and actively engaging with portfolio companies to drive sustainable practices. Proactively managing ESG risks within their investment portfolios help financial institutions to mitigate potential financial losses and contribute to the transition to a more sustainable economy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;10. Utilizing Data Analytics and AI for ESG Risk Monitoring and Reporting&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The emergence of data analytics and artificial intelligence (AI) has revolutionized the way banks and financial institutions approach ESG risk monitoring and reporting. Harnessing the power of these technologies will allow institutions can delve deeper into their data, make more informed decisions, and enhance the transparency and accuracy of their ESG reporting processes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Data analytics and AI enable financial institutions to process vast amounts of data from various sources, including internal systems, public databases, and social media platforms. This extensive data analysis allows for a comprehensive assessment of ESG risks, uncovering valuable insights that may have otherwise gone unnoticed.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Machine learning algorithms, a subset of AI, play a pivotal role in ESG risk monitoring. These algorithms can be trained to detect anomalies and patterns indicative of potential ESG risks. By continuously analyzing data, machine learning models can proactively identify emerging risks, enabling institutions to take timely and appropriate action. For instance, these models can identify unsustainable practices within customer behavior or detect ESG-related issues in supply chains.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Moreover, data analytics and AI streamline and automate the ESG risk reporting process. Manual data collection and reporting can be labor-intensive and prone to errors.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions can ensure the accuracy and efficiency of their ESG disclosures by implementing automated data aggregation and validation systems. AI-powered natural language processing (NLP) techniques further facilitate the analysis of unstructured textual data, extracting relevant information and streamlining the reporting process. A lot of available tools are supporting such functions such as FinGPT,&amp;nbsp;FinNLP and BloombergGPT.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The integration of data analytics and AI also enhances the granularity and quality of ESG disclosures. Financial institutions can provide stakeholders with more detailed and actionable information, such as specific ESG metrics, targets, and progress updates. This level of transparency empowers stakeholders to make informed decisions and fosters trust and confidence in the institution's commitment to ESG risk management.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nevertheless, it is essential for financial institutions to address ethical considerations and data privacy concerns when utilizing data analytics and AI. Institutions must ensure that data is handled responsibly and in compliance with relevant regulations. Additionally, careful attention should be given to potential biases or limitations in AI models to maintain fairness and accuracy in risk assessments and reporting.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;11. ESG Risk Reporting and Disclosure&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Transparent and accurate reporting of ESG risks and performance is crucial for building trust with stakeholders. Financial institutions should adopt standardized reporting frameworks, such as the Global Reporting Initiative (GRI) or Sustainability Accounting Standards Board (SASB), to ensure consistency and comparability of disclosures.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Robust ESG reporting practices help stakeholders make informed decisions, support capital allocation towards sustainable activities, and foster market confidence.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;12. Stakeholder Engagement and Collaboration&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Engaging with stakeholders and fostering collaboration is key to effectively managing ESG risks. Financial institutions should actively seek feedback, address concerns, and collaborate with stakeholders to develop sustainable solutions. This inclusive approach strengthens relationships, builds trust, and promotes shared responsibility for addressing ESG challenges.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Regular dialogue and collaboration enable financial institutions to gain valuable insights, identify emerging risks, and create shared value.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;ESG risk management has become an imperative for banks and financial institutions. By understanding the complexities of ESG risks, adopting best practices, and collaborating with stakeholders, these institutions can effectively navigate the changing landscape and contribute to a sustainable future. Proactive management of ESG risks not only safeguards the institution's long-term viability but also unlocks opportunities for innovation, growth, and positive societal impact.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Moreover, data analytics and AI present unprecedented opportunities for banks and financial institutions to bolster their ESG risk monitoring and reporting capabilities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Institutions can gain deeper insights, automate processes, and enhance transparency. The integration of data analytics and AI in ESG risk management signifies a commitment to sustainable practices and strengthens the overall resilience of the financial sector.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: The Findata Like&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Collected by the author&amp;nbsp; DTSVN team - Digital transformation solutions for the Finance - Banking&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking field in Vietnam; helping banks and financial institutions quickly complete the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now and experience our significant software solution here.&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-07-15T05:50:46.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:50:46.165Z</createdDate>
+	<createdDate_dt>2025-08-25T05:50:46.165Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T05:50:46.165Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T05:50:46.165Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

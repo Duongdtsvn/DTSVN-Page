@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-project</content-type>
+	<display-template>/templates/web/item-project.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fc99</objectGroupId>
+	<objectId>fc99b2b9-de21-eefe-d6bc-91d3b05feeab</objectId>
+	<internal-name>Nâng cấp trải nghiệm số toàn diện với Ngân hàng NCB</internal-name>
+	<navLabel>Nâng cấp trải nghiệm số toàn diện với Ngân hàng NCB</navLabel>
+	<key_main_s/>
+	<title_vi_s>Nâng cấp trải nghiệm số toàn diện với Ngân hàng NCB</title_vi_s>
+	<title_en_s>Enhancing the Comprehensive Digital Experience with NCB Bank</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>fc99b2b9-de21-eefe-d6bc-91d3b05feeab</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/z6256834228534_cda6f828dd035823febc45bcbdbdfa97.jpg</img_main_s>
+	<info_main_t>NCB định vị mình là Nhà tư vấn tài chính thông minh, thân thiện; Cam kết phát triển bền vững nhằm đem lại sự an toàn tuyệt đối cho khách hàng. Với những sản phẩm dịch vụ hoàn hảo, tiện...</info_main_t>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;NCB định vị m&amp;igrave;nh l&amp;agrave; Nh&amp;agrave; tư vấn t&amp;agrave;i ch&amp;iacute;nh th&amp;ocirc;ng minh, th&amp;acirc;n thiện; Cam kết ph&amp;aacute;t triển bền vững nhằm đem lại sự an to&amp;agrave;n tuyệt đối cho kh&amp;aacute;ch h&amp;agrave;ng. Với những sản phẩm dịch vụ ho&amp;agrave;n hảo, tiện &amp;iacute;ch v&amp;agrave; đa dạng, NCB l&amp;agrave; đối t&amp;aacute;c tin cậy v&amp;agrave; người bạn đồng h&amp;agrave;nh của kh&amp;aacute;ch h&amp;agrave;ng &amp;ndash; l&amp;agrave; Ng&amp;acirc;n h&amp;agrave;ng của bạn.&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;p&gt;NCB positions itself as a smart and friendly financial advisor, committed to sustainable development to ensure absolute safety for its customers. With a wide range of high-quality, convenient, and diverse products and services, NCB is a trusted partner and a reliable companion on your financial journey &amp;mdash; truly &lt;em&gt;Your Bank&lt;/em&gt;.&lt;/p&gt;</content_en_html>
+	<createdDate>2025-07-10T10:50:55.955Z</createdDate>
+	<createdDate_dt>2025-07-10T10:50:55.955Z</createdDate_dt>
+	<lastModifiedDate>2025-08-27T17:14:38.308Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-27T17:14:38.308Z</lastModifiedDate_dt>
+	<info_main_en_t>NCB positions itself as a smart and friendly financial advisor, committed to sustainable development to ensure absolute safety and security for its customers. With a comprehensive portfolio of high-quality, convenient,...</info_main_en_t>
+	<time_create_dt>2025-03-10T03:02:44.000Z</time_create_dt>
+	<time_create_dt_tz>Asia/Saigon</time_create_dt_tz>
+</page>

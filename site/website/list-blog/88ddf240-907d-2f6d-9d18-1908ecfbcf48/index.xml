@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>88dd</objectGroupId>
+	<objectId>88ddf240-907d-2f6d-9d18-1908ecfbcf48</objectId>
+	<internal-name>B2B Marketing: 2 thách thức lớn khi thuyết phục khách hàng doanh nghiệp!</internal-name>
+	<navLabel>B2B Marketing: 2 thách thức lớn khi thuyết phục khách hàng doanh nghiệp!</navLabel>
+	<title_vi_s>B2B Marketing: 2 thách thức lớn khi thuyết phục khách hàng doanh nghiệp!</title_vi_s>
+	<title_en_s>B2B Marketing: 2 big challenges when convincing business customers!</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>88ddf240-907d-2f6d-9d18-1908ecfbcf48</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/b2b-marketing-2-thach-thuc-lon-thuyet-phuc-khach-hang-doanh-nghiep-1.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;B2B marketing vốn đ&amp;atilde; kh&amp;ocirc;ng dễ. Đặc biệt trong bối cảnh cắt giảm chi ph&amp;iacute;, &amp;aacute;p lực từ nền kinh tế, thị trường, việc thuyết phục kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp sẽ ng&amp;agrave;y c&amp;agrave;ng trở n&amp;ecirc;n phức tạp.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Theo c&amp;aacute;c chuy&amp;ecirc;n gia, con đường đi tới "k&amp;yacute; kết cuối c&amp;ugrave;ng" của c&amp;aacute;c doanh nghiệp B2B đang phải đối diện với 2 th&amp;aacute;ch thức lớn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;aacute;ch thức 1: Những rối ren từ bộ m&amp;aacute;y cồng kềnh của kh&amp;aacute;ch h&amp;agrave;ng B2B&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B2B Marketing &amp;lsquo;kh&amp;oacute; nhằn&amp;rsquo; hơn B2C ở điểm l&amp;agrave; qu&amp;aacute; nhiều người tham gia v&amp;agrave;o quyết định cuối c&amp;ugrave;ng. Trừ khi ta c&amp;oacute; cơ hội tiếp cận với người c&amp;oacute; thẩm quyền hay đ&amp;oacute;ng vai tr&amp;ograve; chủ chốt ngay từ ban đầu, nếu kh&amp;ocirc;ng kết quả sẽ kh&amp;ocirc;ng ngừng &amp;lsquo;biến thi&amp;ecirc;n&amp;rsquo; khi c&amp;aacute;c đề xuất được chuyển qua c&amp;aacute;c ph&amp;ograve;ng ban.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo c&amp;aacute;c khảo s&amp;aacute;t mới đ&amp;acirc;y, số lượng người tham gia &amp;lsquo;biểu quyết&amp;rsquo; cho quyết định cuối c&amp;ugrave;ng đang ng&amp;agrave;y c&amp;agrave;ng tăng. Trung b&amp;igrave;nh 11 người l&amp;agrave; con số của &amp;lsquo;tổ tham mưu&amp;rsquo; hiện tại, v&amp;agrave; gần 20 người l&amp;agrave; con số tối đa t&amp;iacute;nh cho đến giờ!&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nghi&amp;ecirc;n cứu mới đ&amp;acirc;y về h&amp;agrave;nh vi ra quyết định của hơn 1,000 kh&amp;aacute;ch h&amp;agrave;ng B2B, 93% người tham gia chỉ ra rằng, lựa chọn cuối c&amp;ugrave;ng của họ bị ảnh hưởng bởi: nhiều &amp;lsquo;tiếng n&amp;oacute;i&amp;rsquo; trong bộ m&amp;aacute;y cồng kềnh c&amp;ugrave;ng những hạn chế chuy&amp;ecirc;n m&amp;ocirc;n của c&amp;aacute;c bộ phận li&amp;ecirc;n quan trong việc c&amp;acirc;n nhắc. 50% trong số đ&amp;oacute; cũng nhận định cấu tr&amp;uacute;c doanh nghiệp l&amp;agrave; nguồn cơn của nhiều qu&amp;aacute; tr&amp;igrave;nh v&amp;ograve;ng v&amp;egrave;o.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bởi vậy để th&amp;agrave;nh c&amp;ocirc;ng cung ứng sản phẩm/ dịch vụ cho kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp, nhiệm vụ của người l&amp;agrave;m B2B marketing v&amp;agrave; đội ngũ tư vấn l&amp;agrave; l&amp;agrave;m thế n&amp;agrave;o để thay đổi tư duy của họ. Suy cho c&amp;ugrave;ng, kh&amp;ocirc;ng phải l&amp;agrave; bạn đang b&amp;aacute;n sản phẩm, giải ph&amp;aacute;p m&amp;agrave; bạn đang hỗ trợ họ &amp;lsquo;đại t&amp;aacute;i thiết&amp;rsquo; v&amp;agrave; tiến những bước mới trong tương lai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;aacute;ch thức 2: Kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp bị &amp;lsquo;nghẹn&amp;rsquo; bởi những th&amp;ocirc;ng tin gi&amp;agrave;u chất lượng (đến từ hoạt động B2B Marketing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Inbound marketing l&amp;agrave; phương ph&amp;aacute;p thiết lập sự tin tưởng với kh&amp;aacute;ch h&amp;agrave;ng bằng những nội dung hữu &amp;iacute;ch, theo s&amp;aacute;t nhu cầu của họ xuy&amp;ecirc;n suốt mọi giai đoạn để từ đ&amp;oacute; trở th&amp;agrave;nh &amp;lsquo;cố vấn&amp;rsquo; cho kh&amp;aacute;ch h&amp;agrave;ng mỗi khi cần đến. Đ&amp;acirc;y l&amp;agrave; một trong những c&amp;aacute;ch tiếp cận được nhắc đến như lời giản cho th&amp;aacute;ch thức thứ 1 nhưng đồng thời cũng l&amp;agrave; &amp;lsquo;th&amp;aacute;ch thức&amp;rsquo; thứ 2 của B2B marketing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi qu&amp;aacute; nhiều th&amp;ocirc;ng tin chất lượng v&amp;agrave; hữu &amp;iacute;ch nhưng lại kh&amp;ocirc;ng nhất qu&amp;aacute;n về nội dung sẽ khiến kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp trở n&amp;ecirc;n bối rối. V&amp;agrave; sự bối rối n&amp;agrave;y c&amp;ugrave;ng c&amp;oacute; c&amp;aacute;i gi&amp;aacute; của n&amp;oacute; - ảnh hưởng &amp;lsquo;&amp;acirc;m&amp;rsquo; 160% tới kết quả quyết định cuối c&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chẳng n&amp;oacute;i đ&amp;acirc;u xa, hầu hết c&amp;aacute;c agency trong ng&amp;agrave;nh quảng c&amp;aacute;o đều đang tập trung v&amp;agrave;o chiến lược inbound marketing để chứng tỏ vị thể của m&amp;igrave;nh. Tuy nhi&amp;ecirc;n performance agency, branding agency, media agency, content agency, digital agency, mỗi ph&amp;acirc;n mảng đều c&amp;oacute; những triết l&amp;yacute; ri&amp;ecirc;ng v&amp;agrave; những tư tưởng kh&amp;ocirc;ng thể dung h&amp;ograve;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đứng ở vị thế c&amp;aacute;c doanh nghiệp đang đi t&amp;igrave;m giải ph&amp;aacute;p, &amp;lsquo;chỗ n&amp;agrave;y tư vấn một kiểu&amp;rsquo;, &amp;lsquo;chỗ kia lại n&amp;oacute;i kh&amp;aacute;c&amp;rsquo;, trừ khi doanh nghiệp c&amp;oacute; bộ phận chuy&amp;ecirc;n m&amp;ocirc;n gi&amp;uacute;p &amp;lsquo;hợp l&amp;yacute; h&amp;oacute;a&amp;rsquo; mọi chuyện, nếu kh&amp;ocirc;ng cho đến cuối c&amp;ugrave;ng họ vẫn kh&amp;ocirc;ng thể đưa ra quyết định l&amp;yacute; t&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để ứng ph&amp;oacute; với th&amp;aacute;ch thức n&amp;agrave;y, vai tr&amp;ograve; của những chuy&amp;ecirc;n gia c&amp;oacute; khả năng &amp;lsquo;giải th&amp;iacute;ch&amp;rsquo; mọi vấn đề một c&amp;aacute;ch dễ hiểu l&amp;agrave; v&amp;ocirc; c&amp;ugrave;ng quan trọng. Đứng dưới g&amp;oacute;c độ inbound, đ&amp;oacute; l&amp;agrave; inbound sales - những nh&amp;acirc;n vi&amp;ecirc;n tư vấn c&amp;oacute; khả năng lắng nghe, thấu hiểu v&amp;agrave; sự hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp một c&amp;aacute;ch &amp;lsquo;chiến lược&amp;rsquo;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;ocirc;i l&amp;uacute;c đ&amp;oacute; c&amp;oacute; thể l&amp;agrave; x&amp;acirc;y dựng h&amp;igrave;nh ảnh/ thương hiệu c&amp;aacute; nh&amp;acirc;n, đ&amp;ocirc;i l&amp;uacute;c đ&amp;oacute; l&amp;agrave; sự đ&amp;agrave;o tạo s&amp;acirc;u để tạo ra h&amp;igrave;nh ảnh chuy&amp;ecirc;n nghiệp v&amp;agrave; sự thấu hiểu s&amp;acirc;u sắc về lĩnh vực hoạt động. Chẳng hạn như l&amp;agrave; nh&amp;acirc;n vi&amp;ecirc;n tư vấn giải ph&amp;aacute;p c&amp;ocirc;ng nghệ th&amp;igrave; kiến thức chuy&amp;ecirc;n m&amp;ocirc;n phải l&amp;agrave; &amp;lsquo;điều kiện cần&amp;rsquo; song song với khả năng tư vấn. Nếu kh&amp;ocirc;ng, sự thiếu tin tưởng từ ph&amp;iacute;a kh&amp;aacute;ch h&amp;agrave;ng trong những c&amp;acirc;u hỏi được giải đ&amp;aacute;p lấp liếm sẽ dẫn đến quyết định kh&amp;ocirc;ng mấy hay ho.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;oacute;m lại, để l&amp;agrave;m B2B marketing hay b&amp;aacute;n sản phẩm/ dịch vụ cho kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp, trước hết, bạn cần c&amp;oacute; sự thay đổi về tư duy nội bộ: trở th&amp;agrave;nh người bạn đồng h&amp;agrave;nh c&amp;ugrave;ng kh&amp;aacute;ch h&amp;agrave;ng với những tư vấn, giải ph&amp;aacute;p hữu &amp;iacute;ch, đồng bộ từ marketing đến sales v&amp;agrave; cả trong qu&amp;aacute; tr&amp;igrave;nh sử dụng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;u&gt;tại đ&amp;acirc;y&lt;/u&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;B2B marketing has never been easy. Especially in the context of cost-cutting, economic and market pressures, convincing business customers is becoming increasingly complex.&lt;br&gt;According to experts, the road to the "final signature" in B2B businesses is now facing two major challenges:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Challenge 1: The entanglement of the cumbersome machinery of B2B customers&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B2B Marketing is more &amp;ldquo;demanding&amp;rdquo; than B2C in the sense that too many people are involved in the final decision. Unless you have the opportunity to approach an authority figure or key decision-maker right from the beginning, the outcome will continuously &amp;ldquo;fluctuate&amp;rdquo; as proposals circulate through different departments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Recent surveys show that the number of people involved in the &amp;ldquo;vote&amp;rdquo; for the final decision is increasing. On average, 11 people now make up the &amp;ldquo;advisory group,&amp;rdquo; with nearly 20 people being the maximum number recorded so far!&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A recent study on the decision-making behavior of more than 1,000 B2B customers revealed that 93% of respondents indicated their final choice was influenced by: the many &amp;ldquo;voices&amp;rdquo; within a cumbersome organizational structure, along with the limitations of specialized departments in weighing decisions. 50% of them also admitted that their company structure is the root cause of many convoluted processes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Therefore, to successfully provide products/services to business clients, the mission of B2B marketers and consulting teams is to transform their mindset. After all, you&amp;rsquo;re not merely selling products or solutions&amp;mdash;you are supporting their &amp;ldquo;major reconstruction&amp;rdquo; and helping them take new steps into the future.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Challenge 2: Business customers being &amp;lsquo;overloaded&amp;rsquo; by high-quality information (from B2B Marketing activities)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Inbound marketing is a method of building trust with customers through useful content, aligned with their needs throughout all stages&amp;mdash;becoming their &amp;ldquo;advisor&amp;rdquo; whenever they need guidance. This approach is often seen as a solution to Challenge 1 but is, at the same time, also the &lt;em&gt;second challenge&lt;/em&gt; of B2B marketing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;When there is too much high-quality and useful information but a lack of consistency in content, business customers may become confused. And this confusion comes at a cost&amp;mdash;negatively impacting the final decision by up to 160%.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For instance, most agencies in the advertising industry are focusing on inbound marketing strategies to prove their positioning. However, performance agencies, branding agencies, media agencies, content agencies, and digital agencies&amp;mdash;each domain has its own philosophy and conflicting perspectives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;From the standpoint of businesses seeking solutions, &amp;ldquo;this side advises one way,&amp;rdquo; &amp;ldquo;that side says something else.&amp;rdquo; Unless the business has its own specialized department to &amp;ldquo;rationalize&amp;rdquo; everything, they will still be unable to make a truly rational decision.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To address this challenge, the role of experts capable of explaining issues clearly and simply becomes extremely important. From an inbound perspective, this refers to &lt;strong&gt;inbound sales&lt;/strong&gt;&amp;mdash;consultants who can listen, empathize, and strategically support business customers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sometimes this could mean building a strong personal brand; other times, it could involve in-depth training to present a professional image and profound expertise in the field. For example, a technology solutions consultant must possess not only technical knowledge (a &amp;ldquo;must-have&amp;rdquo; requirement) but also strong advisory skills. Otherwise, customers will quickly lose trust if their questions are dodged or inadequately answered&amp;mdash;leading to poor decision-making outcomes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;In conclusion&lt;/strong&gt;, to succeed in B2B marketing or in selling products/services to business clients, you must first change your internal mindset: become a trusted partner to your customers by offering useful, consistent advice and solutions&amp;mdash;spanning marketing, sales, and even post-purchase support.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digital solutions exclusively for enterprises in the Financial and Banking sector in Vietnam; helping banks and financial institutions rapidly complete their technology systems to serve Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for consultation and solution experience here.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-06T04:12:28.000Z</time_create_dt>
+	<createdDate>2025-08-26T04:12:27.819Z</createdDate>
+	<createdDate_dt>2025-08-26T04:12:27.819Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T04:19:21.769Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T04:19:21.769Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

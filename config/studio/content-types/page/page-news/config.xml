@@ -1,0 +1,15 @@
+<content-type name="/page/page-news" is-wcm-type="true">
+	<label>Page - news</label>
+	<form>/page/page-news</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>true</content-as-folder>
+	<previewable>true</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<!-- Specifies whether a form-controller.js is present in the type definition and should be loaded by the Forms Engine -->
+	<controller>false</controller>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

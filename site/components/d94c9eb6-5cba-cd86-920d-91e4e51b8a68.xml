@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-why-choose</content-type>
+	<display-template>/templates/web/Component-Why-choose.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d94c</objectGroupId>
+	<objectId>d94c9eb6-5cba-cd86-920d-91e4e51b8a68</objectId>
+	<file-name>d94c9eb6-5cba-cd86-920d-91e4e51b8a68.xml</file-name>
+	<folder-name/>
+	<internal-name>thế mạnh của dtsvn-en</internal-name>
+	<title_s>DTSVN's Strengths</title_s>
+	<subtitle_s>Why Should You Choose DTSVN for Your Implementation Needs?</subtitle_s>
+	<why_choose_o item-list="true">	<item>	<number_s>01</number_s>
+	<title_s>A Team of Experienced Engineers and Experts</title_s>
+	<subtitle_s>We boast a team of seasoned experts with years of experience in the software industry, specifically tailored to the Finance and Banking sectors.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-1.png</icon_s>
+	</item>	<item>	<number_s>02</number_s>
+	<title_s>In-depth Knowledge of Business Processes</title_s>
+	<subtitle_s>Our systems are designed, evaluated, and built with a thorough understanding of your management requirements.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-2.png</icon_s>
+	</item>	<item>	<number_s>03</number_s>
+	<title_s>Quick Error Response and Resolution</title_s>
+	<subtitle_s>We provide 24/7 support, promptly addressing and resolving system errors as soon as they arise.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-3.png</icon_s>
+	</item>	<item>	<number_s>04</number_s>
+	<title_s>Comprehensive Customer Support</title_s>
+	<subtitle_s>Our technical team will address all your concerns with detailed explanations to ensure your complete understanding.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-4.png</icon_s>
+	</item>	<item>	<number_s>05</number_s>
+	<title_s>Customer Satisfaction is Our Top Priority</title_s>
+	<subtitle_s>Our services are designed to deliver value, guaranteeing 100% satisfaction for our customers.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-5.png</icon_s>
+	</item>	<item>	<number_s>06</number_s>
+	<title_s>All-in-One Solutions for Businesses</title_s>
+	<subtitle_s>We handle all aspects of IT infrastructure, including hardware, software, and other technology needs.</subtitle_s>
+	<icon_s>/static-assets/images/featurebox-icon-6.png</icon_s>
+	</item></why_choose_o>
+	<createdDate>2025-07-08T03:51:39.731Z</createdDate>
+	<createdDate_dt>2025-07-08T03:51:39.731Z</createdDate_dt>
+	<lastModifiedDate>2025-08-01T07:07:05.506Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-01T07:07:05.506Z</lastModifiedDate_dt>
+</component>

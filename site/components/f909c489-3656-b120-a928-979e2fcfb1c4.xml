@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-san-pham</content-type>
+	<display-template>/templates/web/Component-sanpham.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f909</objectGroupId>
+	<objectId>f909c489-3656-b120-a928-979e2fcfb1c4</objectId>
+	<file-name>f909c489-3656-b120-a928-979e2fcfb1c4.xml</file-name>
+	<folder-name/>
+	<internal-name>sản phẩm en</internal-name>
+	<title2_s>Product - Service</title2_s>
+	<subtitle2_s>Optimize operating processes, increase labor efficiency, minimize system management resources.</subtitle2_s>
+	<products_o item-list="true">	<item>	<slogan_s>DTSVN - CEP</slogan_s>
+	<url_s/>
+	<product_name_s>CEP platform operations and management services</product_name_s>
+	</item>	<item>	<slogan_s>DTSVN - CDxP</slogan_s>
+	<url_s/>
+	<product_name_s>DTSVN - Marketing Automation (CDxP)</product_name_s>
+	</item>	<item>	<slogan_s>DTSVN – iDB</slogan_s>
+	<url_s/>
+	<product_name_s>Intelligent Digital Banking for Enterprise ( iDB)</product_name_s>
+	</item>	<item>	<slogan_s>DTSVN - DIGITAL ONE – D DO</slogan_s>
+	<url_s/>
+	<product_name_s>DTSVN Digital One - D DO</product_name_s>
+	</item>	<item>	<slogan_s>DTSVN – DOCUMENT FORM (D-DF)</slogan_s>
+	<url_s/>
+	<product_name_s>Document form management software for Banks</product_name_s>
+	</item>	<item>	<slogan_s>Smart Sale</slogan_s>
+	<url_s/>
+	<product_name_s>Sale management solution for Banks</product_name_s>
+	</item>	<item>	<slogan_s>DTSVN – (D-ECS)</slogan_s>
+	<url_s/>
+	<product_name_s>DTSVN – EARLY WARNING SYSTEM (D-ECS)</product_name_s>
+	</item></products_o>
+	<createdDate>2025-07-07T08:59:10.105Z</createdDate>
+	<createdDate_dt>2025-07-07T08:59:10.105Z</createdDate_dt>
+	<lastModifiedDate>2025-07-07T08:59:10.105Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-07T08:59:10.105Z</lastModifiedDate_dt>
+</component>

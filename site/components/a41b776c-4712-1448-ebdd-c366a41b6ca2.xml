@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a41b</objectGroupId>
+	<objectId>a41b776c-4712-1448-ebdd-c366a41b6ca2</objectId>
+	<file-name>a41b776c-4712-1448-ebdd-c366a41b6ca2.xml</file-name>
+	<folder-name/>
+	<internal-name>banner khóa học en</internal-name>
+	<name_page_s>BA course</name_page_s>
+	<title_s>Business Analyst Course for Beginners</title_s>
+	<subtitle_s/>
+	<createdDate>2025-07-08T07:15:35.413Z</createdDate>
+	<createdDate_dt>2025-07-08T07:15:35.413Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T07:15:35.413Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T07:15:35.413Z</lastModifiedDate_dt>
+</component>

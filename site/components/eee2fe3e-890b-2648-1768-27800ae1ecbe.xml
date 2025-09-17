@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-banner</content-type>
+	<display-template>/templates/web/Component-banner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>eee2</objectGroupId>
+	<objectId>eee2fe3e-890b-2648-1768-27800ae1ecbe</objectId>
+	<internal-name>Banner đối tác khách hàng en</internal-name>
+	<name_page_s>Partners - Customers</name_page_s>
+	<title_s>Partners &amp; Clients of DTSVN</title_s>
+	<subtitle_s>DTSVN continues to strengthen its position in the market and takes pride in collaborating with clients across diverse sectors, including government agencies, financial institutions of all sizes, and large enterprises both domestically and internationally.</subtitle_s>
+	<file-name>eee2fe3e-890b-2648-1768-27800ae1ecbe.xml</file-name>
+	<folder-name/>
+	<createdDate>2025-07-11T03:48:09.591Z</createdDate>
+	<createdDate_dt>2025-07-11T03:48:09.591Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T03:48:09.591Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T03:48:09.591Z</lastModifiedDate_dt>
+</component>

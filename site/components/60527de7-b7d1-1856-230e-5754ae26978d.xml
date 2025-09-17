@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-solution</content-type>
+	<display-template>/templates/web/Component-client.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6052</objectGroupId>
+	<objectId>60527de7-b7d1-1856-230e-5754ae26978d</objectId>
+	<file-name>60527de7-b7d1-1856-230e-5754ae26978d.xml</file-name>
+	<folder-name/>
+	<internal-name>đối tác en</internal-name>
+	<title_s>Typical partners of DTSVN</title_s>
+	<client_o item-list="true">	<item>	<image_s>/static-assets/images/nuclent.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/clevertap.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/odoo_logo_rgb.svg.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/insider.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/adjust.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/meeyland.png</image_s>
+	</item></client_o>
+	<createdDate>2025-07-08T04:32:58.859Z</createdDate>
+	<createdDate_dt>2025-07-08T04:32:58.859Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T04:32:58.859Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T04:32:58.859Z</lastModifiedDate_dt>
+</component>

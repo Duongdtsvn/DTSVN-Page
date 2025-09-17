@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>
+	<display-template>/templates/web/Component-Service.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4d3e</objectGroupId>
+	<objectId>4d3e5d87-6025-e2aa-7de6-184ae30615d1</objectId>
+	<file-name>4d3e5d87-6025-e2aa-7de6-184ae30615d1.xml</file-name>
+	<folder-name/>
+	<internal-name>Dịch vụ en</internal-name>
+	<title_s>Service</title_s>
+	<text_s/>
+	<service_o item-list="true">	<item>	<key_main_s>Course BA</key_main_s>
+	<title_s/>
+	<link_s>/en/course-of-ba</link_s>
+	<text_s/>
+	</item></service_o>
+	<createdDate>2025-08-22T03:03:30.917Z</createdDate>
+	<createdDate_dt>2025-08-22T03:03:30.917Z</createdDate_dt>
+	<lastModifiedDate>2025-08-22T03:03:30.917Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-22T03:03:30.917Z</lastModifiedDate_dt>
+</component>

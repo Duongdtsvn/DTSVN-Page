@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-partner</content-type>
+	<display-template>/templates/web/Component-partner.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f495</objectGroupId>
+	<objectId>f49573a0-4a3c-c550-4d29-466711e18a31</objectId>
+	<internal-name>Thành viên liên kết triển khai</internal-name>
+	<title6_s>Thành viên liên kết triển khai</title6_s>
+	<file-name>f49573a0-4a3c-c550-4d29-466711e18a31.xml</file-name>
+	<folder-name/>
+	<partner_o item-list="true">	<item>	<image_partner_s>/static-assets/images/beau.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/enao1.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/logo-mate.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/z6780091458608_769564767f69d878abd60bdfb8c1ccfa.jpg</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/insider.png</image_partner_s>
+	</item>	<item>	<image_partner_s>/static-assets/images/nuclent.png</image_partner_s>
+	</item></partner_o>
+	<createdDate>2025-07-09T07:53:51.950Z</createdDate>
+	<createdDate_dt>2025-07-09T07:53:51.950Z</createdDate_dt>
+	<lastModifiedDate>2025-07-09T07:53:51.950Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-09T07:53:51.950Z</lastModifiedDate_dt>
+</component>

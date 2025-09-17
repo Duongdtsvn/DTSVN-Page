@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a17b</objectGroupId>
+	<objectId>a17b1030-9478-84a0-8830-24e8d6604e5d</objectId>
+	<file-name>a17b1030-9478-84a0-8830-24e8d6604e5d.xml</file-name>
+	<folder-name/>
+	<internal-name>Thông tin khóa học Business Analyst tại DTSVN</internal-name>
+	<orientation_s>Thông tin khóa học Business Analyst tại DTSVN</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Thời lượng khóa học: 30 buổi, 1 tuần 3 buổi.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Hình thức: Học Offline tại trụ sở văn phòng công ty - Tầng 3A, tòa nhà TH, số 116 Trung Liệt, Đống Đa, Hà Nội.</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>Số lượng học viên mỗi khóa: 10 học viên.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-04T08:58:03.552Z</createdDate>
+	<createdDate_dt>2025-07-04T08:58:03.552Z</createdDate_dt>
+	<lastModifiedDate>2025-07-04T08:58:03.552Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-04T08:58:03.552Z</lastModifiedDate_dt>
+</component>

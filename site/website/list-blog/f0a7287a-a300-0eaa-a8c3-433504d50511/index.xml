@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f0a7</objectGroupId>
+	<objectId>f0a7287a-a300-0eaa-a8c3-433504d50511</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>f0a7287a-a300-0eaa-a8c3-433504d50511</folder-name>
+	<internal-name>Các yếu tố tác động đến quản lý rủi ro ESG trong Tổ chức Tài chính - Ngân hàng</internal-name>
+	<navLabel>Các yếu tố tác động đến quản lý rủi ro ESG trong Tổ chức Tài chính - Ngân hàng</navLabel>
+	<title_vi_s>Các yếu tố tác động đến quản lý rủi ro ESG trong Tổ chức Tài chính - Ngân hàng</title_vi_s>
+	<title_en_s>Factors affecting ESG risk management in Financial - Banking Institutions</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/23186_23186-esg-cover_1665677058.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; vai tr&amp;ograve; đặc biệt trong x&amp;atilde; hội v&amp;igrave; họ ph&amp;acirc;n bổ vốn v&amp;agrave; tạo điều kiện thuận lợi cho c&amp;aacute;c hoạt động kinh tế. Họ phải đối mặt với rủi ro ESG th&amp;ocirc;ng qua c&amp;aacute;c hoạt động cho vay, đầu tư v&amp;agrave; bảo hiểm.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Chủ động quản l&amp;yacute; rủi ro ESG sẽ gi&amp;uacute;p c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể bảo vệ khả năng tồn tại l&amp;acirc;u d&amp;agrave;i của m&amp;igrave;nh v&amp;agrave; g&amp;oacute;p phần ph&amp;aacute;t triển bền vững. Để giải quyết những rủi ro ESG, Tổ chức T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng cần am hiểu c&amp;aacute;c yếu tố t&amp;aacute;c động đến quản l&amp;yacute; rủi ro ESG.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Vai tr&amp;ograve; của khung ph&amp;aacute;p l&amp;yacute;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khung ph&amp;aacute;p l&amp;yacute; đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong việc th&amp;uacute;c đẩy v&amp;agrave; thực thi c&amp;aacute;c hoạt động quản l&amp;yacute; rủi ro ESG trong lĩnh vực t&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng. Ch&amp;iacute;nh phủ v&amp;agrave; c&amp;aacute;c cơ quan quản l&amp;yacute; đang ng&amp;agrave;y c&amp;agrave;ng đưa ra nhiều quy định, hướng dẫn v&amp;agrave; y&amp;ecirc;u cầu b&amp;aacute;o c&amp;aacute;o li&amp;ecirc;n quan đến ESG. Việc tu&amp;acirc;n thủ c&amp;aacute;c khu&amp;ocirc;n khổ n&amp;agrave;y l&amp;agrave; điều cần thiết để đảm bảo sự ph&amp;ugrave; hợp với c&amp;aacute;c kỳ vọng ph&amp;aacute;p l&amp;yacute; ng&amp;agrave;y c&amp;agrave;ng tăng, tr&amp;aacute;nh bị phạt v&amp;agrave; duy tr&amp;igrave; lợi thế cạnh tranh. Lu&amp;ocirc;n cập nhật th&amp;ocirc;ng tin về sự ph&amp;aacute;t triển quy định v&amp;agrave; t&amp;iacute;ch cực tham gia v&amp;agrave;o việc định h&amp;igrave;nh c&amp;aacute;c cuộc thảo luận ch&amp;iacute;nh s&amp;aacute;ch l&amp;agrave; rất quan trọng đối với c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Triển khai giải ph&amp;aacute;p t&amp;agrave;i ch&amp;iacute;nh bền vững&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể đ&amp;oacute;ng g&amp;oacute;p v&amp;agrave;o sự ph&amp;aacute;t triển bền vững bằng c&amp;aacute;ch cung cấp c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ t&amp;agrave;i ch&amp;iacute;nh đổi mới, việc n&amp;agrave;y hỗ trợ c&amp;aacute;c dự &amp;aacute;n c&amp;oacute; tr&amp;aacute;ch nhiệm với m&amp;ocirc;i trường v&amp;agrave; x&amp;atilde; hội. Những giải ph&amp;aacute;p n&amp;agrave;y bao gồm tr&amp;aacute;i phiếu xanh, đầu tư t&amp;aacute;c động, cho vay bền vững v&amp;agrave; c&amp;aacute;c sản phẩm bảo hiểm khuyến kh&amp;iacute;ch c&amp;aacute;c hoạt động bền vững.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc gắn kết c&amp;aacute;c mục ti&amp;ecirc;u t&amp;agrave;i ch&amp;iacute;nh với mục ti&amp;ecirc;u bền vững sẽ gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể tạo ra những t&amp;aacute;c động t&amp;iacute;ch cực đến x&amp;atilde; hội v&amp;agrave; m&amp;ocirc;i trường, đồng thời n&amp;acirc;ng cao khả năng cạnh tranh của ch&amp;iacute;nh họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;iacute;ch hợp ESG v&amp;agrave;o kinh doanh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc t&amp;iacute;ch hợp ESG v&amp;agrave;o chiến lược kinh doanh c&amp;oacute; thể mang lại một số lợi &amp;iacute;ch cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh. N&amp;oacute; c&amp;oacute; thể n&amp;acirc;ng cao khả năng quản l&amp;yacute; rủi ro, thu h&amp;uacute;t c&amp;aacute;c nh&amp;agrave; đầu tư c&amp;oacute; tr&amp;aacute;ch nhiệm x&amp;atilde; hội, cải thiện lợi nhuận l&amp;acirc;u d&amp;agrave;i, th&amp;uacute;c đẩy đổi mới, tăng cường mối quan hệ với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan v&amp;agrave; n&amp;acirc;ng cao uy t&amp;iacute;n thương hiệu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đầu tư v&amp;agrave;o giảm thiểu rủi ro ESG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh n&amp;ecirc;n ph&amp;acirc;n bổ nguồn lực v&amp;agrave; đầu tư cho c&amp;aacute;c nỗ lực giảm thiểu rủi ro ESG. Điều n&amp;agrave;y bao gồm việc tiến h&amp;agrave;nh thẩm định c&amp;aacute;c khoản đầu tư tiềm năng, kết hợp c&amp;aacute;c ti&amp;ecirc;u ch&amp;iacute; ESG v&amp;agrave;o c&amp;aacute;c quyết định đầu tư v&amp;agrave; t&amp;iacute;ch cực tham gia với c&amp;aacute;c c&amp;ocirc;ng ty trong danh mục đầu tư để th&amp;uacute;c đẩy c&amp;aacute;c hoạt động bền vững.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sử dụng Ph&amp;acirc;n t&amp;iacute;ch dữ liệu v&amp;agrave; AI để theo d&amp;otilde;i v&amp;agrave; b&amp;aacute;o c&amp;aacute;o rủi ro ESG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sự xuất hiện của ph&amp;acirc;n t&amp;iacute;ch dữ liệu v&amp;agrave; tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) đ&amp;atilde; tạo ra &amp;ldquo;cuộc c&amp;aacute;ch mạng&amp;rdquo; cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; tổ chức t&amp;agrave;i ch&amp;iacute;nh tiếp cận việc gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; b&amp;aacute;o c&amp;aacute;o rủi ro ESG. Khai th&amp;aacute;c sức mạnh của c&amp;aacute;c c&amp;ocirc;ng nghệ n&amp;agrave;y cho ph&amp;eacute;p c&amp;aacute;c tổ chức c&amp;oacute; thể nghi&amp;ecirc;n cứu s&amp;acirc;u hơn về dữ liệu của họ, đưa ra quyết định s&amp;aacute;ng suốt hơn cũng như n&amp;acirc;ng cao t&amp;iacute;nh minh bạch v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c của quy tr&amp;igrave;nh b&amp;aacute;o c&amp;aacute;o ESG của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;acirc;n t&amp;iacute;ch dữ liệu v&amp;agrave; AI cho ph&amp;eacute;p c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh xử l&amp;yacute; lượng lớn dữ liệu từ nhiều nguồn kh&amp;aacute;c nhau, bao gồm hệ thống nội bộ, cơ sở dữ liệu c&amp;ocirc;ng cộng v&amp;agrave; nền tảng truyền th&amp;ocirc;ng x&amp;atilde; hội. Ph&amp;acirc;n t&amp;iacute;ch dữ liệu s&amp;acirc;u rộng n&amp;agrave;y cho ph&amp;eacute;p đ&amp;aacute;nh gi&amp;aacute; to&amp;agrave;n diện c&amp;aacute;c rủi ro ESG, kh&amp;aacute;m ph&amp;aacute; những hiểu biết s&amp;acirc;u sắc c&amp;oacute; gi&amp;aacute; trị m&amp;agrave; c&amp;oacute; thể kh&amp;ocirc;ng được ch&amp;uacute; &amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;B&amp;aacute;o c&amp;aacute;o v&amp;agrave; c&amp;ocirc;ng bố rủi ro ESG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;aacute;o c&amp;aacute;o minh bạch v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c về rủi ro v&amp;agrave; hiệu suất ESG l&amp;agrave; rất quan trọng để x&amp;acirc;y dựng niềm tin với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan. Thực tiễn b&amp;aacute;o c&amp;aacute;o ESG mạnh mẽ gi&amp;uacute;p c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan đưa ra quyết định s&amp;aacute;ng suốt, hỗ trợ ph&amp;acirc;n bổ vốn cho c&amp;aacute;c hoạt động bền vững v&amp;agrave; th&amp;uacute;c đẩy niềm tin của thị trường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sự tham gia v&amp;agrave; hợp t&amp;aacute;c của b&amp;ecirc;n thứ 3&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hợp t&amp;aacute;c với c&amp;aacute;c b&amp;ecirc;n thứ 3 l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a để quản l&amp;yacute; hiệu quả rủi ro ESG. C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh n&amp;ecirc;n t&amp;iacute;ch cực t&amp;igrave;m kiếm phản hồi, giải quyết c&amp;aacute;c mối quan ngại v&amp;agrave; hợp t&amp;aacute;c với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan để ph&amp;aacute;t triển c&amp;aacute;c giải ph&amp;aacute;p bền vững. C&amp;aacute;ch tiếp cận to&amp;agrave;n diện n&amp;agrave;y củng cố c&amp;aacute;c mối quan hệ, x&amp;acirc;y dựng niềm tin v&amp;agrave; th&amp;uacute;c đẩy tr&amp;aacute;ch nhiệm chung trong việc giải quyết c&amp;aacute;c th&amp;aacute;ch thức ESG.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;oacute;m lại, quản l&amp;yacute; chủ động c&amp;aacute;c yếu tố t&amp;aacute;c động rủi ro ESG kh&amp;ocirc;ng chỉ bảo vệ khả năng tồn tại l&amp;acirc;u d&amp;agrave;i của tổ chức m&amp;agrave; c&amp;ograve;n mở ra c&amp;aacute;c cơ hội đổi mới, tăng trưởng v&amp;agrave; t&amp;aacute;c động t&amp;iacute;ch cực đến x&amp;atilde; hội.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tham khảo: The Findata Like&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Financial institutions and banks play a special role in society as they allocate capital and facilitate economic activities. They face ESG risks through their lending, investment, and insurance activities.&lt;br&gt;Proactively managing ESG risks helps financial institutions safeguard their long-term viability and contribute to sustainable development. To address ESG risks, financial organizations and banks need to understand the factors that influence ESG risk management.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;The Role of Regulatory Frameworks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;The regulatory framework plays a crucial role in promoting and enforcing ESG risk management activities in the financial and banking sector. Governments and regulators are increasingly introducing regulations, guidelines, and reporting requirements related to ESG. Compliance with these frameworks is essential to meet growing legal expectations, avoid penalties, and maintain competitive advantages. Staying updated on regulatory developments and actively participating in policy discussions is highly important for financial institutions.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Implementing Sustainable Financial Solutions&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions can contribute to sustainable development by offering innovative financial products and services that support environmentally and socially responsible projects. These solutions include green bonds, impact investing, sustainable lending, and insurance products that encourage sustainable activities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Aligning financial goals with sustainability objectives allows banks and financial institutions to create positive impacts on society and the environment, while enhancing their own competitiveness.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Integrating ESG into Business Strategy&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Integrating ESG into business strategies can bring several benefits to banks and financial institutions. It can enhance risk management, attract socially responsible investors, improve long-term profitability, foster innovation, strengthen stakeholder relationships, and build brand reputation.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Investing in ESG Risk Mitigation&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Financial institutions should allocate resources and invest in ESG risk mitigation efforts. This includes conducting due diligence on potential investments, integrating ESG criteria into investment decisions, and actively engaging with portfolio companies to promote sustainable practices.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Leveraging Data Analytics and AI for ESG Risk Monitoring and Reporting&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;The rise of data analytics and artificial intelligence (AI) has revolutionized how banks and financial institutions monitor and report ESG risks. Harnessing these technologies enables organizations to gain deeper insights into their data, make more informed decisions, and enhance the transparency and accuracy of their ESG reporting processes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Data analytics and AI allow financial institutions to process vast amounts of data from multiple sources, including internal systems, public databases, and social media platforms. This in-depth analysis enables comprehensive ESG risk assessments and reveals valuable insights that might otherwise go unnoticed.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;ESG Risk Reporting and Disclosure&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Transparent and accurate reporting on ESG risks and performance is critical for building stakeholder trust. Strong ESG reporting practices help stakeholders make informed decisions, support capital allocation toward sustainable activities, and foster market confidence.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Stakeholder Engagement and Third-Party Collaboration&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Collaboration with third parties is key to effectively managing ESG risks. Financial institutions should actively seek feedback, address concerns, and partner with stakeholders to develop sustainable solutions. This holistic approach strengthens relationships, builds trust, and promotes shared responsibility in addressing ESG challenges.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;In summary, proactively managing ESG risk factors not only safeguards organizational longevity but also opens up opportunities for innovation, growth, and positive societal impact.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Reference: The Findata Like&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by DTSVN Author Group &amp;ndash; Digital Transformation Solutions for the Finance and Banking Industry.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digitization solutions tailored for businesses in the Finance and Banking sector in Vietnam. We help banks and financial institutions quickly complete their technology systems to serve Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 Contact us now for consultation and to experience our solutions.&amp;nbsp;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-06-18T08:21:58.000Z</time_create_dt>
+	<createdDate>2025-08-25T08:21:57.971Z</createdDate>
+	<createdDate_dt>2025-08-25T08:21:57.971Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T08:21:57.971Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T08:21:57.971Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4dd4</objectGroupId>
+	<objectId>4dd4882a-c40f-8ca9-8610-dd443b07fdd6</objectId>
+	<internal-name>Giải pháp ngăn chặn gian lận bằng AI trong ngân hàng số  </internal-name>
+	<navLabel>Giải pháp ngăn chặn gian lận bằng AI trong ngân hàng số </navLabel>
+	<title_vi_s>Giải pháp ngăn chặn gian lận bằng AI trong ngân hàng số </title_vi_s>
+	<title_en_s>AI Fraud Prevention Solutions in Digital Banking</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>4dd4882a-c40f-8ca9-8610-dd443b07fdd6</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/an-toan-thong-tin.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Theo b&amp;aacute;o c&amp;aacute;o t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n cầu năm 2024 của Quỹ tiền tệ Quốc tế (GFSR), gần 20% c&amp;aacute;c sự cố mạng được b&amp;aacute;o c&amp;aacute;o trong giai đoạn 2004-2023 đ&amp;atilde; ảnh hưởng trực tiếp đến ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh, g&amp;acirc;y thiệt hại l&amp;ecirc;n đến gần 12 tỷ đ&amp;ocirc; la. Khi t&amp;igrave;nh trạng gian lận mạng ng&amp;agrave;y c&amp;agrave;ng tăng, c&amp;aacute;c giải ph&amp;aacute;p bảo mật truyền thống đ&amp;atilde; trở n&amp;ecirc;n lỗi thời v&amp;agrave; kh&amp;ocirc;ng c&amp;ograve;n đ&amp;aacute;p ứng được nhu cầu. Theo b&amp;aacute;o c&amp;aacute;o gần đ&amp;acirc;y "ZFraud Beat: Triển vọng Chiến lược T&amp;agrave;i ch&amp;iacute;nh" của Appgate, nhu cầu bảo vệ c&amp;aacute;c hệ thống ng&amp;acirc;n h&amp;agrave;ng số v&amp;agrave; giao dịch t&amp;agrave;i ch&amp;iacute;nh đang trở n&amp;ecirc;n cấp b&amp;aacute;ch hơn bao giờ hết.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c yếu tố ch&amp;iacute;nh g&amp;acirc;y ra gian lận trong c&amp;aacute;c giải ph&amp;aacute;p ng&amp;acirc;n h&amp;agrave;ng số&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số yếu tố th&amp;uacute;c đẩy sự gia tăng gian lận trong lĩnh vực t&amp;agrave;i ch&amp;iacute;nh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bất ổn kinh tế to&amp;agrave;n cầu:&lt;/strong&gt;&amp;nbsp;Sự biến động kinh tế đang tạo ra một m&amp;ocirc;i trường đầy rủi ro cho c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh. Những kẻ xấu lợi dụng sự ch&amp;ecirc;nh lệch về quy định v&amp;agrave; khủng hoảng khu vực để ph&amp;aacute;t động c&amp;aacute;c cuộc tấn c&amp;ocirc;ng mạng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quy định:&lt;/strong&gt;&amp;nbsp;C&amp;aacute;c quy định nghi&amp;ecirc;m ngặt hơn như Basel III, đ&amp;atilde; &amp;aacute;p đặt c&amp;aacute;c y&amp;ecirc;u cầu về vốn v&amp;agrave; an ninh mạng chặt chẽ đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng quốc tế lớn, l&amp;agrave;m tăng th&amp;ecirc;m sự phức tạp cho hoạt động của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;ocirc;ng nghệ mới nổi:&lt;/strong&gt;&amp;nbsp;Trong khi tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) v&amp;agrave; m&amp;aacute;y học (ML) đang c&amp;aacute;ch mạng h&amp;oacute;a c&amp;ocirc;ng t&amp;aacute;c ph&amp;ograve;ng chống gian lận, từ đ&amp;oacute; cũng mở ra c&amp;aacute;nh cửa mới cho tội phạm mạng sử dụng những c&amp;ocirc;ng nghệ n&amp;agrave;y để vượt qua h&amp;agrave;ng r&amp;agrave;o bảo mật.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sức mạnh của c&amp;aacute;c giải ph&amp;aacute;p ph&amp;ograve;ng ngừa gian lận do AI điều khiển&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c giải ph&amp;aacute;p AI đang tạo ra cuộc c&amp;aacute;ch mạng trong việc ph&amp;aacute;t hiện gian lận trong lĩnh vực ng&amp;acirc;n h&amp;agrave;ng kỹ thuật số bằng c&amp;aacute;ch ph&amp;acirc;n t&amp;iacute;ch khối lượng lớn dữ liệu giao dịch theo thời gian thực, đồng thời n&amp;acirc;ng cao t&amp;iacute;nh bảo mật v&amp;agrave; hiệu quả hoạt động. Một v&amp;iacute; dụ ti&amp;ecirc;u biểu l&amp;agrave; giải ph&amp;aacute;p Detect Transaction Anomaly (DTA) của Appgate, sử dụng AI để gi&amp;aacute;m s&amp;aacute;t h&amp;agrave;ng tỷ giao dịch nhằm nhận diện c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh gian lận v&amp;agrave; chủ động giảm thiểu c&amp;aacute;c mối đe dọa. Theo dữ liệu từ Appgate, v&amp;agrave;o năm 2023, DTA đ&amp;atilde; ph&amp;acirc;n t&amp;iacute;ch hơn 2 tỷ giao dịch v&amp;agrave; ngăn chặn được 73,5 triệu đ&amp;ocirc; la gian lận. Điều n&amp;agrave;y cho thấy sự tăng trưởng đ&amp;aacute;ng kể, với 37% số lượng giao dịch được ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; 177% trong việc ngăn ngừa tổn thất do gian lận so với năm 2022.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Phương ph&amp;aacute;p tiếp cận được hỗ trợ bởi AI n&amp;agrave;y kh&amp;ocirc;ng chỉ ph&amp;aacute;t hiện gian lận hiệu quả hơn m&amp;agrave; c&amp;ograve;n giảm số lượng cảnh b&amp;aacute;o sai, cho ph&amp;eacute;p c&amp;aacute;c nh&amp;oacute;m ph&amp;ograve;ng chống gian lận tập trung v&amp;agrave;o c&amp;aacute;c trường hợp quan trọng. Tại Mỹ Latinh, DTA đ&amp;atilde; giảm cảnh b&amp;aacute;o gian lận h&amp;agrave;ng ng&amp;agrave;y xuống mức trung b&amp;igrave;nh l&amp;agrave; 45, cắt giảm đ&amp;aacute;ng kể chi ph&amp;iacute; hoạt động.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ph&amp;ograve;ng ngừa gian lận to&amp;agrave;n diện&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khung ph&amp;ograve;ng ngừa gian lận to&amp;agrave;n diện của Appgate được thiết kế theo hướng lặp đi lặp lại v&amp;agrave; th&amp;iacute;ch ứng, hướng dẫn c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh qua bốn giai đoạn thiết yếu nhằm đảm bảo sức mạnh của cơ chế ph&amp;ograve;ng thủ trước c&amp;aacute;c mối đe dọa đang ph&amp;aacute;t triển tr&amp;ecirc;n nền tảng ng&amp;acirc;n h&amp;agrave;ng trực tuyến của họ.&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;Đ&amp;aacute;nh gi&amp;aacute;: Giai đoạn n&amp;agrave;y đ&amp;aacute;nh gi&amp;aacute; mức độ sẵn s&amp;agrave;ng của tổ chức trong việc giải quyết gian lận. Bằng c&amp;aacute;ch x&amp;aacute;c định c&amp;aacute;c lỗ hổng trong hệ thống hiện tại, c&amp;aacute;c tổ chức c&amp;oacute; thể ưu ti&amp;ecirc;n c&amp;aacute;c lĩnh vực cần cải thiện. Đ&amp;aacute;nh gi&amp;aacute; tập trung v&amp;agrave;o khả năng phản ứng nhanh ch&amp;oacute;ng của tổ chức trước c&amp;aacute;c mối đe dọa v&amp;agrave; mức độ trưởng th&amp;agrave;nh của c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch ph&amp;ograve;ng ngừa gian lận hiện c&amp;oacute;.&lt;/li&gt;
+&lt;li&gt;kỳ vọng: Sau khi đ&amp;aacute;nh gi&amp;aacute;, tổ chức phải thiết lập c&amp;aacute;c mục ti&amp;ecirc;u r&amp;otilde; r&amp;agrave;ng, thực tế để ph&amp;ograve;ng ngừa gian lận. Việc căn chỉnh kỳ vọng của c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan đảm bảo rằng c&amp;aacute;c c&amp;ocirc;ng nghệ v&amp;agrave; chiến lược được lựa chọn sẽ đ&amp;aacute;p ứng được cả y&amp;ecirc;u cầu về hoạt động v&amp;agrave; quy định. Điều n&amp;agrave;y rất quan trọng để thiết lập nền tảng cho việc quản l&amp;yacute; gian lận c&amp;oacute; thể mở rộng v&amp;agrave; bền vững.&lt;/li&gt;
+&lt;li&gt;Triển khai: Giai đoạn n&amp;agrave;y li&amp;ecirc;n quan đến việc triển khai c&amp;aacute;c giải ph&amp;aacute;p ph&amp;ograve;ng chống gian lận một c&amp;aacute;ch nhất qu&amp;aacute;n tr&amp;ecirc;n to&amp;agrave;n bộ tổ chức. Appgate nhấn mạnh tầm quan trọng của việc t&amp;iacute;ch hợp nhiều lớp ph&amp;aacute;t hiện gian lận, như c&amp;aacute;c hệ thống do AI hỗ trợ, để tăng cường bảo mật v&amp;agrave; hợp l&amp;yacute; h&amp;oacute;a hoạt động. C&amp;aacute;c hệ thống do AI điều khiển như Appgate DTA sử dụng m&amp;aacute;y học để ph&amp;acirc;n t&amp;iacute;ch h&amp;agrave;ng tỷ giao dịch, gi&amp;uacute;p giảm đ&amp;aacute;ng kể g&amp;aacute;nh nặng hoạt động.&lt;/li&gt;
+&lt;li&gt;Hoạt động: Gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; tối ưu h&amp;oacute;a li&amp;ecirc;n tục l&amp;agrave; điều cần thiết khi những kẻ lừa đảo ph&amp;aacute;t triển c&amp;aacute;c kỹ thuật của ch&amp;uacute;ng. C&amp;aacute;c giải ph&amp;aacute;p của Appgate cho ph&amp;eacute;p c&amp;aacute;c tổ chức th&amp;iacute;ch ứng nhanh ch&amp;oacute;ng bằng c&amp;aacute;ch sử dụng gi&amp;aacute;m s&amp;aacute;t giao dịch theo thời gian thực v&amp;agrave; ph&amp;aacute;t hiện bất thường, đảm bảo rằng c&amp;aacute;c tổ chức vẫn được bảo vệ khỏi c&amp;aacute;c mối đe dọa đ&amp;atilde; biết v&amp;agrave; mới nổi.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đổi mới li&amp;ecirc;n tục về bảo mật trong c&amp;aacute;c giải ph&amp;aacute;p ng&amp;acirc;n h&amp;agrave;ng số&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh ng&amp;agrave;y c&amp;agrave;ng &amp;aacute;p dụng ng&amp;acirc;n h&amp;agrave;ng số để n&amp;acirc;ng cao trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng hoặc th&amp;agrave;nh vi&amp;ecirc;n, việc tăng cường c&amp;aacute;c biện ph&amp;aacute;p an ninh mạng trở n&amp;ecirc;n tối quan trọng. Việc triển khai c&amp;aacute;c giải ph&amp;aacute;p ti&amp;ecirc;n tiến do AI điều khiển gi&amp;uacute;p ph&amp;aacute;t hiện gian lận theo thời gian thực v&amp;agrave; cho ph&amp;eacute;p c&amp;aacute;c tổ chức nhanh ch&amp;oacute;ng th&amp;iacute;ch ứng với c&amp;aacute;c mối đe dọa mới nổi. Ngo&amp;agrave;i ra, việc ph&amp;aacute;t triển c&amp;aacute;c chiến lược quản l&amp;yacute; rủi ro chủ động l&amp;agrave; rất quan trọng để giảm khả năng xảy ra sự cố. Thay v&amp;igrave; chỉ phản ứng với c&amp;aacute;c cuộc tấn c&amp;ocirc;ng, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh n&amp;ecirc;n dự đo&amp;aacute;n c&amp;aacute;c rủi ro tiềm ẩn v&amp;agrave; tăng cường ph&amp;ograve;ng thủ trước khi vi phạm xảy ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: ALKami&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;According to the 2024 Global Financial Stability Report (GFSR) by the International Monetary Fund, nearly 20% of reported cyber incidents during 2004&amp;ndash;2023 directly impacted the financial sector, causing damages of nearly 12 billion USD. As cyber fraud continues to rise, traditional security solutions have become outdated and can no longer meet the demand. According to the recent report &lt;em&gt;"ZFraud Beat: Financial Strategy Outlook"&lt;/em&gt; by Appgate, the need to protect digital banking systems and financial transactions has become more urgent than ever.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Key factors driving fraud in digital banking solutions&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Several factors contribute to the increase in fraud within the financial sector:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Global economic instability:&lt;/strong&gt; Economic volatility is creating a highly risky environment for financial institutions. Bad actors take advantage of regulatory gaps and regional crises to launch cyberattacks.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Regulation:&lt;/strong&gt; Stricter regulations such as Basel III have imposed rigorous capital and cybersecurity requirements on major international banks, adding further complexity to their operations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Emerging technologies:&lt;/strong&gt; While artificial intelligence (AI) and machine learning (ML) are revolutionizing fraud prevention, they also open new doors for cybercriminals to exploit these technologies to bypass security measures.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;The power of AI-driven fraud prevention solutions&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI solutions are revolutionizing fraud detection in digital banking by analyzing massive volumes of transaction data in real time, while also enhancing security and operational efficiency. A prime example is Appgate&amp;rsquo;s &lt;strong&gt;Detect Transaction Anomaly (DTA)&lt;/strong&gt; solution, which uses AI to monitor billions of transactions, detect fraudulent patterns, and proactively mitigate threats. According to Appgate&amp;rsquo;s data, in 2023, DTA analyzed over 2 billion transactions and prevented 73.5 million USD in fraud. This represents significant growth &amp;mdash; with a &lt;strong&gt;37% increase in the number of transactions analyzed and 177% growth in fraud loss prevention compared to 2022.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This AI-powered approach not only detects fraud more effectively but also reduces false alerts, enabling fraud prevention teams to focus on critical cases. In Latin America, DTA reduced daily fraud alerts to an average of 45, cutting operational costs significantly.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Comprehensive fraud prevention framework&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Appgate&amp;rsquo;s comprehensive fraud prevention framework is designed to be iterative and adaptive, guiding financial institutions through four essential stages to ensure strong defense mechanisms against evolving threats to their online banking platforms.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Assessment:&lt;/strong&gt; This stage evaluates the organization&amp;rsquo;s readiness to address fraud. By identifying vulnerabilities in current systems, institutions can prioritize areas for improvement. The assessment focuses on the organization&amp;rsquo;s ability to respond swiftly to threats and the maturity of its existing fraud prevention policies.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Expectation:&lt;/strong&gt; After assessment, the organization must establish clear, realistic fraud prevention goals. Aligning stakeholder expectations ensures that selected technologies and strategies meet both operational and regulatory requirements. This is critical to laying the foundation for scalable and sustainable fraud management.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Implementation:&lt;/strong&gt; This stage involves consistently deploying fraud prevention solutions across the organization. Appgate emphasizes the importance of integrating multiple layers of fraud detection, such as AI-driven systems, to enhance security and streamline operations. AI-powered systems like Appgate DTA leverage machine learning to analyze billions of transactions, significantly reducing operational burdens.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Operation:&lt;/strong&gt; Continuous monitoring and optimization are essential as fraudsters evolve their tactics. Appgate&amp;rsquo;s solutions enable organizations to quickly adapt using real-time transaction monitoring and anomaly detection, ensuring institutions remain protected against both known and emerging threats.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Continuous security innovation in digital banking solutions&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;As financial institutions increasingly adopt digital banking to enhance customer and member experiences, strengthening cybersecurity measures has become a top priority. Deploying advanced AI-driven solutions allows real-time fraud detection and enables organizations to swiftly adapt to emerging threats. Moreover, developing proactive risk management strategies is crucial to minimize the likelihood of incidents. Instead of merely reacting to attacks, financial institutions should anticipate potential risks and reinforce defenses before breaches occur.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;Source of reference: ALKami&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Compiled by the DTSVN author team &amp;ndash; Digital Transformation Solutions for the Financial &amp;amp; Banking Industry.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digitization solutions tailored for enterprises in the Financial &amp;amp; Banking sector in Vietnam; enabling banks and financial institutions to rapidly complete their technology systems for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for consultation and to experience the solution here.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-15T10:36:54.000Z</time_create_dt>
+	<createdDate>2025-08-25T10:36:53.069Z</createdDate>
+	<createdDate_dt>2025-08-25T10:36:53.069Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T10:36:53.069Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T10:36:53.069Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

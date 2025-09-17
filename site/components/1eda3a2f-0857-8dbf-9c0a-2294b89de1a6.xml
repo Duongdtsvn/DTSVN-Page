@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-product-orientation</content-type>
+	<display-template>/templates/web/Component-Product-orientation.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1eda</objectGroupId>
+	<objectId>1eda3a2f-0857-8dbf-9c0a-2294b89de1a6</objectId>
+	<file-name>1eda3a2f-0857-8dbf-9c0a-2294b89de1a6.xml</file-name>
+	<folder-name/>
+	<internal-name>mục tiêu khóa học en</internal-name>
+	<orientation_s>Course Objectives</orientation_s>
+	<orientation_o item-list="true">	<item>	<number_s>01</number_s>
+	<text_s>Provide basic to advanced knowledge about Business Analyst including management analysis, system analysis and data analysis.</text_s>
+	</item>	<item>	<number_s>02</number_s>
+	<text_s>Equip students with the necessary skills to work in the profession including: Communication skills, Problem analysis and handling skills, Management and negotiation skills...</text_s>
+	</item>	<item>	<number_s>03</number_s>
+	<text_s>Expand opportunities for higher education and career opportunities in the Business Analysis profession - a profession that tends to develop strongly in the near future.</text_s>
+	</item></orientation_o>
+	<createdDate>2025-07-08T07:19:35.659Z</createdDate>
+	<createdDate_dt>2025-07-08T07:19:35.659Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T07:19:35.659Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T07:19:35.659Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-teacher-ba</content-type>
+	<display-template>/templates/web/Component-Teacher-BA.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>28ac</objectGroupId>
+	<objectId>28acc439-8ba6-9146-6817-0467b571f2ac</objectId>
+	<internal-name>giảng viên BA</internal-name>
+	<title_s>Giảng viên khóa học Business Analyst tại DTSVN</title_s>
+	<subtitle1_s>Có kinh nghiệm tư vấn, triển khai nhiều dự án lớn trong Ngân hàng và các đơn vị Tài chính</subtitle1_s>
+	<subtitle3_s>Từng công tác tại: VP BANK, Tập đoàn CMC, Techcombank, FPT...</subtitle3_s>
+	<name_teacher_s>Giảng viên Ngô Đạt Thắng</name_teacher_s>
+	<work_at_s>COO tại DTSVN</work_at_s>
+	<file-name>28acc439-8ba6-9146-6817-0467b571f2ac.xml</file-name>
+	<folder-name/>
+	<image_s>/static-assets/images/ndt.png</image_s>
+	<createdDate>2025-07-08T08:18:12.706Z</createdDate>
+	<createdDate_dt>2025-07-08T08:18:12.706Z</createdDate_dt>
+	<lastModifiedDate>2025-07-08T08:20:17.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-08T08:20:17.845Z</lastModifiedDate_dt>
+</component>

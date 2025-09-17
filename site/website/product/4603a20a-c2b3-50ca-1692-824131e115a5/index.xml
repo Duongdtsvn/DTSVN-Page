@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item</content-type>
+	<display-template>/templates/web/Item.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4603</objectGroupId>
+	<objectId>4603a20a-c2b3-50ca-1692-824131e115a5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>4603a20a-c2b3-50ca-1692-824131e115a5</folder-name>
+	<internal-name>Smart Sale – Phần mềm quản lý kinh doanh cho Bank</internal-name>
+	<navLabel>Smart Sale – Phần mềm quản lý kinh doanh cho Bank</navLabel>
+	<key_main_s>DTSVN - SMART SALE</key_main_s>
+	<title_vi_s>Smart Sale – Phần mềm quản lý kinh doanh cho Bank</title_vi_s>
+	<title_en_s>Smart Sale - Business management sofware for Bank </title_en_s>
+	<img_main_s/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<info_main_t/>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Smart Sale l&amp;agrave; phần mềm được ph&amp;aacute;t triển nhằm theo d&amp;otilde;i, hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng, thống nhất c&amp;aacute;c nguy&amp;ecirc;n tắc b&amp;aacute;n h&amp;agrave;ng từ qu&amp;aacute; tr&amp;igrave;nh tiếp cận kh&amp;aacute;ch h&amp;agrave;ng, b&amp;aacute;n h&amp;agrave;ng, sau mua h&amp;agrave;ng v&amp;agrave; b&amp;aacute;n sản phẩm kh&amp;aacute;c với 2 cấu phần: Smart sale for Corporate v&amp;agrave; Smart Sale for Retail.&lt;/p&gt;
+&lt;p&gt;&lt;iframe title="YouTube video player" src="https://www.youtube.com/embed/OdUWligIAJ4?si=H9ks_HKKIT8bsFUZ" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;SMART SALE GIẢI QUYẾT VẤN ĐỀ G&amp;Igrave;?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu doanh nghiệp của bạn đang vướng mắc trước những vấn đề sau đ&amp;acirc;y, th&amp;igrave; phần mềm Smart Sale sẽ l&amp;agrave; c&amp;ocirc;ng cụ gi&amp;uacute;p giải quyết nhanh ch&amp;oacute;ng v&amp;agrave; đơn giản nhất:&lt;/p&gt;
+&lt;figure&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;&lt;strong&gt;Vấn đề gặp phải&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Với Smart Sale&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;M&amp;ocirc;ng lung trong việc cụ thể c&amp;aacute;c dữ liệu chuy&amp;ecirc;n ng&amp;agrave;nh &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;M&amp;ocirc; h&amp;igrave;nh h&amp;oacute;a dữ liệu chuy&amp;ecirc;n ng&amp;agrave;nh cụ thể&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Kh&amp;ocirc;ng thể nắm bắt qu&amp;aacute; tr&amp;igrave;nh tiếp cận sản phẩm, dịch vụ của kh&amp;aacute;ch h&amp;agrave;ng&lt;/td&gt;
+&lt;td&gt;Tổng hợp chi tiết qu&amp;aacute; tr&amp;igrave;nh trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng từ lần tiếp cận đầu ti&amp;ecirc;n đến khi chuyển đổi th&amp;agrave;nh c&amp;ocirc;ng &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Rất kh&amp;oacute; nắm bắt c&amp;aacute;c h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng để điều chỉnh c&amp;aacute;ch tiếp cận &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Dễ d&amp;agrave;ng t&amp;igrave;m hiểu c&amp;aacute;ch thức tương t&amp;aacute;c của kh&amp;aacute;ch h&amp;agrave;ng với c&amp;aacute;c tổ chức, c&amp;aacute;c mối quan hệ xung quanh qua giao dịch cụ thể&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Tốn thời gian, kh&amp;ocirc;ng hiệu quả trong việc đ&amp;aacute;nh gi&amp;aacute; kh&amp;aacute;ch h&amp;agrave;ng qua khảo s&amp;aacute;t thủ c&amp;ocirc;ng&lt;/td&gt;
+&lt;td&gt;Thực hiện nhanh ch&amp;oacute;ng với c&amp;ocirc;ng cụ hỗ trợ khảo s&amp;aacute;t &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Loay hoay trong việc t&amp;igrave;m kiếm c&amp;aacute;c sản phẩm, dịch vụ ph&amp;ugrave; hợp nhất với người d&amp;ugrave;ng &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Dễ d&amp;agrave;ng triển khai với c&amp;ocirc;ng cụ vấn đ&amp;aacute;p trực quan v&amp;agrave; c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh gợi &amp;yacute; sản phẩm &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Mất nhiều thời gian để triển khai c&amp;aacute;c chương tr&amp;igrave;nh, sản phẩm, dịch vụ tr&amp;ecirc;n to&amp;agrave;n hệ thống của doanh nghiệp &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Đồng bộ tr&amp;ecirc;n to&amp;agrave;n hệ thống chỉ với 1 Click&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Tốn nhiều c&amp;ocirc;ng đoạn để thực hiện c&amp;aacute;c chiến dịch tiếp thị tới c&amp;aacute;c nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng mục ti&amp;ecirc;u &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Chỉ cần sử dụng 1 c&amp;ocirc;ng cụ triển khai duy nhất &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Kh&amp;ocirc;ng thể kiểm tra hiệu quả của c&amp;aacute;c chiến dịch tiếp thị khi đang diễn ra &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Kiểm tra hiệu quả ngay khi chiến dịch đang triển khai&amp;nbsp; &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Bộ m&amp;aacute;y quản l&amp;yacute; c&amp;ograve;n cồng kềnh, chồng ch&amp;eacute;o. Mất nhiều thời gian để gi&amp;aacute;m s&amp;aacute;t, đốc th&amp;uacute;c c&amp;ocirc;ng việc ở từng bộ phận&lt;/td&gt;
+&lt;td&gt;Thiết lập v&amp;agrave; quản l&amp;yacute;, gi&amp;aacute;m s&amp;aacute;t nhiệm vụ của từng bộ phận, c&amp;aacute; nh&amp;acirc;n dễ d&amp;agrave;ng. Đảm bảo lu&amp;ocirc;n đ&amp;uacute;ng v&amp;agrave; vượt tiến độ &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Kh&amp;oacute; khăn trong việc nắm bắt xu hướng ti&amp;ecirc;u d&amp;ugrave;ng, mua sắm của kh&amp;aacute;ch h&amp;agrave;ng để đưa ra sản phẩm ph&amp;ugrave; hợp &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Tổng hợp, gợi &amp;yacute; c&amp;aacute;c sản phẩm được kh&amp;aacute;ch h&amp;agrave;ng quan t&amp;acirc;m nhiều nhất dựa v&amp;agrave;o lịch sử mua h&amp;agrave;ng, sử dụng sản phẩm &amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: justify;"&gt;Mất nhiều thời gian thống k&amp;ecirc;, tổng hợp doanh số, doanh thu b&amp;aacute;n h&amp;agrave;ng&lt;/td&gt;
+&lt;td style="text-align: justify;"&gt;Tổng hợp v&amp;agrave; b&amp;aacute;o c&amp;aacute;o số liệu b&amp;aacute;n h&amp;agrave;ng, doanh thu cụ thể ngay trong qu&amp;aacute; tr&amp;igrave;nh triển khai chiến dịch tiếp thị&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/figure&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Smart Sale is a software developed to monitor, support customers, unify sales principles from the process of approaching customers, sales, after buying and selling other products with 2 components: Smart sale for Corporate and Smart Sale for Retail.&lt;/p&gt;
+&lt;p&gt;&lt;iframe title="YouTube video player" src="https://www.youtube.com/embed/OdUWligIAJ4?si=H9ks_HKKIT8bsFUZ" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;WHAT PROBLEM DOES SMART SALE SOLVE?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If your business is facing the following problems, Smart Sale software will be the tool to help solve it quickly and simply:&lt;/p&gt;
+&lt;figure&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;&lt;strong&gt;Problems&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Smart Sale&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Unclear in specifying specialized data&lt;/td&gt;
+&lt;td&gt;Data modeling according to specific disciplines&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Unable to capture information about customers&amp;rsquo; access to products and services&lt;/td&gt;
+&lt;td&gt;Summarize the customer experience step-by-step from first contact to successful conversion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Difficult to grasp customer behaviors to adjust the approach&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Easily understand how customers interact with organizations and related relationships through specific transactions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Take time and ineffective to evaluate customers through manual surveys&lt;/td&gt;
+&lt;td&gt;Quickly with survey support&amp;nbsp;tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Difficulty for end users in finding products and services suitable for customers&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Easy-to-use end-users with intuitive interviewing tools and product recommendation models.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Taking time to deploy programs, products and services throughout the system of the enterprise&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Simultaneous system-wide synchronization with just one click&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Take many steps to roll out marketing campaigns to target groups of customers&lt;/td&gt;
+&lt;td&gt;Using only one deployment tool&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Unable to evaluate the effectiveness of marketing campaigns while running&lt;/td&gt;
+&lt;td&gt;Able to evaluate the effectiveness of marketing campaigns while running&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;The management apparatus is still cumbersome and overlapping. It takes a lot of time to supervise and promote work in each department&lt;/td&gt;
+&lt;td&gt;Set up, manage, and monitor the tasks of each department and easily particularize. Make sure to always be on track and ahead of schedule&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="text-align: justify;"&gt;
+&lt;td&gt;Difficulty in understanding customers&amp;rsquo; consumption and shopping trends to recommend suitable products&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Synthesize and suggest the products that customers are most interested in based on purchase and product usage history&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: justify;"&gt;Taking a long time to statistics, aggregate sales, sales revenue&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td style="text-align: justify;"&gt;Synthesize and report specific sales and revenue figures right during the implementation of marketing campaigns&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/figure&gt;</content_en_html>
+	<createdDate>2025-07-10T17:20:46.714Z</createdDate>
+	<createdDate_dt>2025-07-10T17:20:46.714Z</createdDate_dt>
+	<lastModifiedDate>2025-09-05T10:20:27.589Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-05T10:20:27.589Z</lastModifiedDate_dt>
+	<time_create_dt>2024-12-02T03:06:55.000Z</time_create_dt>
+	<time_create_dt_tz>Asia/Saigon</time_create_dt_tz>
+</page>

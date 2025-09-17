@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0f5d</objectGroupId>
+	<objectId>0f5d46ea-542d-498c-2c1d-bd67186618ba</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>0f5d46ea-542d-498c-2c1d-bd67186618ba</folder-name>
+	<internal-name>AI: Đòn bẩy tăng trưởng cho Ngân hàng bán lẻ</internal-name>
+	<navLabel>AI: Đòn bẩy tăng trưởng cho Ngân hàng bán lẻ</navLabel>
+	<title_vi_s>AI: Đòn bẩy tăng trưởng cho Ngân hàng bán lẻ</title_vi_s>
+	<title_en_s>AI: Growth Lever for Retail Banking</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/ai-artificial-intelligence-humanoid-side-portrait-view-with-blue-and-orange-vibrant-neon-and-copy-space-artificial-intelligence-technology-concept-ai-generated-illustration-free-photo.jpg</img_main_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) mang lại h&amp;agrave;ng loạt lợi &amp;iacute;ch cho ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ, bao gồm: n&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, tăng cường bảo mật v&amp;agrave; ph&amp;aacute;t hiện gian lận, tối ưu ho&amp;aacute; quy tr&amp;igrave;nh vận h&amp;agrave;nh, ph&amp;aacute;t triển sản phẩm v&amp;agrave; dịch vụ mới, ph&amp;acirc;n t&amp;iacute;ch t&amp;iacute;n dụng v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; rủi ro một c&amp;aacute;ch hiệu quả.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Tổng quan xu hướng v&amp;agrave; tiềm năng ứng dụng AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong những năm gần đ&amp;acirc;y, ứng dụng AI đ&amp;atilde; v&amp;agrave; đang trở th&amp;agrave;nh xu hướng nổi bật trong ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ. Trước l&amp;agrave;n s&amp;oacute;ng chuyển đổi n&amp;agrave;y, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng tr&amp;ecirc;n to&amp;agrave;n cầu đang đầu tư mạnh mẽ v&amp;agrave;o AI để cải thiện trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, tối ưu quy tr&amp;igrave;nh vận h&amp;agrave;nh cũng như n&amp;acirc;ng cao n&amp;acirc;ng lực cạnh tranh, chuyển dịch từ m&amp;ocirc; h&amp;igrave;nh ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ truyền thống&amp;nbsp; hay Digital Bank sang AI Bank.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng cũng nằm trong số những lĩnh vực c&amp;oacute; mức độ ph&amp;aacute;t triển AI cao nhất, với 85% ng&amp;acirc;n h&amp;agrave;ng đ&amp;atilde; x&amp;acirc;y dựng chiến lược ứng dụng AI v&amp;agrave;o việc ph&amp;aacute;t triển sản phẩm v&amp;agrave; dịch vụ mới; đồng thời hơn 50% nh&amp;acirc;n sự đang t&amp;iacute;ch cực sử dụng AI trong c&amp;ocirc;ng việc h&amp;agrave;ng ng&amp;agrave;y. Dự b&amp;aacute;o, kinh ph&amp;iacute; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng d&amp;agrave;nh cho GenAI sẽ tăng mạnh từ 6 tỷ USD năm 2024 l&amp;ecirc;n đến 85 tỷ USD v&amp;agrave;o năm 2030.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tiềm năng ứng dụng AI trong ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; rất lớn v&amp;igrave; hầu hết c&amp;aacute;c bộ phận đều c&amp;oacute; thể tận dụng c&amp;ocirc;ng nghệ n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ở bộ phận front office, nơi trực tiếp tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng cũng như tham gia v&amp;agrave;o c&amp;aacute;c hoạt động kinh doanh ch&amp;iacute;nh, nh&amp;acirc;n vi&amp;ecirc;n được trang bị c&amp;ocirc;ng cụ AI ti&amp;ecirc;n tiến để c&amp;aacute; nh&amp;acirc;n ho&amp;aacute; trải nghiệm v&amp;agrave; tăng hiệu quả b&amp;aacute;n h&amp;agrave;ng. Những c&amp;ocirc;ng cụ n&amp;agrave;y cũng gi&amp;uacute;p nh&amp;acirc;n vi&amp;ecirc;n c&amp;oacute; th&amp;ecirc;m thời gian tập trung v&amp;agrave;o kh&amp;aacute;ch h&amp;agrave;ng, mang tới trải nghiệm to&amp;agrave;n diện hơn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với middle v&amp;agrave; back office, nơi hỗ trợ v&amp;agrave; xử l&amp;yacute; giao dịch, quản l&amp;yacute; dữ liệu v&amp;agrave; hệ&amp;nbsp; thống, AI hỗ trợ tự động ho&amp;aacute; nhiều quy tr&amp;igrave;nh. Điều n&amp;agrave;y kh&amp;ocirc;ng chỉ n&amp;acirc;ng cao tốc độ v&amp;agrave; độ ch&amp;iacute;nh x&amp;aacute;c, giảm sai s&amp;oacute;t v&amp;agrave; chi ph&amp;iacute;, m&amp;agrave; c&amp;ograve;n gi&amp;uacute;p nh&amp;acirc;n vi&amp;ecirc;n tập trung v&amp;agrave;o c&amp;aacute;c hoạt động c&amp;oacute; gi&amp;aacute; trị cao hơn, cải thiện chất lượng dịch vụ cho kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. C&amp;aacute;c ứng dụng v&amp;agrave; lợi &amp;iacute;ch của AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c dự b&amp;aacute;o t&amp;agrave;i ch&amp;iacute;nh mới nhất cho thấy việc &amp;aacute;p dụng AI trong ng&amp;acirc;n h&amp;agrave;ng thế hệ mới sẽ mang lại lợi &amp;iacute;ch đ&amp;aacute;ng kể cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng ti&amp;ecirc;n phong trong ba năm tới với mức tăng năng suất dự kiến từ 22% đến 30%. H&amp;agrave;ng trăm trường hợp ứng dụng (use case) AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ đ&amp;atilde; được t&amp;igrave;m kiếm v&amp;agrave; ph&amp;aacute;t triển bởi c&amp;aacute;c đơn vị chuy&amp;ecirc;n m&amp;ocirc;n lớn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c use case n&amp;agrave;y hứa hẹn sẽ mang lại lợi &amp;iacute;ch cho tất cả c&amp;aacute;c lĩnh vực ng&amp;acirc;n h&amp;agrave;ng. Trong đ&amp;oacute;, hầu hết c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng lựa chọn ưu ti&amp;ecirc;n tập trung v&amp;agrave;o việc cải thiện dịch vụ kh&amp;aacute;ch h&amp;agrave;ng, tăng năng suất của nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; ph&amp;aacute;t triển c&amp;aacute;c ứng dụng gi&amp;uacute;p tự động h&amp;oacute;a quy tr&amp;igrave;nh nội bộ. Một số ứng dụng phổ biến nhất v&amp;agrave; lợi &amp;iacute;ch đem lại cho ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể kể đến như:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Cải thiện trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hệ thống AI n&amp;acirc;ng cao hiệu quả hoạt động của chatbot v&amp;agrave; trợ l&amp;yacute; ảo, cho ph&amp;eacute;p ph&amp;acirc;n t&amp;iacute;ch dữ liệu kh&amp;aacute;ch h&amp;agrave;ng để hiểu r&amp;otilde; h&amp;agrave;nh vi, sở th&amp;iacute;ch v&amp;agrave; nhu cầu. Nhờ đ&amp;oacute;, ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể tiết kiệm chi ph&amp;iacute;, giảm tải cho nh&amp;acirc;n vi&amp;ecirc;n cũng như nhất qu&amp;aacute;n chất lượng dịch vụ. AI cũng gi&amp;uacute;p tự động trả lời c&amp;aacute;c c&amp;acirc;u hỏi thường gặp v&amp;agrave; thực hiện c&amp;aacute;c giao dịch cơ bản như kiểm tra số dư hoặc thanh to&amp;aacute;n ho&amp;aacute; đơn nhanh ch&amp;oacute;ng, với độ ch&amp;iacute;nh x&amp;aacute;c cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tăng cường an ninh v&amp;agrave; ph&amp;aacute;t hiện gian lận&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI sử dụng c&amp;aacute;c thuật to&amp;aacute;n để ph&amp;aacute;t hiện giao dịch bất thường v&amp;agrave; dấu hiệu gian lận. Hệ thống n&amp;agrave;y c&amp;oacute; khả năng theo d&amp;otilde;i v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch h&amp;agrave;ng triệu giao dịch mỗi ng&amp;agrave;y, x&amp;aacute;c định c&amp;aacute;c giao dịch rủi ro v&amp;agrave; cảnh b&amp;aacute;o nh&amp;acirc;n vi&amp;ecirc;n kịp thời, gi&amp;uacute;p bảo vệ t&amp;agrave;i sản ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; củng cố niềm tin của kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo khảo s&amp;aacute;t, 58% ng&amp;acirc;n h&amp;agrave;ng hiện dựa v&amp;agrave;o AI để ph&amp;aacute;t hiện gian lận. Nghi&amp;ecirc;n cứu từ Javelin Strategy &amp;amp; Research cũng cho thấy, việc ứng dụng AI gi&amp;uacute;p giảm đến 30% c&amp;aacute;c trường hợp gian lận trong ng&amp;agrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tối ưu h&amp;oacute;a quy tr&amp;igrave;nh vận h&amp;agrave;nh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI gi&amp;uacute;p tự động h&amp;oacute;a nhiều quy tr&amp;igrave;nh nghiệp vụ như xử l&amp;yacute; hồ sơ vay v&amp;agrave; kiểm tra t&amp;iacute;n dụng, gi&amp;uacute;p tiết kiệm thời gian v&amp;agrave; chi ph&amp;iacute; vận h&amp;agrave;nh. Với khả năng xử l&amp;yacute; dữ liệu nhanh ch&amp;oacute;ng v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c, AI gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cắt giảm từ 20% đến 30% chi ph&amp;iacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ph&amp;aacute;t triển sản phẩm v&amp;agrave; dịch vụ mới&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng x&amp;acirc;y dựng chiến dịch marketing ch&amp;iacute;nh x&amp;aacute;c v&amp;agrave; hiệu quả hơn bằng c&amp;aacute;ch x&amp;aacute;c định kh&amp;aacute;ch h&amp;agrave;ng tiềm năng, đề xuất sản phẩm ph&amp;ugrave; hợp v&amp;agrave; tối ưu h&amp;oacute;a chi ph&amp;iacute; quảng c&amp;aacute;o. Nghi&amp;ecirc;n cứu cho thấy, việc sử dụng AI trong marketing c&amp;oacute; thể gi&amp;uacute;p ng&amp;acirc;n h&amp;agrave;ng tăng doanh thu từ 10% đến 15%. Ngo&amp;agrave;i ra, AI c&amp;ograve;n gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng hiểu r&amp;otilde; hơn về nhu cầu v&amp;agrave; h&amp;agrave;nh vi kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; ph&amp;aacute;t triển c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ ph&amp;ugrave; hợp hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ph&amp;acirc;n t&amp;iacute;ch T&amp;iacute;n dụng v&amp;agrave; Đ&amp;aacute;nh gi&amp;aacute; Rủi ro&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trước đ&amp;acirc;y, quy tr&amp;igrave;nh ph&amp;acirc;n t&amp;iacute;ch t&amp;iacute;n dụng thường dựa v&amp;agrave;o phương ph&amp;aacute;p thủ c&amp;ocirc;ng với c&amp;aacute;c chỉ số cơ bản. Ng&amp;agrave;y nay, AI c&amp;oacute; khả năng xử l&amp;yacute; lượng dữ liệu lớn v&amp;agrave; đa chiều hơn, bao gồm lịch sử giao dịch, t&amp;iacute;n dụng v&amp;agrave; th&amp;ocirc;ng tin t&amp;agrave;i ch&amp;iacute;nh từ nhiều nguồn kh&amp;aacute;c nhau, một c&amp;aacute;ch nhanh ch&amp;oacute;ng v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c. Nhờ đ&amp;oacute;, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể đ&amp;aacute;nh gi&amp;aacute; rủi ro t&amp;iacute;n dụng to&amp;agrave;n diện hơn v&amp;agrave; đưa ra quyết định cấp t&amp;iacute;n dụng ch&amp;iacute;nh x&amp;aacute;c.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, AI c&amp;oacute; thể dự đo&amp;aacute;n khả năng thanh to&amp;aacute;n của kh&amp;aacute;ch h&amp;agrave;ng, gi&amp;uacute;p giảm thiểu rủi ro khi cấp c&amp;aacute;c khoản vay ph&amp;ugrave; hợp với khả năng t&amp;agrave;i ch&amp;iacute;nh của họ. AI c&amp;ograve;n c&amp;oacute; khả năng tự động cập nhật v&amp;agrave; điều chỉnh m&amp;ocirc; h&amp;igrave;nh rủi ro dựa tr&amp;ecirc;n dữ liệu mới, gi&amp;uacute;p ng&amp;acirc;n h&amp;agrave;ng lu&amp;ocirc;n c&amp;oacute; đ&amp;aacute;nh gi&amp;aacute; ch&amp;iacute;nh x&amp;aacute;c về t&amp;igrave;nh h&amp;igrave;nh t&amp;iacute;n dụng của kh&amp;aacute;ch h&amp;agrave;ng.&lt;img&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. C&amp;aacute;c rủi ro trong việc ứng dụng AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, nhằm giảm thiểu sai s&amp;oacute;t, ng&amp;acirc;n h&amp;agrave;ng cần x&amp;aacute;c định trước c&amp;aacute;c rủi ro ch&amp;iacute;nh c&amp;oacute; thể xảy ra v&amp;agrave; phương &amp;aacute;n giải quyết k&amp;egrave;m theo. Một số rủi ro phổ biến c&amp;oacute; thể gặp v&amp;agrave; hướng xử l&amp;yacute; khi triển khai AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ bao gồm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Rủi ro về vấn đề đạo đức:&lt;/strong&gt;&amp;nbsp;M&amp;ocirc; h&amp;igrave;nh AI c&amp;oacute; thể c&amp;oacute; c&amp;aacute;c thi&amp;ecirc;n kiến do chất lượng dữ liệu đưa v&amp;agrave;o hoặc do thi&amp;ecirc;n kiến của ch&amp;iacute;nh người d&amp;ugrave;ng. Từ đ&amp;oacute; c&amp;oacute; thể dẫn đến sự ph&amp;acirc;n biệt giữa c&amp;aacute;c tập kh&amp;aacute;ch h&amp;agrave;ng kh&amp;aacute;c nhau khi đưa ra quyết định.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với rủi ro n&amp;agrave;y, c&amp;aacute;c hướng xử l&amp;yacute; khi triển khai bao gồm:&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) Đảm bảo tu&amp;acirc;n thủ c&amp;aacute;c đ&amp;aacute;nh gi&amp;aacute; về t&amp;aacute;c động của AI&amp;nbsp;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) X&amp;acirc;y dựng c&amp;aacute;c phương ph&amp;aacute;p để x&amp;aacute;c định c&amp;aacute;c thi&amp;ecirc;n kiến&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(3) Cập nhật m&amp;ocirc; h&amp;igrave;nh thường xuy&amp;ecirc;n, li&amp;ecirc;n tục bổ sung th&amp;ecirc;m dữ liệu v&amp;agrave; cải thiện dữ liệu.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Rủi ro về bảo mật v&amp;agrave; quyền ri&amp;ecirc;ng tư:&lt;/strong&gt;&amp;nbsp;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể vi phạm quyền ri&amp;ecirc;ng tư của kh&amp;aacute;ch h&amp;agrave;ng do v&amp;ocirc; t&amp;igrave;nh thu thập dữ liệu kh&amp;aacute;ch h&amp;agrave;ng để thực hiện đ&amp;agrave;o tạo c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh AI hoặc thực hiện c&amp;aacute;c thuật to&amp;aacute;n dự đo&amp;aacute;n m&amp;agrave; chưa c&amp;oacute; sự đồng &amp;yacute; cụ thể của kh&amp;aacute;ch h&amp;agrave;ng. Điều n&amp;agrave;y c&amp;oacute; thể g&amp;acirc;y v&amp;ocirc; t&amp;igrave;nh l&amp;agrave;m lộ dữ liệu ra b&amp;ecirc;n ngo&amp;agrave;i.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với rủi ro n&amp;agrave;y, c&amp;aacute;c hướng xử l&amp;yacute; khi triển khai bao gồm:&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) Đưa c&amp;aacute;c y&amp;ecirc;u cầu về bảo mật v&amp;agrave; quyền ri&amp;ecirc;ng tư khi thiết kế m&amp;ocirc; h&amp;igrave;nh AI&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) Chỉ thu thập dữ liệu kh&amp;aacute;ch h&amp;agrave;ng khi c&amp;oacute; sự đồng &amp;yacute;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(3) Duy tr&amp;igrave; c&amp;aacute;c quy tr&amp;igrave;nh bảo mật nghi&amp;ecirc;m ngặt trong suốt qu&amp;aacute; tr&amp;igrave;nh vận h&amp;agrave;nh c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh AI.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Rủi ro về ph&amp;aacute;p l&amp;yacute;:&amp;nbsp;&lt;/strong&gt;C&amp;aacute;c quy định c&amp;ograve;n hạn chế v&amp;agrave; chưa đ&amp;aacute;p ứng được với tốc độ ph&amp;aacute;t triển nhanh ch&amp;oacute;ng của AI. B&amp;ecirc;n cạnh đ&amp;oacute;, t&amp;ugrave;y theo khu vực ph&amp;aacute;p l&amp;yacute; th&amp;igrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng hoạt động ở nhiều địa điểm c&amp;oacute; thể phải đối mặt với c&amp;aacute;c quy tắc kh&amp;aacute;c nhau.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với rủi ro n&amp;agrave;y, c&amp;aacute;c hướng xử l&amp;yacute; khi triển khai bao gồm:&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) Li&amp;ecirc;n tục cập nhật c&amp;aacute;c quy định ph&amp;aacute;p l&amp;yacute; li&amp;ecirc;n quan đến AI&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) Tăng cường t&amp;iacute;nh minh bạch của c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh AI&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(3) Thiết kế khả năng giải th&amp;iacute;ch v&amp;agrave;o c&amp;aacute;c quy tr&amp;igrave;nh v&amp;agrave; kết quả AI, tập trung v&amp;agrave;o giải th&amp;iacute;ch l&amp;yacute; do, tr&amp;aacute;ch nhiệm, dữ liệu, an to&amp;agrave;n, hiệu suất v&amp;agrave; t&amp;aacute;c động.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Rủi ro về lực lượng lao động:&lt;/strong&gt;&amp;nbsp;Tiềm năng thay đổi lực lượng, đặc biệt đối với những c&amp;ocirc;ng việc đ&amp;ograve;i hỏi khả năng t&amp;iacute;nh to&amp;aacute;n v&amp;agrave; ng&amp;ocirc;n ngữ. Ngo&amp;agrave;i ra, ng&amp;acirc;n h&amp;agrave;ng cũng phải chịu chi ph&amp;iacute; đ&amp;agrave;o tạo lại nh&amp;acirc;n vi&amp;ecirc;n để sử dụng AI nhằm hỗ trợ c&amp;ocirc;ng việc.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với rủi ro n&amp;agrave;y, c&amp;aacute;c hướng xử l&amp;yacute; khi triển khai bao gồm:&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) Đ&amp;agrave;o tạo, chia sẻ kiến thức về AI với nh&amp;acirc;n vi&amp;ecirc;n; nhằm n&amp;acirc;ng cao kỹ năng&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) Sử dụng AI để hỗ trợ c&amp;aacute;c c&amp;ocirc;ng việc hiện c&amp;oacute; v&amp;agrave; trao quyền cho nh&amp;acirc;n vi&amp;ecirc;n đưa ra quyết định tốt hơn.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(3) Đảm bảo c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh AI mang t&amp;iacute;nh phối hợp, c&amp;oacute; sự kết hợp đ&amp;aacute;nh gi&amp;aacute; của con người.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Rủi ro về đầu tư AI tr&amp;ecirc;n nền hạ tầng cũ:&amp;nbsp;&lt;/strong&gt;C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng kh&amp;ocirc;ng tập trung đầu tư v&amp;agrave;o n&amp;acirc;ng cấp cơ sở hạ tầng CNTT c&amp;oacute; thể gặp phải c&amp;aacute;c trở ngại như khả năng xử l&amp;yacute; đồ họa (GPU), khả năng kết nối mạng, bộ nhớ v&amp;agrave; dung lượng lưu trữ hạn chế. Điều n&amp;agrave;y c&amp;oacute; thể g&amp;acirc;y ra rủi ro về thực thi v&amp;agrave; vận h&amp;agrave;nh AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với rủi ro n&amp;agrave;y, c&amp;aacute;c hướng xử l&amp;yacute; khi triển khai bao gồm:&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(1) Sử dụng m&amp;atilde; h&amp;oacute;a AI để tăng tốc chuyển đổi m&amp;atilde; kế thừa, ph&amp;aacute;t triển phần mềm v&amp;agrave; di chuyển v&amp;agrave; t&amp;iacute;ch hợp cơ sở hạ tầng CNTT kế thừa.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(2) Đầu tư v&amp;agrave;o mạng hiệu suất cao hơn.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Khuyến nghị khi triển khai AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc ứng dụng AI trong ng&amp;acirc;n h&amp;agrave;ng cần được thực thi theo quy tr&amp;igrave;nh nhằm đảm bảo c&amp;oacute; sự chọn lọc, ph&amp;ugrave; hợp với nhu cầu. Sự phức tạp trong ứng dụng AI cũng đồng nghĩa với việc qu&amp;aacute; tr&amp;igrave;nh từ khi h&amp;igrave;nh th&amp;agrave;nh &amp;yacute; tưởng đến đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; x&amp;aacute;c định mức độ ưu ti&amp;ecirc;n của &amp;yacute; tưởng đến việc triển khai MVP (Minimum Viable Product &amp;ndash; sản phẩm khả thi tối thiểu) cần được lặp lại li&amp;ecirc;n tục v&amp;agrave; dưới sự tư vấn của đơn vị c&amp;oacute; năng lực nhằm đảm bảo việc AI được đưa v&amp;agrave;o sử dụng hiệu quả.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để ứng dụng AI trong ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ hiệu quả trong hoạt động nhằm đạt được c&amp;aacute;c lợi &amp;iacute;ch đột ph&amp;aacute;, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cần c&amp;oacute; chiến lược r&amp;otilde; r&amp;agrave;ng, đầu tư v&amp;agrave;o c&amp;ocirc;ng nghệ v&amp;agrave; đ&amp;agrave;o tạo nh&amp;acirc;n lực, đồng thời hợp t&amp;aacute;c chặt chẽ với c&amp;aacute;c chuy&amp;ecirc;n gia v&amp;agrave; tổ chức chuy&amp;ecirc;n m&amp;ocirc;n về AI. Quản trị sự thay đổi tốt trong khi kh&amp;ocirc;ng ngừng lan tỏa v&amp;agrave; truyền th&amp;ocirc;ng để tăng cường sự hiểu biết, gia tăng sự chấp nhận về một tương lai ng&amp;acirc;n h&amp;agrave;ng AI.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Accenture&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Artificial Intelligence (AI) delivers numerous benefits for retail banks, including enhancing customer experience, strengthening security and fraud detection, optimizing operational processes, developing new products and services, and conducting more effective credit analysis and risk assessment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;1. Overview of AI Trends and Application Potential in Retail Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;In recent years, AI adoption has become a prominent trend in the retail banking sector. Riding this wave of transformation, banks worldwide are investing heavily in AI to improve customer experience, streamline operations, and enhance competitiveness, moving from the traditional retail banking model or digital banks toward &lt;strong&gt;AI-powered banks&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banking is among the industries with the highest level of AI development. Statistics show that &lt;strong&gt;85% of banks have already developed strategies to apply AI in product and service innovation&lt;/strong&gt;, while more than &lt;strong&gt;50% of employees are actively using AI in their daily work&lt;/strong&gt;. Forecasts suggest that banks&amp;rsquo; spending on Generative AI will surge from &lt;strong&gt;USD 6 billion in 2024 to USD 85 billion in 2030&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The potential for AI application in banking is immense, as nearly every department can leverage this technology.&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;In the &lt;strong&gt;front office&lt;/strong&gt;, where direct customer interactions and core business activities take place, employees are equipped with advanced AI tools to personalize experiences and improve sales effectiveness. These tools also free up staff time, allowing them to focus more on customers and deliver a holistic experience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the &lt;strong&gt;middle and back office&lt;/strong&gt;, which handle transaction support, data management, and systems, AI automates many processes. This not only boosts speed and accuracy while reducing errors and costs but also enables employees to focus on higher-value tasks, ultimately improving service quality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;2. AI Applications and Benefits in Retail Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Recent financial forecasts indicate that the adoption of AI in next-generation banking will bring significant benefits to early adopters, with productivity expected to increase by &lt;strong&gt;22% to 30% over the next three years&lt;/strong&gt;. Hundreds of AI use cases in retail banking have been explored and developed by major institutions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;These use cases promise benefits across all areas of banking. Most banks prioritize improving customer service, boosting employee productivity, and developing applications that automate internal processes. Some of the most common applications and their benefits include:&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Enhancing Customer Experience&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI-powered systems improve the performance of chatbots and virtual assistants, enabling customer data analysis to better understand behavior, preferences, and needs. This helps banks save costs, reduce employee workload, and ensure consistent service quality. AI also automates responses to frequently asked questions and basic transactions such as balance inquiries or bill payments quickly and accurately.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Strengthening Security and Fraud Detection&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI uses algorithms to detect unusual transactions and fraudulent behavior. These systems can monitor and analyze millions of transactions daily, flagging high-risk activities and alerting staff in real time to safeguard bank assets and reinforce customer trust.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to surveys, &lt;strong&gt;58% of banks currently rely on AI for fraud detection&lt;/strong&gt;. Research from Javelin Strategy &amp;amp; Research shows that AI applications help reduce fraud incidents in the industry by &lt;strong&gt;up to 30%&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Optimizing Operational Processes&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI automates numerous processes such as loan application processing and credit checks, helping save time and operating costs. With its ability to process large amounts of data quickly and accurately, AI enables banks to cut costs by &lt;strong&gt;20% to 30%&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Developing New Products and Services&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI enables banks to design more accurate and effective marketing campaigns by identifying potential customers, recommending suitable products, and optimizing advertising costs. Studies reveal that AI-driven marketing can increase bank revenues by &lt;strong&gt;10% to 15%&lt;/strong&gt;. Additionally, AI helps banks better understand customer needs and behavior, allowing them to develop more tailored products and services.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Credit Analysis and Risk Assessment&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Previously, credit analysis relied on manual processes and basic indicators. Today, AI can process vast, multidimensional datasets, including transaction histories, credit records, and financial information from multiple sources, both quickly and accurately. This allows banks to conduct more comprehensive credit risk assessments and make precise lending decisions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI can also predict customers&amp;rsquo; repayment ability, reducing risks by aligning loans with financial capacity. Moreover, AI models can automatically update and adjust based on new data, ensuring banks always have accurate insights into customers&amp;rsquo; creditworthiness.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;3. Risks of AI Adoption in Retail Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;To minimize errors, banks must first identify potential risks and establish mitigation strategies. Common risks and solutions when implementing AI in retail banking include:&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Ethical Risks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI models may contain biases due to poor data quality or human input biases, leading to unfair decisions across customer segments.&lt;br&gt;&lt;strong&gt;Solutions include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Conducting AI impact assessments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developing methods to identify biases.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Regularly updating models with new and improved datasets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 style="text-align: justify;"&gt;Data Security and Privacy Risks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Banks may inadvertently violate customer privacy by collecting data for AI model training or predictive algorithms without explicit consent, potentially causing data leaks.&lt;br&gt;&lt;strong&gt;Solutions include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Incorporating security and privacy requirements during AI model design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Collecting customer data only with explicit consent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maintaining strict security protocols throughout AI model operations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 style="text-align: justify;"&gt;Legal and Regulatory Risks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI regulations remain limited and lag behind rapid technological advancements. Banks operating across multiple jurisdictions may face varying legal requirements.&lt;br&gt;&lt;strong&gt;Solutions include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Continuously monitoring and updating compliance with AI-related regulations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhancing AI model transparency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Building explainability into AI processes and outputs, focusing on rationale, accountability, data, safety, performance, and impact.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 style="text-align: justify;"&gt;Workforce Risks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI may disrupt the workforce, particularly roles requiring computational and linguistic skills. Additionally, banks face retraining costs to help employees adapt to AI-enabled workflows.&lt;br&gt;&lt;strong&gt;Solutions include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Providing AI training and knowledge sharing to enhance employee skills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using AI to support current roles and empower employees to make better decisions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ensuring AI models remain collaborative with human oversight and judgment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 style="text-align: justify;"&gt;Legacy Infrastructure Risks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Banks that fail to invest in IT infrastructure upgrades may face challenges such as limited GPU processing power, network capacity, memory, and storage, leading to AI execution and operational risks.&lt;br&gt;&lt;strong&gt;Solutions include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Leveraging AI coding to accelerate legacy system migration and integration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Investing in high-performance networks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;4. Recommendations for Implementing AI in Retail Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;AI adoption in banking must follow a structured process to ensure selective and needs-based deployment. The complexity of AI applications means that the journey&amp;mdash;from ideation to evaluation, prioritization, and deployment of an MVP (Minimum Viable Product)&amp;mdash;must be iterative and guided by capable experts to ensure effective use of AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;For retail banks to unlock the breakthrough benefits of AI adoption, they need a clear strategy, investment in technology and workforce training, and close collaboration with AI experts and specialized organizations. Effective change management, along with ongoing communication, is essential to strengthen understanding and promote acceptance of the AI-powered banking future.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: Accenture&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by DTSVN Authors &amp;ndash; Digital Transformation Solutions for the Banking and Financial Industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br&gt;DTSVN is a pioneering digital transformation company providing cutting-edge digital solutions tailored for enterprises in Vietnam&amp;rsquo;s banking and financial industry. We help banks and financial institutions rapidly modernize their technology systems to drive digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;📩 Contact us today for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-22T02:50:25.000Z</time_create_dt>
+	<createdDate>2025-08-28T02:50:23.554Z</createdDate>
+	<createdDate_dt>2025-08-28T02:50:23.554Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T02:50:23.554Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T02:50:23.554Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

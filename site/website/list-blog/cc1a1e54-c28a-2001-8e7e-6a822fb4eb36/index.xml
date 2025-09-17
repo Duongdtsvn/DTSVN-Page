@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc1a</objectGroupId>
+	<objectId>cc1a1e54-c28a-2001-8e7e-6a822fb4eb36</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cc1a1e54-c28a-2001-8e7e-6a822fb4eb36</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Marketer và tầm quan trọng của phân tích KPI toàn diện trong Hợp tác tín dụng </internal-name>
+	<navLabel>Marketer và tầm quan trọng của phân tích KPI toàn diện trong Hợp tác tín dụng</navLabel>
+	<title_vi_s>Marketer và tầm quan trọng của phân tích KPI toàn diện trong Hợp tác tín dụng</title_vi_s>
+	<title_en_s>Marketers and the Importance of Comprehensive KPI Analysis in Credit Cooperation </title_en_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/sale-data-2.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Marketer chỉ dựa v&amp;agrave;o số liệu ban đầu c&amp;oacute; nguy cơ l&amp;agrave;m suy yếu c&amp;aacute;c chiến dịch của họ. Sau đ&amp;acirc;y l&amp;agrave; l&amp;yacute; do tại sao sự c&amp;acirc;n bằng giữa c&amp;aacute;c loại số liệu trong một khoảng thời gian cho ph&amp;eacute;p tối ưu h&amp;oacute;a theo thời gian thực để đạt được c&amp;aacute;c mục ti&amp;ecirc;u chiến lược d&amp;agrave;i hạn.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nh&amp;agrave; marketer v&amp;agrave; hợp t&amp;aacute;c t&amp;iacute;n dụng thường tập trung v&amp;agrave;o c&amp;aacute;c số liệu định lượng tức thời như tỷ lệ nhấp chuột, chi ph&amp;iacute; cho mỗi lần nhấp chuột v&amp;agrave; tỷ lệ chuyển đổi. Nhưng điều n&amp;agrave;y c&amp;oacute; thực sự hợp l&amp;yacute; kh&amp;ocirc;ng?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c chỉ số như vậy cung cấp một bức ảnh chụp nhanh về hiệu suất chiến dịch. Ch&amp;uacute;ng cung cấp dữ liệu thời gian thực thường kh&amp;ocirc;ng thể cưỡng lại. Tuy nhi&amp;ecirc;n, việc nhấn mạnh qu&amp;aacute; mức v&amp;agrave;o c&amp;aacute;c số liệu bề mặt n&amp;agrave;y c&amp;oacute; thể che khuất sự hiểu biết s&amp;acirc;u sắc hơn về hiệu quả thực sự của chiến dịch, đặc biệt l&amp;agrave; khi n&amp;oacute;i đến kết quả kinh doanh d&amp;agrave;i hạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để đ&amp;aacute;nh gi&amp;aacute; th&amp;agrave;nh c&amp;ocirc;ng một c&amp;aacute;ch thực sự, c&amp;aacute;c nh&amp;agrave; marketer phải &amp;aacute;p dụng phương ph&amp;aacute;p tiếp cận to&amp;agrave;n diện đối với c&amp;aacute;c chỉ số hiệu suất ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Những cạm bẫy của việc chỉ tập trung v&amp;agrave;o c&amp;aacute;c số liệu marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y xem x&amp;eacute;t t&amp;igrave;nh huống n&amp;agrave;y: Tổ chức t&amp;agrave;i ch&amp;iacute;nh của bạn đ&amp;atilde; triển khai một chiến dịch kỹ thuật số nhằm thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng mới mở t&amp;agrave;i khoản tiết kiệm l&amp;atilde;i suất cao v&amp;agrave; chứng chỉ tiền gửi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi chiến dịch tiến triển, bạn nhận thấy tỷ lệ nhấp chuột (CTR) của m&amp;igrave;nh thấp hơn dự kiến. Hơn nữa, chi ph&amp;iacute; cho mỗi lần nhấp chuột (CPC) cao hơn so với chuẩn mực của ng&amp;agrave;nh. Thoạt nh&amp;igrave;n, c&amp;aacute;c số liệu n&amp;agrave;y c&amp;oacute; thể cho thấy chiến dịch đang hoạt động k&amp;eacute;m hiệu quả. Rất c&amp;oacute; thể điều n&amp;agrave;y sẽ g&amp;acirc;y ra mối lo ngại trong số c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan, dẫn đến &amp;aacute;p lực phải điều chỉnh chiến thuật.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, điều quan trọng l&amp;agrave; c&amp;aacute;c nh&amp;agrave; marketer phải l&amp;ugrave;i lại v&amp;agrave; xem x&amp;eacute;t bức tranh to&amp;agrave;n cảnh. Chỉ tập trung v&amp;agrave;o c&amp;aacute;c số liệu tức thời c&amp;oacute; thể dẫn đến đ&amp;aacute;nh gi&amp;aacute; kh&amp;ocirc;ng đầy đủ về t&amp;aacute;c động của chiến dịch, đặc biệt l&amp;agrave; khi gi&amp;aacute; trị thực sự c&amp;oacute; thể xuất hiện ở phần sau của k&amp;ecirc;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kh&amp;aacute;m ph&amp;aacute; gi&amp;aacute; trị vượt ra ngo&amp;agrave;i c&amp;aacute;c số liệu ban đầu&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; CTR của bạn c&amp;oacute; thể thấp hơn v&amp;agrave; CPC cao hơn mong đợi, nhưng những kh&amp;aacute;ch h&amp;agrave;ng tương t&amp;aacute;c với chiến dịch của bạn c&amp;oacute; thể ch&amp;iacute;nh l&amp;agrave; những kh&amp;aacute;ch h&amp;agrave;ng tiềm năng chất lượng cao m&amp;agrave; bạn đang mong đợi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những c&amp;aacute; nh&amp;acirc;n n&amp;agrave;y kh&amp;ocirc;ng chỉ c&amp;oacute; thể mở t&amp;agrave;i khoản tiết kiệm hoặc CD l&amp;atilde;i suất cao mới m&amp;agrave; c&amp;ograve;n thực hiện với số tiền gửi ban đầu đ&amp;aacute;ng kể. Nếu số dư trung b&amp;igrave;nh của c&amp;aacute;c t&amp;agrave;i khoản l&amp;atilde;i suất cao mới được mở th&amp;ocirc;ng qua chiến dịch cao hơn đ&amp;aacute;ng kể so với mức cơ sở của tổ chức bạn, điều n&amp;agrave;y cho thấy chiến dịch đang thu h&amp;uacute;t đ&amp;uacute;ng kh&amp;aacute;ch h&amp;agrave;ng, ngay cả khi c&amp;aacute;c số liệu tương t&amp;aacute;c như CTR thấp hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điểm n&amp;agrave;y nhấn mạnh tầm quan trọng của việc đ&amp;aacute;nh gi&amp;aacute; tất cả c&amp;aacute;c KPI của chiến dịch dọc theo chuỗi gi&amp;aacute; trị. Điều n&amp;agrave;y bao gồm c&amp;aacute;c chỉ số trễ như số dư t&amp;agrave;i khoản trung b&amp;igrave;nh, gi&amp;aacute; trị trọn đời của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; tỷ lệ duy tr&amp;igrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;igrave;m hiểu r&amp;otilde; hơn về c&amp;aacute;c chỉ số hiệu suất chậm trễ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một trong những th&amp;aacute;ch thức khi dựa v&amp;agrave;o số liệu marketing l&amp;agrave; một số biện ph&amp;aacute;p thiết yếu thường chậm hơn dữ liệu chiến dịch ban đầu. C&amp;aacute;c biện ph&amp;aacute;p c&amp;oacute; &amp;yacute; nghĩa như số dư t&amp;agrave;i khoản trung b&amp;igrave;nh, tỷ lệ giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; gi&amp;aacute; trị trọn đời, theo định nghĩa, kh&amp;ocirc;ng thể nh&amp;igrave;n thấy ngay lập tức. Tr&amp;ecirc;n thực tế, ch&amp;uacute;ng c&amp;oacute; thể mất nhiều tuần, nhiều th&amp;aacute;ng hoặc l&amp;acirc;u hơn để kết hợp lại với nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, c&amp;aacute;c nh&amp;agrave; marketer phải đối mặt với &amp;aacute;p lực tối ưu h&amp;oacute;a c&amp;aacute;c chiến dịch theo thời gian thực , đặc biệt l&amp;agrave; khi c&amp;oacute; những khoản đầu tư đ&amp;aacute;ng kể.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ch&amp;igrave;a kh&amp;oacute;a l&amp;agrave; c&amp;acirc;n bằng giữa việc tối ưu h&amp;oacute;a thời gian thực với tầm nh&amp;igrave;n d&amp;agrave;i hạn&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc theo d&amp;otilde;i v&amp;agrave; điều chỉnh c&amp;aacute;c chiến dịch dựa tr&amp;ecirc;n phản hồi tức thời từ CTR, CPC v&amp;agrave; tỷ lệ chuyển đổi l&amp;agrave; rất quan trọng. Nhưng điều quan trọng kh&amp;ocirc;ng k&amp;eacute;m l&amp;agrave; phải theo d&amp;otilde;i c&amp;aacute;c kết quả kinh doanh cuối c&amp;ugrave;ng c&amp;oacute; &amp;yacute; nghĩa v&amp;agrave; thiết lập v&amp;agrave; thống nhất về những g&amp;igrave; bạn đang cố gắng đạt được trong d&amp;agrave;i hạn, để tất cả c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan đều thống nhất.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y đ&amp;ograve;i hỏi phải ph&amp;aacute;t triển một khu&amp;ocirc;n khổ vững chắc để theo d&amp;otilde;i v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c KPI trong to&amp;agrave;n bộ h&amp;agrave;nh tr&amp;igrave;nh của kh&amp;aacute;ch h&amp;agrave;ng, từ c&amp;uacute; nhấp chuột đầu ti&amp;ecirc;n cho đến sự tương t&amp;aacute;c l&amp;acirc;u d&amp;agrave;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hai chiến lược m&amp;agrave; c&amp;aacute;c marketer c&amp;oacute; thể sử dụng:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chiến lược 1:&lt;/strong&gt;&amp;nbsp;Triển khai bảng điều khiển KPI nhiều tầng. Một bảng điều khiển hiển thị cả số liệu thời gian thực v&amp;agrave; kết quả dự kiến d&amp;agrave;i hạn c&amp;oacute; thể gi&amp;uacute;p c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh đạt được sự c&amp;acirc;n bằng n&amp;agrave;y. V&amp;iacute; dụ:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;bull; Bậc 1: Số liệu thời gian thực (CTR, CPC, tỷ lệ chuyển đổi). Đ&amp;acirc;y l&amp;agrave; những số liệu bạn đo lường khi so s&amp;aacute;nh với c&amp;aacute;c chiến dịch kh&amp;aacute;c v&amp;agrave; chuẩn mực của ng&amp;agrave;nh để đưa hiệu suất đang diễn ra v&amp;agrave;o đ&amp;uacute;ng g&amp;oacute;c nh&amp;igrave;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;agrave;nh động: Bạn c&amp;oacute; thể đặt mục ti&amp;ecirc;u đạt CTR l&amp;agrave; 2,5% v&amp;agrave; tỷ lệ chuyển đổi l&amp;agrave; 5%.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;bull; Bậc 2: Kết quả ngắn hạn (mở t&amp;agrave;i khoản, số tiền gửi ban đầu). Đ&amp;acirc;y l&amp;agrave; những chỉ số ban đầu li&amp;ecirc;n kết chiến dịch của bạn với hiệu suất kinh doanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;agrave;nh động: Bạn c&amp;oacute; thể đặt mục ti&amp;ecirc;u duy tr&amp;igrave; khoản tiền gửi ban đầu trung b&amp;igrave;nh l&amp;agrave; 10.000 đ&amp;ocirc; la cho t&amp;agrave;i khoản mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;bull; Bậc 3: Kết quả dự kiến d&amp;agrave;i hạn (ước t&amp;iacute;nh gi&amp;aacute; trị trọn đời của kh&amp;aacute;ch h&amp;agrave;ng, tỷ lệ duy tr&amp;igrave; dự kiến). Đ&amp;acirc;y l&amp;agrave; c&amp;aacute;c chỉ số bạn theo d&amp;otilde;i theo thời gian v&amp;agrave; tận dụng để ph&amp;acirc;n t&amp;iacute;ch s&amp;acirc;u hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;agrave;nh động: Bạn c&amp;oacute; thể đặt mục ti&amp;ecirc;u đạt tỷ lệ giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave; 75% sau 12 th&amp;aacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bạn c&amp;oacute; thể tiến th&amp;ecirc;m một bước nữa bằng c&amp;aacute;ch thống nhất với c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan về mức thay đổi cho ph&amp;eacute;p đối với từng KPI với một phạm vi, bạn c&amp;oacute; thể quyết định gi&amp;aacute; trị tối thiểu v&amp;agrave; tối đa sẽ k&amp;iacute;ch hoạt h&amp;agrave;nh động trong c&amp;aacute;c hoạt động tiếp thị của m&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chiến lược 2:&lt;/strong&gt;&amp;nbsp;Ph&amp;aacute;t triển c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh dự đo&amp;aacute;n. Sử dụng dữ liệu lịch sử để tạo ra c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh dự đo&amp;aacute;n kết quả d&amp;agrave;i hạn dựa tr&amp;ecirc;n c&amp;aacute;c chỉ số ban đầu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; dụ, một m&amp;ocirc; h&amp;igrave;nh c&amp;oacute; thể cho thấy rằng những kh&amp;aacute;ch h&amp;agrave;ng tham gia v&amp;agrave;o nội dung gi&amp;aacute;o dục trong th&amp;aacute;ng đầu ti&amp;ecirc;n c&amp;oacute; khả năng duy tr&amp;igrave; số dư t&amp;agrave;i khoản cao hơn theo thời gian cao hơn 30%. Điều n&amp;agrave;y cho ph&amp;eacute;p đưa ra quyết định s&amp;aacute;ng suốt hơn ngay cả khi l&amp;agrave;m việc với dữ liệu thời gian thực. Ngo&amp;agrave;i ra, n&amp;oacute; cho ph&amp;eacute;p c&amp;aacute;c nh&amp;agrave; marketer thực hiện c&amp;aacute;c điều chỉnh nhanh ch&amp;oacute;ng dựa tr&amp;ecirc;n dữ liệu tức thời trong khi vẫn giữ được bức tranh to&amp;agrave;n cảnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Duy tr&amp;igrave; c&amp;aacute;c số liệu ph&amp;ugrave; hợp với mục ti&amp;ecirc;u kinh doanh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cuối c&amp;ugrave;ng, mục ti&amp;ecirc;u của bất kỳ chiến dịch marketing n&amp;agrave;o l&amp;agrave; mang lại kết quả c&amp;oacute; &amp;yacute; nghĩa. Đối với c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh như tiết kiệm l&amp;atilde;i suất cao v&amp;agrave; CD, điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave; thu h&amp;uacute;t những kh&amp;aacute;ch h&amp;agrave;ng kh&amp;ocirc;ng chỉ mở t&amp;agrave;i khoản m&amp;agrave; c&amp;ograve;n gửi tiền đ&amp;aacute;ng kể v&amp;agrave; duy tr&amp;igrave; sự gắn kết theo thời gian. Bằng c&amp;aacute;ch xem x&amp;eacute;t tất cả c&amp;aacute;c KPI dọc theo chuỗi gi&amp;aacute; trị, marketer c&amp;oacute; thể đảm bảo c&amp;aacute;c chiến dịch của họ ph&amp;ugrave; hợp với c&amp;aacute;c mục ti&amp;ecirc;u kinh doanh rộng hơn, chẳng hạn như thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng, lợi nhuận v&amp;agrave; duy tr&amp;igrave; l&amp;acirc;u d&amp;agrave;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Phương ph&amp;aacute;p to&amp;agrave;n diện n&amp;agrave;y cho ph&amp;eacute;p đưa ra những quyết định mang t&amp;iacute;nh chiến lược hơn về ph&amp;acirc;n bổ nguồn lực v&amp;agrave; tối ưu h&amp;oacute;a chiến dịch.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;iacute; dụ, nếu một k&amp;ecirc;nh cụ thể thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; gi&amp;aacute; trị cao mặc d&amp;ugrave; số liệu tương t&amp;aacute;c thấp hơn, th&amp;igrave; việc đầu tư nhiều hơn v&amp;agrave;o k&amp;ecirc;nh đ&amp;oacute; c&amp;oacute; thể mang lại lợi &amp;iacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngược lại, nếu một chiến dịch thu h&amp;uacute;t nhiều kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; gi&amp;aacute; trị thấp, việc tinh chỉnh mục ti&amp;ecirc;u hoặc th&amp;ocirc;ng điệp c&amp;oacute; thể gi&amp;uacute;p chiến dịch ph&amp;ugrave; hợp hơn với đối tượng mong muốn của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tối ưu h&amp;oacute;a thời gian thực đ&amp;aacute;p ứng chiến lược d&amp;agrave;i hạn&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nh&amp;agrave; marketer phải c&amp;acirc;n nhắc cẩn thận giữa sự căng thẳng giữa tối ưu h&amp;oacute;a thời gian thực v&amp;agrave; c&amp;aacute;c mục ti&amp;ecirc;u chiến lược d&amp;agrave;i hạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; điều quan trọng l&amp;agrave; phải điều chỉnh c&amp;aacute;c chiến dịch dựa tr&amp;ecirc;n phản hồi tức thời, nhưng việc theo d&amp;otilde;i bức tranh to&amp;agrave;n cảnh cũng quan trọng kh&amp;ocirc;ng k&amp;eacute;m. Điều n&amp;agrave;y c&amp;oacute; nghĩa l&amp;agrave; thiết lập c&amp;aacute;c hệ thống v&amp;agrave; quy tr&amp;igrave;nh cho ph&amp;eacute;p bạn theo d&amp;otilde;i v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch nhiều loại KPI, cả tức thời v&amp;agrave; chậm trễ, để đảm bảo rằng c&amp;aacute;c chiến dịch của bạn mang lại kết quả.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong thế giới của maketer v&amp;agrave; hợp t&amp;aacute;c t&amp;iacute;n dụng, nơi rủi ro cao v&amp;agrave; bi&amp;ecirc;n độ sai s&amp;oacute;t thấp, việc &amp;aacute;p dụng phương ph&amp;aacute;p tiếp cận to&amp;agrave;n diện để ph&amp;acirc;n t&amp;iacute;ch KPI l&amp;agrave; điều cần thiết. Bằng c&amp;aacute;ch xem x&amp;eacute;t tất cả c&amp;aacute;c số liệu dọc theo chuỗi gi&amp;aacute; trị từ CTR đến gi&amp;aacute; trị trọn đời của kh&amp;aacute;ch h&amp;agrave;ng bạn c&amp;oacute; thể đảm bảo rằng c&amp;aacute;c chiến dịch của m&amp;igrave;nh thực sự th&amp;uacute;c đẩy kết quả quan trọng nhất đối với doanh nghiệp của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Finance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p tại đ&amp;acirc;y.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;Marketers relying solely on initial metrics risk undermining their campaigns. Here&amp;rsquo;s why balancing different types of metrics over time allows for real-time optimization while achieving long-term strategic objectives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Marketers and credit unions often focus on immediate quantitative metrics such as click-through rate, cost per click, and conversion rate. But is this really reasonable?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Such indicators provide a snapshot of campaign performance. They deliver real-time data that can feel irresistible. However, overemphasizing these surface-level metrics may obscure deeper insights into the true effectiveness of a campaign, particularly when it comes to long-term business outcomes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To truly evaluate success, marketers must adopt a holistic approach to key performance indicators (KPIs).&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;The pitfalls of focusing only on marketing metrics&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Consider this scenario: Your financial institution has launched a digital campaign to attract new customers to open high-yield savings accounts and certificates of deposit (CDs).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As the campaign progresses, you notice your click-through rate (CTR) is lower than expected. Moreover, your cost per click (CPC) is higher than industry benchmarks. At first glance, these metrics might suggest the campaign is underperforming. This could easily cause concern among stakeholders, leading to pressure for tactical adjustments.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, it&amp;rsquo;s important for marketers to step back and consider the bigger picture. Focusing only on immediate metrics can result in an incomplete assessment of the campaign&amp;rsquo;s impact&amp;mdash;especially when the real value may appear later down the funnel.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Unlocking value beyond initial metrics&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;While your CTR may be lower and CPC higher than expected, the customers engaging with your campaign could actually be the high-quality prospects you&amp;rsquo;re aiming for.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;These individuals may not only open new high-yield savings accounts or CDs but also do so with significant initial deposits. If the average balance of new high-yield accounts opened through the campaign is substantially higher than your organization&amp;rsquo;s baseline, this indicates the campaign is attracting the right customers&amp;mdash;even if surface-level engagement metrics like CTR are lower.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This highlights the importance of evaluating all campaign KPIs along the value chain. That includes lagging indicators such as average account balances, customer lifetime value, and retention rate.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Understanding lagging performance indicators&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;One challenge of relying on marketing metrics is that some essential measures naturally lag behind initial campaign data. Meaningful measures like average account balance, customer retention rate, and lifetime value cannot be seen immediately. In fact, they may take weeks, months, or longer to materialize.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Yet, marketers face constant pressure to optimize campaigns in real time&amp;mdash;especially when significant investments are at stake.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;The key is balancing real-time optimization with long-term vision&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Tracking and adjusting campaigns based on immediate feedback from CTR, CPC, and conversion rates is critical. But equally important is monitoring meaningful end-business results, and establishing clarity and alignment on long-term goals so all stakeholders are on the same page.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This requires developing a solid framework for tracking and analyzing KPIs across the entire customer journey&amp;mdash;from the first click through to long-term engagement.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Two strategies marketers can use:&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Strategy 1: Implement a multi-tier KPI dashboard.&lt;/strong&gt;&lt;br&gt;A dashboard showing both real-time metrics and projected long-term outcomes can help financial institutions achieve this balance. For example:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tier 1: Real-time metrics (CTR, CPC, conversion rate).&lt;/strong&gt;&lt;br&gt;These are the metrics you measure against other campaigns and industry benchmarks to put current performance into context.&lt;br&gt;&lt;strong&gt;Action:&lt;/strong&gt; You might set a goal of achieving a 2.5% CTR and a 5% conversion rate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tier 2: Short-term outcomes (account openings, initial deposits).&lt;/strong&gt;&lt;br&gt;These are the first indicators that link your campaign to business performance.&lt;br&gt;&lt;strong&gt;Action:&lt;/strong&gt; You might set a goal of maintaining an average initial deposit of $10,000 for new accounts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tier 3: Long-term projected outcomes (estimated customer lifetime value, expected retention rate).&lt;/strong&gt;&lt;br&gt;These are the metrics you track over time and use for deeper analysis.&lt;br&gt;&lt;strong&gt;Action:&lt;/strong&gt; You might set a goal of achieving a 75% retention rate after 12 months.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;You can go a step further by aligning with stakeholders on acceptable ranges for each KPI. By setting minimum and maximum thresholds, you can determine what triggers specific marketing actions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Strategy 2: Develop predictive models.&lt;/strong&gt;&lt;br&gt;Use historical data to build models that predict long-term outcomes based on initial metrics.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For example, a model might show that customers engaging with educational content in the first month are 30% more likely to maintain higher account balances over time. This enables more informed decision-making even when working with real-time data. Additionally, it allows marketers to make quick tactical adjustments based on immediate data while keeping the bigger picture intact.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Keeping metrics aligned with business goals&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Ultimately, the goal of any marketing campaign is to deliver meaningful results. For financial products like high-yield savings and CDs, this means attracting customers who not only open accounts but also deposit significant funds and remain engaged over time. By looking at all KPIs across the value chain, marketers can ensure their campaigns align with broader business objectives such as customer acquisition, profitability, and long-term retention.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This holistic approach enables more strategic decisions about resource allocation and campaign optimization.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For instance, if a particular channel attracts high-value customers despite lower engagement metrics, investing more in that channel may be worthwhile. Conversely, if a campaign attracts many low-value customers, refining targeting or messaging could help better align with desired audiences.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Real-time optimization meets long-term strategy&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Marketers must carefully navigate the tension between real-time optimization and long-term strategic objectives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;While it&amp;rsquo;s important to adjust campaigns based on immediate feedback, it&amp;rsquo;s equally vital to keep the bigger picture in focus. This means establishing systems and processes that allow you to track and analyze a wide range of KPIs&amp;mdash;both immediate and lagging&amp;mdash;to ensure your campaigns deliver meaningful outcomes.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In the world of marketers and credit unions, where the stakes are high and the margin for error is slim, adopting a holistic approach to KPI analysis is essential. By looking at all metrics across the value chain&amp;mdash;from CTR to customer lifetime value&amp;mdash;you can ensure your campaigns truly drive the outcomes that matter most to your business.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: Finance&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;Compiled by DTSVN Authors &amp;ndash; Digital Transformation Solutions for the Financial Services Industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digitalization solutions tailored for enterprises in the Financial Services sector in Vietnam; helping banks and financial institutions rapidly complete their technology systems to serve Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us today for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-07-25T05:01:09.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:01:08.774Z</createdDate>
+	<createdDate_dt>2025-08-25T05:01:08.774Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T05:01:08.774Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T05:01:08.774Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

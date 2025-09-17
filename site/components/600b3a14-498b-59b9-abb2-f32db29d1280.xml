@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-solution</content-type>
+	<display-template>/templates/web/Component-client.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>600b</objectGroupId>
+	<objectId>600b3a14-498b-59b9-abb2-f32db29d1280</objectId>
+	<internal-name>50+ Khách hàng đã đồng hành cùng chúng tôi</internal-name>
+	<file-name>600b3a14-498b-59b9-abb2-f32db29d1280.xml</file-name>
+	<folder-name/>
+	<client_o item-list="true">	<item>	<image_s>/static-assets/images/vna_logo_vn--1-.webp</image_s>
+	</item>	<item>	<image_s>/static-assets/images/logo-bidv.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/logo-vietinbnak.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-2.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-9.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-3.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-4.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-5.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-7.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-11.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-12.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-14.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-15.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-16.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-18.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-21.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/client-20.png</image_s>
+	</item></client_o>
+	<createdDate>2025-07-07T06:56:49.538Z</createdDate>
+	<createdDate_dt>2025-07-07T06:56:49.538Z</createdDate_dt>
+	<lastModifiedDate>2025-08-05T04:15:59.058Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-05T04:15:59.058Z</lastModifiedDate_dt>
+	<title_s>50+ Khách hàng đã đồng hành cùng chúng tôi</title_s>
+</component>

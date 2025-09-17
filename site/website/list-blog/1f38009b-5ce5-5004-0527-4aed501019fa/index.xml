@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1f38</objectGroupId>
+	<objectId>1f38009b-5ce5-5004-0527-4aed501019fa</objectId>
+	<internal-name>Giải quyết khoảng cách kỹ thuật số trong việc tiếp cận các dịch vụ tài chính và ngân hàng</internal-name>
+	<navLabel>Giải quyết khoảng cách kỹ thuật số trong việc tiếp cận các dịch vụ tài chính và ngân hàng</navLabel>
+	<title_vi_s>Giải quyết khoảng cách kỹ thuật số trong việc tiếp cận các dịch vụ tài chính và ngân hàng</title_vi_s>
+	<title_en_s>Addressing the Digital Divide in Access to Banking and Financial Services</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>1f38009b-5ce5-5004-0527-4aed501019fa</folder-name>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/thanhtoan--1-.jpg</img_main_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Trong thời đại kỹ thuật số ng&amp;agrave;y nay, việc tiếp cận c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng trở n&amp;ecirc;n quan trọng hơn bao giờ hết. Tuy nhi&amp;ecirc;n, kh&amp;ocirc;ng phải ai cũng c&amp;oacute; quyền truy cập như nhau v&amp;agrave;o c&amp;aacute;c dịch vụ n&amp;agrave;y, dẫn đến sự ph&amp;acirc;n chia kỹ thuật số. Dưới đ&amp;acirc;y l&amp;agrave; những th&amp;aacute;ch thức của khoảng c&amp;aacute;ch số trong việc tiếp cận c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, đồng thời thảo luận c&amp;aacute;c chiến lược nhằm giải quyết khoảng c&amp;aacute;ch n&amp;agrave;y v&amp;agrave; đảm bảo t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện cho tất cả mọi người.&lt;img&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hiểu về sự ph&amp;acirc;n chia kỹ thuật số trong dịch vụ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khoảng c&amp;aacute;ch số trong c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng đề cập đến khoảng c&amp;aacute;ch giữa những người c&amp;oacute; quyền truy cập v&amp;agrave; sử dụng c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số, chẳng hạn như ng&amp;acirc;n h&amp;agrave;ng trực tuyến v&amp;agrave; thanh to&amp;aacute;n di động, v&amp;agrave; những người kh&amp;ocirc;ng c&amp;oacute;. Sự ph&amp;acirc;n chia n&amp;agrave;y thường bị ảnh hưởng bởi c&amp;aacute;c yếu tố như mức thu nhập, tr&amp;igrave;nh độ học vấn, vị tr&amp;iacute; địa l&amp;yacute; v&amp;agrave; tr&amp;igrave;nh độ c&amp;ocirc;ng nghệ. Những người ở ph&amp;iacute;a b&amp;ecirc;n tr&amp;aacute;i của khoảng c&amp;aacute;ch kỹ thuật số c&amp;oacute; thể gặp kh&amp;oacute; khăn trong việc tiếp cận c&amp;aacute;c dịch vụ ng&amp;acirc;n h&amp;agrave;ng cơ bản, dẫn đến việc bị loại trừ về mặt t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; c&amp;aacute;c cơ hội kinh tế bị hạn chế.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Những th&amp;aacute;ch thức của sự ph&amp;acirc;n chia kỹ thuật số&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số th&amp;aacute;ch thức g&amp;oacute;p phần tạo ra khoảng c&amp;aacute;ch số trong c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng. Một th&amp;aacute;ch thức lớn l&amp;agrave; thiếu khả năng tiếp cận c&amp;ocirc;ng nghệ, chẳng hạn như điện thoại th&amp;ocirc;ng minh v&amp;agrave; m&amp;aacute;y t&amp;iacute;nh, đặc biệt l&amp;agrave; ở khu vực n&amp;ocirc;ng th&amp;ocirc;n v&amp;agrave; thu nhập thấp. Ngo&amp;agrave;i ra, kết nối internet hạn chế v&amp;agrave; chi ph&amp;iacute; dữ liệu cao c&amp;oacute; thể cản trở việc tiếp cận c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số. Hơn nữa, việc thiếu hiểu biết về kỹ thuật số v&amp;agrave; niềm tin v&amp;agrave;o c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số cũng c&amp;oacute; thể ngăn cản c&amp;aacute;c c&amp;aacute; nh&amp;acirc;n sử dụng c&amp;aacute;c dịch vụ n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;aacute;c động của sự ph&amp;acirc;n chia kỹ thuật số&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khoảng c&amp;aacute;ch số trong c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; &amp;yacute; nghĩa s&amp;acirc;u rộng. N&amp;oacute; c&amp;oacute; thể l&amp;agrave;m trầm trọng th&amp;ecirc;m t&amp;igrave;nh trạng bất b&amp;igrave;nh đẳng về thu nhập bằng c&amp;aacute;ch hạn chế khả năng tiếp cận c&amp;aacute;c c&amp;ocirc;ng cụ v&amp;agrave; nguồn lực t&amp;agrave;i ch&amp;iacute;nh cần thiết cho sự tham gia v&amp;agrave; ph&amp;aacute;t triển kinh tế. Sự chia rẽ cũng c&amp;oacute; thể cản trở sự ổn định v&amp;agrave; khả năng phục hồi t&amp;agrave;i ch&amp;iacute;nh, v&amp;igrave; những người kh&amp;ocirc;ng được tiếp cận c&amp;aacute;c dịch vụ ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể gặp kh&amp;oacute; khăn trong việc tiết kiệm, đầu tư hoặc tiếp cận t&amp;iacute;n dụng khi cần thiết. Hơn nữa, khoảng c&amp;aacute;ch kỹ thuật số c&amp;oacute; thể k&amp;eacute;o d&amp;agrave;i sự loại trừ x&amp;atilde; hội, v&amp;igrave; việc tiếp cận c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số ng&amp;agrave;y c&amp;agrave;ng cần thiết để tham gia v&amp;agrave;o x&amp;atilde; hội hiện đại.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c chiến lược để giải quyết sự ph&amp;acirc;n chia kỹ thuật số&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để giải quyết khoảng c&amp;aacute;ch số trong c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh ng&amp;acirc;n h&amp;agrave;ng, một số chiến lược c&amp;oacute; thể được sử dụng. Một c&amp;aacute;ch tiếp cận l&amp;agrave; cải thiện khả năng tiếp cận c&amp;ocirc;ng nghệ bằng c&amp;aacute;ch cung cấp trợ cấp cho điện thoại th&amp;ocirc;ng minh hoặc m&amp;aacute;y t&amp;iacute;nh v&amp;agrave; mở rộng cơ sở hạ tầng internet ở những khu vực chưa được quan t&amp;acirc;m. C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh cũng c&amp;oacute; thể ph&amp;aacute;t triển c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số th&amp;acirc;n thiện với người d&amp;ugrave;ng v&amp;agrave; cung cấp c&amp;aacute;c chương tr&amp;igrave;nh gi&amp;aacute;o dục v&amp;agrave; đ&amp;agrave;o tạo để n&amp;acirc;ng cao hiểu biết về kỹ thuật số. Ngo&amp;agrave;i ra, việc x&amp;acirc;y dựng niềm tin v&amp;agrave;o c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số th&amp;ocirc;ng qua c&amp;aacute;c hoạt động minh bạch v&amp;agrave; an to&amp;agrave;n c&amp;oacute; thể gi&amp;uacute;p khắc phục sự miễn cưỡng khi &amp;aacute;p dụng c&amp;aacute;c dịch vụ n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;iacute;nh phủ v&amp;agrave; c&amp;aacute;c cơ quan quản l&amp;yacute; c&amp;oacute; thể đ&amp;oacute;ng một vai tr&amp;ograve; quan trọng trong việc giải quyết khoảng c&amp;aacute;ch kỹ thuật số bằng c&amp;aacute;ch thực hiện c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch th&amp;uacute;c đẩy t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện v&amp;agrave; điều chỉnh c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số để đảm bảo khả năng tiếp cận v&amp;agrave; khả năng chi trả. Sự hợp t&amp;aacute;c giữa khu vực c&amp;ocirc;ng v&amp;agrave; tư nh&amp;acirc;n, cũng như với c&amp;aacute;c tổ chức phi lợi nhuận, cũng c&amp;oacute; thể gi&amp;uacute;p th&amp;uacute;c đẩy c&amp;aacute;c s&amp;aacute;ng kiến nhằm thu hẹp khoảng c&amp;aacute;ch kỹ thuật số v&amp;agrave; th&amp;uacute;c đẩy t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện cho tất cả mọi người.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Lời kết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thu hẹp khoảng c&amp;aacute;ch kỹ thuật số trong việc tiếp cận c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; điều cần thiết để th&amp;uacute;c đẩy t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện v&amp;agrave; trao quyền cho c&amp;aacute;c c&amp;aacute; nh&amp;acirc;n v&amp;agrave; cộng đồng. Bằng c&amp;aacute;ch giải quyết c&amp;aacute;c th&amp;aacute;ch thức của khoảng c&amp;aacute;ch số v&amp;agrave; triển khai c&amp;aacute;c chiến lược nhằm cải thiện khả năng tiếp cận c&amp;ocirc;ng nghệ, n&amp;acirc;ng cao hiểu biết về kỹ thuật số v&amp;agrave; x&amp;acirc;y dựng niềm tin v&amp;agrave;o c&amp;aacute;c dịch vụ t&amp;agrave;i ch&amp;iacute;nh kỹ thuật số, ch&amp;uacute;ng ta c&amp;oacute; thể hướng tới một hệ thống t&amp;agrave;i ch&amp;iacute;nh to&amp;agrave;n diện hơn mang lại lợi &amp;iacute;ch cho mọi người.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Nguồn tham khảo: Finance&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In today&amp;rsquo;s digital age, access to banking and financial services is more important than ever. However, not everyone has equal access to these services, leading to a digital divide. This article explores the challenges of the digital divide in access to banking and financial services and discusses strategies to address this divide and ensure financial inclusion for all.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Understanding the Digital Divide in Banking and Financial Services&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The digital divide in banking and financial services refers to the gap between those who have access to and use digital financial services, such as online banking and mobile payments, and those who do not. This divide is often influenced by factors such as income level, education, geographic location, and technological literacy. Those on the wrong side of the digital divide may struggle to access basic banking services, leading to financial exclusion and limited economic opportunities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Challenges of the Digital Divide&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Several challenges contribute to the digital divide in banking and financial services. One major challenge is the lack of access to technology, such as smartphones and computers, especially in rural and low-income areas. Additionally, limited internet connectivity and high data costs can further hinder access to digital financial services. Moreover, a lack of digital literacy and trust in digital financial services can also prevent individuals from using these services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Impact of the Digital Divide&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The digital divide in banking and financial services has far-reaching implications. It can exacerbate income inequality by limiting access to financial tools and resources that are essential for economic participation and advancement. The divide can also hinder financial stability and resilience, as those without access to banking services may struggle to save, invest, or access credit when needed. Furthermore, the digital divide can perpetuate social exclusion, as access to digital financial services is increasingly necessary for participation in modern society.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Strategies to Address the Digital Divide&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To address the digital divide in banking and financial services, several strategies can be employed. One approach is to improve access to technology by providing subsidies for smartphones or computers and expanding internet infrastructure in underserved areas. Financial institutions can also develop user-friendly digital financial services and provide education and training programs to enhance digital literacy. Additionally, building trust in digital financial services through transparent and secure practices can help overcome reluctance to adopt these services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Government and regulatory bodies can play a crucial role in addressing the digital divide by implementing policies that promote financial inclusion and regulate digital financial services to ensure accessibility and affordability. Collaborations between public and private sectors, as well as with non-profit organizations, can also help drive initiatives to bridge the digital divide and promote financial inclusion for all.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bridging the digital divide in access to banking and financial services is essential for promoting financial inclusion and empowering individuals and communities. By addressing the challenges of the digital divide and implementing strategies to improve access to technology, enhance digital literacy, and build trust in digital financial services, we can work towards a more inclusive financial system that benefits everyone.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Reference source:&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Finance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Helping banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-06-10T09:08:25.000Z</time_create_dt>
+	<createdDate>2025-08-25T09:08:23.915Z</createdDate>
+	<createdDate_dt>2025-08-25T09:08:23.915Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T09:08:23.915Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T09:08:23.915Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

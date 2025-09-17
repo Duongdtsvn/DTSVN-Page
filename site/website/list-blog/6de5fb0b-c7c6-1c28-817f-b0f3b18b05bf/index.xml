@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6de5</objectGroupId>
+	<objectId>6de5fb0b-c7c6-1c28-817f-b0f3b18b05bf</objectId>
+	<internal-name>Chinh phục Tài Chính Xanh: Sử Dụng Danh Thiếp Kỹ Thuật Số Cho Tương Lai Bền Vững  </internal-name>
+	<navLabel>Chinh phục Tài Chính Xanh: Sử Dụng Danh Thiếp Kỹ Thuật Số Cho Tương Lai Bền Vững  </navLabel>
+	<title_vi_s>Chinh phục Tài Chính Xanh: Sử Dụng Danh Thiếp Kỹ Thuật Số Cho Tương Lai Bền Vững  </title_vi_s>
+	<title_en_s>Conquering Green Finance: Using Digital Business Cards for a Sustainable Future</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>6de5fb0b-c7c6-1c28-817f-b0f3b18b05bf</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/cover-main-2669x1502.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Trong lĩnh vực t&amp;agrave;i ch&amp;iacute;nh ng&amp;agrave;y c&amp;agrave;ng ph&amp;aacute;t triển, c&amp;aacute;c yếu tố m&amp;ocirc;i trường, x&amp;atilde; hội v&amp;agrave; quản trị (ESG) đang thu h&amp;uacute;t sự ch&amp;uacute; &amp;yacute; đ&amp;aacute;ng kể, v&amp;agrave; t&amp;iacute;nh bền vững đ&amp;atilde; trở th&amp;agrave;nh một yếu tố kh&amp;ocirc;ng thể thiếu. Đối với c&amp;aacute;c nh&amp;agrave; quản l&amp;yacute; t&amp;agrave;i sản v&amp;agrave; quản l&amp;yacute; đầu tư, việc chuyển đổi từ danh thiếp giấy truyền thống sang danh thiếp kỹ thuật số l&amp;agrave; c&amp;aacute;ch đơn giản v&amp;agrave; hiệu quả để đ&amp;oacute;ng g&amp;oacute;p cho một tương lai xanh hơn.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Vấn đề về giấy&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;agrave;ng năm, h&amp;agrave;ng tỷ danh thiếp giấy được sản xuất v&amp;agrave; ph&amp;acirc;n phối tr&amp;ecirc;n to&amp;agrave;n thế giới, &amp;nbsp;g&amp;acirc;y ra nạn ph&amp;aacute; rừng, tăng lượng kh&amp;iacute; thải carbon v&amp;agrave; tạo ra chất thải. Những tấm thẻ tưởng chừng như kh&amp;ocirc;ng dễ thấy n&amp;agrave;y lại c&amp;oacute; t&amp;aacute;c động đ&amp;aacute;ng kể đến m&amp;ocirc;i trường:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ph&amp;aacute; rừng:&lt;/strong&gt;&amp;nbsp;Ng&amp;agrave;nh c&amp;ocirc;ng nghiệp giấy t&amp;aacute;c động đ&amp;aacute;ng kể đến nạn ph&amp;aacute; rừng, đ&amp;acirc;y l&amp;agrave; mối lo ngại đối với việc bảo tồn đa dạng sinh học v&amp;agrave; giảm thiểu biến đổi kh&amp;iacute; hậu. Bằng c&amp;aacute;ch sử dụng danh thiếp kỹ thuật số, nhu cầu về giấy giảm xuống, g&amp;oacute;p phần to lớn bảo vệ những khu rừng của ch&amp;uacute;ng ta. Mỗi năm, một doanh nghiệp c&amp;oacute; khoảng 100 nh&amp;acirc;n sự thường ti&amp;ecirc;u thụ danh thiếp tương đương lượng giấy l&amp;agrave;m từ 1 c&amp;acirc;y gỗ. B&amp;ecirc;n cạnh đ&amp;oacute;, c&amp;ograve;n chưa kể tới việc tấm danh thiếp bị l&amp;atilde;ng qu&amp;ecirc;n, b&amp;aacute;m đầy bụi ở trong ngăn k&amp;eacute;o dưới d&amp;ugrave;ng; việc thay đổi nh&amp;acirc;n sự, thăng chức, cập nhật địa chỉ văn ph&amp;ograve;ng,... g&amp;acirc;y ra sự l&amp;atilde;ng ph&amp;iacute; rất lớn khi phải in lại danh thiếp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Dấu ch&amp;acirc;n carbon:&lt;/strong&gt;&amp;nbsp;Sản xuất, vận chuyển, v&amp;agrave; xử l&amp;yacute; danh thiếp giấy tạo ra một lượng lớn kh&amp;iacute; thải carbon. Một nghi&amp;ecirc;n cứu đ&amp;atilde; chỉ ra rằng ng&amp;agrave;nh c&amp;ocirc;ng nghiệp sản xuất giấy v&amp;agrave; bột giấy nằm trong danh s&amp;aacute;ch năm ng&amp;agrave;nh ti&amp;ecirc;u thụ nhiều năng lượng nhất tr&amp;ecirc;n to&amp;agrave;n cầu, v&amp;agrave; đ&amp;acirc;y l&amp;agrave; ng&amp;agrave;nh c&amp;ocirc;ng nghiệp thứ tư lớn nhất về ti&amp;ecirc;u thụ năng lượng. Ng&amp;agrave;nh n&amp;agrave;y chiếm khoảng 6% tổng lượng năng lượng c&amp;ocirc;ng nghiệp ti&amp;ecirc;u thụ tr&amp;ecirc;n to&amp;agrave;n thế giới v&amp;agrave; g&amp;oacute;p phần tạo ra khoảng 2% lượng kh&amp;iacute; thải CO2 trực tiếp từ c&amp;aacute;c hoạt động c&amp;ocirc;ng nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tạo chất thải: Danh thiếp giấy truyền thống thường kh&amp;ocirc;ng được sử dụng l&amp;acirc;u d&amp;agrave;i v&amp;agrave; thường bị bỏ đi một c&amp;aacute;ch nhanh ch&amp;oacute;ng. Trong v&amp;ograve;ng một tuần sau khi nhận được, c&amp;oacute; tới 80% danh thiếp n&amp;agrave;y đ&amp;atilde; bị vứt v&amp;agrave;o th&amp;ugrave;ng r&amp;aacute;c. Điều n&amp;agrave;y g&amp;acirc;y ra một vấn đề lớn về chất thải, chiếm tới 26% tổng lượng r&amp;aacute;c thải t&amp;iacute;ch tụ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, ch&amp;uacute;ng ta c&amp;oacute; thể t&amp;igrave;m giải ph&amp;aacute;p thay thế th&amp;ocirc;ng qua c&amp;ocirc;ng nghệ số để giảm thiểu ho&amp;agrave;n to&amp;agrave;n việc tạo ra chất thải từ danh thiếp giấy. Những giải ph&amp;aacute;p n&amp;agrave;y kh&amp;ocirc;ng chỉ gi&amp;uacute;p bảo vệ m&amp;ocirc;i trường m&amp;agrave; c&amp;ograve;n gi&amp;uacute;p giảm căng thẳng đối với hệ thống quản l&amp;yacute; chất thải.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Giải ph&amp;aacute;p xanh: danh thiếp kỹ thuật số&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc chuyển đổi sang danh thiếp kỹ thuật số mang lại nhiều lợi &amp;iacute;ch kh&amp;aacute;c nhau cho cả h&amp;igrave;nh ảnh chuy&amp;ecirc;n nghiệp v&amp;agrave; m&amp;ocirc;i trường:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bảo tồn t&amp;agrave;i nguy&amp;ecirc;n:&lt;/strong&gt;&amp;nbsp;Để sản xuất một tấn giấy cần gấp 2-3 lần trọng lượng c&amp;acirc;y v&amp;agrave; 54.000 l&amp;iacute;t nước. Sử dụng danh thiếp kỹ thuật số sẽ bảo tồn c&amp;acirc;y xanh, nước v&amp;agrave; t&amp;agrave;i nguy&amp;ecirc;n năng lượng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Giảm ph&amp;aacute;t thải:&lt;/strong&gt;&amp;nbsp;Việc sản xuất thẻ giấy thải ra khoảng 1.000 kg carbon dioxide. Tuy nhi&amp;ecirc;n, kh&amp;ocirc;ng giống như thẻ giấy, phi&amp;ecirc;n bản kỹ thuật số kh&amp;ocirc;ng y&amp;ecirc;u cầu in ấn, vận chuyển hoặc ti&amp;ecirc;u hủy. Việc giảm lượng kh&amp;iacute; thải carbon n&amp;agrave;y l&amp;agrave; một bước tiến quan trọng hướng tới đạt được c&amp;aacute;c mục ti&amp;ecirc;u trung h&amp;ograve;a carbon.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thuận tiện v&amp;agrave; tiết kiệm chi ph&amp;iacute;:&lt;/strong&gt;&amp;nbsp;Danh thiếp kỹ thuật số c&amp;oacute; thể được chia sẻ dễ d&amp;agrave;ng th&amp;ocirc;ng qua c&amp;aacute;c k&amp;ecirc;nh kh&amp;aacute;c nhau. V&amp;iacute; dụ: qua li&amp;ecirc;n kết web, m&amp;atilde; QR, NFC, điện thoại th&amp;ocirc;ng minh,.... Phương ph&amp;aacute;p tiếp cận kỹ thuật số n&amp;agrave;y hợp l&amp;yacute; h&amp;oacute;a việc kết nối (networking), đồng thời tiết kiệm tiền v&amp;agrave; đ&amp;oacute;ng g&amp;oacute;p cho một tương lai bền vững.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thực hiện bước nhảy vọt: Nắm bắt danh thiếp kỹ thuật số&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;agrave; những người ti&amp;ecirc;n phong trong ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh, c&amp;aacute;c nh&amp;agrave; quản l&amp;yacute; đ&amp;oacute;ng vai tr&amp;ograve; then chốt trong việc x&amp;acirc;y dựng một tương lai t&amp;agrave;i ch&amp;iacute;nh bền vững. Việc &amp;aacute;p dụng danh thiếp kỹ thuật số vượt xa sự hiện đại h&amp;oacute;a đơn thuần; n&amp;oacute; đ&amp;oacute;ng g&amp;oacute;p t&amp;iacute;ch cực cho một h&amp;agrave;nh tinh xanh hơn, ph&amp;ugrave; hợp&amp;nbsp; với c&amp;aacute;c nguy&amp;ecirc;n tắc ESG.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Qu&amp;aacute; tr&amp;igrave;nh chuyển đổi đơn giản n&amp;agrave;y th&amp;uacute;c đẩy việc giảm chất thải, bảo tồn t&amp;agrave;i nguy&amp;ecirc;n v&amp;agrave; t&amp;aacute;c động t&amp;iacute;ch cực đến m&amp;ocirc;i trường. Mặc d&amp;ugrave; l&amp;agrave; một bước nhỏ đối với c&amp;aacute;c c&amp;aacute; nh&amp;acirc;n nhưng n&amp;oacute; biểu thị một bước tiến lớn hướng tới sự bền vững.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi sang danh thiếp kỹ thuật số l&amp;agrave; một bước rất dễ thực hiện, nhưng n&amp;oacute; mang hiệu quả to lớn cho m&amp;ocirc;i trường. Danh thiếp kỹ thuật số sẽ gi&amp;uacute;p bạn &amp;nbsp;tạo ấn tượng đầu ti&amp;ecirc;n tốt hơn với kh&amp;aacute;ch h&amp;agrave;ng tiềm năng, tự động h&amp;oacute;a quản trị v&amp;agrave; &amp;nbsp;c&amp;oacute; số liệu ph&amp;acirc;n t&amp;iacute;ch để gi&amp;uacute;p tăng cường mức độ tương t&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn: GoUpscale&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;In the ever-evolving realm of finance, staying ahead encompasses more than managing assets; it extends to social responsibility. Environmental, social, and governance (ESG) considerations have rightfully taken the spotlight, making sustainability an imperative. For wealth managers and asset managers, transitioning from paper business cards to digital ones presents a simple yet impactful way to contribute to a greener world.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The paper problem&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Every year, billions of paper business cards are produced and distributed worldwide, contributing to deforestation, amplified carbon emissions, and the generation of waste. These seemingly inconspicuous cards collectively wield a substantial environmental impact:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Deforestation:&lt;/strong&gt;&amp;nbsp;The paper industry significantly drives deforestation, a critical concern for biodiversity preservation and climate change mitigation. By embracing digital business cards, the demand for paper decreases, offering protection to our invaluable forests. Every year a business of 100 people typically consumes&amp;nbsp;1 whole tree's worth of paper business cards. When other waste is factored in, like those cards that gather dust in the bottom drawer, staff turnover, office address updates and job promotions, the true environmental cost of printing cards looks even worse.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Carbon footprint:&lt;/strong&gt;&amp;nbsp;The production, transportation, and disposal of paper business cards contribute to carbon emissions.&amp;nbsp;Research shows the pulp and paper industry is among the top five most energy-intensive industries globally and is the fourth largest industrial energy user. This industry accounts for approximately 6% of global industrial energy use and 2% of direct industrial CO2 emissions.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Waste generation:&lt;/strong&gt;&amp;nbsp;Traditional paper business cards are often discarded, with&amp;nbsp;80% typically thrown in the trash within 1 week of being received. Waste quickly piles up and paper accounts for&amp;nbsp;26% of landfill accumulation. Digital alternatives can eliminate this waste entirely, alleviating environmental strain.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The green solution: digital business cards&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Transitioning to digital business cards entails various advantages for both professional image and environmental welfare:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Resource preservation:&lt;/strong&gt;&amp;nbsp;The production of one ton of paper necessitates about 2-3 times the weight in trees and 54,000 litres of water. Embracing digital business cards conserves trees, water, and energy resources.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Emission reduction:&lt;/strong&gt;&amp;nbsp;The production of paper cards emits roughly 1,000 kg of carbon dioxide. However unlike paper cards, digital versions require no printing, transportation, or disposal. This reduction in carbon emissions is a pivotal stride toward attaining carbon neutrality objectives.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Convenience and cost-effectiveness:&lt;/strong&gt;&amp;nbsp;Digital business cards can be effortlessly shared through different channels. Our Smartcards&amp;nbsp;for instance can be shared via weblinks, QR codes, NFC, smart phones and watches or Apple and Google wallet. This digital approach streamlines networking while saving money, and contributing to a sustainable future.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Taking the leap: Embrace digital business cards&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As trailblazers in the finance industry, wealth managers and asset managers play a pivotal role in sculpting a more sustainable financial future. Adopting digital business cards transcends mere modernisation; it actively contributes to a greener planet, aligning seamlessly with ESG principles.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This simple transition fosters waste reduction, resource conservation, and a positive environmental impact. While a small step for individuals, it signifies a colossal stride toward sustainability.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Transitioning to digital business cards is a very easy step to take, but it is much more than an easy win for the environment. Digital business cards will land you a better first impression with prospects, help you automate admin and generate analytics to help boost engagement. Plus in most cases you will actually save money from your original budget by avoiding printing costs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;There are some great options out there, so it is always worth looking around. At GoUpscale, our&amp;nbsp; Smartcards&amp;nbsp;are designed specifically for the demands of professional services like wealth and asset management, where mainstream retail providers struggle with stringent data security and regulatory compliance requirements.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Source: GoUpscale&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Collected by the author&amp;nbsp; DTSVN team - Digital transformation solutions for the Finance - Banking&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digitization solutions exclusively for businesses in the Finance - Banking field in Vietnam; helping banks and financial institutions quickly complete the technology system for Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now and experience our significant software solution here.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-06-19T08:17:57.000Z</time_create_dt>
+	<createdDate>2025-08-25T08:17:56.865Z</createdDate>
+	<createdDate_dt>2025-08-25T08:17:56.865Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T08:21:08.688Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T08:21:08.688Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

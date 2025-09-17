@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d357</objectGroupId>
+	<objectId>d357316c-48ef-0737-53e5-6a413d8b3bc6</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>d357316c-48ef-0737-53e5-6a413d8b3bc6</folder-name>
+	<img_main_s>/static-assets/images/nextgen_banking_gcc-2-scaled.jpg</img_main_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>5 Kịch bản định hình tương lai ngân hàng bán lẻ 2025</internal-name>
+	<navLabel>5 Kịch bản định hình tương lai ngân hàng bán lẻ 2025</navLabel>
+	<title_vi_s>5 Kịch bản định hình tương lai ngân hàng bán lẻ 2025</title_vi_s>
+	<title_en_s>5 Scenarios Shaping the Future of Retail Banking in 2025</title_en_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ đang trải qua những thay đổi to lớn. V&amp;agrave;i năm trước đ&amp;acirc;y, đ&amp;acirc;y l&amp;agrave; một ng&amp;agrave;nh kinh doanh kh&amp;aacute; đơn giản, nhưng ng&amp;agrave;y nay, c&amp;ocirc;ng nghệ v&amp;agrave; sự đổi mới. Cạnh tranh ng&amp;agrave;y c&amp;agrave;ng tăng, sự phức tạp về quy định, t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng, hợp nhất v&amp;agrave; kỳ vọng ng&amp;agrave;y c&amp;agrave;ng tăng của kh&amp;aacute;ch h&amp;agrave;ng đang g&amp;acirc;y &amp;aacute;p lực to lớn l&amp;ecirc;n c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh kinh doanh truyền thống. N&amp;oacute; cũng buộc c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng phải giải quyết c&amp;acirc;u hỏi cơ bản về định chế t&amp;agrave;i ch&amp;iacute;nh l&amp;agrave; g&amp;igrave; v&amp;agrave; n&amp;oacute; mang lại gi&amp;aacute; trị g&amp;igrave;?&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kịch bản 1: Sự tiến h&amp;oacute;a của Front-End&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong kịch bản n&amp;agrave;y, t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng sẽ ph&amp;aacute;t triển mạnh mẽ, cho ph&amp;eacute;p tiếp tục ph&amp;acirc;n t&amp;aacute;ch chuỗi gi&amp;aacute; trị dịch vụ t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; dữ liệu kh&amp;aacute;ch h&amp;agrave;ng. (N&amp;oacute;i một c&amp;aacute;ch đơn giản, t&amp;agrave;i ch&amp;iacute;nh nh&amp;uacute;ng cho ph&amp;eacute;p c&amp;aacute;c sản phẩm t&amp;agrave;i ch&amp;iacute;nh như t&amp;iacute;n dụng hoặc thanh to&amp;aacute;n được t&amp;iacute;ch hợp v&amp;agrave;o một sản phẩm phi ng&amp;acirc;n h&amp;agrave;ng rộng lớn hơn. Một tổ chức t&amp;agrave;i ch&amp;iacute;nh được cấp ph&amp;eacute;p sẽ cung cấp sản phẩm nh&amp;uacute;ng thường l&amp;agrave; &amp;ldquo;ở ph&amp;iacute;a hậu trường&amp;rdquo;).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Do đ&amp;oacute;, c&amp;aacute;c c&amp;ocirc;ng ty c&amp;ocirc;ng nghệ lớn v&amp;agrave; Fintech sẽ th&amp;acirc;u t&amp;oacute;m hầu hết c&amp;aacute;c mối quan hệ với kh&amp;aacute;ch h&amp;agrave;ng trong khi một số &amp;iacute;t ng&amp;acirc;n h&amp;agrave;ng sẽ cung cấp c&amp;aacute;c hoạt động xử l&amp;yacute; trung gian v&amp;agrave; hậu cần, quản l&amp;yacute; rủi ro v&amp;agrave; c&amp;aacute;c hoạt động tu&amp;acirc;n thủ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong khi c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh c&amp;oacute; thể c&amp;oacute; xu hướng b&amp;aacute;c bỏ viễn cảnh n&amp;agrave;y, h&amp;atilde;y nhớ lại một thập kỷ trước, khi &amp;iacute;t người nghĩ rằng người ti&amp;ecirc;u d&amp;ugrave;ng c&amp;oacute; thể thanh to&amp;aacute;n trực tiếp cho c&amp;aacute;c nh&amp;agrave; b&amp;aacute;n lẻ th&amp;ocirc;ng qua v&amp;iacute; kỹ thuật số tr&amp;ecirc;n điện thoại th&amp;ocirc;ng minh của họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kịch bản 2: Sức mạnh của sự hợp nhất v&amp;agrave; c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hợp nhất sẽ th&amp;uacute;c đẩy c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng hợp lực v&amp;agrave; tiếp nhận c&amp;aacute;c c&amp;ocirc;ng ty t&amp;agrave;i ch&amp;iacute;nh fintech v&amp;agrave; c&amp;aacute;c c&amp;ocirc;ng ty dịch vụ t&amp;agrave;i ch&amp;iacute;nh phi truyền thống. Kết quả l&amp;agrave;, một số ng&amp;acirc;n h&amp;agrave;ng v&amp;agrave; fintech sẽ thống trị thị trường ng&amp;acirc;n h&amp;agrave;ng, tạo ra lợi thế cạnh tranh th&amp;ocirc;ng qua quy m&amp;ocirc;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;aacute;ch h&amp;agrave;ng sẽ bị thu h&amp;uacute;t đối với c&amp;aacute;c nền tảng lớn nhất, c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a nhất v&amp;agrave; thuận tiện nhất. V&amp;igrave; chỉ những ng&amp;acirc;n h&amp;agrave;ng lớn nhất mới c&amp;oacute; thể chấp nhận rủi ro khi đầu tư đ&amp;aacute;ng kể, n&amp;ecirc;n quy m&amp;ocirc; sẽ quan trọng hơn bao giờ hết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kịch bản 3: Thị trường tản m&amp;aacute;t&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kịch bản n&amp;agrave;y ho&amp;agrave;n to&amp;agrave;n tr&amp;aacute;i ngược với kịch bản trước v&amp;agrave; kh&amp;oacute; c&amp;oacute; khả năng hai kịch bản diễn ra đồng thời. Niềm tin x&amp;atilde; hội suy giảm v&amp;agrave; sự ph&amp;acirc;n tầng x&amp;atilde; hội sẽ khiến người ti&amp;ecirc;u d&amp;ugrave;ng đặt c&amp;acirc;u hỏi về gi&amp;aacute; trị v&amp;agrave; t&amp;iacute;nh to&amp;agrave;n vẹn của c&amp;aacute;c thể chế to&amp;agrave;n cầu. Do đ&amp;oacute;, kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; t&amp;agrave;i sản sẽ chảy nhiều hơn v&amp;agrave;o c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng địa phương với bảng c&amp;acirc;n đối kế to&amp;aacute;n nhỏ hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chuỗi gi&amp;aacute; trị ng&amp;acirc;n h&amp;agrave;ng sau đ&amp;oacute; sẽ chia th&amp;agrave;nh c&amp;aacute;c th&amp;agrave;nh phần chuy&amp;ecirc;n biệt. C&amp;aacute;c tổ chức nhỏ hơn, tập trung v&amp;agrave;o cộng đồng sẽ ph&amp;aacute;t triển hệ sinh th&amp;aacute;i c&amp;oacute; thể cung cấp c&amp;aacute;c sản phẩm ng&amp;acirc;n h&amp;agrave;ng th&amp;ocirc;ng qua một thương hiệu địa phương hoặc khu vực đ&amp;aacute;ng tin cậy, sở hữu to&amp;agrave;n bộ mối quan hệ với kh&amp;aacute;ch h&amp;agrave;ng. Trong khi đ&amp;oacute;, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng lớn sẽ phải đối mặt với lựa chọn t&amp;aacute;i tập trung v&amp;agrave;o c&amp;aacute;c cộng đồng cụ thể hoặc cung cấp cơ sở hạ tầng v&amp;agrave; dịch vụ hỗ trợ hẹp hơn cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng th&amp;ocirc;ng qua m&amp;ocirc; h&amp;igrave;nh &amp;ldquo;ng&amp;acirc;n h&amp;agrave;ng tới ng&amp;acirc;n h&amp;agrave;ng&amp;rdquo; (B2B).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kịch bản 4: Cơ quan quản l&amp;yacute; nh&amp;agrave; nước can thiệp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c cơ quan quản l&amp;yacute; sẽ c&amp;oacute; c&amp;aacute;ch tiếp cận t&amp;iacute;ch cực đối với những doanh nghiệp phi truyền thống để đảm bảo một hệ thống t&amp;agrave;i ch&amp;iacute;nh vững mạnh. C&amp;aacute;c dấu hiệu của điều n&amp;agrave;y đ&amp;atilde; r&amp;otilde; r&amp;agrave;ng v&amp;agrave;o năm 2022, mặc d&amp;ugrave;, như mọi khi, c&amp;oacute; một yếu tố ch&amp;iacute;nh trị đối với c&amp;aacute;c xu hướng điều tiết. Tuy nhi&amp;ecirc;n, những lo ngại về nghĩa vụ chăm s&amp;oacute;c, rủi ro v&amp;agrave; bảo vệ kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể sẽ dẫn đến c&amp;aacute;c quy định mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chủ nghĩa bảo hộ bằng c&amp;aacute;c quy định cuối c&amp;ugrave;ng sẽ mở ra c&amp;aacute;nh cửa cho c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng x&amp;acirc;y dựng lại l&amp;ograve;ng tin v&amp;agrave; lấy lại vai tr&amp;ograve; l&amp;agrave; nh&amp;agrave; cung cấp trung t&amp;acirc;m c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ t&amp;agrave;i ch&amp;iacute;nh. Tuy nhi&amp;ecirc;n, g&amp;aacute;nh nặng ph&amp;aacute;p l&amp;yacute; gia tăng cũng c&amp;oacute; thể khiến c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng kh&amp;oacute; đổi mới hơn, dẫn đến chi ph&amp;iacute; cao hơn v&amp;agrave; ti&amp;ecirc;u chuẩn h&amp;oacute;a cao hơn với c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ. Tỷ suất lợi nhuận thu hẹp c&amp;oacute; thể buộc c&amp;aacute;c tổ chức trở n&amp;ecirc;n nhạy cảm với chi ph&amp;iacute; v&amp;agrave; hợp nhất để tăng quy m&amp;ocirc;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kịch bản 5: Sự trỗi dậy của tiền tệ kỹ thuật số của ng&amp;acirc;n h&amp;agrave;ng trung ương&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc từ chối sử dụng tiền mặt v&amp;agrave; &amp;aacute;p dụng tiền tệ kỹ thuật số của ng&amp;acirc;n h&amp;agrave;ng trung ương (CBDC), một dạng tiền m&amp;atilde; h&amp;oacute;a c&amp;oacute; cấu tr&amp;uacute;c v&amp;agrave; được kiểm so&amp;aacute;t, sẽ ph&amp;acirc;n tầng dọc theo chuỗi gi&amp;aacute; trị với sự ph&amp;aacute;t triển của t&amp;agrave;i ch&amp;iacute;nh phi tập trung (DeFi).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh truyền thống sẽ mất t&amp;agrave;i khoản ng&amp;acirc;n h&amp;agrave;ng ch&amp;iacute;nh v&amp;agrave;o tay c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng trung ương. Điều n&amp;agrave;y sẽ dẫn đến mất dữ liệu kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; mất mối quan hệ với kh&amp;aacute;ch h&amp;agrave;ng m&amp;agrave; c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng vốn nắm giữ từ l&amp;acirc;u, l&amp;agrave;m x&amp;oacute;i m&amp;ograve;n tỷ suất lợi nhuận v&amp;agrave; giảm thu nhập l&amp;atilde;i thuần. C&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng cũng sẽ phải đầu tư th&amp;ecirc;m để chuyển đổi c&amp;ocirc;ng nghệ v&amp;agrave; hoạt động để xử l&amp;yacute; c&amp;aacute;c loại tiền kỹ thuật số. Tất cả những điều n&amp;agrave;y giải th&amp;iacute;ch tại sao c&amp;aacute;c nh&amp;oacute;m ng&amp;agrave;nh đang cố gắng phản đối CBDC, nhưng sức hấp dẫn v&amp;agrave; sức mạnh của tiền tệ kỹ thuật số kh&amp;oacute; c&amp;oacute; thể biến mất.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Lời kết&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng đang trải qua những thay đổi quan trọng, ảnh hưởng kh&amp;ocirc;ng chỉ đến ng&amp;acirc;n h&amp;agrave;ng m&amp;agrave; c&amp;ograve;n tất cả c&amp;aacute;c b&amp;ecirc;n tham gia. Nhất l&amp;agrave; đối với c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ, họ phải thay đổi v&amp;agrave; tăng cường c&amp;aacute;c ưu ti&amp;ecirc;n quan trọng đ&amp;atilde; tồn tại từ l&amp;acirc;u, như tập trung v&amp;agrave;o c&amp;ocirc;ng nghệ, dựa tr&amp;ecirc;n dữ liệu v&amp;agrave; x&amp;acirc;y dựng trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng. Điều n&amp;agrave;y đ&amp;ograve;i hỏi sự thay đổi nhanh ch&amp;oacute;ng v&amp;agrave; linh hoạt từ ph&amp;iacute;a ng&amp;acirc;n h&amp;agrave;ng. M&amp;ocirc;i trường cạnh tranh trong tương lai sẽ ho&amp;agrave;n to&amp;agrave;n kh&amp;aacute;c biệt so với hiện tại v&amp;agrave; những người l&amp;atilde;nh đạo ng&amp;acirc;n h&amp;agrave;ng b&amp;aacute;n lẻ kh&amp;ocirc;ng thể chờ đợi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Pwc&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;The retail banking industry is undergoing tremendous change. A few years ago, it was a fairly straightforward business, but today, technology and innovation, increasing competition, regulatory complexity, embedded finance, consolidation, and evolving customer expectations are placing immense pressure on traditional business models. This intricate and evolving web of trends influences whom consumers trust and how they prefer to conduct their financial lives. It also forces banks to address the fundamental question of what a financial institution is and what value it provides.&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;The retail banking industry is undergoing tremendous change. A few years ago, it was a fairly straightforward business, but today, technology and innovation, increasing competition, regulatory complexity, embedded finance, consolidation, and evolving customer expectations are placing immense pressure on traditional business models. This&amp;nbsp;intricate and evolving web of trends influences whom consumers trust and how they prefer to conduct their financial lives. It also forces banks to address the fundamental question of what a financial institution is and what value it provides.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For leadership teams at incumbent retail banks, now is the time to better understand these trends and prepare for a rapidly changing environment. To help, we activated our community of solvers and developed five hypothetical scenarios for how the future of the sector could play out over the next decade.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Though deliberately exaggerated, all five scenarios represent an urgent call to action for retail banks and point specifically to three priority areas where banks should act immediately and proactively to adapt: tech-powered transformation, data-enabled customer focus and broad-based trust.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Our analysis suggests several possibilities for how the next decade could unfold. Now is the time to consider radical future-facing scenarios to prepare to build the capabilities and resilience that will be necessary to thrive in tomorrow&amp;rsquo;s far more dynamic environment.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Future shock: Five retail banking scenarios for the next decade&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Front-end revolution&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;New players from outside of traditional finance capture client relationships&amp;mdash;the &amp;lsquo;front end&amp;rsquo; of banking&amp;mdash;and incorporate financial services into their platforms. These companies are established, cash-rich brands in the technology, media and entertainment sectors, capable of creating an improved user experience and hyper-personalised offerings to aggressively control more of the customer relationship.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Established banks&amp;mdash;generally facing higher regulatory burdens and dealing with outdated technology&amp;mdash;compete as the infrastructure backbone of the financial system. They act as utility providers that offer licenced services and products, but no longer have a customer-facing brand.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Winner takes all&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A wave of consolidation results in a few mega banks and fintech companies ruling the banking landscape. These massive, tech-enabled institutions generate a competitive advantage through scale.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Customers gravitate towards the largest, most personalised and convenient platforms and generally have no concerns about data privacy or the ability to choose. Only the largest banks will be able to make the technological investments necessary to create a differentiated customer experience.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Scattered landscape&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Amid deteriorating societal trust, customers grow doubtful of global institutions. The supervisory regime favours smaller and local banks, and sentiment gravitates towards nationalistic protection. Clients and assets flow from global players to more locally focused banks with smaller balance sheets, deposits, and lending facilities, and to specialised micro-niche players.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Resurgent regulators&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Regulators take an active approach to a wave of Big Tech and other non-traditional entrants to ensure a safe and strong financial system. Government antitrust actions push technology players out of the industry and increase barriers to entry; competition comes solely from firms that hold full financial services licences.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This degree of regulation opens the door for banks to rebuild trust and reclaim their role as the central provider of financial products and services.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The rise of central bank digital currencies&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A steady decrease in the use of cash continues alongside the rollout of central bank digital currencies (CBDCs). Digital currencies gain wide acceptance in B2B, B2C and C2C segments.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Incumbent banks lose the basic bank account&amp;mdash;which, like customer data, is an anchor of customer relationships that they have long controlled&amp;mdash;to central banks. This makes traditional bank business models unviable.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Adaptive ways to think about your business&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The industry changes that are already underway hold major implications for all players but particularly for incumbent banks, which must double down on priorities that have long been important but that have proved elusive for many. These priorities&amp;mdash;tech-powered transformation, data-enabled customer focus and broad-based trust&amp;mdash;are becoming increasingly urgent. Regardless of how the future unfolds, one thing is certain: the result will be a radically different competitive environment than today&amp;rsquo;s. Retail banking leaders have no time to lose.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Reference source: Pwc&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Helping banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-07-16T05:46:48.000Z</time_create_dt>
+	<createdDate>2025-08-25T05:46:46.805Z</createdDate>
+	<createdDate_dt>2025-08-25T05:46:46.805Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T05:46:46.805Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T05:46:46.805Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

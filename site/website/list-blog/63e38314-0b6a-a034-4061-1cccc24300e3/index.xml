@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>63e3</objectGroupId>
+	<objectId>63e38314-0b6a-a034-4061-1cccc24300e3</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>63e38314-0b6a-a034-4061-1cccc24300e3</folder-name>
+	<internal-name>DTSVN tuyển dụng: Business Analyst (BA)</internal-name>
+	<navLabel>DTSVN tuyển dụng: Business Analyst (BA)</navLabel>
+	<title_vi_s>DTSVN tuyển dụng: Business Analyst (BA)</title_vi_s>
+	<title_en_s>DTSVN is recruiting: Business Analyst (BA) </title_en_s>
+	<categorys_o>	<item>	<key>DTSVN-Careers</key>
+	<value_smv>DTSVN Tuyển dụng</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/hinh-anh-tuyen-dung-nhan-vien-010.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tiếp nhận, khảo s&amp;aacute;t, thu thập y&amp;ecirc;u cầu từ nội bộ dự &amp;aacute;n hoặc kh&amp;aacute;ch h&amp;agrave;ng, theo y&amp;ecirc;u cầu ph&amp;aacute;t triển của dự &amp;aacute;n;&lt;/li&gt;
+&lt;li&gt;Ph&amp;acirc;n t&amp;iacute;ch y&amp;ecirc;u cầu v&amp;agrave; dữ liệu, ph&amp;acirc;n t&amp;iacute;ch quy tr&amp;igrave;nh nghiệp vụ để viết m&amp;ocirc; tả quy tr&amp;igrave;nh nghiệp vụ, giao diện v&amp;agrave; t&amp;iacute;nh năng. (Viết User Requirement Specification; Software/ System Requirement Specification &amp;ldquo;URS/ SRS&amp;rdquo;; Functional Specification);&lt;/li&gt;
+&lt;li&gt;Thống nhất nghiệp vụ với Kh&amp;aacute;ch h&amp;agrave;ng bằng c&amp;aacute;c t&amp;agrave;i liệu ph&amp;acirc;n t&amp;iacute;ch nghiệp vụ;&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m t&amp;agrave;i liệu hướng dẫn sử dụng (User Manual);&lt;/li&gt;
+&lt;li&gt;L&amp;agrave;m t&amp;agrave;i liệu kịch bản kiểm tra (Test case);&lt;/li&gt;
+&lt;li&gt;Kiểm thử nghiệp vụ&amp;nbsp;tr&amp;ecirc;n hệ thống (System Test);&lt;/li&gt;
+&lt;li&gt;Hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng đang sử dụng hệ thống (Support);&lt;/li&gt;
+&lt;li&gt;Thực hiện c&amp;aacute;c c&amp;ocirc;ng việc kh&amp;aacute;c theo y&amp;ecirc;u cầu của Gi&amp;aacute;m&amp;nbsp;đốc kinh doanh v&amp;agrave;&amp;nbsp;Ban gi&amp;aacute;m&amp;nbsp;đốc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;ecirc;u cầu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Nam/ nữ, tốt nghiệp Đại học: Ng&amp;acirc;n h&amp;agrave;ng, Kinh tế, Thương mại, C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin,... chuy&amp;ecirc;n ng&amp;agrave;nh c&amp;oacute; li&amp;ecirc;n quan;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; từ 1-2 năm kinh nghiệm BA;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kiến thức về nghiệp vụ t&amp;agrave;i ch&amp;iacute;nh, ng&amp;acirc;n h&amp;agrave;ng;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kiến thức tốt về tư duy hệ thống phần mềm;&lt;/li&gt;
+&lt;li&gt;Kỹ năng giao tiếp, đ&amp;agrave;m ph&amp;aacute;n tốt;&lt;/li&gt;
+&lt;li&gt;Khả năng ph&amp;acirc;n t&amp;iacute;ch, tư duy logic tốt;&lt;/li&gt;
+&lt;li&gt;Sử dụng th&amp;agrave;nh thạo c&amp;aacute;c phần mềm hỗ trợ như Visio, Word, Excel, Power Point&amp;hellip;;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; kỹ năng l&amp;agrave;m việc độc lập v&amp;agrave; đội nh&amp;oacute;m tốt;&lt;/li&gt;
+&lt;li&gt;Tinh thần hợp t&amp;aacute;c v&amp;agrave; l&amp;agrave;m việc tốt;&lt;/li&gt;
+&lt;li&gt;C&amp;oacute; tinh thần học hỏi v&amp;agrave; cầu tiến trong c&amp;ocirc;ng việc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Được nhận mức thu nhập cạnh tranh;&lt;/li&gt;
+&lt;li&gt;Được ph&amp;aacute;t triển sản phẩm lớn, quy m&amp;ocirc; h&amp;agrave;ng triệu người d&amp;ugrave;ng;&lt;/li&gt;
+&lt;li&gt;Được hưởng Bảo hiểm x&amp;atilde; hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp theo chế độ nh&amp;agrave; nước ban h&amp;agrave;nh;&lt;/li&gt;
+&lt;li&gt;Nghỉ ph&amp;eacute;p năm v&amp;agrave; c&amp;aacute;c ng&amp;agrave;y nghỉ lễ Tết kh&amp;aacute;c theo quy định của nh&amp;agrave; nước Việt Nam;&lt;/li&gt;
+&lt;li&gt;Teambuilding, nghỉ m&amp;aacute;t v&amp;agrave; c&amp;aacute;c ph&amp;uacute;c lợi kh&amp;aacute;c;&lt;/li&gt;
+&lt;li&gt;M&amp;ocirc;i trường năng động, vui vẻ v&amp;agrave; thoải m&amp;aacute;i. Nơi c&amp;aacute;c bạn được thỏa sức s&amp;aacute;ng tạo v&amp;agrave; thể hiện đam m&amp;ecirc;, ph&amp;aacute;t triển bản th&amp;acirc;n.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Ứng vi&amp;ecirc;n quan t&amp;acirc;m vui l&amp;ograve;ng gửi CV về DTSVN: vietla@dtsvn.net&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Hotline: 0356 604 448&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Receive, survey, and collect requirements from internal projects or customers, according to the development needs of the project;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analyze requirements and data, analyze business processes to write business process descriptions, interfaces, and features (User Requirement Specification &amp;ndash; URS; Software/System Requirement Specification &amp;ndash; SRS; Functional Specification);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Align business processes with customers through business analysis documents;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare User Manuals;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare Test Case documents;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform business testing on the system (System Test);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support customers using the system (Support);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform other tasks as assigned by the Business Director and the Board of Directors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Male/Female, graduated from University in Banking, Economics, Commerce, Information Technology, or other related majors;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1&amp;ndash;2 years of experience as a Business Analyst (BA);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowledge of financial and banking business processes;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong knowledge of software system thinking;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Good communication and negotiation skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong analytical and logical thinking skills;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proficient in software tools such as Visio, Word, Excel, PowerPoint, etc.;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ability to work independently as well as in a team;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cooperative spirit and good teamwork;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eagerness to learn and a strong sense of career development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Competitive salary;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Opportunity to develop large-scale products with millions of users;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Full participation in Social Insurance, Health Insurance, and Unemployment Insurance in accordance with Vietnamese law;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Annual leave and public holidays as prescribed by Vietnamese law;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teambuilding, company trips, and other benefits;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A dynamic, fun, and comfortable working environment where you are free to be creative, express your passion, and develop yourself.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Interested candidates, please send your CV to DTSVN:&lt;/strong&gt; &lt;a&gt;vietla@dtsvn.net&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hotline:&lt;/strong&gt; 0356 604 448&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-06-24T08:10:56.000Z</time_create_dt>
+	<createdDate>2025-08-25T08:10:55.619Z</createdDate>
+	<createdDate_dt>2025-08-25T08:10:55.619Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T08:10:55.619Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T08:10:55.619Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

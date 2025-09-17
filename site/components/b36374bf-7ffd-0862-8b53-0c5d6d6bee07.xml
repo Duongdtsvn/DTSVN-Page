@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-reasons-choosing-dtsvn</content-type>
+	<display-template>/templates/web/Component-reasons-choosing-DTSVN.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b363</objectGroupId>
+	<objectId>b36374bf-7ffd-0862-8b53-0c5d6d6bee07</objectId>
+	<file-name>b36374bf-7ffd-0862-8b53-0c5d6d6bee07.xml</file-name>
+	<folder-name/>
+	<internal-name>Tại sao chọn dtsvn</internal-name>
+	<title_s>Why choose DTSVN</title_s>
+	<subtitle_s>DTSVN has succeeded in building softwares that meets requirements from big and small size financial institutions by resolving many obstacles, saving costs and increasing profits.</subtitle_s>
+	<reasons_choosing_o item-list="true">	<item>	<title_s>Quick response and error fixing</title_s>
+	<subtitle_s>Respond and quickly resolve system errors as soon as customers encounter them, both onsite and offsite.</subtitle_s>
+	</item>	<item>	<title_s>Experienced team</title_s>
+	<subtitle_s>DTSVN have a team of experts with many years of experience in the field of financial and banking software.</subtitle_s>
+	</item>	<item>	<title_s>Understand the profession clearly</title_s>
+	<subtitle_s>Design, evaluate and build technology systems from a thorough understanding of management requirements.</subtitle_s>
+	</item>	<item>	<title_s>Design, evaluate and build technology systems from a thorough understanding of management requirements.</title_s>
+	<subtitle_s>All your questions will be answered and explained easily by the technical team in oreder to help you fully understand.</subtitle_s>
+	</item>	<item>	<title_s>All-in-one solution</title_s>
+	<subtitle_s>Handles all aspects of IT infrastructure, including hardware, software, and other technology needs.</subtitle_s>
+	</item>	<item>	<title_s>100% satisfaction guaranteed</title_s>
+	<subtitle_s>Our services will bring satisfaction and true value to you.</subtitle_s>
+	</item></reasons_choosing_o>
+	<createdDate>2025-07-11T03:35:18.906Z</createdDate>
+	<createdDate_dt>2025-07-11T03:35:18.906Z</createdDate_dt>
+	<lastModifiedDate>2025-07-11T03:35:18.906Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-11T03:35:18.906Z</lastModifiedDate_dt>
+</component>

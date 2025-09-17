@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-header</content-type>
+	<display-template>/templates/web/Component-Header.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fdaa</objectGroupId>
+	<objectId>fdaa20d7-d5d3-5d79-455c-5cf3eab41fba</objectId>
+	<file-name>fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</file-name>
+	<folder-name/>
+	<internal-name>header</internal-name>
+	<createdDate>2025-06-24T08:58:33.346Z</createdDate>
+	<createdDate_dt>2025-06-24T08:58:33.346Z</createdDate_dt>
+	<lastModifiedDate>2025-08-22T03:14:13.438Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-22T03:14:13.438Z</lastModifiedDate_dt>
+	<menu_o item-list="true">	<item>	<menu_s>Giới Thiệu</menu_s>
+	<menu_c2_o/>
+	<link_s>/about</link_s>
+	<submenu_o item-list="true"/>
+	</item>	<item>	<menu_s>Sản phẩm - Dịch vụ</menu_s>
+	<menu_c2_o/>
+	<link_s>/products</link_s>
+	<submenu_o item-list="true"/>
+	</item>	<item>	<menu_s>Tin tức</menu_s>
+	<menu_c2_o/>
+	<link_s>/news</link_s>
+	<submenu_o item-list="true"/>
+	</item>	<item>	<menu_s>Dự án</menu_s>
+	<menu_c2_o/>
+	<link_s>/projects</link_s>
+	<submenu_o item-list="true"/>
+	</item>	<item>	<menu_s>Liên hệ</menu_s>
+	<link_s>/contact</link_s>
+	<submenu_o item-list="true"/>
+	</item></menu_o>
+</component>

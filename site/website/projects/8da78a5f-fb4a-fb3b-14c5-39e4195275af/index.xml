@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-project</content-type>
+	<display-template>/templates/web/item-project.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8da7</objectGroupId>
+	<objectId>8da78a5f-fb4a-fb3b-14c5-39e4195275af</objectId>
+	<internal-name>Triển khai dự án VietinBank LAOeFAST</internal-name>
+	<navLabel>Triển khai dự án VietinBank LAOeFAST</navLabel>
+	<key_main_s/>
+	<title_vi_s>Triển khai dự án VietinBank LAOeFAST</title_vi_s>
+	<title_en_s>Deploying VietinBank LAOeFAST project</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>8da78a5f-fb4a-fb3b-14c5-39e4195275af</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<img_main_s>/static-assets/images/475894856_632793462602860_7119900691665182194_n.jpg</img_main_s>
+	<info_main_t>Ngân hàng VietinBank đặt mục tiêu hệ thống hóa “Trợ lý tài chính số” – VietinBank eFast cho tất cả khách hàng doanh nghiệp trong và ngoài nước của mình, tạo nên một dịch vụ Ngân hàng điện tử hiện đại và tiện ích bậc nhất. VietinBank tiếp tục hợp tác cùng DTSVN phát triển dịch vụ VietinBank eFast thành VietinBank LAOeFAST. Dự án bước đầu thành công trên đất Lào, mở ra những triển vọng tiềm năng trong tương lai.</info_main_t>
+	<info_main_en_t>VietinBank aims to systematize the “Digital Financial Assistant” – VietinBank eFast for all its domestic and foreign corporate customers, creating a modern and most convenient e-Banking service. VietinBank continues to cooperate with DTSVN to develop the VietinBank eFast service into VietinBank LAOeFAST. The project has been initially successful in Laos, opening up potential prospects in the future.</info_main_en_t>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;Ng&amp;acirc;n h&amp;agrave;ng VietinBank đặt mục ti&amp;ecirc;u hệ thống h&amp;oacute;a &amp;ldquo;Trợ l&amp;yacute; t&amp;agrave;i ch&amp;iacute;nh số&amp;rdquo; &amp;ndash; VietinBank eFast cho tất cả kh&amp;aacute;ch h&amp;agrave;ng doanh nghiệp trong v&amp;agrave; ngo&amp;agrave;i nước của m&amp;igrave;nh, tạo n&amp;ecirc;n một dịch vụ Ng&amp;acirc;n h&amp;agrave;ng điện tử hiện đại v&amp;agrave; tiện &amp;iacute;ch bậc nhất. VietinBank tiếp tục hợp t&amp;aacute;c c&amp;ugrave;ng DTSVN ph&amp;aacute;t triển dịch vụ VietinBank eFast th&amp;agrave;nh VietinBank LAOeFAST. Dự &amp;aacute;n bước đầu th&amp;agrave;nh c&amp;ocirc;ng tr&amp;ecirc;n đất L&amp;agrave;o, mở ra những triển vọng tiềm năng trong tương lai.&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;VietinBank aims to systematize the &amp;ldquo;Digital Financial Assistant&amp;rdquo; &amp;ndash; VietinBank eFast for all its domestic and foreign corporate customers, creating a modern and most convenient e-Banking service. VietinBank continues to cooperate with DTSVN to develop the VietinBank eFast service into VietinBank LAOeFAST. The project has been initially successful in Laos, opening up potential prospects in the future.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2024-04-12T02:36:19.000Z</time_create_dt>
+	<createdDate>2025-08-28T02:36:18.258Z</createdDate>
+	<createdDate_dt>2025-08-28T02:36:18.258Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T02:36:18.258Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T02:36:18.258Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

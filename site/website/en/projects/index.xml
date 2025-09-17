@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-project-en</content-type>
+	<display-template>/templates/web/page-projects-en.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4d02</objectGroupId>
+	<objectId>4d027901-a662-37e9-f8f9-bb95d312b677</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>projects</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<internal-name>projects</internal-name>
+	<navLabel>DTSVN Projects Implemented</navLabel>
+	<title_main_s>DTSVN Projects Implemented</title_main_s>
+	<text_main_t>Throughout the development process, the DTSVN team has implemented many diverse projects in many different fields</text_main_t>
+	<createdDate>2025-07-10T11:34:04.585Z</createdDate>
+	<createdDate_dt>2025-07-10T11:34:04.585Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T11:34:04.585Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T11:34:04.585Z</lastModifiedDate_dt>
+</page>

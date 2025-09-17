@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9bc5</objectGroupId>
+	<objectId>9bc574af-6a48-8052-7202-30fe7463248a</objectId>
+	<internal-name>Bắt kịp xu hướng công nghệ 2025: Bí quyết doanh nghiệp dẫn đầu thị trường</internal-name>
+	<navLabel>Bắt kịp xu hướng công nghệ 2025: Bí quyết doanh nghiệp dẫn đầu thị trường</navLabel>
+	<title_vi_s>Bắt kịp xu hướng công nghệ 2025: Bí quyết doanh nghiệp dẫn đầu thị trường</title_vi_s>
+	<title_en_s>Keeping up with technology trends in 2024: Business secrets to leading the market</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>9bc574af-6a48-8052-7202-30fe7463248a</folder-name>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/top-11-xu-huong-cong-nghe-hien-tai-va-tuong-lai-noi-bat-nhat304076794391.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div style="text-align: justify;"&gt;
+&lt;p style="text-align: justify;"&gt;Năm 2023 l&amp;agrave; một năm đầy biến đổi, khi m&amp;agrave; cả c&amp;ocirc;ng nghệ hiện c&amp;oacute; v&amp;agrave; những cải tiến mới đ&amp;atilde; c&amp;aacute;ch mạng ho&amp;aacute; c&amp;aacute;ch thức hoạt động của c&amp;aacute;c tổ chức. V&amp;agrave;o năm 2024, c&amp;aacute;c doanh nghiệp sẽ tiếp tục đ&amp;oacute;n nhận những c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến tiếp theo để thiết kế một m&amp;ocirc;i trường kỹ thuật số tốt hơn cho mọi người.&lt;strong&gt;&amp;nbsp;&lt;img&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quyền ri&amp;ecirc;ng tư v&amp;agrave; quản trị bằng AI sẽ trở th&amp;agrave;nh ưu ti&amp;ecirc;n h&amp;agrave;ng đầu trong kinh doanh&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Năm 2023 chứng kiến sự xuất hiện của nhiều quy định về Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) ở nhiều quốc gia kh&amp;aacute;c nhau, trong đ&amp;oacute; c&amp;oacute; chương tr&amp;igrave;nh X&amp;aacute;c minh AI của Singapore, Lộ tr&amp;igrave;nh AI quốc gia giai đoạn 2021-2025 của Malaysia, v&amp;agrave; Chiến lược AI quốc gia của Philippines. Đ&amp;acirc;y l&amp;agrave; những dấu hiệu cho thấy việc &amp;aacute;p đặt c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch tương tự trong tương lai l&amp;agrave; kh&amp;ocirc;ng thể tr&amp;aacute;nh khỏi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo một b&amp;aacute;o c&amp;aacute;o từ IDC, khu vực n&amp;agrave;y đ&amp;atilde; tận dụng nền tảng ph&amp;aacute;p l&amp;yacute; thuận lợi để khai th&amp;aacute;c tiềm năng của GenAI, với 2/3 c&amp;aacute;c tổ chức ở Ch&amp;acirc;u &amp;Aacute; &amp;ndash; Th&amp;aacute;i B&amp;igrave;nh Dương đang t&amp;igrave;m hiểu c&amp;aacute;c ứng dụng mới tiềm năng hoặc đ&amp;atilde; đầu tư v&amp;agrave;o c&amp;ocirc;ng nghệ n&amp;agrave;y. Với AI được t&amp;iacute;ch hợp v&amp;agrave;o mọi kh&amp;iacute;a cạnh của doanh nghiệp, c&amp;aacute;c c&amp;ocirc;ng nghệ g&amp;acirc;y rối (như deepfakes v&amp;agrave; thực tế tăng cường) đe dọa quyền ri&amp;ecirc;ng tư v&amp;agrave; g&amp;acirc;y ra những rủi ro đ&amp;aacute;ng kể. C&amp;aacute;c c&amp;ocirc;ng nghệ n&amp;agrave;y cần được gi&amp;aacute;m s&amp;aacute;t chặt chẽ với cả mục đ&amp;iacute;ch sử dụng c&amp;ocirc;ng khai v&amp;agrave; tư nh&amp;acirc;n. Trong nỗ lực đảm bảo việc sử dụng c&amp;ocirc;ng nghệ một c&amp;aacute;ch c&amp;oacute; đạo đức, minh bạch v&amp;agrave; c&amp;ocirc;ng bằng, quản trị AI sẽ trở n&amp;ecirc;n hết sức quan trọng đối với c&amp;aacute;c doanh nghiệp. Quyền ri&amp;ecirc;ng tư sẽ l&amp;agrave; cốt l&amp;otilde;i của mọi doanh nghiệp trong tương lai, v&amp;agrave; việc bảo vệ quyền ri&amp;ecirc;ng tư sẽ trở th&amp;agrave;nh tr&amp;aacute;ch nhiệm của mỗi c&amp;aacute; nh&amp;acirc;n trong tổ chức.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c doanh nghiệp sẽ ch&amp;uacute; trọng v&amp;agrave;o việc th&amp;iacute;ch nghi với c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh ng&amp;ocirc;n ngữ lớn (LLM)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kể từ khi AI ra đời, c&amp;aacute;c doanh nghiệp đ&amp;atilde; tận dụng khả năng của c&amp;ocirc;ng nghệ n&amp;agrave;y để thực hiện ph&amp;acirc;n t&amp;iacute;ch dự đo&amp;aacute;n v&amp;agrave; tự động ho&amp;aacute; c&amp;aacute;c nhiệm vụ đ&amp;ograve;i hỏi kỹ năng thấp. Tuy nhi&amp;ecirc;n, c&amp;aacute;c ứng dụng hạn hẹp của AI v&amp;agrave; những kh&amp;oacute; khăn lớn về kỹ thuật đ&amp;ograve;i hỏi phải c&amp;oacute; c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh đ&amp;agrave;o tạo AI th&amp;igrave; mới c&amp;oacute; thể phục vụ cho mọi kh&amp;iacute;a cạnh của một doanh nghiệp. C&amp;aacute;c hệ thống LLM được ph&amp;aacute;t triển tập trung cho doanh nghiệp gi&amp;uacute;p cả nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng đều c&amp;oacute; thể thực hiện c&amp;aacute;c cuộc tr&amp;ograve; chuyện chuy&amp;ecirc;n s&amp;acirc;u về c&amp;aacute;c sản phẩm/dịch vụ của doanh nghiệp v&amp;agrave; điều chỉnh tốt hơn với c&amp;aacute;c c&amp;ocirc;ng cụ phần mềm đang ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sức mạnh của việc điều phối sẽ bao tr&amp;ugrave;m to&amp;agrave;n bộ doanh nghiệp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong thời gian gần đ&amp;acirc;y, nhiều doanh nghiệp đ&amp;atilde; tiến h&amp;agrave;nh chuyển đổi số để thực hiện trực tuyến c&amp;aacute;c nhiệm vụ ch&amp;iacute;nh của họ. Qu&amp;aacute; tr&amp;igrave;nh chuyển đổi n&amp;agrave;y đ&amp;atilde; đặt ra th&amp;aacute;ch thức về sự ph&amp;acirc;n mảnh - chia dữ liệu th&amp;agrave;nh nhiều phần ri&amp;ecirc;ng biệt v&amp;agrave; g&amp;acirc;y trở ngại cho luồng th&amp;ocirc;ng tin. Doanh nghiệp c&amp;oacute; thể giải quyết vấn đề n&amp;agrave;y bằng c&amp;aacute;ch khai th&amp;aacute;c sức mạnh của việc điều phối, cho ph&amp;eacute;p x&amp;acirc;y dựng c&amp;aacute;c quy tr&amp;igrave;nh kỹ thuật số được kết nối với nhau dẫn đến tự động ho&amp;aacute; quy tr&amp;igrave;nh l&amp;agrave;m việc v&amp;agrave; đơn giản ho&amp;aacute; c&amp;aacute;c hoạt động. Bằng c&amp;aacute;ch &amp;aacute;p dụng c&amp;aacute;c c&amp;ocirc;ng nghệ điều phối th&amp;acirc;n thiện v&amp;agrave; dễ tiếp cận n&amp;agrave;y, c&amp;aacute;c tổ chức sẽ c&amp;oacute; thể giải quyết c&amp;aacute;c nhiệm vụ phức tạp v&amp;agrave; tồn tại được trong m&amp;ocirc;i trường kinh doanh số ng&amp;agrave;y nay.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ưu ti&amp;ecirc;n trải nghiệm số sẽ ph&amp;aacute;t triển để trở n&amp;ecirc;n an to&amp;agrave;n hơn&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sau khi chuyển từ c&amp;aacute;c phương ph&amp;aacute;p l&amp;agrave;m việc truyền thống sang nền tảng số, ch&amp;uacute;ng ta sẽ thấy c&amp;aacute;c tổ chức t&amp;iacute;ch hợp c&amp;aacute;c c&amp;ocirc;ng cụ quản l&amp;yacute; c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin đương đại để cung cấp một h&amp;agrave;nh tr&amp;igrave;nh số ho&amp;aacute; to&amp;agrave;n diện v&amp;agrave; an to&amp;agrave;n. V&amp;agrave;o năm 2024, c&amp;aacute;c doanh nghiệp cũng sẽ &amp;aacute;p dụng c&amp;aacute;ch tiếp cận lấy danh t&amp;iacute;nh l&amp;agrave;m trung t&amp;acirc;m, đảm bảo rằng chỉ những c&amp;aacute; nh&amp;acirc;n được uỷ quyền mới được cấp quyền truy cập v&amp;agrave; quyền hạn, từ đ&amp;oacute; bảo vệ danh t&amp;iacute;nh v&amp;agrave; dữ liệu của họ. Tiến th&amp;ecirc;m một bước nữa, cơ sở hạ tầng đ&amp;aacute;m m&amp;acirc;y v&amp;agrave; quản l&amp;yacute; ph&amp;acirc;n quyền sẽ được triển khai để tăng cường khả năng hiển thị chi tiết v&amp;agrave; giảm thiểu c&amp;aacute;c mối đe doạ bằng c&amp;aacute;ch cung cấp một c&amp;aacute;i nh&amp;igrave;n to&amp;agrave;n diện về danh t&amp;iacute;nh v&amp;agrave; quyền hạn tr&amp;ecirc;n c&amp;aacute;c m&amp;ocirc;i trường đ&amp;aacute;m m&amp;acirc;y đa dạng. Những giải ph&amp;aacute;p như vậy sẽ c&amp;ugrave;ng nhau củng cố bảo mật v&amp;agrave; mang đến trải nghiệm số ho&amp;agrave;n to&amp;agrave;n an t&amp;acirc;m cho người d&amp;ugrave;ng cuối.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Khả năng chống lại c&amp;aacute;c cuộc tấn c&amp;ocirc;ng mạng sẽ trở th&amp;agrave;nh yếu tố then chốt&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bối cảnh c&amp;ocirc;ng nghệ ng&amp;agrave;y nay đặt ra một loạt c&amp;aacute;c th&amp;aacute;ch thức đ&amp;atilde; k&amp;eacute;o chậm qu&amp;aacute; tr&amp;igrave;nh ph&amp;aacute;t triển của c&amp;aacute;c c&amp;ocirc;ng ty hiện đại. Những th&amp;aacute;ch thức n&amp;agrave;y bao gồm m&amp;ocirc;i trường địa ch&amp;iacute;nh trị, gi&amp;aacute;n đoạn c&amp;ocirc;ng nghệ, c&amp;aacute;c mối đe doạ tr&amp;ecirc;n mạng, &amp;aacute;p lực cạnh tranh v&amp;agrave; nhiều yếu tố kh&amp;aacute;c, tuy nhi&amp;ecirc;n, tất cả những yếu tố n&amp;agrave;y đều c&amp;oacute; thể dễ d&amp;agrave;ng đối mặt hơn khi ch&amp;uacute;ng ta c&amp;oacute; một kế hoạch chiến lược. C&amp;ocirc;ng ty ph&amp;acirc;n t&amp;iacute;ch IDC chỉ ra rằng chi ti&amp;ecirc;u cho phần cứng, dịch vụ v&amp;agrave; phần mềm bảo mật ở khu vực Ch&amp;acirc;u &amp;Aacute; - Th&amp;aacute;i B&amp;igrave;nh Dương (bao gồm cả Nhật Bản) dự kiến sẽ đạt 36 tỷ USD v&amp;agrave;o năm 2023, tăng 16,7% so với năm trước. Theo b&amp;aacute;o c&amp;aacute;o của Bộ Th&amp;ocirc;ng tin v&amp;agrave; Truyền th&amp;ocirc;ng, doanh thu 6 th&amp;aacute;ng đầu năm 2023 trong lĩnh vực an to&amp;agrave;n th&amp;ocirc;ng tin của Việt Nam đạt 2.154 tỷ đồng, tăng 14,3% so với c&amp;ugrave;ng kỳ năm ngo&amp;aacute;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Xu hướng tăng cường đầu tư v&amp;agrave;o lĩnh vực an to&amp;agrave;n th&amp;ocirc;ng tin cho thấy c&amp;aacute;c tổ chức v&amp;agrave; doanh nghiệp Việt Nam đang dần quan t&amp;acirc;m đến c&amp;aacute;c biện ph&amp;aacute;p bảo vệ t&amp;agrave;i sản kỹ thuật số v&amp;agrave; dữ liệu số, đặc biệt l&amp;agrave; trong bối cảnh chuyển đổi số hiện nay.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong năm 2024, ch&amp;uacute;ng ta sẽ thấy nhiều c&amp;ocirc;ng ty t&amp;iacute;ch cực đầu tư v&amp;agrave;o c&amp;aacute;c kế hoạch mang lại c&amp;aacute;c c&amp;ocirc;ng cụ, giải ph&amp;aacute;p v&amp;agrave; văn ho&amp;aacute; cần thiết để n&amp;acirc;ng cao khả năng chống lại c&amp;aacute;c cuộc tấn c&amp;ocirc;ng mạng tổng thể. Do đ&amp;oacute;, khả năng chống lại c&amp;aacute;c cuộc tấn c&amp;ocirc;ng mạng sẽ nổi l&amp;ecirc;n như một điểm kh&amp;aacute;c biệt ch&amp;iacute;nh trong hoạt động kinh doanh, gi&amp;uacute;p c&amp;aacute;c tổ chức th&amp;agrave;nh c&amp;ocirc;ng trong bối cảnh thị trường to&amp;agrave;n cầu phức tạp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: Tổng hợp&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;p style="text-align: justify;"&gt;2023 is a transformative year, as both existing technology and new innovations revolutionize the way organizations operate. In 2024, businesses will continue to embrace the next cutting-edge technologies to design a better digital environment for everyone.&lt;strong&gt;&lt;img&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Privacy and AI governance will become top business priorities&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2023 will see the emergence of many Artificial Intelligence (AI) regulations in many different countries, including Singapore's AI Verification program, Malaysia's National AI Roadmap 2021-2025, and the Philippines National AI Strategy. These are signs that the imposition of similar policies in the future is inevitable.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to a report from IDC, the region is already leveraging favorable regulatory foundations to exploit the potential of GenAI, with two-thirds of organizations in Asia-Pacific exploring potential new applications. or have invested in this technology. With AI integrated into every aspect of business, disruptive technologies (like deepfakes and augmented reality) threaten privacy and pose significant risks. These technologies need to be closely monitored for both public and private use. In the effort to ensure the ethical, transparent and fair use of technology, AI governance will become critically important for businesses. Privacy will be at the core of every business in the future, and protecting privacy will become the responsibility of every individual in the organization.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Businesses will focus on adapting to large language models (LLMs)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Since the advent of AI, businesses have leveraged the technology's capabilities to perform predictive analytics and automate low-skill tasks. However, AI's limited applications and major technical difficulties require AI training models that can serve every aspect of a business. LLM systems developed specifically for businesses enable both employees and customers to have in-depth conversations about the business's products/services and better navigate software tools. software is developing.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The power of coordination extends across the entire enterprise&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In recent times, many businesses have undergone digital transformation to carry out their key tasks online. This transition has posed the challenge of fragmentation - breaking data into separate parts and hindering the flow of information. Businesses can solve this problem by harnessing the power of orchestration, which enables the building of interconnected digital processes that lead to workflow automation and streamlining operations. dynamic. By adopting these user-friendly and accessible orchestration technologies, organizations will be able to tackle complex tasks and survive in today's digital business environment.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Digital-first experiences will evolve to become more secure&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Following the shift from traditional working methods to digital platforms, we will see organizations integrating contemporary IT management tools to deliver a comprehensive and secure digitalization journey. In 2024, businesses will also adopt an identity-centric approach, ensuring that only authorized individuals are granted access and permissions, thereby protecting identities and data their. Going a step further, cloud infrastructure and decentralized management will be deployed to increase granular visibility and mitigate threats by providing a comprehensive view of identities and authority across diverse cloud environments. Such solutions will together strengthen security and deliver a completely secure digital experience to end users.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;The ability to resist cyber attacks will become key&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Today's technology landscape poses a series of challenges that have slowed the growth of modern companies. These challenges include the geopolitical environment, technological disruption, cyber threats, competitive pressures and many other factors, but all of these can be easily faced than when we have a strategic plan. Analyst firm IDC points out that spending on security hardware, services and software in the Asia-Pacific region (including Japan) is expected to reach $36 billion by 2023, an increase of 16 .7% compared to the previous year. According to a report from the Ministry of Information and Communications, revenue in the first 6 months of 2023 in Vietnam's information security sector reached VND 2,154 billion, an increase of 14.3% over the same period last year.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The trend of increasing investment in the field of information security shows that Vietnamese organizations and businesses are gradually interested in measures to protect digital assets and digital data, especially in the context of transformation. change number now.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In 2024, we will see more companies actively investing in plans that deliver the tools, solutions and culture needed to improve overall cyber attack resistance. As a result, resilience to cyberattacks will emerge as a key business differentiator, helping organizations succeed in a complex global market landscape.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Reference source: Summary&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Compiled by the DTSVN author group - Digital transformation solutions for the Finance and Banking industry.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation Company providing the latest digital solutions specifically for businesses in the Finance - Banking industry in Vietnam; Helping banks and financial institutions quickly complete technology systems for digital transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us now for advice and experience the solution here&lt;/p&gt;
+&lt;/div&gt;</content_en_html>
+	<time_create_dt>2025-07-09T06:07:25.000Z</time_create_dt>
+	<createdDate>2025-08-25T06:07:24.916Z</createdDate>
+	<createdDate_dt>2025-08-25T06:07:24.916Z</createdDate_dt>
+	<lastModifiedDate>2025-08-25T06:07:24.916Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-25T06:07:24.916Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

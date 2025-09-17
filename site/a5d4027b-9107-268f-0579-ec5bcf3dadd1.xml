@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-service</content-type>
+	<display-template>/templates/web/Component-Service.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a5d4</objectGroupId>
+	<objectId>a5d4027b-9107-268f-0579-ec5bcf3dadd1</objectId>
+	<internal-name>dịch vụ</internal-name>
+	<title_s/>
+	<text_s>Dịch vụ</text_s>
+	<file-name>a5d4027b-9107-268f-0579-ec5bcf3dadd1.xml</file-name>
+	<folder-name/>
+	<service_o item-list="true">	<item>	<key_main_s/>
+	<title_s>Tư vấn chuyển đổi số</title_s>
+	<link_s>/digital-transformation</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Vận hành Martech</title_s>
+	<link_s/>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Phát triển phần mềm</title_s>
+	<link_s/>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item>	<item>	<key_main_s/>
+	<title_s>Đào tạo BA</title_s>
+	<link_s>/course-of-ba</link_s>
+	<text_s>Tìm hiểu thêm</text_s>
+	</item></service_o>
+	<createdDate>2025-08-26T09:02:44.629Z</createdDate>
+	<createdDate_dt>2025-08-26T09:02:44.629Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T09:02:44.629Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T09:02:44.629Z</lastModifiedDate_dt>
+</component>

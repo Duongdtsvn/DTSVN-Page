@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6b98</objectGroupId>
+	<objectId>6b98d254-8932-db1a-04d9-f3e41dfe8685</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>6b98d254-8932-db1a-04d9-f3e41dfe8685</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Các biện pháp phòng chống gian lận lỗi thời đang là tín hiệu đèn xanh cho những kẻ lừa đảo ở khắp mọi nơi </internal-name>
+	<navLabel>Các biện pháp phòng chống gian lận lỗi thời đang là tín hiệu đèn xanh cho những kẻ lừa đảo ở khắp mọi nơi </navLabel>
+	<title_vi_s>Các biện pháp phòng chống gian lận lỗi thời đang là tín hiệu đèn xanh cho những kẻ lừa đảo ở khắp mọi nơi </title_vi_s>
+	<title_en_s>Outdated fraud prevention measures are giving scammers everywhere a green light</title_en_s>
+	<categorys_o>	<item>	<key>Technology-News</key>
+	<value_smv>Tin công nghệ</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/unnamed--6-.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;T&amp;oacute;m tắt&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Gian lận t&amp;agrave;i ch&amp;iacute;nh đang b&amp;ugrave;ng nổ với tốc độ kỷ lục, trong khi những biện ph&amp;aacute;p ph&amp;ograve;ng thủ lỗi thời khiến c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh rơi v&amp;agrave;o thế bị động v&amp;agrave; dễ d&amp;agrave;ng trở th&amp;agrave;nh mục ti&amp;ecirc;u.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Sự kết hợp giữa ph&amp;acirc;n t&amp;iacute;ch dự đo&amp;aacute;n v&amp;agrave; m&amp;aacute;y học đ&amp;atilde; mở ra bước ngoặt quan trọng: chuyển đổi hoạt động ph&amp;ograve;ng chống gian lận từ &amp;ldquo;chạy theo xử l&amp;yacute;&amp;rdquo; sang &amp;ldquo;chủ động bảo vệ ngay từ đầu&amp;rdquo;. &amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ứng dụng c&amp;ocirc;ng nghệ ph&amp;aacute;t hiện gian lận ti&amp;ecirc;n tiến kh&amp;ocirc;ng chỉ gi&amp;uacute;p doanh nghiệp củng cố niềm tin kh&amp;aacute;ch h&amp;agrave;ng, m&amp;agrave; c&amp;ograve;n tối ưu chi ph&amp;iacute; vận h&amp;agrave;nh v&amp;agrave; gia tăng lợi thế cạnh tranh tr&amp;ecirc;n thị trường.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong bối cảnh gian lận t&amp;agrave;i ch&amp;iacute;nh ng&amp;agrave;y c&amp;agrave;ng tinh vi v&amp;agrave; kh&amp;oacute; lường, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;ugrave;ng tổ chức t&amp;iacute;n dụng đang chịu sức &amp;eacute;p chưa từng c&amp;oacute;. Những &amp;ldquo;chiến thuật cũ&amp;rdquo; chỉ ph&amp;aacute;t cảnh b&amp;aacute;o sau khi sự cố đ&amp;atilde; xảy ra rồi vội v&amp;atilde; ph&amp;aacute;t h&amp;agrave;nh lại thẻ nay đ&amp;atilde; trở n&amp;ecirc;n lạc hậu v&amp;agrave; k&amp;eacute;m hiệu quả. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh đang&amp;nbsp;cần một c&amp;aacute;ch tiếp cận mới để ngăn chặn gian lận ngay trước khi n&amp;oacute; xảy ra. V&amp;agrave; c&amp;acirc;u trả lời: ph&amp;acirc;n t&amp;iacute;ch dự đo&amp;aacute;n ti&amp;ecirc;n tiến kết hợp c&amp;ugrave;ng m&amp;aacute;y học (ML). Khi được t&amp;iacute;ch hợp với dữ liệu thời gian thực, c&amp;ocirc;ng cụ n&amp;agrave;y kh&amp;ocirc;ng chỉ gi&amp;uacute;p chặn đứng c&amp;aacute;c h&amp;agrave;nh vi gian lận từ sớm, m&amp;agrave; c&amp;ograve;n đủ sức đối ph&amp;oacute; với cả những kẻ lừa đảo đang tận dụng ch&amp;iacute;nh AI để tạo ra c&amp;aacute;c kịch bản ng&amp;agrave;y c&amp;agrave;ng tinh vi v&amp;agrave; kh&amp;oacute; nhận diện.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tại sao c&amp;aacute;c c&amp;ocirc;ng cụ truyền thống kh&amp;ocirc;ng c&amp;ograve;n hiệu quả&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Gian lận t&amp;agrave;i ch&amp;iacute;nh đang b&amp;ugrave;ng nổ với tốc độ chưa từng c&amp;oacute;. Từ những tin nhắn lừa đảo, c&amp;aacute;c trang web mua sắm giả mạo cho đến tấn c&amp;ocirc;ng kỹ thuật x&amp;atilde; hội v&amp;agrave; chiếm đoạt t&amp;agrave;i khoản, người ti&amp;ecirc;u d&amp;ugrave;ng ng&amp;agrave;y nay phải đối diện với rủi ro ở mọi điểm chạm.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thống k&amp;ecirc; từ Security.org cho thấy: 63% chủ thẻ t&amp;iacute;n dụng tại Hoa Kỳ từng l&amp;agrave; nạn nh&amp;acirc;n của gian lận, trong đ&amp;oacute; một nửa đ&amp;atilde; phải trải qua nhiều lần. B&amp;aacute;o c&amp;aacute;o của Nilson Report cũng vẽ n&amp;ecirc;n bức tranh đ&amp;aacute;ng b&amp;aacute;o động: thiệt hại to&amp;agrave;n cầu do gian lận thẻ thanh to&amp;aacute;n đạt 33,83 tỷ USD trong năm 2024, v&amp;agrave; trong v&amp;ograve;ng mười năm tới, con số n&amp;agrave;y được dự đo&amp;aacute;n tăng&amp;nbsp;l&amp;ecirc;n gần 404 tỷ USD&amp;nbsp;một kịch bản b&amp;aacute;o hiệu th&amp;aacute;ch thức khổng lồ cho to&amp;agrave;n ng&amp;agrave;nh t&amp;agrave;i ch&amp;iacute;nh. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;77% kh&amp;aacute;ch h&amp;agrave;ng cho biết họ mong muốn nh&amp;agrave; cung cấp dịch vụ của m&amp;igrave;nh ứng dụng c&amp;aacute;c c&amp;ocirc;ng nghệ ph&amp;ograve;ng chống gian lận hiện đại. Đ&amp;aacute;ng ch&amp;uacute; &amp;yacute;, một bộ phận kh&amp;aacute;ch h&amp;agrave;ng sẵn s&amp;agrave;ng rời bỏ v&amp;agrave; t&amp;igrave;m đến tổ chức kh&amp;aacute;c nếu những kỳ vọng ấy kh&amp;ocirc;ng được đ&amp;aacute;p ứng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hầu hết c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh hiện nay đều triển khai c&amp;aacute;c c&amp;ocirc;ng cụ chống gian lận ti&amp;ecirc;u chuẩn: chương tr&amp;igrave;nh bảo mật nhiều lớp kết hợp x&amp;aacute;c thực đa yếu tố, bộ lọc gian lận dựa tr&amp;ecirc;n quy tắc, dấu v&amp;acirc;n tay thiết bị, theo d&amp;otilde;i IP v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch h&amp;agrave;nh vi. C&amp;aacute;c hệ thống n&amp;agrave;y tạo th&amp;agrave;nh nền tảng của một khu&amp;ocirc;n khổ chống gian lận hiện đại, được thiết kế để ph&amp;aacute;t hiện c&amp;aacute;c hoạt động đ&amp;aacute;ng ngờ. Tuy nhi&amp;ecirc;n, ch&amp;uacute;ng c&amp;oacute; chung một hạn chế quan trọng: chỉ tập trung v&amp;agrave;o c&amp;aacute;c mối đe dọa đ&amp;atilde; biết.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết quả l&amp;agrave;, c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh bị mắc kẹt trong một v&amp;ograve;ng luẩn quẩn phản ứng, phản ứng sau khi sự việc xảy ra v&amp;agrave; phụ thuộc qu&amp;aacute; nhiều v&amp;agrave;o c&amp;aacute;c cảnh b&amp;aacute;o mạng v&amp;agrave; ph&amp;aacute;t h&amp;agrave;nh lại thẻ h&amp;agrave;ng loạt để giảm thiểu thiệt hại. Điều n&amp;agrave;y g&amp;acirc;y ra vấn đề tr&amp;ecirc;n mọi phương diện. Chi ph&amp;iacute; cao, l&amp;agrave;m tăng khối lượng c&amp;ocirc;ng việc của tổng đ&amp;agrave;i v&amp;agrave; kh&amp;ocirc;ng giải quyết được gốc rễ vấn đề.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sự chuyển đổi sang ph&amp;aacute;t hiện gian lận mang t&amp;iacute;nh dự đo&amp;aacute;n &lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;acirc;n t&amp;iacute;ch dự đo&amp;aacute;n đang mở ra một kỷ nguy&amp;ecirc;n mới trong cuộc chiến chống gian lận t&amp;agrave;i ch&amp;iacute;nh. C&amp;ocirc;ng nghệ n&amp;agrave;y kết hợp nhận dạng mẫu theo thời gian thực, học m&amp;aacute;y v&amp;agrave; dữ liệu ẩn danh từ h&amp;agrave;ng ngh&amp;igrave;n tổ chức t&amp;agrave;i ch&amp;iacute;nh, tạo n&amp;ecirc;n một l&amp;aacute; chắn chủ động v&amp;agrave; hiệu quả hơn hẳn c&amp;aacute;c biện ph&amp;aacute;p truyền thống. &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mỗi ng&amp;agrave;y, hệ thống xử l&amp;yacute; h&amp;agrave;ng chục triệu giao dịch thẻ, nhanh ch&amp;oacute;ng ph&amp;aacute;t hiện dấu hiệu bất thường với độ ch&amp;iacute;nh x&amp;aacute;c vượt trội. Thay v&amp;igrave; phải chờ xử l&amp;yacute; thủ c&amp;ocirc;ng, c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể dựa v&amp;agrave;o điểm số rủi ro được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a theo từng hồ sơ, đồng thời cập nhật li&amp;ecirc;n tục để ứng ph&amp;oacute; với những thủ đoạn gian lận ng&amp;agrave;y c&amp;agrave;ng tinh vi.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết quả l&amp;agrave; những giao dịch nguy hiểm được chặn đứng ngay trước khi g&amp;acirc;y thiệt hại cho kh&amp;aacute;ch h&amp;agrave;ng gi&amp;uacute;p tổ chức t&amp;agrave;i ch&amp;iacute;nh kh&amp;ocirc;ng chỉ bảo vệ niềm tin m&amp;agrave; c&amp;ograve;n giảm đ&amp;aacute;ng kể tổn thất kinh tế.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;N&amp;acirc;ng cao trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dự đo&amp;aacute;n gian lận kh&amp;ocirc;ng chỉ gi&amp;uacute;p bảo vệ m&amp;agrave; c&amp;ograve;n n&amp;acirc;ng cao trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng: hạn chế tối đa gi&amp;aacute;n đoạn dịch vụ, đồng thời củng cố niềm tin v&amp;agrave;o sự an to&amp;agrave;n t&amp;agrave;i ch&amp;iacute;nh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng nghệ n&amp;agrave;y c&amp;ograve;n gi&amp;uacute;p giảm b&amp;aacute;o động giả, tr&amp;aacute;nh t&amp;igrave;nh trạng c&amp;aacute;c giao dịch hợp lệ bị từ chối v&amp;ocirc; cớ. B&amp;ecirc;n cạnh đ&amp;oacute;, việc hạn chế ph&amp;aacute;t h&amp;agrave;nh lại thẻ kh&amp;ocirc;ng cần thiết cũng đồng nghĩa với việc giảm phiền h&amp;agrave; v&amp;agrave; bất tiện cho kh&amp;aacute;ch h&amp;agrave;ng, mang đến một h&amp;agrave;nh tr&amp;igrave;nh thanh to&amp;aacute;n liền mạch v&amp;agrave; tin cậy hơn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều n&amp;agrave;y cho thấy một cơ hội mạnh mẽ để x&amp;acirc;y dựng l&amp;ograve;ng trung th&amp;agrave;nh l&amp;acirc;u d&amp;agrave;i th&amp;ocirc;ng qua c&amp;ocirc;ng nghệ mới nổi. Việc th&amp;ocirc;ng b&amp;aacute;o cho kh&amp;aacute;ch h&amp;agrave;ng rằng thẻ của họ đ&amp;atilde; được chủ động thay thế trước khi xảy ra gian lận hoặc việc gi&amp;aacute;m s&amp;aacute;t đ&amp;atilde; gi&amp;uacute;p họ tr&amp;aacute;nh khỏi h&amp;agrave;ng loạt cuộc tấn c&amp;ocirc;ng gian lận sẽ gửi đi một th&amp;ocirc;ng điệp mạnh mẽ. N&amp;oacute; củng cố niềm tin, giảm tỷ lệ kh&amp;aacute;ch h&amp;agrave;ng rời bỏ dịch vụ v&amp;agrave; mang lại sự an t&amp;acirc;m, đặc biệt l&amp;agrave; đối với kh&amp;aacute;ch h&amp;agrave;ng ưu ti&amp;ecirc;n kỹ thuật số, những người đ&amp;ograve;i hỏi tốc độ, t&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; c&amp;aacute;c biện ph&amp;aacute;p bảo mật "lu&amp;ocirc;n hoạt động".&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chiến lược chống gian lận th&amp;ocirc;ng minh hơn, linh hoạt hơn&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;agrave;m việc c&amp;ugrave;ng c&amp;aacute;c chuy&amp;ecirc;n gia, c&amp;aacute;c c&amp;ocirc;ng cụ dự đo&amp;aacute;n gian lận tạo ra những th&amp;ocirc;ng tin chi tiết ch&amp;iacute;nh x&amp;aacute;c hơn, dễ h&amp;agrave;nh động hơn v&amp;agrave; &amp;iacute;t c&amp;oacute; nguy cơ b&amp;aacute;o động giả. Phương ph&amp;aacute;p n&amp;agrave;y đặc biệt ph&amp;ugrave; hợp với c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh vừa v&amp;agrave; nhỏ, những tổ chức c&amp;oacute; thể thiếu đội ngũ chuy&amp;ecirc;n tr&amp;aacute;ch chống gian lận nhưng lại linh hoạt v&amp;agrave; c&amp;oacute; khả năng triển khai c&amp;ocirc;ng cụ nhanh ch&amp;oacute;ng. Lợi nhuận đầu tư (ROI) đạt được từ khoản đầu tư n&amp;agrave;y c&amp;oacute; thể gấp bảy lần gi&amp;aacute; trị thực chỉ sau một năm, đồng thời cải thiện hiệu quả hoạt động v&amp;agrave; giảm thiểu gi&amp;aacute;n đoạn kinh doanh. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c giải ph&amp;aacute;p AI được thiết kế ri&amp;ecirc;ng theo mức dộ rủi ro ri&amp;ecirc;ng biệt của từng tổ chức t&amp;agrave;i ch&amp;iacute;nh gi&amp;uacute;p c&amp;aacute;c nh&amp;oacute;m đưa ra quyết định th&amp;ocirc;ng minh hơn, dựa tr&amp;ecirc;n dữ liệu ch&amp;iacute;nh x&amp;aacute;c hơn, nhằm bảo vệ lợi nhuận v&amp;agrave; thay đổi trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng. Những c&amp;ocirc;ng cụ n&amp;agrave;y gi&amp;uacute;p c&amp;aacute;c tổ chức đạt được sự c&amp;acirc;n bằng giữa bảo mật, trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; hiệu quả hoạt động. &amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những c&amp;ocirc;ng cụ n&amp;agrave;y tạo n&amp;ecirc;n sự c&amp;acirc;n bằng cần thiết giữa an to&amp;agrave;n, tiện lợi v&amp;agrave; hiệu quả vận h&amp;agrave;nh. Quan trọng hơn, đ&amp;atilde; đến l&amp;uacute;c nh&amp;igrave;n nhận ph&amp;ograve;ng chống gian lận kh&amp;ocirc;ng chỉ l&amp;agrave; một khoản chi ph&amp;iacute; cố định, m&amp;agrave; l&amp;agrave; một t&amp;agrave;i sản chiến lược c&amp;ocirc;ng cụ tạo ra gi&amp;aacute; trị thực sự, gi&amp;uacute;p tổ chức t&amp;agrave;i ch&amp;iacute;nh gi&amp;agrave;nh trọn niềm tin, l&amp;ograve;ng trung th&amp;agrave;nh của kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Nguồn tham khảo: The Financial Brand&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;Tổng hợp bởi nh&amp;oacute;m t&amp;aacute;c giả DTSVN - Giải ph&amp;aacute;p chuyển đổi số ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng.&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</content_vi_html>
+	<content_en_html>&lt;h3 style="text-align: justify;"&gt;Summary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style="text-align: justify;"&gt;Financial fraud is surging at record speed, while outdated defense measures leave financial institutions vulnerable and reactive targets.&lt;/li&gt;
+&lt;li style="text-align: justify;"&gt;The combination of predictive analytics and machine learning marks a turning point: transforming fraud prevention from a reactive &amp;ldquo;after-the-fact&amp;rdquo; approach to a proactive shield from the start.&lt;/li&gt;
+&lt;li style="text-align: justify;"&gt;Adopting advanced fraud detection technologies not only helps institutions strengthen customer trust but also optimizes operational costs and enhances competitiveness in the market.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;As fraud becomes more sophisticated and unpredictable, banks and credit institutions are under unprecedented pressure. The &amp;ldquo;old playbook&amp;rdquo;&amp;nbsp; issuing alerts only after incidents occur and rushing to reissue cards has become outdated and ineffective.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The industry needs a new approach to stop fraud before it happens. The answer lies in advanced predictive analytics combined with machine learning (ML). Integrated with real-time data, these tools not only block fraudulent activity early but can also counter fraudsters who are now leveraging AI to create increasingly convincing scams.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Why Traditional Tools Are No Longer Enough&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Financial fraud is escalating at an alarming pace. From phishing texts and fake e-commerce sites to social engineering attacks and account takeovers, today&amp;rsquo;s consumers face risks across every channel.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to &lt;em&gt;Security.org&lt;/em&gt;, 63% of U.S. credit card holders have fallen victim to fraud, and half of them have experienced it multiple times. Meanwhile, &lt;em&gt;Nilson Report&lt;/em&gt; paints an equally troubling picture: global losses from payment card fraud reached $33.83 billion in 2024 and are projected to soar to nearly $404 billion within the next decade&amp;nbsp;a staggering challenge for the entire financial sector.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Adding to the pressure, 77% of cardholders say they expect their financial provider to leverage advanced fraud prevention technologies. More importantly, some are even willing to switch providers if those expectations are not met.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Most financial institutions today rely on standard fraud prevention tools: multi-layered security programs, multi-factor authentication, rule-based fraud filters, device fingerprinting, IP monitoring, and behavioral analytics. While these systems form the foundation of modern fraud frameworks, they share one critical flaw: they primarily focus on known threats.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;As a result, financial institutions remain stuck in a reactive cycle responding only after incidents, relying heavily on network alerts and mass card reissuance. This approach drives up costs, overloads call centers, and fails to tackle the root of the problem.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;The Shift to Predictive Fraud Detection&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Predictive analytics is ushering in a new era in the fight against financial fraud. By combining real-time pattern recognition, machine learning, and anonymized data from thousands of financial institutions, it delivers a proactive shield far more effective than traditional defenses.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Every day, these systems scan tens of millions of card transactions, flagging anomalies with unmatched accuracy. Instead of manual intervention, banks can rely on customized risk scores for each profile, continuously updated to counter ever-evolving fraud tactics.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The result: high-risk transactions are intercepted before they can harm customers&amp;nbsp;enabling financial institutions to safeguard trust while reducing financial losses.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Elevating the Customer Experience&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Predictive fraud detection does more than protect it also enhances the cardholder experience: minimizing service disruptions and reinforcing confidence in financial security.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It reduces false positives, preventing legitimate transactions from being wrongly declined. By cutting down on unnecessary card reissuance, it also eliminates customer inconvenience, ensuring a seamless and trusted payment journey.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This presents a powerful opportunity to build long-term loyalty. Alerting customers that their card was proactively protected before fraud occurred, or that monitoring shielded them from multiple attack attempts, sends a strong message: your bank has your back. For today&amp;rsquo;s digital-first cardholders who demand speed, personalization, and always-on protection, this reassurance is invaluable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Smarter, More Agile Fraud Strategies&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;With the support of experts, predictive fraud tools deliver more accurate, actionable insights while reducing false alarms. This makes them especially valuable for small and mid-sized financial institutions, which may lack large dedicated fraud teams but possess the agility to adopt new technologies quickly.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The return on investment (ROI) can be remarkable up to seven times the initial investment within just one year&amp;nbsp;all while improving operational efficiency and reducing business disruption.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI-driven solutions tailored to each institution&amp;rsquo;s unique risk tolerance empower teams to make smarter, data-driven decisions, protecting profits while transforming the customer experience. These tools strike the essential balance between security, customer experience, and operational efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Most importantly, fraud prevention should no longer be seen as a fixed cost, but as a strategic asset &amp;mdash; a value-creating lever that earns customer trust, loyalty, and wallet share.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Source: The Financial Brand&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;&lt;strong&gt;Compiled by DTSVN &amp;ndash; Digital Transformation Solutions for the Financial &amp;amp; Banking Industry&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;About DTSVN&lt;br&gt;DTSVN is a pioneer in digital transformation, delivering cutting-edge solutions tailored for financial institutions in Vietnam. We help banks and financial organizations accelerate their digital transformation journey and strengthen their technology infrastructure.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us today for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<createdDate>2025-09-15T10:07:15.329Z</createdDate>
+	<createdDate_dt>2025-09-15T10:07:15.329Z</createdDate_dt>
+	<lastModifiedDate>2025-09-17T03:30:09.687Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-09-17T03:30:09.687Z</lastModifiedDate_dt>
+	<time_create_dt>2025-09-15T10:07:18.000Z</time_create_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-list-blog-lv2</content-type>
+	<display-template>/templates/web/Component-list-blog-lv2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7497</objectGroupId>
+	<objectId>74973664-fe5a-2e1b-4875-ce19b3183347</objectId>
+	<file-name>74973664-fe5a-2e1b-4875-ce19b3183347.xml</file-name>
+	<folder-name/>
+	<internal-name>test</internal-name>
+	<title_s>test</title_s>
+	<date_s>12</date_s>
+	<image_s/>
+	<category_s>Tin kinh doanh</category_s>
+	<max_articles_i>6</max_articles_i>
+	<createdDate>2025-07-02T08:32:41.923Z</createdDate>
+	<createdDate_dt>2025-07-02T08:32:41.923Z</createdDate_dt>
+	<lastModifiedDate>2025-07-02T08:32:41.923Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-02T08:32:41.923Z</lastModifiedDate_dt>
+</component>

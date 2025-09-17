@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6b40</objectGroupId>
+	<objectId>6b40d8c6-52f7-2498-a876-15d339608461</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>6b40d8c6-52f7-2498-a876-15d339608461</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Chuyển đổi số ngành Ngân hàng</internal-name>
+	<navLabel>Chuyển đổi số ngành Ngân hàng</navLabel>
+	<title_vi_s>Chuyển đổi số ngành Ngân hàng</title_vi_s>
+	<title_en_s>Digital transformation of banking industry</title_en_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/chuyen-doi-so-la-gi.png</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Chuyển đổi số ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; g&amp;igrave;?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Tại sao c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng phải Chuyển đổi số?&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Lợi &amp;iacute;ch khi c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng thực hiện Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.1 &amp;ndash; Tiện lợi v&amp;agrave; bảo mật&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.2 &amp;ndash; Tiết kiệm chi ph&amp;iacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.3 &amp;ndash; C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.4 &amp;ndash; Tự động h&amp;oacute;a c&amp;aacute;c t&amp;aacute;c vụ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.5 &amp;ndash; Khả năng th&amp;iacute;ch ứng cao&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Kh&amp;oacute; khăn m&amp;agrave; c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng gặp phải khi Chuyển đổi số&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.1 &amp;ndash; Bảo mật v&amp;agrave; rủi ro&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.2 &amp;ndash; Văn h&amp;oacute;a tổ chức&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.3 &amp;ndash; Chi ph&amp;iacute; đầu tư vận h&amp;agrave;nh cao&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.4 &amp;ndash; Sự thay đổi của kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Thực trạng Chuyển đổi số cho Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6. C&amp;aacute;c giải ph&amp;aacute;p Chuyển đổi số phổ biến ở trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6.1 &amp;ndash; Ứng dụng thanh to&amp;aacute;n điện tử&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6.2 &amp;ndash; Ứng dụng tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6.3 &amp;ndash; C&amp;ocirc;ng nghệ sinh trắc học&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6.4 &amp;ndash; Ứng dụng Big Data&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6.5 &amp;ndash; Ph&amp;aacute;t triển c&amp;ocirc;ng nghệ bảo mật&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số của to&amp;agrave;n bộ Doanh nghiệp tr&amp;ecirc;n cả nước, c&amp;aacute;c tổ chức trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; những tổ chức đi đầu trong việc Chuyển đổi số th&amp;agrave;nh c&amp;ocirc;ng nhằm cải thiện hiệu suất v&amp;agrave; tối ưu nguồn lực. Ngo&amp;agrave;i ra, chuyển đổi số ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng được x&amp;aacute;c định l&amp;agrave; một trong 8 lĩnh vực cần ưu ti&amp;ecirc;n theo Quyết định 749/QĐ-TTg (2020) của Thủ tướng Ch&amp;iacute;nh phủ ph&amp;ecirc; duyệt Chương tr&amp;igrave;nh &amp;ldquo;Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ giải th&amp;iacute;ch chi tiết gi&amp;uacute;p bạn hiểu r&amp;otilde; hơn về c&amp;aacute;c kh&amp;iacute;a cạnh trong Chuyển đổi số của ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Chuyển đổi số ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; g&amp;igrave;?&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng l&amp;agrave; việc t&amp;iacute;ch hợp c&amp;aacute;c c&amp;ocirc;ng nghệ kỹ thuật số v&amp;agrave; chiến lược đổi mới v&amp;agrave;o lĩnh vực dịch vụ t&amp;agrave;i ch&amp;iacute;nh để thay đổi to&amp;agrave;n diện c&amp;aacute;ch thức hoạt động của c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng ở c&amp;aacute;c kh&amp;iacute;a cạnh như: Tự động h&amp;oacute;a quy tr&amp;igrave;nh, T&amp;iacute;ch hợp dữ liệu, N&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, N&amp;acirc;ng cao khả năng b&amp;aacute;n h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một V&amp;iacute; dụ về Chuyển đổi số trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng m&amp;agrave; ta dễ thấy nhất đ&amp;oacute; l&amp;agrave; Ng&amp;acirc;n h&amp;agrave;ng số (Digital Banking). Ng&amp;acirc;n h&amp;agrave;ng số (Digital Banking) l&amp;agrave; h&amp;igrave;nh thức c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng sử dụng c&amp;ocirc;ng nghệ số để cung cấp c&amp;aacute;c dịch vụ cho kh&amp;aacute;ch h&amp;agrave;ng. Kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể dễ d&amp;agrave;ng sử dụng c&amp;aacute;c dịch vụ ng&amp;acirc;n h&amp;agrave;ng như chuyển tiền, gửi tiết kiệm, vay ti&amp;ecirc;u d&amp;ugrave;ng, thanh to&amp;aacute;n h&amp;oacute;a đơn,&amp;hellip; chỉ tr&amp;ecirc;n một ứng dụng.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Tại sao c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng phải Chuyển đổi số?&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;&lt;strong&gt;Đ&amp;aacute;p ứng nhu cầu người d&amp;ugrave;ng&lt;/strong&gt;: Với sự ph&amp;aacute;t triển của c&amp;ocirc;ng nghệ hiện nay, h&amp;agrave;nh vi v&amp;agrave; th&amp;oacute;i quen của người ti&amp;ecirc;u d&amp;ugrave;ng cũng thay đổi nhanh ch&amp;oacute;ng. Trước đ&amp;acirc;y thay v&amp;igrave; mua sắm qua c&amp;aacute;c k&amp;ecirc;nh Offline v&amp;agrave; chi ti&amp;ecirc;u bằng tiền mặt, giờ người ti&amp;ecirc;u d&amp;ugrave;ng c&amp;oacute; thể thanh to&amp;aacute;n kh&amp;ocirc;ng cần tiền mặt 1 c&amp;aacute;ch nhanh ch&amp;oacute;ng v&amp;agrave; tiện lợi khi mua h&amp;agrave;ng Online. V&amp;igrave; vậy, c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng bắt buộc phải Chuyển đổi số để đ&amp;aacute;p ứng được nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; người d&amp;ugrave;ng.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tăng khả năng cạnh tranh trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng&lt;/strong&gt;: Sự ph&amp;aacute;t triển của Digital Banking v&amp;agrave; c&amp;aacute;c c&amp;ocirc;ng ty Fintech đang tạo ra sự cạnh tranh mạnh mẽ trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh &amp;ndash; Ng&amp;acirc;n h&amp;agrave;ng. Ch&amp;iacute;nh v&amp;igrave; thế, việc Chuyển đổi số l&amp;agrave; cần thiết để cạnh tranh với c&amp;aacute;c c&amp;ocirc;ng ty Fintech nhằm thu h&amp;uacute;t kh&amp;aacute;ch h&amp;agrave;ng mới v&amp;agrave; giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng hiện tại.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tăng khả năng tiếp cận Kh&amp;aacute;ch h&amp;agrave;ng tốt hơn&lt;/strong&gt;: Chuyển đổi số gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng tiết kiệm chi ph&amp;iacute; vận h&amp;agrave;nh so với chi ph&amp;iacute; duy tr&amp;igrave; c&amp;aacute;c mạng lưới chi nh&amp;aacute;nh Ng&amp;acirc;n h&amp;agrave;ng truyền thống bằng c&amp;aacute;c giao dịch trực tuyến, tự động h&amp;oacute;a quy tr&amp;igrave;nh trong nghiệp vụ. C&amp;aacute;c v&amp;iacute; dụ điển h&amp;igrave;nh ta c&amp;oacute; thể thấy như:
+&lt;ul&gt;
+&lt;li&gt;C&amp;aacute;c giao dịch trực tuyến được tự động h&amp;oacute;a v&amp;agrave; sau đ&amp;oacute; người d&amp;ugrave;ng c&amp;oacute; thể thoải m&amp;aacute;i kiểm tra số dư v&amp;agrave; lịch sử giao dịch gần đ&amp;acirc;y tr&amp;ecirc;n App m&amp;agrave; kh&amp;ocirc;ng cần li&amp;ecirc;n hệ với nh&amp;acirc;n vi&amp;ecirc;n Ng&amp;acirc;n h&amp;agrave;ng&lt;/li&gt;
+&lt;li&gt;Chatbot v&amp;agrave; tổng đ&amp;agrave;i AI hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng t&amp;igrave;m kiếm th&amp;ocirc;ng tin, ph&amp;acirc;n loại hỗ trợ v&amp;agrave; giải quyết c&amp;aacute;c vấn đề cơ bản m&amp;agrave; kh&amp;ocirc;ng cần sự can thiệp của nh&amp;acirc;n vi&amp;ecirc;n Ng&amp;acirc;n h&amp;agrave;ng, từ đ&amp;oacute; l&amp;agrave;m tăng trải nghiệm tư phục vụ 24/7 cho kh&amp;aacute;ch h&amp;agrave;ng.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;&lt;strong&gt;Sự xuất hiện của c&amp;aacute;c sản phẩm kỹ thuật số&lt;/strong&gt;: C&amp;aacute;c c&amp;ocirc;ng ty Fintech khi tham gia thị trường đ&amp;atilde; ph&amp;aacute;t triển v&amp;agrave; ra mắt c&amp;aacute;c sản phẩm mới nhằm th&amp;uacute;c đẩy sự cạnh tranh th&amp;ocirc;ng qua sự tiện lợi khi sử dụng dịch vụ của c&amp;ocirc;ng ty họ bằng c&amp;aacute;c ứng dụng di động, v&amp;iacute; điện tử, vay ph&amp;ecirc; duyệt nhanh,&amp;hellip; Kh&amp;aacute;ch h&amp;agrave;ng ng&amp;agrave;y c&amp;agrave;ng mong muốn c&amp;oacute; trải nghiệm linh hoạt, thuận tiện, nhanh ch&amp;oacute;ng đối với Ng&amp;acirc;n h&amp;agrave;ng n&amp;ecirc;n c&amp;aacute;c tổ chức Ng&amp;acirc;n h&amp;agrave;ng cần phải Chuyển đổi số v&amp;agrave; c&amp;ugrave;ng cấp c&amp;aacute;c sản phẩm dịch vụ tương tự để c&amp;oacute; thể cạnh tranh được tr&amp;ecirc;n thị trường.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Lợi &amp;iacute;ch khi c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng thực hiện Chuyển đổi số&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Tiện lợi v&amp;agrave; bảo mật&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số gi&amp;uacute;p kh&amp;aacute;ch h&amp;agrave;ng thực hiện c&amp;aacute;c giao dịch Ng&amp;acirc;n h&amp;agrave;ng từ xa một c&amp;aacute;ch tiện lợi, bất kể thời gian v&amp;agrave; địa điểm. Kh&amp;aacute;ch h&amp;agrave;ng ho&amp;agrave;n to&amp;agrave;n chủ động trong vấn đề tiếp cận, quản l&amp;yacute; t&amp;agrave;i khoản, kiểm tra số dư, thanh to&amp;aacute;n h&amp;oacute;a đơn, đầu tư chứng kho&amp;aacute;n th&amp;ocirc;ng qua Mobile App/Web App của c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng m&amp;agrave; kh&amp;ocirc;ng cần phải ra trực tiếp chi nh&amp;aacute;nh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, Chuyển đổi số trong Ng&amp;acirc;n h&amp;agrave;ng rất ch&amp;uacute; trọng về vấn đề bảo mật th&amp;ocirc;ng tin v&amp;agrave; giao dịch. C&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng lu&amp;ocirc;n &amp;aacute;p dụng c&amp;aacute;c biện ph&amp;aacute;p bảo mật t&amp;acirc;n tiến nhất để đảm bảo an to&amp;agrave;n th&amp;ocirc;ng tin của kh&amp;aacute;ch h&amp;agrave;ng. C&amp;aacute;c biện ph&amp;aacute;p hiện tại ta c&amp;oacute; thể thấy trong đời sống như: M&amp;atilde; h&amp;oacute;a dữ liệu, X&amp;aacute;c thực 2 yếu tố, Cảnh b&amp;aacute;o giao dịch đ&amp;aacute;ng ngờ v&amp;agrave; Quản l&amp;yacute; rủi ro T&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Tiết kiệm chi ph&amp;iacute;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số gi&amp;uacute;p mọi Doanh nghiệp v&amp;agrave; Tổ chức giảm thiểu được c&amp;aacute;c chi ph&amp;iacute; về vận h&amp;agrave;nh. V&amp;iacute; dụ điển h&amp;igrave;nh v&amp;agrave; dễ thấy nhất đ&amp;oacute; l&amp;agrave; việc số h&amp;oacute;a c&amp;aacute;c t&amp;agrave;i liệu từ dạng giấy tờ vật l&amp;yacute; sang dạng t&amp;agrave;i liệu số v&amp;agrave; được lưu trữ tr&amp;ecirc;n hệ thống điện to&amp;aacute;n đ&amp;aacute;m m&amp;acirc;y thay v&amp;igrave; lưu trữ truyền thống tr&amp;ecirc;n giấy gi&amp;uacute;p giảm thiểu chi ph&amp;iacute; li&amp;ecirc;n quan đến mua sắm, in ấn v&amp;agrave; kho lưu trữ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, c&amp;aacute;c c&amp;ocirc;ng nghệ mới nhất hiện nay như Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) c&amp;oacute; thể hỗ trợ c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng tăng hiệu suất l&amp;agrave;m việc v&amp;agrave; giảm chi ph&amp;iacute; nh&amp;acirc;n c&amp;ocirc;ng. Ứng dụng ta hay thấy nhất về AI l&amp;agrave; ở trong mảng CSKH, AI sẽ đ&amp;oacute;ng vai tr&amp;ograve; như trợ l&amp;yacute; tổng đ&amp;agrave;i ảo để hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng với c&amp;aacute;c nhu cầu cơ bản, nh&amp;acirc;n vi&amp;ecirc;n Ng&amp;acirc;n h&amp;agrave;ng chỉ phải tiếp nhận c&amp;aacute;c y&amp;ecirc;u cầu hỗ trợ mang t&amp;iacute;nh phức tạp v&amp;agrave; chuy&amp;ecirc;n s&amp;acirc;u hơn.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; C&amp;aacute; nh&amp;acirc;n h&amp;oacute;a&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Với c&amp;aacute;c c&amp;ocirc;ng nghệ mới nhất như Tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) v&amp;agrave; M&amp;aacute;y học (Machine Learning), Chuyển đổi số gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng&amp;nbsp;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-marketing-automation/cdp-trong-nganh-ngan-hang/"&gt;thu thập, hợp nhất v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch dữ liệu c&amp;aacute; nh&amp;acirc;n của kh&amp;aacute;ch h&amp;agrave;ng&lt;/a&gt;&amp;nbsp;từ nhiều nguồn kh&amp;aacute;c nhau, sau đ&amp;oacute; Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể tạo ra c&amp;aacute;c chiến dịch, đề xuất c&amp;aacute;c sản phẩm dịch vụ ph&amp;ugrave; hợp cũng như tạo ra c&amp;aacute;c trải nghiệm người d&amp;ugrave;ng được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a cho từng ph&amp;acirc;n tập kh&amp;aacute;ch h&amp;agrave;ng tiềm năng, từ đ&amp;oacute; tăng chuyển đổi v&amp;agrave; sự thỏa m&amp;atilde;n của kh&amp;aacute;ch h&amp;agrave;ng khi sử dụng sản phẩm dịch vụ.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4 &amp;ndash; Tự động h&amp;oacute;a c&amp;aacute;c t&amp;aacute;c vụ&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c t&amp;aacute;c vụ trước đ&amp;acirc;y tưởng chừng rất kh&amp;oacute; khăn để thực hiện thủ c&amp;ocirc;ng nay đ&amp;atilde; được c&amp;aacute;c c&amp;ocirc;ng nghệ Chuyển đổi số tối giản. Một V&amp;iacute; dụ dễ thấy đ&amp;oacute; l&amp;agrave; việc tự động h&amp;oacute;a quy tr&amp;igrave;nh xử l&amp;yacute; giao dịch từ khi kh&amp;aacute;ch h&amp;agrave;ng thực hiện cho tới khi xử l&amp;yacute; ho&amp;agrave;n to&amp;agrave;n th&amp;ocirc;ng qua sự gi&amp;aacute;m s&amp;aacute;t của hệ thống Ng&amp;acirc;n h&amp;agrave;ng như: Chuyển tiền từ t&amp;agrave;i khoản n&amp;agrave;y sang t&amp;agrave;i khoản kh&amp;aacute;c, xử l&amp;yacute; khoản vay, ph&amp;ecirc; duyệt hồ sơ tự động,&amp;hellip; Từ đ&amp;oacute; m&amp;agrave; những sai s&amp;oacute;t của c&amp;aacute;c t&amp;aacute;c vụ n&amp;agrave;y khi l&amp;agrave;m thủ c&amp;ocirc;ng được hạn chết tối đa.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng cũng cung cấp c&amp;aacute;c c&amp;ocirc;ng cụ v&amp;agrave; ứng dụng để kh&amp;aacute;ch h&amp;agrave;ng tự phục vụ m&amp;agrave; kh&amp;ocirc;ng cần phải th&amp;ocirc;ng qua nh&amp;acirc;n vi&amp;ecirc;n Ng&amp;acirc;n h&amp;agrave;ng kiểm tra lại như: Tự đăng k&amp;yacute; số t&amp;agrave;i khoản, Thay đổi th&amp;ocirc;ng tin c&amp;aacute; nh&amp;acirc;n, Y&amp;ecirc;u cầu thẻ mới, Gửi tiết kiệm, Hướng dẫn tổng quan về sản phẩm,&amp;hellip; từ đ&amp;oacute; tăng trải nghiệm cho kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; giảm thời gian xử l&amp;yacute; c&amp;aacute;c việc thủ c&amp;ocirc;ng của nh&amp;acirc;n vi&amp;ecirc;n.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;5 &amp;ndash; Khả năng th&amp;iacute;ch ứng cao&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số th&amp;uacute;c đẩy c&amp;aacute;c tổ chức Ng&amp;acirc;n h&amp;agrave;ng th&amp;iacute;ch ứng nhanh hơn với xu hướng c&amp;ocirc;ng nghệ tr&amp;ecirc;n thị trường. Điều quan trọng nhất l&amp;agrave; c&amp;aacute;c tổ chức Ng&amp;acirc;n h&amp;agrave;ng phải c&amp;oacute; khả năng tự n&amp;acirc;ng cấp để đ&amp;aacute;p ứng nhu cầu của người d&amp;ugrave;ng trong thời đại m&amp;agrave; mọi thứ ph&amp;aacute;t triển v&amp;agrave; biến đổi li&amp;ecirc;n tục. Hiện tại, c&amp;aacute;c cổng th&amp;ocirc;ng tin mua sắm, s&amp;agrave;n Thương mại điện tử, V&amp;iacute; điện tử đ&amp;atilde; mở ra nhiều cơ hội cho c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng tiếp cận v&amp;agrave; điều chỉnh hoặc tạo ra c&amp;aacute;c sản phẩm dịch vụ mới sao cho ph&amp;ugrave; hợp với h&amp;agrave;nh vi của người ti&amp;ecirc;u d&amp;ugrave;ng tr&amp;ecirc;n thị trường giao dịch trực tuyến.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Kh&amp;oacute; khăn m&amp;agrave; c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng gặp phải khi Chuyển đổi số&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Bảo mật v&amp;agrave; rủi ro&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; c&amp;aacute;c c&amp;ocirc;ng nghệ mới n&amp;acirc;ng cao khả năng bảo mật cho c&amp;aacute;c Doanh nghiệp n&amp;oacute;i chung v&amp;agrave; c&amp;aacute;c tổ chức Ng&amp;acirc;n h&amp;agrave;ng n&amp;oacute;i ri&amp;ecirc;ng nhưng đồng thời cũng tạo ra c&amp;aacute;c rủi ro mới li&amp;ecirc;n quan đến bảo mật như tấn c&amp;ocirc;ng mạng, lừa đảo điện tử khi th&amp;ocirc;ng tin v&amp;agrave; giao dịch của kh&amp;aacute;ch h&amp;agrave;ng được số h&amp;oacute;a sang h&amp;igrave;nh thức điện tử. Ch&amp;iacute;nh v&amp;igrave; vậy, c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng cũng phải cập nhật c&amp;aacute;c phương thức bảo mật mới nhất b&amp;ecirc;n cạnh c&amp;aacute;c c&amp;ocirc;ng nghệ số t&amp;acirc;n tiến nhất để tạo được sự tin cậy v&amp;agrave; an to&amp;agrave;n cho kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Văn h&amp;oacute;a tổ chức&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Mọi Doanh nghiệp v&amp;agrave; tổ chức đều phải đối mặt với vấn đề m&amp;acirc;u thuẫn nội bộ khi lu&amp;acirc;n chuyển từ hệ thống quản l&amp;yacute; thủ c&amp;ocirc;ng sang hệ thống quản l&amp;yacute; bằng c&amp;ocirc;ng nghệ. Th&amp;agrave;nh c&amp;ocirc;ng trong qu&amp;aacute; tr&amp;igrave;nh Chuyển đổi số đ&amp;ograve;i hỏi sự s&amp;aacute;ng tạo, linh hoạt v&amp;agrave; tư duy sẵn s&amp;agrave;ng thay đổi đ&amp;oacute;n nhận c&amp;aacute;i mới từ tất cả mọi th&amp;agrave;nh vi&amp;ecirc;n trong tổ chức. Ngo&amp;agrave;i ra, việc x&amp;acirc;y dựng l&amp;ograve;ng tin v&amp;agrave; đ&amp;agrave;o tạo nh&amp;acirc;n vi&amp;ecirc;n về lợi &amp;iacute;ch khi Chuyển đổi số l&amp;agrave; điều quan trọng nhất để vượt qua th&amp;aacute;ch thức n&amp;agrave;y.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; Chi ph&amp;iacute; đầu tư vận h&amp;agrave;nh cao&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số c&amp;oacute; thể đ&amp;ograve;i hỏi nguồn lực đầu tư t&amp;agrave;i ch&amp;iacute;nh dồi d&amp;agrave;o v&amp;agrave; được hỗ trợ trong thời gian d&amp;agrave;i. C&amp;aacute;c tổ chức Ng&amp;acirc;n h&amp;agrave;ng phải chi ti&amp;ecirc;u cho việc ph&amp;aacute;t triển, triển khai c&amp;aacute;c hệ thống, c&amp;ocirc;ng nghệ v&amp;agrave; cơ sở hạ tầng mới. Đồng thời, họ cũng phải xem x&amp;eacute;t chi ph&amp;iacute; bảo tr&amp;igrave; v&amp;agrave; n&amp;acirc;ng cấp li&amp;ecirc;n quan đến chuyển đổi số nhằm đảm bảo hoạt động kinh doanh sau khi Chuyển đổi số diễn ra thuận lợi v&amp;agrave; kh&amp;ocirc;ng bị gi&amp;aacute;n đoạn.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4 &amp;ndash; Sự thay đổi của kh&amp;aacute;ch h&amp;agrave;ng&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số kh&amp;ocirc;ng chỉ giới hạn ở ph&amp;iacute;a b&amp;ecirc;n c&amp;aacute;c Doanh nghiệp m&amp;agrave; c&amp;ograve;n được mở rộng cả về ph&amp;iacute;a b&amp;ecirc;n kh&amp;aacute;ch h&amp;agrave;ng. Mặc d&amp;ugrave; h&amp;agrave;nh vi mua sắm của kh&amp;aacute;ch h&amp;agrave;ng từ k&amp;ecirc;nh truyền thống sang k&amp;ecirc;nh số biến đổi rất nhanh ch&amp;oacute;ng, tuy vậy vẫn sẽ c&amp;oacute; tỷ trọng nhất định những kh&amp;aacute;ch h&amp;agrave;ng vẫn c&amp;ograve;n gặp kh&amp;oacute; khăn trong việc l&amp;agrave;m quen với việc giao dịch tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh số. Nhiệm vụ của c&amp;aacute;c Doanh nghiệp n&amp;oacute;i chung v&amp;agrave; Ng&amp;acirc;n h&amp;agrave;ng n&amp;oacute;i ri&amp;ecirc;ng l&amp;agrave; cung cấp c&amp;aacute;c kiến thức, th&amp;ocirc;ng tin cũng như sự đ&amp;agrave;o tạo cho kh&amp;aacute;ch h&amp;agrave;ng để kh&amp;aacute;ch h&amp;agrave;ng cảm thấy thoải m&amp;aacute;i v&amp;agrave; tin tưởng sử dụng c&amp;aacute;c sản phẩm, dịch vụ trong tương lai.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Thực trạng Chuyển đổi số cho Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://sbv.gov.vn/webcenter/portal/vi/menu/fm/ddnhnn/nctd/nctd_chitiet?centerWidth=80%25&amp;amp;dDocName=SBV557411&amp;amp;leftWidth=20%25&amp;amp;rightWidth=0%25&amp;amp;showFooter=false&amp;amp;showHeader=false&amp;amp;_adf.ctrl-state=kgvtl202u_4&amp;amp;_afrLoop=186156440194774#%40%3F_afrLoop%3D186156440194774%26centerWidth%3D80%2525%26dDocName%3DSBV557411%26leftWidth%3D20%2525%26rightWidth%3D0%2525%26showFooter%3Dfalse%26showHeader%3Dfalse%26_adf.ctrl-state%3D588264g1e_4"&gt;Theo Ng&amp;acirc;n h&amp;agrave;ng Nh&amp;agrave; nước Việt Nam&lt;/a&gt;, v&amp;agrave;o năm 2023 c&amp;oacute; một số xu hướng cơ bản ảnh hưởng đến việc ưu ti&amp;ecirc;n đầu tư v&amp;agrave; tiến tr&amp;igrave;nh chuyển đổi số trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng. Một trong những xu hướng cơ bản lớn nhất l&amp;agrave; sự tăng trưởng li&amp;ecirc;n tục trong việc sử dụng v&amp;agrave; kỳ vọng của kh&amp;aacute;ch h&amp;agrave;ng về Ng&amp;acirc;n h&amp;agrave;ng số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi ng&amp;agrave;y c&amp;agrave;ng c&amp;oacute; nhiều người ti&amp;ecirc;u d&amp;ugrave;ng sử dụng điện thoại th&amp;ocirc;ng minh v&amp;agrave; c&amp;aacute;c thiết bị di động kh&amp;aacute;c, c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng đang ng&amp;agrave;y ch&amp;uacute; trọng v&amp;agrave;o việc ph&amp;aacute;t triển c&amp;aacute;c chiến lược ưu ti&amp;ecirc;n dựa tr&amp;ecirc;n thiết bị di động v&amp;agrave; cung cấp c&amp;aacute;c dịch vụ được tối ưu h&amp;oacute;a cho người d&amp;ugrave;ng. Điều n&amp;agrave;y bao gồm c&amp;aacute;c t&amp;iacute;nh năng như thanh to&amp;aacute;n di động, tiền gửi di động, v&amp;agrave; c&amp;aacute;c t&amp;iacute;nh năng kh&amp;aacute;ch gi&amp;uacute;p kh&amp;aacute;ch h&amp;agrave;ng quản l&amp;yacute; t&amp;agrave;i ch&amp;iacute;nh dễ d&amp;agrave;ng, thuận tiện hơn khi di chuyển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, theo&amp;nbsp;&lt;a href="https://tapchinganhang.gov.vn/chuyen-doi-so-nganh-ngan-hang-kinh-nghiem-quoc-te-va-bai-hoc-doi-voi-viet-nam.htm"&gt;Tạp ch&amp;iacute; Ng&amp;acirc;n h&amp;agrave;ng&lt;/a&gt;&amp;nbsp;v&amp;agrave;&amp;nbsp;&lt;a href="https://thitruongtaichinhtiente.vn/chuyen-doi-so-nganh-ngan-hang-viet-nam-co-hoi-thuc-trang-va-giai-phap-52299.html"&gt;Tạp ch&amp;iacute; Thị trường T&amp;agrave;i ch&amp;iacute;nh Tiền tệ&lt;/a&gt;, hầu hết c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng ở Việt Nam đều đ&amp;atilde; cho ra mắt ứng dụng dịch vụ số cả tr&amp;ecirc;n PC v&amp;agrave; Mobile để phục vụ kh&amp;aacute;ch h&amp;agrave;ng, trong đ&amp;oacute; ti&amp;ecirc;u biểu phải kể đến như BIDV, VietinBank, VPBank, TPBank,&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; c&amp;ocirc;ng cuộc Chuyển đổi số của c&amp;aacute;c tổ chức Ng&amp;acirc;n h&amp;agrave;ng ở Việt Nam ph&amp;aacute;t triển rất tốt, nhưng vẫn c&amp;ograve;n một v&amp;agrave;i hạn chế cản trở chiến lược Chuyển đổi số của c&amp;aacute;c Ng&amp;acirc;n h&amp;agrave;ng như: khung ph&amp;aacute;p l&amp;yacute; về chuyển đổi số c&amp;ograve;n chưa thật sự đồng bộ trong qu&amp;aacute; tr&amp;igrave;nh thực hiện, thường đi sau sự ph&amp;aacute;t triển của c&amp;ocirc;ng nghệ; hạ tầng c&amp;ocirc;ng nghệ v&amp;agrave; kỹ thuật số c&amp;ograve;n hạn chế v&amp;agrave; chưa đồng nhất trong hệ thống c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng; &amp;aacute;p lực gia tăng từ c&amp;aacute;c cuộc tấn c&amp;ocirc;ng an ninh mạng v&amp;agrave; lừa đảo ng&amp;agrave;y c&amp;agrave;ng gia tăng; sự cạnh tranh của c&amp;aacute;c c&amp;ocirc;ng ty Fintech trong lĩnh vực t&amp;agrave;i ch&amp;iacute;nh&amp;hellip;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;c giải ph&amp;aacute;p Chuyển đổi số phổ biến ở trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Ứng dụng thanh to&amp;aacute;n điện tử&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c giải ph&amp;aacute;p thanh to&amp;aacute;n điện tử đang trở n&amp;ecirc;n phổ biến v&amp;agrave; quen thuộc hơn đối với người ti&amp;ecirc;u d&amp;ugrave;ng. Thay v&amp;igrave; thực hiện c&amp;aacute;c giao dịch th&amp;ocirc;ng qua quy tr&amp;igrave;nh phức tạp, tốn thời gian của ng&amp;acirc;n h&amp;agrave;ng truyền thống, c&amp;aacute;c c&amp;ocirc;ng ty Fintech tập trung v&amp;agrave;o việc thực hiện những nghiệp vụ đ&amp;oacute; một c&amp;aacute;ch đơn giản, hiệu quả, mang lại tiện lợi v&amp;agrave; tốc độ cho người ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, c&amp;aacute;c giải ph&amp;aacute;p thanh to&amp;aacute;n điện tử cũng mang lại mức độ bảo mật cao đối với người d&amp;ugrave;ng. C&amp;aacute;c c&amp;ocirc;ng ty Fintech v&amp;agrave; Ng&amp;acirc;n h&amp;agrave;ng số đ&amp;atilde; đầu tư mạnh v&amp;agrave;o c&amp;aacute;c biện ph&amp;aacute;p bảo mật ti&amp;ecirc;n tiến như m&amp;atilde; h&amp;oacute;a dữ liệu, x&amp;aacute;c thực hai yếu tố, gi&amp;uacute;p bảo vệ th&amp;ocirc;ng tin t&amp;agrave;i khoản v&amp;agrave; c&amp;aacute;c giao dịch của kh&amp;aacute;ch h&amp;agrave;ng. Việc &amp;aacute;p dụng c&amp;aacute;c giải ph&amp;aacute;p thanh to&amp;aacute;n điện tử cũng gi&amp;uacute;p giảm thiểu chi ph&amp;iacute; vận h&amp;agrave;nh của Ng&amp;acirc;n h&amp;agrave;ng thay v&amp;igrave; phải xử l&amp;yacute; nhiều giao dịch truyền thống một c&amp;aacute;ch thủ c&amp;ocirc;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Ứng dụng tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI)&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Trong chuyển số ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng, tr&amp;iacute; tuệ nh&amp;acirc;n tạo (AI) đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong việc x&amp;aacute;c định c&amp;aacute;c hoạt động bất thường trong giao dịch, giảm thiểu rủi ro gian lận. Sử dụng ph&amp;acirc;n t&amp;iacute;ch dữ liệu từ qu&amp;aacute; khứ, AI gi&amp;uacute;p c&amp;aacute;c ng&amp;acirc;n h&amp;agrave;ng đưa ra quyết định một c&amp;aacute;ch linh hoạt v&amp;agrave; th&amp;ocirc;ng minh hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngo&amp;agrave;i ra, AI cũng đ&amp;oacute;ng g&amp;oacute;p v&amp;agrave;o việc n&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng. Qua việc ph&amp;acirc;n t&amp;iacute;ch t&amp;acirc;m l&amp;yacute;, h&amp;agrave;nh vi v&amp;agrave; c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, AI hỗ trợ nh&amp;agrave; cung cấp dịch vụ t&amp;agrave;i ch&amp;iacute;nh để hiểu r&amp;otilde; hơn về kh&amp;aacute;ch h&amp;agrave;ng. V&amp;iacute; dụ, AI c&amp;oacute; thể tự động đề xuất sản phẩm dựa tr&amp;ecirc;n th&amp;oacute;i quen ti&amp;ecirc;u d&amp;ugrave;ng, trạng th&amp;aacute;i t&amp;agrave;i ch&amp;iacute;nh hiện tại của kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; mang lại trải nghiệm c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a v&amp;agrave; tăng cường sự h&amp;agrave;i l&amp;ograve;ng của họ.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; C&amp;ocirc;ng nghệ sinh trắc học&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Sử dụng c&amp;ocirc;ng nghệ sinh trắc học như nhận diện giọng n&amp;oacute;i, khu&amp;ocirc;n mặt, v&amp;acirc;n tay hoặc mống mắt đ&amp;atilde; mang lại nhiều lợi &amp;iacute;ch đ&amp;aacute;ng kể trong lĩnh vực bảo mật v&amp;agrave; tăng tốc độ thực hiện c&amp;aacute;c giao dịch t&amp;agrave;i ch&amp;iacute;nh. C&amp;ocirc;ng nghệ n&amp;agrave;y gi&amp;uacute;p giảm khả năng giả mạo, tăng t&amp;iacute;nh bảo mật trong việc x&amp;aacute;c nhận giao dịch v&amp;agrave; c&amp;aacute;c quy tr&amp;igrave;nh bảo l&amp;atilde;nh t&amp;iacute;n dụng. Hiện nay, ứng dụng c&amp;ocirc;ng nghệ sinh trắc học đ&amp;atilde; trở n&amp;ecirc;n phổ biến v&amp;agrave; l&amp;agrave; một trong những xu hướng nổi bật trong qu&amp;aacute; tr&amp;igrave;nh chuyển đổi số ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4 &amp;ndash; Ứng dụng Big Data&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Trong ng&amp;agrave;nh ng&amp;acirc;n h&amp;agrave;ng, Big Data c&amp;oacute; thể được sử dụng để hiểu r&amp;otilde; hơn về kh&amp;aacute;ch h&amp;agrave;ng, dự đo&amp;aacute;n xu hướng v&amp;agrave; h&amp;agrave;nh vi ti&amp;ecirc;u d&amp;ugrave;ng, tối ưu h&amp;oacute;a quy tr&amp;igrave;nh v&amp;agrave; quản l&amp;yacute; rủi ro. Dữ liệu lớn từ c&amp;aacute;c nguồn kh&amp;aacute;c nhau như giao dịch t&amp;agrave;i ch&amp;iacute;nh, dữ liệu kh&amp;aacute;ch h&amp;agrave;ng, th&amp;ocirc;ng tin thị trường c&amp;oacute; thể được sử dụng để x&amp;acirc;y dựng c&amp;aacute;c m&amp;ocirc; h&amp;igrave;nh ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; dự b&amp;aacute;o. Ứng dụng Big Data trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể gi&amp;uacute;p tăng cường trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng, cung cấp dịch vụ c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a, ph&amp;aacute;t hiện gian lận v&amp;agrave; rủi ro t&amp;agrave;i ch&amp;iacute;nh, quản l&amp;yacute; danh mục đầu tư hiệu quả, v&amp;agrave; cải thiện quy tr&amp;igrave;nh nội bộ của Ng&amp;acirc;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;5 &amp;ndash; Ph&amp;aacute;t triển c&amp;ocirc;ng nghệ bảo mật&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Trong thập kỷ tới, vấn đề an ninh mạng, bảo vệ quyền ri&amp;ecirc;ng tư trở th&amp;agrave;nh một trong những ưu ti&amp;ecirc;n quan trọng do sự phổ biến của internet, t&amp;igrave;nh h&amp;igrave;nh tấn c&amp;ocirc;ng ng&amp;agrave;y c&amp;agrave;ng tinh vi v&amp;agrave; đa dạng. C&amp;aacute;c cuộc tấn c&amp;ocirc;ng mạng phạm vi rộng như Equachus, WannaCry, NotPetya đ&amp;atilde; g&amp;acirc;y ra những hậu quả nghi&amp;ecirc;m trọng, đặc biệt trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng. Điều n&amp;agrave;y đ&amp;atilde; l&amp;agrave;m r&amp;otilde; những lỗ hổng v&amp;agrave; th&amp;aacute;ch thức trong việc bảo mật hệ thống của c&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Do đ&amp;oacute;, việc ph&amp;aacute;t triển, n&amp;acirc;ng cấp v&amp;agrave; &amp;aacute;p dụng c&amp;aacute;c c&amp;ocirc;ng nghệ bảo mật ti&amp;ecirc;n tiến l&amp;agrave; một ưu ti&amp;ecirc;n h&amp;agrave;ng đầu. C&amp;aacute;c tổ chức t&amp;agrave;i ch&amp;iacute;nh cần đầu tư v&amp;agrave;o c&amp;aacute;c giải ph&amp;aacute;p bảo mật mạnh mẽ như m&amp;atilde; h&amp;oacute;a dữ liệu, hệ thống ph&amp;aacute;t hiện x&amp;acirc;m nhập (IDS), hệ thống ph&amp;ograve;ng thủ chống truy cập tr&amp;aacute;i ph&amp;eacute;p, quản l&amp;yacute; danh t&amp;iacute;nh. B&amp;ecirc;n cạnh đ&amp;oacute;, việc tạo ra một văn h&amp;oacute;a an to&amp;agrave;n th&amp;ocirc;ng qua đ&amp;agrave;o tạo nh&amp;acirc;n vi&amp;ecirc;n, thực hiện ch&amp;iacute;nh s&amp;aacute;ch bảo mật sẽ l&amp;agrave; yếu tố quan trọng trong việc đảm bảo an ninh mạng v&amp;agrave; bảo vệ quyền ri&amp;ecirc;ng tư.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; to&amp;agrave;n bộ th&amp;ocirc;ng tin về định nghĩa v&amp;agrave; lợi &amp;iacute;ch m&amp;agrave; Chuyển đổi số trong ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng đem lại. Nếu bạn muốn được tư vấn to&amp;agrave;n diện về lộ tr&amp;igrave;nh Chuyển đổi số cho Doanh nghiệp, h&amp;atilde;y đặt lịch tư vấn với DTSVN tại đ&amp;acirc;y.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;What is Digital Transformation in the Banking Sector?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Why Do Banks Need to Undergo Digital Transformation?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Benefits of Digital Transformation in Banking&lt;br&gt;3.1 &amp;ndash; Convenience and Security&lt;br&gt;3.2 &amp;ndash; Cost Savings&lt;br&gt;3.3 &amp;ndash; Personalization&lt;br&gt;3.4 &amp;ndash; Task Automation&lt;br&gt;3.5 &amp;ndash; High Adaptability&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Challenges Banks Face in Digital Transformation&lt;br&gt;4.1 &amp;ndash; Security and Risks&lt;br&gt;4.2 &amp;ndash; Organizational Culture&lt;br&gt;4.3 &amp;ndash; High Operational Investment Costs&lt;br&gt;4.4 &amp;ndash; Changing Customer Behavior&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Current Status of Digital Transformation in the Banking Sector in Vietnam&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Common Digital Transformation Solutions in the Banking Industry&lt;br&gt;6.1 &amp;ndash; Electronic Payment Applications&lt;br&gt;6.2 &amp;ndash; Artificial Intelligence (AI) Applications&lt;br&gt;6.3 &amp;ndash; Biometric Technology&lt;br&gt;6.4 &amp;ndash; Big Data Applications&lt;br&gt;6.5 &amp;ndash; Development of Security Technologies&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: justify;"&gt;During the nationwide digital transformation journey, the banking sector has been one of the pioneers in successfully applying digital initiatives to improve performance and optimize resources. Moreover, digital transformation in banking has been identified as one of the &lt;strong&gt;eight priority sectors&lt;/strong&gt; under Decision 749/QĐ-TTg (2020) approved by the Prime Minister as part of the &lt;strong&gt;National Digital Transformation Program to 2025, with orientation to 2030.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This article will provide a detailed explanation to help you better understand the key aspects of digital transformation in the banking sector.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;1. What is Digital Transformation in the Banking Sector?&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Digital transformation in banking is the integration of &lt;strong&gt;digital technologies and innovative strategies&lt;/strong&gt; into financial services to comprehensively change the way banks operate. It covers various aspects such as &lt;strong&gt;process automation, data integration, enhanced customer experience, and improved sales capability.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;A typical example of digital transformation in banking is &lt;strong&gt;Digital Banking.&lt;/strong&gt; Digital Banking refers to banks adopting digital technology to provide services to customers. Clients can easily conduct banking transactions such as money transfers, savings deposits, consumer loans, and bill payments&amp;mdash;all through a single mobile application.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;2. Why Do Banks Need to Undergo Digital Transformation?&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meeting customer needs:&lt;/strong&gt; With rapid technological advancements, consumer habits and behaviors have changed dramatically. Instead of shopping offline and paying in cash, consumers now prefer quick, cashless online payments. Therefore, banks must undergo digital transformation to meet customer needs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing competitiveness in the financial sector:&lt;/strong&gt; The rise of Digital Banking and Fintech companies has created fierce competition. To compete with Fintech firms, banks must transform digitally to attract new customers and retain existing ones.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Improved customer access:&lt;/strong&gt; Digital transformation allows banks to reduce operational costs compared to maintaining traditional branch networks by leveraging online transactions and automated processes.&lt;br&gt;Examples include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Automated online transactions where customers can check balances and transaction history via apps without contacting bank staff.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chatbots and AI-powered call centers that provide 24/7 support, helping customers find information, categorize issues, and resolve basic inquiries without human intervention.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emergence of digital products:&lt;/strong&gt; Fintech companies have introduced new digital products such as mobile wallets, instant loan approvals, and convenient apps, increasing customer expectations for seamless banking experiences. To stay competitive, banks must also adopt digital products and services.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;3. Benefits of Digital Transformation in Banking&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;3.1 Convenience and Security&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Digital transformation enables customers to perform banking transactions anytime, anywhere&amp;mdash;such as account management, bill payments, and investments&amp;mdash;through mobile/web apps without visiting branches.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;At the same time, banks focus heavily on &lt;strong&gt;security&lt;/strong&gt;, applying advanced measures such as &lt;strong&gt;data encryption, two-factor authentication, suspicious transaction alerts, and financial risk management&lt;/strong&gt; to protect customer information.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3.2 Cost Savings&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Digitization reduces operational costs significantly. For example, converting physical documents into digital formats stored in the cloud saves expenses on printing and storage.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Technologies like &lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt; help increase efficiency and reduce labor costs&amp;mdash;especially in customer service, where AI chatbots handle routine inquiries while human staff handle complex requests.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3.3 Personalization&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;With AI and Machine Learning, banks can &lt;strong&gt;collect, unify, and analyze customer data&lt;/strong&gt; from multiple sources to create personalized campaigns, recommend relevant products, and deliver tailored user experiences, leading to higher satisfaction and conversions.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3.4 Task Automation&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Tasks that were once manual can now be automated, such as money transfers, loan processing, and automatic document approvals. This reduces human error and increases efficiency.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks also offer self-service tools such as account registration, personal information updates, new card requests, and online savings&amp;mdash;improving customer experience while reducing staff workload.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3.5 High Adaptability&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Digital transformation helps banks adapt quickly to new market trends and consumer behaviors. With the rise of &lt;strong&gt;e-commerce platforms and e-wallets&lt;/strong&gt;, banks can continuously adjust and launch new services aligned with digital consumer needs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;4. Challenges Banks Face in Digital Transformation&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;4.1 Security and Risks&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;While new technologies enhance security, they also introduce risks such as &lt;strong&gt;cyberattacks and digital fraud.&lt;/strong&gt; Banks must constantly update cybersecurity measures to maintain customer trust and safety.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4.2 Organizational Culture&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Transitioning from manual systems to digital platforms often causes internal friction. Successful transformation requires &lt;strong&gt;flexibility, innovation, and a change mindset&lt;/strong&gt; across the organization. Training and building employee trust are crucial to overcoming this challenge.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4.3 High Operational Investment Costs&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Digital transformation demands &lt;strong&gt;significant financial investment&lt;/strong&gt; in technology, infrastructure, and system upgrades, along with ongoing maintenance and operational costs.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4.4 Changing Customer Behavior&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Not all customers adapt easily to digital channels. While many embrace digital services, a portion may struggle with the transition. Banks must provide &lt;strong&gt;education and guidance&lt;/strong&gt; to help these customers gain confidence in using digital banking services.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;5. Current Status of Digital Transformation in Banking in Vietnam&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;According to the &lt;strong&gt;State Bank of Vietnam (SBV)&lt;/strong&gt;, in 2023, customer demand for digital banking continued to grow significantly, driving investment priorities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the rise of smartphones, banks are focusing on &lt;strong&gt;mobile-first strategies&lt;/strong&gt;&amp;mdash;offering mobile payments, deposits, and financial management services optimized for on-the-go usage.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Reports from the &lt;strong&gt;Banking Journal&lt;/strong&gt; and the &lt;strong&gt;Financial and Monetary Market Review&lt;/strong&gt; highlight that most Vietnamese banks, including &lt;strong&gt;BIDV, VietinBank, VPBank, and TPBank&lt;/strong&gt;, have launched digital service apps for both PC and mobile platforms.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;However, challenges remain, such as:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;A legal framework that lags behind technological development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited and uneven digital infrastructure across banks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increasing risks from &lt;strong&gt;cyberattacks and fraud.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong competition from Fintech companies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;6. Common Digital Transformation Solutions in Banking&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;6.1 Electronic Payment Applications&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Electronic payments simplify complex traditional banking processes, offering convenience and speed. Fintech firms and digital banks invest heavily in &lt;strong&gt;data encryption and two-factor authentication&lt;/strong&gt; to ensure transaction security while reducing operational costs.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;6.2 Artificial Intelligence (AI) Applications&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;AI helps detect fraudulent activities, minimize risks, and improve decision-making by analyzing historical data.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;AI also enhances &lt;strong&gt;customer experience&lt;/strong&gt; by understanding customer behavior and personalizing product recommendations, increasing satisfaction and loyalty.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;6.3 Biometric Technology&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Biometric methods such as &lt;strong&gt;voice, facial, fingerprint, and iris recognition&lt;/strong&gt; strengthen security and speed up financial transactions, reducing fraud risks. Today, biometrics is one of the most prominent trends in banking digital transformation.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;6.4 Big Data Applications&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Big Data allows banks to:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Understand customer behavior,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Predict consumption trends,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optimize processes,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage risks more effectively.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;It also supports fraud detection, investment portfolio management, and personalized financial services.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;6.5 Development of Security Technologies&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;With the rise of cyberattacks such as WannaCry and NotPetya, security has become a &lt;strong&gt;top priority.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks must invest in robust security solutions such as &lt;strong&gt;data encryption, intrusion detection systems (IDS), identity management, and access control&lt;/strong&gt; while also fostering a strong security culture through staff training and strict security policies.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;The above provides an overview of the &lt;strong&gt;definition, benefits, challenges, and solutions of digital transformation in banking.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;If you would like a &lt;strong&gt;comprehensive consultation&lt;/strong&gt; on building a tailored digital transformation roadmap for your enterprise, please schedule a consultation with &lt;strong&gt;DTSVN.&lt;/strong&gt;&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-10T03:53:55.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:53:54.208Z</createdDate>
+	<createdDate_dt>2025-08-28T03:53:54.208Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:53:54.208Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:53:54.208Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

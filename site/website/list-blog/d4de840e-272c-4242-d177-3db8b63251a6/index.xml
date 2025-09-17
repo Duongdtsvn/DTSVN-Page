@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d4de</objectGroupId>
+	<objectId>d4de840e-272c-4242-d177-3db8b63251a6</objectId>
+	<internal-name>Marketing Automation là gì?</internal-name>
+	<navLabel>Marketing Automation là gì?</navLabel>
+	<title_vi_s>Marketing Automation là gì?</title_vi_s>
+	<title_en_s>What is Marketing Automation?</title_en_s>
+	<file-name>index.xml</file-name>
+	<folder-name>d4de840e-272c-4242-d177-3db8b63251a6</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/marketing-automation-1.webp</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Định nghĩa về Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Lợi &amp;iacute;ch của doanh nghiệp khi &amp;aacute;p dụng Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.1 &amp;ndash; Tối ưu c&amp;ocirc;ng việc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.2 &amp;ndash; Tiếp cận đ&amp;uacute;ng đối tượng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.3 &amp;ndash; Tăng doanh thu, tiết kiệm chi ph&amp;iacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.4 &amp;ndash; N&amp;acirc;ng cao trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Ưu v&amp;agrave; nhược điểm của Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.1 Ưu điểm khi d&amp;ugrave;ng c&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.2 Nhược điểm khi d&amp;ugrave;ng c&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Một số ứng dụng thực tế về Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. C&amp;aacute;c bước x&amp;acirc;y dựng quy tr&amp;igrave;nh Marketing Automation&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với sự ph&amp;aacute;t triển của nền kinh tế thị trường hiện nay, Marketing đ&amp;atilde; l&amp;agrave; 1 phần kh&amp;ocirc;ng thể thiếu được trong mỗi doanh nghiệp. Marketing Automation trong những năm gần đ&amp;acirc;y đang l&amp;agrave; xu hướng mới trong ng&amp;agrave;nh Digital Marketing.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ giải th&amp;iacute;ch chi tiết về định nghĩa, chức năng v&amp;agrave; ứng dụng của Marketing Automation trong b&amp;agrave;i to&amp;aacute;n Marketing của doanh nghiệp để đạt được hiệu quả tốt nhất.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Định nghĩa về Marketing Automation&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://www.hubspot.com/products/marketing/marketing-automation-information"&gt;Theo Hubspot &amp;ndash; C&amp;ocirc;ng ty chuy&amp;ecirc;n về c&amp;aacute;c phần mềm Marketing cho Doanh nghiệp&lt;/a&gt;&amp;nbsp;&amp;ndash; Marketing Automation (Tự động h&amp;oacute;a tiếp thị) l&amp;agrave; c&amp;aacute;c phần mềm d&amp;ugrave;ng để tự động h&amp;oacute;a c&amp;aacute;c c&amp;ocirc;ng việc của ph&amp;ograve;ng Marketing như ph&amp;acirc;n loại kh&amp;aacute;ch h&amp;agrave;ng (Segment), Nu&amp;ocirc;i dưỡng Lead (Lead Nutrition) v&amp;agrave; gia tăng tỷ lệ chuyển đổi.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1 số VD về c&amp;aacute;c c&amp;ocirc;ng việc cần tự động h&amp;oacute;a ở trong Marketing ta c&amp;oacute; thể thấy như: Email Marketing, Post b&amp;agrave;i tr&amp;ecirc;n c&amp;aacute;c trang mạng x&amp;atilde; hội (Social Media Posting), Tự động tăng/giảm ng&amp;acirc;n s&amp;aacute;ch hoặc nh&amp;acirc;n bản c&amp;aacute;c Campaign dựa theo rule t&amp;ugrave;y chỉnh của người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Marketing Automation kh&amp;ocirc;ng chỉ dừng lại ở việc n&amp;acirc;ng cao hiệu suất cho c&amp;ocirc;ng việc m&amp;agrave; c&amp;ograve;n cung cấp 1 trải nghiệm c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a cho kh&amp;aacute;ch h&amp;agrave;ng trong suốt v&amp;ograve;ng đời mua h&amp;agrave;ng.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Lợi &amp;iacute;ch của doanh nghiệp khi &amp;aacute;p dụng Marketing Automation&lt;/h2&gt;
+&lt;h3 style="text-align: justify;"&gt;1 &amp;ndash; Tối ưu c&amp;ocirc;ng việc&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation sẽ gi&amp;uacute;p bạn r&amp;uacute;t ngắn lại quy tr&amp;igrave;nh l&amp;agrave;m việc, loại bỏ c&amp;aacute;c c&amp;ocirc;ng việc lặp bằng t&amp;iacute;nh năng tự động h&amp;oacute;a. Nhiều c&amp;ocirc;ng việc trước đ&amp;acirc;y thay v&amp;igrave; phải mất h&amp;agrave;ng giờ đồng hồ th&amp;igrave; giờ với Marketing Automation chỉ cần v&amp;agrave;i ph&amp;uacute;t l&amp;agrave; đ&amp;atilde; xử l&amp;yacute; xong. 1 lợi &amp;iacute;ch của c&amp;aacute;c c&amp;ocirc;ng cụ n&amp;agrave;y đ&amp;oacute; ch&amp;iacute;nh l&amp;agrave; giảm thiểu c&amp;aacute;c đầu việc v&amp;agrave; sự sai s&amp;oacute;t so với c&amp;ocirc;ng việc thủ c&amp;ocirc;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2 &amp;ndash; Tiếp cận đ&amp;uacute;ng đối tượng&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Việc sử dụng c&amp;aacute;c c&amp;ocirc;ng cụ tiếp thị h&amp;oacute;a tự động gi&amp;uacute;p cho Doanh nghiệp tiếp cận đ&amp;uacute;ng đối tượng m&amp;agrave; họ mong muốn. Ngo&amp;agrave;i ra, Doanh nghiệp c&amp;oacute; thể x&amp;acirc;y dựng c&amp;aacute;c chiến lược Marketing t&amp;ugrave;y chỉnh dựa tr&amp;ecirc;n từng tập kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; hạn chế việc gửi th&amp;ocirc;ng tin mass (Phủ tệp) dẫn đến g&amp;acirc;y phiền h&amp;agrave; cho kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; khiến họ ngừng theo d&amp;otilde;i tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh truyền th&amp;ocirc;ng hoặc kh&amp;ocirc;ng sử dụng sản phẩm của Doanh nghiệp nữa.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;3 &amp;ndash; Tăng doanh thu, tiết kiệm chi ph&amp;iacute;&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; 1 trong những lợi &amp;iacute;ch quan trọng nhất khiến nhiều Doanh nghiệp sử dụng Marketing Aumation cho hoạt động kinh doanh. Khả năng ti&amp;eacute;p cận đ&amp;uacute;ng đối tượng của c&amp;aacute;c c&amp;ocirc;ng cụ n&amp;agrave;y gi&amp;uacute;p ph&amp;ograve;ng Marketing thiết kế được c&amp;aacute;c chương tr&amp;igrave;nh quảng b&amp;aacute; sản phẩm ph&amp;ugrave; hợp với từng tập kh&amp;aacute;ch h&amp;agrave;ng, gi&amp;uacute;p ph&amp;ograve;ng CSKH c&amp;oacute; thể tăng hiệu suất giải quyết c&amp;aacute;c vấn đề của kh&amp;aacute;ch h&amp;agrave;ng. Ngo&amp;agrave;i ra, Marketing Automation cũng gi&amp;uacute;p ph&amp;ograve;ng Sales nu&amp;ocirc;i dưỡng v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; c&amp;aacute;c Lead tiềm năng, từ đ&amp;oacute; r&amp;uacute;t ngắn thời gian tư vấn v&amp;agrave; tập trung v&amp;agrave;o tăng tỷ lệ chuyển đổi &amp;amp; doanh thu.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;4 &amp;ndash; N&amp;acirc;ng cao trải nghiệm của kh&amp;aacute;ch h&amp;agrave;ng&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Nhờ c&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation, Doanh nghiệp c&amp;oacute; thể gửi c&amp;aacute;c th&amp;ocirc;ng điệp c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a đ&amp;uacute;ng người đ&amp;uacute;ng thời điểm, gi&amp;uacute;p kh&amp;aacute;ch h&amp;agrave;ng cảm thấy được thấu hiểu v&amp;agrave; gia tăng trải nghiệm người d&amp;ugrave;ng trong suốt v&amp;ograve;ng đời mua h&amp;agrave;ng. B&amp;ecirc;n cạnh đ&amp;oacute;, c&amp;aacute;c c&amp;ocirc;ng cụ n&amp;agrave;y cũng được Doanh nghiệp sử dụng 1 c&amp;aacute;ch ph&amp;ugrave; hợp để thu thập &amp;yacute; kiến của kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; l&amp;agrave;m tiền đề cải thiện cho c&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch v&amp;agrave; sản phẩm cũng như chất lượng phục vụ của Doanh nghiệp.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Ưu điểm khi d&amp;ugrave;ng c&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tiết kiệm chi ph&amp;iacute; vận h&amp;agrave;nh, thời gian v&amp;agrave; nh&amp;acirc;n lực: So với c&amp;aacute;c hoạt động thủ c&amp;ocirc;ng, khi triển khai Marketing Automation gi&amp;uacute;p doanh nghiệp giảm được c&amp;aacute;c chi ph&amp;iacute; vận h&amp;agrave;nh, tinh gọn bộ m&amp;aacute;y nh&amp;acirc;n sự trong ph&amp;ograve;ng Marketing. Mọi nội dung truyền th&amp;ocirc;ng v&amp;agrave; tiếp cận kh&amp;aacute;ch h&amp;agrave;ng sẽ được ph&amp;acirc;n loại v&amp;agrave; tự động h&amp;oacute;a gửi đi theo h&amp;agrave;nh vi v&amp;agrave; đặc t&amp;iacute;nh của tập kh&amp;aacute;ch h&amp;agrave;ng đ&amp;oacute;.&lt;/li&gt;
+&lt;li&gt;Hỗ trợ n&amp;acirc;ng cao trải nghiệm kh&amp;aacute;ch h&amp;agrave;ng: 1 điểm kh&amp;aacute;c khiến nhiều doanh nghiệp &amp;aacute;p dụng Marketing Automation đ&amp;oacute; l&amp;agrave; khả năng khả năng tương t&amp;aacute;c bằng những nội dung v&amp;agrave; thiết kế kh&amp;aacute;c nhau đến từng nh&amp;oacute;m kh&amp;aacute;ch h&amp;agrave;ng ri&amp;ecirc;ng biệt, từ đ&amp;oacute; tạo ra được những trải nghiệm mang t&amp;iacute;nh c&amp;aacute; nh&amp;acirc;n thật ho&amp;agrave;n hảo cho kh&amp;aacute;ch h&amp;agrave;ng của m&amp;igrave;nh&lt;/li&gt;
+&lt;li&gt;Đo lường v&amp;agrave; tối ưu: Khả năng t&amp;iacute;ch hợp dữ liệu từ nhiều nguồn kh&amp;aacute;c nhau trong thời gian thực gi&amp;uacute;p ph&amp;ograve;ng Marketing c&amp;oacute; thể nắm được hiệu quả tức thời về c&amp;aacute;c chiến dịch đang triển khai v&amp;agrave; c&amp;oacute; thể ra quyết định chiến lược kịp thời để cải thiện c&amp;aacute;c chỉ số KPI.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="text-align: justify;"&gt;Nhược điểm khi d&amp;ugrave;ng c&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Đội ngũ kỹ thuật chuy&amp;ecirc;n nghiệp: Như đ&amp;atilde; n&amp;oacute;i ở tr&amp;ecirc;n, do Marketing Automation c&amp;oacute; khả năng t&amp;iacute;ch hợp dữ liệu từ nhiều nguồn kh&amp;aacute;c nhau trong thời gian thực, n&amp;ecirc;n đội ngũ IT trong C&amp;ocirc;ng ty phải hiểu được c&amp;aacute;ch dữ liệu hoạt động v&amp;agrave; được xử l&amp;yacute;, truyền đi để đảm bảo kh&amp;ocirc;ng c&amp;oacute; sự gi&amp;aacute;n đoạn trong l&amp;uacute;c c&amp;aacute;c c&amp;ocirc;ng cụ đang hoạt động.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cần nhiều thời gian để t&amp;igrave;m hiểu v&amp;agrave; tối ưu: C&amp;aacute;c c&amp;ocirc;ng cụ Marketing Automation kh&amp;ocirc;ng được tạo ra để sử dụng 1 c&amp;aacute;ch ch&amp;oacute;ng v&amp;aacute;nh, n&amp;oacute; y&amp;ecirc;u cầu người d&amp;ugrave;ng phải t&amp;igrave;m hiểu rất kỹ về nền tảng, l&amp;agrave;m quen v&amp;agrave; sau đ&amp;oacute; cải thiện dần c&amp;aacute;c kết quả triển khai vận h&amp;agrave;nh theo thời gian. Điều n&amp;agrave;y cũng được chứng minh th&amp;ocirc;ng qua c&amp;aacute;c trang hướng dẫn tự học của c&amp;aacute;c nền tảng Marketing Automation hiện tại, rất nhiều kh&amp;oacute;a học được thiết kế theo lộ tr&amp;igrave;nh để người d&amp;ugrave;ng c&amp;oacute; thể hiểu v&amp;agrave; vận h&amp;agrave;nh hệ thống 1 c&amp;aacute;ch trơn tru nhất.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Một số ứng dụng thực tế về Marketing Automation&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Email Marketing: Mặc d&amp;ugrave; tần suất của Email được gửi khiến kh&amp;aacute;ch h&amp;agrave;ng đ&amp;aacute;nh gi&amp;aacute; l&amp;agrave; kh&amp;oacute; chịu, nhưng ta kh&amp;ocirc;ng thể phủ nhận đ&amp;acirc;y l&amp;agrave; 1 trong những k&amp;ecirc;nh giao tiếp với kh&amp;aacute;ch h&amp;agrave;ng hiệu quả nhất nếu biết sử dụng đ&amp;uacute;ng c&amp;aacute;ch. C&amp;aacute;c Marketer c&amp;oacute; thể sử dụng phần mềm Email Marketing Automation để lọc v&amp;agrave; ph&amp;acirc;n loại kh&amp;aacute;ch h&amp;agrave;ng, thiết kế c&amp;aacute;c giao diện Email ph&amp;ugrave; hợp v&amp;agrave; A/B Test để t&amp;igrave;m ra th&amp;ocirc;ng điệp v&amp;agrave; thời gian gửi ph&amp;ugrave; hợp đến kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; Leads: B&amp;agrave;i to&amp;aacute;n quản l&amp;yacute; Leads ở đ&amp;acirc;y bao gồm việc thu thập Leads, nu&amp;ocirc;i dưỡng Leads v&amp;agrave; chấm điểm Leads dựa tr&amp;ecirc;n c&amp;aacute;c ti&amp;ecirc;u ch&amp;iacute; của Doanh nghiệp. Với khả năng t&amp;iacute;ch hợp từ nhiều nguồn dữ liệu, c&amp;aacute;c Marketer sẽ nắm chi tiết được h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; &amp;aacute;p dụng c&amp;aacute;c rule tự động tr&amp;ecirc;n nền tảng Automation gi&amp;uacute;p cho việc chuyển đổi kh&amp;aacute;ch h&amp;agrave;ng dễ hơn.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ph&amp;acirc;n tập kh&amp;aacute;ch h&amp;agrave;ng (Segment): C&amp;aacute;c phần mềm Marketing Automation c&amp;oacute; thể hỗ trợ c&amp;aacute;c Marketer breakdown người d&amp;ugrave;ng dựa tr&amp;ecirc;n c&amp;aacute;c ti&amp;ecirc;u ch&amp;iacute; c&amp;oacute; sẵn như nh&amp;acirc;n khẩu học, nghề nghiệp, nguồn đến từ k&amp;ecirc;nh n&amp;agrave;o. Ngo&amp;agrave;i ra, ta c&amp;oacute; thể t&amp;ugrave;y chỉnh dựa tr&amp;ecirc;n h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng VD như v&amp;agrave;o Web lần cuối 1 th&amp;aacute;ng, Đ&amp;atilde; mua h&amp;agrave;ng tr&amp;ecirc;n Website từ k&amp;ecirc;nh Facebook trong 7 ng&amp;agrave;y vừa qua,&amp;hellip;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;L&amp;ecirc;n lịch đăng b&amp;agrave;i: T&amp;iacute;nh năng l&amp;ecirc;n lịch v&amp;agrave; đăng b&amp;agrave;i trong Marketing Automation c&amp;ograve;n hỗ trợ team Marketing trong c&amp;aacute;c chiến dịch Social Media với c&amp;aacute;c kế hoạch cụ thể hoặc đăng b&amp;agrave;i dạng lặp lại c&amp;aacute;c nội dung cung cấp th&amp;ocirc;ng tin nu&amp;ocirc;i dưỡng kh&amp;aacute;ch h&amp;agrave;ng tiềm năng.&lt;/li&gt;
+&lt;li&gt;Thu thập th&amp;ocirc;ng tin kh&amp;aacute;ch h&amp;agrave;ng tiềm năng: Th&amp;ocirc;ng qua h&amp;agrave;nh vi tương t&amp;aacute;c của kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n c&amp;aacute;c k&amp;ecirc;nh như Social Media, Web, App, c&amp;aacute;c phần mềm Marketing Automation c&amp;oacute; thể lấy c&amp;aacute;c th&amp;ocirc;ng tin như c&amp;aacute;c b&amp;agrave;i viết, từ kh&amp;oacute;a, thời gian tr&amp;ecirc;n trang m&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng quan t&amp;acirc;m để cho c&amp;aacute;c Marketer ph&amp;acirc;n t&amp;iacute;ch s&amp;acirc;u hơn.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ph&amp;acirc;n t&amp;iacute;ch đa k&amp;ecirc;nh: 1 phần mềm Marketing Automation phải đảm bảo được việc lấy dữ liệu từ c&amp;aacute;c nguồn kh&amp;aacute;c nhau như c&amp;aacute;c k&amp;ecirc;nh Social media, c&amp;ocirc;ng đụ đo lường Website Google Analytics, c&amp;ocirc;ng cụ theo d&amp;otilde;i h&amp;agrave;nh vi tr&amp;ecirc;n App Firebase, v&amp;acirc;n v&amp;acirc;n&amp;hellip; để gi&amp;uacute;p Doanh nghiệp ph&amp;acirc;n t&amp;iacute;ch chiến lược tr&amp;ecirc;n c&amp;ugrave;ng 1 nền tảng dữ liệu.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;C&amp;aacute;c bước x&amp;acirc;y dựng quy tr&amp;igrave;nh Marketing Automation&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Bước 1 &amp;ndash; X&amp;aacute;c định mục ti&amp;ecirc;u chiến lược: X&amp;aacute;c định đ&amp;uacute;ng mục ti&amp;ecirc;u sẽ gi&amp;uacute;p bạn t&amp;igrave;m được c&amp;aacute;c hướng đi ph&amp;ugrave; hợp v&amp;agrave; c&amp;aacute;c phương &amp;aacute;n tối ưu cho c&amp;ocirc;ng việc. C&amp;aacute;c mục ti&amp;ecirc;u thường thấy ở bước n&amp;agrave;y đ&amp;oacute; l&amp;agrave;: Tăng doanh thu, Giữ ch&amp;acirc;n người d&amp;ugrave;ng hoạt động, Re-Marketing lại kh&amp;aacute;ch h&amp;agrave;ng, Tăng traffic v&amp;agrave;o Website/App,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Bước 2 &amp;ndash; X&amp;aacute;c định đối tượng kh&amp;aacute;ch h&amp;agrave;ng: Ở bước n&amp;agrave;y, ch&amp;uacute;ng ta sẽ thu thập th&amp;ocirc;ng tin về ch&amp;acirc;n dung kh&amp;aacute;ch h&amp;agrave;ng ta muốn tập trung đẩy mạnh v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch để hiểu được nhu cầu của họ. Nếu l&amp;agrave;m bước n&amp;agrave;y hiệu quả, c&amp;aacute;c Marketer sẽ r&amp;uacute;t ngắn được thời gian A/B Test cũng như tăng được tỷ lệ chuyển đổi tốt hơn.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Bước 3 &amp;ndash; X&amp;acirc;y dựng h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng: Sau khi ta đ&amp;atilde; c&amp;oacute; ch&amp;acirc;n dung kh&amp;aacute;ch h&amp;agrave;ng tiềm năng m&amp;agrave; Doanh nghiệp mong muốn, c&amp;aacute;c Marketer sẽ x&amp;acirc;y dựng bức tranh to&amp;agrave;n cảnh về h&amp;agrave;nh tr&amp;igrave;nh cũng như h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; t&amp;igrave;m ra c&amp;aacute;c điểm chạm quan trọng để tối ưu nhằm tăng độ thỏa m&amp;atilde;n trong trải nghiệm người d&amp;ugrave;ng v&amp;agrave; tăng c&amp;aacute;c chỉ số chuyển đổi.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Bước 4 &amp;ndash; Chọn nền tảng Marketing Automation ph&amp;ugrave; hợp: Khi lựa chọn nền tảng Marketing Automation, ch&amp;uacute;ng ta sẽ c&amp;acirc;n nhắc về chi ph&amp;iacute;, khả năng hỗ trợ của b&amp;ecirc;n nền tảng, t&amp;iacute;nh dễ d&amp;ugrave;ng, thời gian lưu trữ dữ liệu, đặc t&amp;iacute;nh ng&amp;agrave;nh, khả năng t&amp;iacute;ch hợp với c&amp;aacute;c ứng dụng kh&amp;aacute;c,&amp;hellip; nhằm đảm bảo về chi ph&amp;iacute; v&amp;agrave; hiệu suất cho Doanh nghiệp.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h3 style="text-align: justify;"&gt;Table of Contents&lt;/h3&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Definition of Marketing Automation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Benefits for Businesses When Applying Marketing Automation&lt;br&gt;2.1 &amp;ndash; Workflow Optimization&lt;br&gt;2.2 &amp;ndash; Targeting the Right Audience&lt;br&gt;2.3 &amp;ndash; Increasing Revenue and Reducing Costs&lt;br&gt;2.4 &amp;ndash; Enhancing Customer Experience&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Advantages and Disadvantages of Marketing Automation&lt;br&gt;3.1 &amp;ndash; Advantages of Using Marketing Automation Tools&lt;br&gt;3.2 &amp;ndash; Disadvantages of Using Marketing Automation Tools&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Practical Applications of Marketing Automation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Steps to Build a Marketing Automation Process&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;With the current development of the market economy, Marketing has become an indispensable part of every business. In recent years, Marketing Automation has emerged as a new trend in the Digital Marketing industry.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This article will provide a detailed explanation of the definition, functions, and applications of Marketing Automation in the marketing strategies of businesses to achieve the best results.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Definition of Marketing Automation&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;According to Hubspot &amp;ndash; a company specializing in marketing software for businesses &amp;ndash; &lt;strong&gt;Marketing Automation&lt;/strong&gt; refers to software designed to automate marketing tasks such as customer segmentation, lead nurturing, and increasing conversion rates.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Some examples of marketing tasks that can be automated include: Email Marketing, posting on social media channels, automatically increasing/decreasing budgets, or replicating campaigns based on user-defined rules.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Marketing Automation not only improves operational efficiency but also provides a personalized experience for customers throughout their buying journey.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Benefits for Businesses When Applying Marketing Automation&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1 &amp;ndash; Workflow Optimization&lt;/strong&gt;&lt;br&gt;Marketing Automation tools help shorten workflows and eliminate repetitive tasks with automation features. Many tasks that used to take hours can now be completed within minutes. One key benefit is reducing workload and minimizing errors compared to manual execution.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2 &amp;ndash; Targeting the Right Audience&lt;/strong&gt;&lt;br&gt;By using automation tools, businesses can reach exactly the audiences they want. Additionally, they can create tailored marketing strategies for each customer segment, avoiding mass communication that could annoy customers and cause them to unsubscribe or stop engaging with the business.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3 &amp;ndash; Increasing Revenue and Reducing Costs&lt;/strong&gt;&lt;br&gt;This is one of the most important benefits driving businesses to adopt Marketing Automation. Its ability to reach the right audience allows the Marketing team to design campaigns that fit each customer segment, while the Customer Service team can increase efficiency in resolving issues. At the same time, the Sales team can nurture and qualify potential leads, shorten the consultation process, and focus on improving conversion rates and revenue.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4 &amp;ndash; Enhancing Customer Experience&lt;/strong&gt;&lt;br&gt;With Marketing Automation, businesses can deliver personalized messages to the right person at the right time, making customers feel understood and improving their experience throughout the buying journey. Furthermore, these tools allow businesses to collect customer feedback, serving as a foundation for improving policies, products, and services.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Advantages and Disadvantages of Marketing Automation&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Advantages of Using Marketing Automation Tools&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cost, time, and workforce efficiency:&lt;/strong&gt; Compared to manual processes, Marketing Automation helps businesses reduce operational costs and streamline their marketing teams. All communication and customer outreach are automatically categorized and delivered based on customer behavior and characteristics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhanced customer experience:&lt;/strong&gt; A key reason many businesses adopt Marketing Automation is its ability to deliver tailored content and designs to different customer groups, creating highly personalized experiences.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Measurement and optimization:&lt;/strong&gt; Real-time data integration from multiple sources allows Marketing teams to track campaign effectiveness instantly and make timely strategic decisions to improve KPIs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Disadvantages of Using Marketing Automation Tools&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Need for professional technical teams:&lt;/strong&gt; Since Marketing Automation integrates real-time data from multiple sources, IT teams must understand how data is processed and transmitted to ensure smooth operation without disruptions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Time-intensive learning and optimization:&lt;/strong&gt; These tools are not designed for quick use; they require users to thoroughly learn the platform, practice, and gradually optimize results over time. This is evident from the extensive learning resources and structured training programs provided by leading Marketing Automation platforms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Practical Applications of Marketing Automation&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email Marketing:&lt;/strong&gt; Despite sometimes being seen as intrusive, email remains one of the most effective communication channels when used properly. Marketers can use Email Automation software to filter and segment customers, design suitable templates, and conduct A/B testing to optimize timing and messaging.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lead Management:&lt;/strong&gt; This involves collecting, nurturing, and scoring leads based on business criteria. With data integration from multiple sources, marketers can better understand customer behavior and apply automation rules to improve conversions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Customer Segmentation:&lt;/strong&gt; Marketing Automation tools can categorize customers based on predefined criteria such as demographics, occupation, or acquisition channel, as well as behavioral data (e.g., last website visit, purchases from Facebook ads within the last 7 days, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Content Scheduling:&lt;/strong&gt; Scheduling and posting features support Marketing teams in executing Social Media campaigns with planned content calendars or recurring nurture posts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lead Information Collection:&lt;/strong&gt; By tracking customer interactions on social media, websites, or apps, automation tools can capture insights such as interests, keywords, and time spent, enabling deeper analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cross-Channel Analytics:&lt;/strong&gt; A robust Marketing Automation platform must collect and integrate data from multiple sources such as social media, Google Analytics, and Firebase, allowing businesses to conduct unified strategy analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 style="text-align: justify;"&gt;Steps to Build a Marketing Automation Process&lt;/h3&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Step 1 &amp;ndash; Define strategic objectives:&lt;/strong&gt; Identifying clear goals helps determine optimal approaches. Common objectives include: increasing revenue, retaining active users, remarketing to customers, or driving traffic to websites/apps.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Step 2 &amp;ndash; Identify target customers:&lt;/strong&gt; This involves gathering insights on the customer personas to be prioritized and analyzing their needs. Doing this effectively shortens A/B testing time and improves conversion rates.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Step 3 &amp;ndash; Map the customer journey:&lt;/strong&gt; Once the target persona is defined, marketers design a comprehensive view of the journey and behaviors, identifying key touchpoints to optimize satisfaction and conversion metrics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Step 4 &amp;ndash; Choose the right Marketing Automation platform:&lt;/strong&gt; Factors to consider include cost, vendor support, ease of use, data retention period, industry relevance, and integration capabilities, ensuring both cost-effectiveness and efficiency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN is a pioneering Digital Transformation company providing the latest digital solutions tailored for businesses in the Finance &amp;ndash; Banking industry in Vietnam. We help banks and financial institutions quickly build and optimize their technology systems for successful Digital Transformation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 Contact us now for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-05-05T04:21:31.000Z</time_create_dt>
+	<createdDate>2025-08-26T04:21:30.434Z</createdDate>
+	<createdDate_dt>2025-08-26T04:21:30.434Z</createdDate_dt>
+	<lastModifiedDate>2025-08-26T04:21:30.434Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-26T04:21:30.434Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

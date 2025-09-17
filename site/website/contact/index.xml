@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-contact</content-type>
+	<display-template>/templates/web/Page-contact.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>75a8</objectGroupId>
+	<objectId>75a8b9cb-2334-c679-52e6-a31c384c022e</objectId>
+	<list_input_o item-list="true">	<item>	<label_name_s>Họ và tên</label_name_s>
+	<fied_name_s>your-name</fied_name_s>
+	<autocomplete_s>name</autocomplete_s>
+	</item>	<item>	<label_name_s>Công ty</label_name_s>
+	<fied_name_s>company-name</fied_name_s>
+	<autocomplete_s>company</autocomplete_s>
+	</item>	<item>	<label_name_s>Email</label_name_s>
+	<fied_name_s>your-email</fied_name_s>
+	<autocomplete_s>email</autocomplete_s>
+	</item>	<item>	<label_name_s>Số điện thoại</label_name_s>
+	<fied_name_s>phone-number</fied_name_s>
+	<autocomplete_s>phone</autocomplete_s>
+	</item>	<item>	<label_name_s>Nội dung tin nhắn</label_name_s>
+	<fied_name_s>your-message</fied_name_s>
+	<autocomplete_s/>
+	</item></list_input_o>
+	<file-name>index.xml</file-name>
+	<folder-name>contact</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Liên hệ</internal-name>
+	<navLabel>Kết nối với DTSVN</navLabel>
+	<title_main_s>Gửi thông điệp tới DTSVN</title_main_s>
+	<address_s>Số 2 ngõ 7 Thái Hà, Phường Trung Liệt, Đống Đa, Hà Nội</address_s>
+	<phone_s>(+84) 912 363 824</phone_s>
+	<email_s>info@dtsvn.net</email_s>
+	<website_s>https://dtsvn.net/</website_s>
+	<label_button_s>Gửi thông tin</label_button_s>
+	<header_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<createdDate>2025-07-10T18:39:29.441Z</createdDate>
+	<createdDate_dt>2025-07-10T18:39:29.441Z</createdDate_dt>
+	<lastModifiedDate>2025-07-10T18:56:24.453Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-07-10T18:56:24.453Z</lastModifiedDate_dt>
+	<title_main_1_s>Thông tin liên hệ</title_main_1_s>
+</page>

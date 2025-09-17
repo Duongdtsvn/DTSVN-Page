@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c283</objectGroupId>
+	<objectId>c2834a84-ace8-e07c-739d-f9c7d22e8511</objectId>
+	<internal-name>Lợi ích của CDP trong ngành Ngân hàng</internal-name>
+	<navLabel>Lợi ích của CDP trong ngành Ngân hàng</navLabel>
+	<title_vi_s>Lợi ích của CDP trong ngành Ngân hàng</title_vi_s>
+	<title_en_s>Benefits of CDP in Banking Industry</title_en_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>c2834a84-ace8-e07c-739d-f9c7d22e8511</folder-name>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/1740129875850.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Lợi &amp;iacute;ch của Ng&amp;acirc;n h&amp;agrave;ng khi sử dụng CDP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Những yếu tố m&amp;agrave; CDP cần để đ&amp;aacute;p ứng ti&amp;ecirc;u chuẩn Ng&amp;acirc;n h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.1 Triển khai tr&amp;ecirc;n On-Premise&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.2 T&amp;iacute;ch hợp với c&amp;aacute;c nền tảng nghiệp vụ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.3 Thu thập v&amp;agrave; xử l&amp;yacute; dữ liệu theo Real-time&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.4 Chuẩn h&amp;oacute;a dữ liệu&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.5 Tu&amp;acirc;n thủ quy định bảo mật v&amp;agrave; ủy quyền xử l&amp;yacute; dữ liệu&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://mkt.dtsvn.net/tin-tuc/kien-thuc-marketing-automation/customer-data-platform-la-gi/"&gt;CDP (Customer Data Platform)&lt;/a&gt;&amp;nbsp;l&amp;agrave; 1 trong những cụm từ được đề cập li&amp;ecirc;n tục trong những năm gần đ&amp;acirc;y khi ta nhắc về chủ đề sử dụng Martech cho doanh nghiệp.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với khả năng hợp nhất dữ liệu từ nhiều nguồn kh&amp;aacute;c nhau theo thời gian thực v&amp;agrave; khả năng hỗ trợ x&amp;acirc;y dựng h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;ch h&amp;agrave;ng đa nền tảng 1 c&amp;aacute;ch to&amp;agrave;n diện,&amp;nbsp;CDP dần dần trở th&amp;agrave;nh 1 giải ph&amp;aacute;p c&amp;ocirc;ng nghệ kh&amp;ocirc;ng thể thiếu được với c&amp;aacute;c tổ chức T&amp;agrave;i ch&amp;iacute;nh &amp;ndash; Ng&amp;acirc;n h&amp;agrave;ng để tương t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n c&amp;aacute;c nền tảng số.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ giải th&amp;iacute;ch chi tiết về c&amp;aacute;c lợi &amp;iacute;ch v&amp;agrave; c&amp;aacute;c yếu tố CDP cần để đ&amp;aacute;p ứng được nhu cầu của Ng&amp;acirc;n h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Lợi &amp;iacute;ch của Ng&amp;acirc;n h&amp;agrave;ng khi sử dụng CDP&lt;/h2&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Đối với trung t&amp;acirc;m Thẻ: CDP thu thập c&amp;aacute;c dữ liệu li&amp;ecirc;n quan đến sở th&amp;iacute;ch, h&amp;agrave;nh vi, khối lượng giao dịch v&amp;agrave; th&amp;oacute;i quen chi ti&amp;ecirc;u của người d&amp;ugrave;ng, từ đ&amp;oacute; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng dễ d&amp;agrave;ng hơn trong việc ph&amp;acirc;n t&amp;iacute;ch ch&amp;acirc;n dung kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; đưa ra c&amp;aacute;c chiến lược ph&amp;ugrave; hợp trong việc k&amp;iacute;ch th&amp;iacute;ch tăng ngưỡng chi ti&amp;ecirc;u v&amp;agrave; khối lượng giao dịch, đưa ra c&amp;aacute;c ưu đ&amp;atilde;i ph&amp;ugrave; hợp với từng tập đối tượng, kết hợp b&amp;aacute;n ch&amp;eacute;o sản phẩm hiệu quả cũng như giữ ch&amp;acirc;n kh&amp;aacute;ch h&amp;agrave;ng kịp thời với những kh&amp;aacute;ch h&amp;agrave;ng l&amp;acirc;u kh&amp;ocirc;ng giao dịch.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Đối với Ng&amp;acirc;n h&amp;agrave;ng số: Do CDP đ&amp;atilde; t&amp;iacute;ch hợp với SDKs v&amp;agrave; API cũng như c&amp;aacute;c nền tảng tracking Install App tr&amp;ecirc;n Mobile như Appsflyer, Adjust n&amp;ecirc;n CDP c&amp;oacute; thể theo d&amp;otilde;i được to&amp;agrave;n bộ h&amp;agrave;nh vi người d&amp;ugrave;ng tr&amp;ecirc;n Mobile trong to&amp;agrave;n bộ v&amp;ograve;ng đời, n&amp;ecirc;n Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; thể c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a th&amp;ocirc;ng điệp cho kh&amp;aacute;ch h&amp;agrave;ng dựa tr&amp;ecirc;n c&amp;aacute;c event người d&amp;ugrave;ng đ&amp;atilde; l&amp;agrave;m v&amp;agrave; tối ưu 1 số b&amp;agrave;i to&amp;aacute;n của Ng&amp;acirc;n h&amp;agrave;ng số như: eKYC cho người d&amp;ugrave;ng, tăng thời gian d&amp;ugrave;ng app, tăng tỷ lệ người d&amp;ugrave;ng hoạt động tr&amp;ecirc;n app, tăng tỷ lệ chuyển đổi người d&amp;ugrave;ng đăng k&amp;yacute; sử dụng sản phẩm tr&amp;ecirc;n Mobile App.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Đối với Ng&amp;acirc;n h&amp;agrave;ng B&amp;aacute;n lẻ &amp;amp; B&amp;aacute;n bu&amp;ocirc;n: CDP ghi nhận dữ liệu lead đầu v&amp;agrave;o v&amp;agrave; t&amp;iacute;ch hợp với CRM để x&amp;acirc;y dựng User Profile 360 độ, gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng theo d&amp;otilde;i được h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng trong suốt v&amp;ograve;ng đời sử dụng sản phẩm. Ngo&amp;agrave;i ra, CDP cũng gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng giải quyết c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n về đ&amp;aacute;nh gi&amp;aacute; lead v&amp;agrave; nu&amp;ocirc;i dưỡng lead để b&amp;aacute;n ch&amp;eacute;o v&amp;agrave; quảng b&amp;aacute; sản phẩm hiệu quả, ph&amp;acirc;n bổ lead cho c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n hợp l&amp;yacute; để hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng được tốt nhất.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Những yếu tố m&amp;agrave; CDP cần để đ&amp;aacute;p ứng ti&amp;ecirc;u chuẩn Ng&amp;acirc;n h&amp;agrave;ng&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;CDP c&amp;oacute; thể đ&amp;aacute;p ứng được y&amp;ecirc;u cầu của mọi doanh nghiệp tr&amp;ecirc;n thị trường, nhưng nếu ta c&amp;acirc;n nhắc về đặc th&amp;ugrave; của ng&amp;agrave;nh th&amp;igrave; mỗi doanh nghiệp trong ng&amp;agrave;nh sẽ c&amp;oacute; những y&amp;ecirc;u cầu ch&amp;iacute;nh kh&amp;aacute;c nhau về ti&amp;ecirc;u chuẩn m&amp;agrave; CDP cần đ&amp;aacute;p ứng được v&amp;agrave; ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng cũng kh&amp;ocirc;ng phải ngoại lệ.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dưới đ&amp;acirc;y l&amp;agrave; 1 số yếu tố CDP cần c&amp;oacute; khi sử dụng cho ng&amp;agrave;nh Ng&amp;acirc;n h&amp;agrave;ng:&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Triển khai tr&amp;ecirc;n On-Premise&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;&lt;a href="https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-09-2020-TT-NHNN-an-toan-he-thong-thong-tin-trong-hoat-dong-ngan-hang-455885.aspx"&gt;Theo Th&amp;ocirc;ng tư số 09/2020/TT-NHNN&lt;/a&gt;&lt;strong&gt;,&amp;nbsp;&lt;/strong&gt;dịch vụ do b&amp;ecirc;n thứ 3 cung cấp phải được triển khai tr&amp;ecirc;n hạ tầng do Ng&amp;acirc;n h&amp;agrave;ng quản l&amp;yacute; v&amp;agrave; sử dụng nhằm đảo bảo sự tin cậy, bảo mật cũng như Ng&amp;acirc;n h&amp;agrave;ng c&amp;oacute; to&amp;agrave;n quyền kiểm so&amp;aacute;t s&amp;acirc;u hệ thống.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hiện tại, c&amp;aacute;c CDP đ&amp;atilde; dần linh hoạt trong cả dữ liệu On-Cloud v&amp;agrave; On-Premise để đ&amp;aacute;p ứng được nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng. Nhưng thực tế chỉ c&amp;oacute; 1 số CDP đ&amp;aacute;p ứng được y&amp;ecirc;u cầu li&amp;ecirc;n quan đến On-Premise v&amp;igrave; c&amp;aacute;c CDP phần lớn được thiết kế để đẩy dữ liệu l&amp;ecirc;n Cloud v&amp;igrave; lượng dữ liệu cần lưu trữ v&amp;agrave; xử l&amp;yacute; trong CDP l&amp;agrave; rất lớn do bản chất t&amp;iacute;ch hợp từ nhiều nguồn kh&amp;aacute;c nhau về.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;T&amp;iacute;ch hợp với c&amp;aacute;c nền tảng nghiệp vụ&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Với khả năng hợp nhất User Profile từ nhiều nguồn dữ liệu kh&amp;aacute;c nhau theo thời gian thực, CDP giải quyết được c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n li&amp;ecirc;n quan đến Marketing, Sales v&amp;agrave; CSKH th&amp;ocirc;ng qua việc kết nối với c&amp;aacute;c nền tảng nghiệp vụ kh&amp;aacute;c.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;VD, với c&amp;aacute;c chiến dịch mở thẻ v&amp;agrave; sell cho sản phẩm thẻ, Ng&amp;acirc;n h&amp;agrave;ng cần c&amp;oacute; c&amp;ocirc;ng cụ Marketing Automation để khơi gợi nhu cầu cho kh&amp;aacute;ch h&amp;agrave;ng th&amp;ocirc;ng qua c&amp;aacute;c k&amp;ecirc;nh Website v&amp;agrave; Mobile App, Web App. Khi kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; nhu cầu v&amp;agrave; muốn tư vấn, CDP sẽ lấy dữ liệu h&amp;agrave;nh vi người d&amp;ugrave;ng v&amp;agrave; dữ liệu từ CRM để gi&amp;uacute;p nh&amp;acirc;n vi&amp;ecirc;n tư vấn hiểu r&amp;otilde; được mong muốn của kh&amp;aacute;ch h&amp;agrave;ng. Sau đ&amp;oacute;, c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n trong Ng&amp;acirc;n h&amp;agrave;ng muốn lấy dữ liệu tự động hẹn giờ theo tuần/th&amp;aacute;ng để b&amp;aacute;o c&amp;aacute;o cho stakeholder th&amp;ocirc;ng qua c&amp;aacute;c c&amp;ocirc;ng cụ trực quan h&amp;oacute;a dữ liệu như Power BI để theo d&amp;otilde;i c&amp;aacute;c chỉ số KPI nhằm cải thiện chiến lược tiếp cận kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; đo lường được hiệu quả chiến dịch đ&amp;atilde; triển khai.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Thu thập v&amp;agrave; xử l&amp;yacute; dữ liệu theo Real-time&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Dữ liệu trong Ng&amp;acirc;n h&amp;agrave;ng ghi nhận v&amp;agrave; truyền đi l&amp;agrave; rất lớn nếu ta x&amp;eacute;t tới c&amp;aacute;c event v&amp;agrave; c&amp;aacute;c trang kh&amp;aacute;ch h&amp;agrave;ng đ&amp;atilde; xem cũng như c&amp;aacute;c thuộc t&amp;iacute;nh (Attribute) li&amp;ecirc;n quan trong chiến dịch &amp;ndash; C&amp;oacute; thể l&amp;ecirc;n tới con số h&amp;agrave;ng triệu/giờ. Khi sử dụng CDP, Ng&amp;acirc;n h&amp;agrave;ng cần phải xem x&amp;eacute;t kỹ thời gian từ l&amp;uacute;c nhận được dữ liệu cho tới khi hợp nhất v&amp;agrave; gửi đi để đảm bảo c&amp;aacute;c nghiệp vụ li&amp;ecirc;n quan diễn ra trơn tru nhất. Thực tế , thời gian xử l&amp;yacute; c&amp;oacute; thể t&amp;ugrave;y v&amp;agrave;o mỗi CDP kh&amp;aacute;c nhau n&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; 1 yếu tố quan trọng để Ng&amp;acirc;n h&amp;agrave;ng c&amp;acirc;n nhắc khi lựa chọn CDP ph&amp;ugrave; hợp.&amp;nbsp;&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Chuẩn h&amp;oacute;a dữ liệu&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Do t&amp;iacute;nh chất cần sử dụng dữ liệu thường xuy&amp;ecirc;n, n&amp;ecirc;n CDP phải đ&amp;aacute;p ứng được những điều kiện của ng&amp;acirc;n h&amp;agrave;ng trong quy tr&amp;igrave;nh xử l&amp;yacute; v&amp;agrave; t&amp;ugrave;y biến linh hoạt theo y&amp;ecirc;u cầu của Ng&amp;acirc;n h&amp;agrave;ng. Ngo&amp;agrave;i ra, Ng&amp;acirc;n h&amp;agrave;ng thường hay lấy dữ liệu để t&amp;ugrave;y chỉnh t&amp;iacute;nh to&amp;aacute;n c&amp;aacute;c chỉ số kh&amp;aacute;c nhau trong kinh doanh n&amp;ecirc;n CDP cũng phải đ&amp;aacute;p ứng được điều n&amp;agrave;y v&amp;agrave; khả năng đ&amp;aacute;nh gi&amp;aacute; dữ liệu để Ng&amp;acirc;n h&amp;agrave;ng chạy c&amp;aacute;c dự đo&amp;aacute;n dựa tr&amp;ecirc;n t&amp;iacute;nh năng Machine Learning đ&amp;atilde; được t&amp;iacute;ch hợp trong CDP 1 c&amp;aacute;ch ch&amp;iacute;nh x&amp;aacute;c nhất.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;Tu&amp;acirc;n thủ quy định bảo mật v&amp;agrave; ủy quyền xử l&amp;yacute; dữ liệu&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c quy định về an to&amp;agrave;n th&amp;ocirc;ng tin v&amp;agrave; bảo mật dữ liệu của Ng&amp;acirc;n h&amp;agrave;ng được Nh&amp;agrave; nước quy định v&amp;ocirc; c&amp;ugrave;ng nghi&amp;ecirc;m ngặt với h&amp;agrave;ng loạt c&amp;aacute;c y&amp;ecirc;u cầu cả cho ph&amp;iacute;a Ng&amp;acirc;n h&amp;agrave;ng lẫn dịch vụ cung cấp giải ph&amp;aacute;p. Trong đ&amp;oacute;, b&amp;ecirc;n cung cấp giải ph&amp;aacute;p cần c&amp;oacute; chứng nhận c&amp;ograve;n hiệu lực về đảm bảo an to&amp;agrave;n th&amp;ocirc;ng tin.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ng&amp;acirc;n h&amp;agrave;ng cũng cần đ&amp;aacute;nh gi&amp;aacute; sự tu&amp;acirc;n thủ c&amp;aacute;c quy định về bảo đảm an to&amp;agrave;n th&amp;ocirc;ng tin của b&amp;ecirc;n cung cấp CDP trong qu&amp;aacute; tr&amp;igrave;nh kiểm thử, POC. C&amp;aacute;c đ&amp;aacute;nh gi&amp;aacute; n&amp;agrave;y kh&amp;ocirc;ng chỉ dừng lại ở việc đ&amp;aacute;nh gi&amp;aacute; về nền tảng c&amp;ocirc;ng nghệ, chế độ bảo mật m&amp;agrave; c&amp;ograve;n cả năng lực đội ngũ ph&amp;aacute;t triển v&amp;agrave; vận h&amp;agrave;nh sản phẩm (Đội ngũ vận h&amp;agrave;nh Martech cho Bank c&amp;oacute; thể thu&amp;ecirc; ngo&amp;agrave;i được).&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-------&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DTSVN l&amp;agrave; C&amp;ocirc;ng ty Chuyển đổi số ti&amp;ecirc;n phong cung cấp giải ph&amp;aacute;p số h&amp;oacute;a mới nhất d&amp;agrave;nh ri&amp;ecirc;ng cho c&amp;aacute;c doanh nghiệp trong ng&amp;agrave;nh T&amp;agrave;i ch&amp;iacute;nh - Ng&amp;acirc;n h&amp;agrave;ng tại Việt Nam; gi&amp;uacute;p Ng&amp;acirc;n h&amp;agrave;ng, tổ chức t&amp;agrave;i ch&amp;iacute;nh nhanh ch&amp;oacute;ng ho&amp;agrave;n thiện hệ thống c&amp;ocirc;ng nghệ phục vụ Chuyển đổi số.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Li&amp;ecirc;n hệ ngay để được tư vấn v&amp;agrave; trải nghiệm giải ph&amp;aacute;p&amp;nbsp;&lt;a href="https://dtsvn.net/contact-us"&gt;tại đ&amp;acirc;y&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Benefits for Banks when Using CDP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key Factors a CDP Needs to Meet Banking Standards&lt;/p&gt;
+&lt;p&gt;2.1 On-Premise Deployment&lt;/p&gt;
+&lt;p&gt;2.2 Integration with Business Platforms&lt;/p&gt;
+&lt;p&gt;2.3 Real-time Data Collection and Processing&lt;/p&gt;
+&lt;p&gt;2.4 Data Standardization&lt;/p&gt;
+&lt;p&gt;2.5 Compliance with Data Security Regulations and Delegated Data Processing&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;A &lt;strong&gt;Customer Data Platform (CDP)&lt;/strong&gt; has become one of the most frequently mentioned terms in recent years when discussing Martech solutions for enterprises.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With its ability to unify data from multiple sources in real time and support the development of comprehensive cross-platform customer journeys, CDP is gradually becoming an indispensable technology solution for Financial Institutions and Banks to interact with customers across digital platforms.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The following article will provide a detailed explanation of the benefits and the essential factors a CDP must have to meet the needs of the Banking sector.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Benefits for Banks when Using CDP&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;For the Card Center:&lt;/strong&gt;&lt;br&gt;CDP collects data related to user preferences, behaviors, transaction volumes, and spending habits. This enables banks to analyze customer personas more effectively and develop strategies to stimulate spending thresholds and transaction volumes. Banks can also design tailored promotions for different customer segments, enable cross-selling more efficiently, and retain customers by proactively engaging those who have been inactive for a long time.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;For Digital Banking:&lt;/strong&gt;&lt;br&gt;Since CDP integrates with SDKs, APIs, and Mobile App tracking platforms such as Appsflyer and Adjust, it can monitor the entire user journey on Mobile throughout the lifecycle. This allows banks to personalize messaging based on user events and optimize key digital banking use cases such as:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;eKYC for new users,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increasing app engagement time,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improving active user rates,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhancing conversion rates of users registering for products on the Mobile App.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;For Retail &amp;amp; Corporate Banking:&lt;/strong&gt;&lt;br&gt;CDP captures incoming lead data and integrates with CRM to build a 360-degree User Profile, allowing banks to track customer behavior across the entire product lifecycle. In addition, CDP helps banks address challenges such as lead scoring and nurturing for effective cross-selling and product promotion, while also enabling optimal lead distribution to staff for better customer support.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Key Factors a CDP Needs to Meet Banking Standards&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;While CDPs can serve the needs of various industries, each sector has specific requirements based on its unique characteristics. The banking industry is no exception.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Here are several critical factors a CDP must provide when deployed for Banking:&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2.1 On-Premise Deployment&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;According to &lt;strong&gt;Circular No. 09/2020/TT-NHNN&lt;/strong&gt;, services provided by third parties must be deployed on infrastructure managed and used by the bank to ensure reliability, security, and complete system control.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Currently, many CDPs are designed to handle both On-Cloud and On-Premise data to accommodate customer demands. However, in practice, only a limited number of CDPs meet strict On-Premise requirements, as most are originally designed for cloud-based data processing given the massive storage and processing demands of integrating data from multiple sources.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2.2 Integration with Business Platforms&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;With the ability to unify User Profiles from multiple data sources in real time, CDP enables Marketing, Sales, and Customer Service use cases through seamless integration with business platforms.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For example, in card issuance and sales campaigns, banks need a Marketing Automation tool to stimulate customer demand across channels such as Websites, Mobile Apps, and Web Apps. Once customers show interest and request consultation, CDP pulls behavioral data and CRM insights to equip staff with a deeper understanding of customer intent. Later, bank employees may require automated, scheduled reporting (weekly/monthly) to stakeholders via data visualization tools such as Power BI, helping monitor KPIs, refine customer engagement strategies, and measure campaign performance.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2.3 Real-time Data Collection and Processing&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;In banking, the volume of recorded and transmitted data is enormous&amp;mdash;ranging from events and customer web/app interactions to campaign attributes&amp;mdash;reaching millions per hour. When adopting CDP, banks must carefully evaluate the latency between data ingestion, unification, and activation to ensure smooth business operations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Processing times vary between CDP providers, making this a critical consideration for banks when selecting the right solution.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2.4 Data Standardization&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Given the frequent need to utilize data, CDPs must meet banking requirements for processing flexibility and adaptability. Banks often customize datasets to calculate different business KPIs. Therefore, CDPs must also support this demand and provide robust data evaluation capabilities, allowing banks to perform predictive modeling with integrated Machine Learning features as accurately as possible.&lt;/p&gt;
+&lt;h3 style="text-align: justify;"&gt;2.5 Compliance with Data Security Regulations and Delegated Data Processing&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;Banking regulations on information security and data protection are extremely strict, with a wide range of requirements for both banks and solution providers. Vendors must hold valid certifications in information security compliance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Banks must also assess CDP providers&amp;rsquo; compliance with security regulations during testing and POC phases. These evaluations extend beyond the technology platform and security protocols to include the competence of the provider&amp;rsquo;s development and operations teams (note: Martech operations teams for banks can be outsourced if necessary).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;DTSVN &amp;ndash; A Pioneer in Digital Transformation for Banking&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;DTSVN&lt;/strong&gt; is a pioneering Digital Transformation company delivering the latest digital solutions tailored specifically for enterprises in the Financial and Banking sectors in Vietnam. We help banks and financial institutions rapidly enhance their technology systems to accelerate their Digital Transformation journey.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us today for consultation and to experience our solutions.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-15T03:35:02.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:35:01.346Z</createdDate>
+	<createdDate_dt>2025-08-28T03:35:01.346Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:35:01.346Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:35:01.346Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>

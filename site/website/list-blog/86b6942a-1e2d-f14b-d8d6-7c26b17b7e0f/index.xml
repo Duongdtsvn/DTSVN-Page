@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-new</content-type>
+	<display-template>/templates/web/item-news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>86b6</objectGroupId>
+	<objectId>86b6942a-1e2d-f14b-d8d6-7c26b17b7e0f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>86b6942a-1e2d-f14b-d8d6-7c26b17b7e0f</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Top 5 phần mềm Marketing Automation tốt nhất</internal-name>
+	<navLabel>Top 5 phần mềm Marketing Automation tốt nhất</navLabel>
+	<title_vi_s>Top 5 phần mềm Marketing Automation tốt nhất</title_vi_s>
+	<title_en_s>Top 5 Best Marketing Automation Software</title_en_s>
+	<categorys_o>	<item>	<key>Blog</key>
+	<value_smv>Blog</value_smv>
+	</item></categorys_o>
+	<img_main_s>/static-assets/images/top-5-phan-mem-seo-facebook-tot-nhat_101042282.jpg</img_main_s>
+	<contact_VN_o item-list="true">	<item>	<key>/site/components/contact-form/vn.xml</key>
+	<value>Contact Form - VN</value>
+	<include>/site/components/contact-form/vn.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_VN_o>
+	<header_VN_o item-list="true">	<item>	<key>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</key>
+	<value>header</value>
+	<include>/site/components/headers/fdaa20d7-d5d3-5d79-455c-5cf3eab41fba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_VN_o>
+	<footer_VN_o item-list="true">	<item>	<key>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</key>
+	<value>footer</value>
+	<include>/site/components/footer/b875201d-2633-6e74-ae3d-e18e000aaf33.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_VN_o>
+	<contact_EN_o item-list="true">	<item>	<key>/site/components/contact-form/en.xml</key>
+	<value>Contact form - EN</value>
+	<include>/site/components/contact-form/en.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contact_EN_o>
+	<header_EN_o item-list="true">	<item>	<key>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</key>
+	<value>Header-en</value>
+	<include>/site/components/headers/a0b58cea-7ec0-fedc-c515-4effaa2a1811.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_EN_o>
+	<footer_EN_o item-list="true">	<item>	<key>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</key>
+	<value>footer-en</value>
+	<include>/site/components/footer/2d6d877e-25d8-c943-73db-fe6477d760f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_EN_o>
+	<content_vi_html>&lt;section&gt;&lt;/section&gt;
+&lt;section&gt;
+&lt;p style="text-align: justify;"&gt;Mục lục nội dung&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Phần mềm Hubspot&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Phần mềm Marketo&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Phần mềm Mailchimp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Phần mềm Activecampaign&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Phần mềm Infusionsoft (Keap)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong nền kinh tế thị trường hiện nay, việc duy tr&amp;igrave; m&amp;ocirc;́i quan h&amp;ecirc;̣ th&amp;acirc;n thi&amp;ecirc;́t với khách hàng là m&amp;ocirc;̣t mục ti&amp;ecirc;u quan trọng m&amp;agrave; c&amp;aacute;c doanh nghiệp đang hướng tới. Ngo&amp;agrave;i ra, với sự ph&amp;aacute;t triển của c&amp;ocirc;ng nghệ th&amp;ocirc;ng tin, c&amp;aacute;c doanh nghiệp đ&amp;atilde; bắt đầu &amp;aacute;p dụng Marketing Automation nhiều hơn v&amp;agrave;o c&amp;aacute;c b&amp;agrave;i to&amp;aacute;n kinh doanh của m&amp;igrave;nh.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;agrave;i viết dưới đ&amp;acirc;y sẽ dưới thiệu cho c&amp;aacute;c bạn về top c&amp;aacute;c phần mềm Marketing Automation hay được doanh nghiệp sử dụng nhất tr&amp;ecirc;n thị trường hiện tại.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm Hubspot&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&lt;a href="https://www.hubspot.com/"&gt;&amp;nbsp;https://www.hubspot.com/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hubspot l&amp;agrave; c&amp;ocirc;ng cụ Marketing Automation được biết đến h&amp;agrave;ng đầu tr&amp;ecirc;n thế giới với h&amp;agrave;ng loạt t&amp;iacute;nh năng từ Sales, Marketing cho đến CSKH. Trong đ&amp;oacute;, t&amp;iacute;nh năng nổi bật nhất của c&amp;ocirc;ng cụ n&amp;agrave;y đ&amp;oacute; l&amp;agrave; khả năng t&amp;iacute;ch hợp với CRM v&amp;agrave; c&amp;aacute;c nền tảng kh&amp;aacute;c. Dưới đ&amp;acirc;y l&amp;agrave; 1 số t&amp;iacute;nh năng kh&amp;aacute;c của Hubspot:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Giao diện sử dụng, những c&amp;ocirc;ng cụ điều hướng v&amp;agrave; c&amp;aacute;c dashboard của hệ thống rất th&amp;acirc;n thiện với người d&amp;ugrave;ng, trực quan v&amp;agrave; dễ &amp;aacute;p dụng.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;T&amp;iacute;nh năng tạo host cho Blog, tạo Landing Page c&amp;ugrave;ng với c&amp;aacute;c c&amp;ocirc;ng cụ kh&amp;aacute;c hỗ trợ triển khai SEO gi&amp;uacute;p tăng thứ hạng Website 1 c&amp;aacute;ch dễ d&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Hệ thống quản l&amp;yacute; nội dung (Content Management System) gi&amp;uacute;p cho việc quản l&amp;yacute; v&amp;agrave; theo d&amp;otilde;i hiệu quả Content ở đa k&amp;ecirc;nh như Website, Social Media, Email Marketing dễ d&amp;agrave;ng hơn bao giờ hết.&lt;/li&gt;
+&lt;li&gt;Giao diện thiết kế k&amp;eacute;o thả v&amp;agrave; kho Template đa dạng gi&amp;uacute;p Doanh nghiệp x&amp;acirc;y dựng được những mẫu Email v&amp;agrave; Website đẹp mắt, hấp dẫn.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Thu thập dữ liệu, thống k&amp;ecirc; v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch với c&amp;aacute;c b&amp;aacute;o c&amp;aacute;o tổng quan v&amp;agrave; chi tiết về h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng, từ đ&amp;oacute; Doanh nghiệp sẽ c&amp;oacute; những chiến lược Marketing ph&amp;ugrave; hợp theo b&amp;agrave;i to&amp;aacute;n kinh doanh của C&amp;ocirc;ng ty.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Dịch vụ CSKH miễn ph&amp;iacute; th&amp;ocirc;ng qua Email v&amp;agrave; gọi điện giải đ&amp;aacute;p trực tiếp.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; Hubspot kh&amp;aacute; nổi tiếng v&amp;agrave; ph&amp;ugrave; hợp với mọi doanh nghiệp nhưng do chưa c&amp;oacute; ng&amp;ocirc;n ngữ tiếng Việt để l&amp;agrave;m quen v&amp;agrave; chi ph&amp;iacute; để sử dụng kh&amp;aacute; lớn n&amp;ecirc;n sẽ khiến doanh nghiệp phải c&amp;acirc;n nhắc kh&amp;aacute; nhiều trước khi lựa chọn sử dụng.&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm Marketo&lt;br&gt;&lt;br&gt;Website:&amp;nbsp;&lt;a href="https://business.adobe.com/products/marketo/adobe-marketo.html"&gt;https://business.adobe.com/products/marketo/adobe-marketo.html&lt;/a&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Marketo cũng l&amp;agrave; 1 c&amp;ocirc;ng cụ Marketing Automation phổ biến kh&amp;aacute;c m&amp;agrave; được nhiều doanh nghiệp tin d&amp;ugrave;ng. Marketo ph&amp;ugrave; hợp với c&amp;aacute;c doanh nghiệp vừa v&amp;agrave; lớn, c&amp;oacute; thể t&amp;iacute;ch hợp được với Adobe Analytics để c&amp;oacute; thể ph&amp;acirc;n t&amp;iacute;ch s&amp;acirc;u hơn về kh&amp;aacute;ch h&amp;agrave;ng. Dưới đ&amp;acirc;y l&amp;agrave; 1 số t&amp;iacute;nh năng nổi bật của Marketo:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;T&amp;iacute;nh năng x&amp;acirc;y dựng Landing Page v&amp;agrave; quản trị c&amp;aacute;c chiến dịch Email Marketing khi triển khai Email Marketing Automation. B&amp;ecirc;n cạnh đ&amp;oacute; c&amp;ograve;n c&amp;oacute; AI hỗ trợ để dự đo&amp;aacute;n c&amp;aacute;c h&amp;agrave;nh vi của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; tự động c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a nội dung, nu&amp;ocirc;i dưỡng lead.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Cung cấp c&amp;aacute;c Template mẫu c&amp;oacute; thể t&amp;ugrave;y chỉnh ở đa k&amp;ecirc;nh như Social Media, Website, Email Marketing,&amp;hellip;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Hệ thống thu thập v&amp;agrave; b&amp;aacute;o c&amp;aacute;o dữ liệu tr&amp;ecirc;n từng điểm chạm v&amp;agrave; c&amp;aacute;c thuộc t&amp;iacute;nh (Attribution) c&amp;ugrave;ng với Template Dashboard ph&amp;acirc;n t&amp;iacute;ch s&amp;acirc;u về c&amp;aacute;c số liệu.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;T&amp;iacute;ch hợp được với nhiều hệ thống CRM tr&amp;ecirc;n thế giới.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Mặc d&amp;ugrave; phần Marketo rất mạnh trong t&amp;iacute;nh t&amp;ugrave;y chỉnh cho doanh nghiệp nhưng y&amp;ecirc;u cầu phải c&amp;oacute; đội ngũ kỹ thuật am hiểu c&amp;ocirc;ng nghệ để qu&amp;aacute; tr&amp;igrave;nh t&amp;iacute;ch hợp diễn ra thuận lợi v&amp;agrave; đo lường chuẩn x&amp;aacute;c.&amp;nbsp;&lt;/p&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm Mailchimp&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://mailchimp.com/"&gt;https://mailchimp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mailchimp l&amp;agrave; 1 trong những phần mềm Email Marketing h&amp;agrave;ng đầu thế giới được rất nhiều doanh nghiệp sử dụng. Ngo&amp;agrave;i ra, Mailchimp c&amp;ograve;n cung cấp nhiều t&amp;iacute;nh năng hữu &amp;iacute;ch cho ph&amp;eacute;p doanh nghiệp l&amp;ecirc;n kế hoạch, theo d&amp;otilde;i v&amp;agrave; thống k&amp;ecirc; dữ liệu cho mỗi chiến dịch Email Marketing. Dưới đ&amp;acirc;y l&amp;agrave; 1 số t&amp;iacute;nh năng nổi bật của Mailchimp:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Quản l&amp;yacute; v&amp;agrave; chấm điểm danh s&amp;aacute;ch Lead Email v&amp;agrave; hỗ trợ c&amp;aacute;c t&amp;iacute;nh năng ph&amp;acirc;n t&amp;iacute;ch người d&amp;ugrave;ng&lt;/li&gt;
+&lt;li&gt;Cung cấp hệ thống kho Template từ thiết kế giao diện cho đến luồng Flow Email tương t&amp;aacute;c với người d&amp;ugrave;ng&lt;/li&gt;
+&lt;li&gt;Gửi Email với tập số lượng lớn v&amp;agrave; nhận th&amp;ocirc;ng b&amp;aacute;o cho Doanh nghiệp biết khi Email đ&amp;atilde; đọc&lt;/li&gt;
+&lt;li&gt;Hỗ trợ A/B Testing th&amp;ocirc;ng qua Boardcast&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm Activecampaign&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://www.activecampaign.com/"&gt;https://www.activecampaign.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tương tự như Marketo, Activecampaign cũng y&amp;ecirc;u cầu Doanh nghiệp phải c&amp;oacute; chuy&amp;ecirc;n m&amp;ocirc;n s&amp;acirc;u về C&amp;ocirc;ng nghệ th&amp;ocirc;ng tin để c&amp;oacute; thể t&amp;iacute;ch hợp v&amp;agrave; sử dụng hệ thống. Tuy vậy, phần mềm vẫn được nhiều doanh nghiệp tin d&amp;ugrave;ng v&amp;igrave; những t&amp;iacute;nh năng tuyệt với sau đ&amp;acirc;y:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;Tự động thu thập c&amp;aacute;c th&amp;ocirc;ng tin tiềm năng về kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; sau đ&amp;oacute; đẩy dữ liệu t&amp;iacute;ch hợp về CRM&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; c&amp;aacute;c chiến dịch Email Marketing đ&amp;atilde; được c&amp;aacute; nh&amp;acirc;n h&amp;oacute;a dựa tr&amp;ecirc;n c&amp;aacute;c quy luật t&amp;ugrave;y chỉnh v&amp;agrave; c&amp;aacute;c tệp đ&amp;atilde; được ph&amp;acirc;n loại theo h&amp;agrave;nh vi người d&amp;ugrave;ng&lt;/li&gt;
+&lt;li&gt;Theo d&amp;otilde;i chi tiết về người d&amp;ugrave;ng dựa tr&amp;ecirc;n c&amp;aacute;c Metric c&amp;oacute; sẵn hoặc t&amp;ugrave;y chỉnh v&amp;agrave; đưa c&amp;aacute;c đề xuất li&amp;ecirc;n quan đến kết quả đ&amp;atilde; thu thập được&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 style="text-align: justify;"&gt;Phần mềm Infusionsoft (Keap)&lt;br&gt;&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Website:&amp;nbsp;&lt;a href="https://keap.vn/"&gt;https://keap.vn/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu so s&amp;aacute;nh về sự l&amp;acirc;u đời của c&amp;aacute;c phần mềm Automation Marketing th&amp;igrave; InfusionSoft (nay được gọi l&amp;agrave; Keap) c&amp;oacute; th&amp;acirc;m ni&amp;ecirc;n kh&amp;aacute; l&amp;acirc;u tr&amp;ecirc;n thị trường v&amp;agrave; tạo được sự tin tưởng nhất định cho c&amp;aacute;c doanh nghiệp, đặc biệt l&amp;agrave; c&amp;aacute;c doanh nghiệp vừa v&amp;agrave; nhỏ cũng như những c&amp;ocirc;ng ty Start-up. Dưới đ&amp;acirc;y l&amp;agrave; c&amp;aacute;c t&amp;iacute;nh năng nổi bật của phần mềm n&amp;agrave;y:&amp;nbsp;&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;T&amp;iacute;nh năng theo d&amp;otilde;i v&amp;agrave; dự đo&amp;aacute;n h&amp;agrave;nh vi người d&amp;ugrave;ng tr&amp;ecirc;n Website&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;B&amp;aacute;o c&amp;aacute;o chi tiết về những chỉ số quan trọng tr&amp;ecirc;n Website v&amp;agrave; người d&amp;ugrave;ng như: Traffic, Lượt chuyển đổi, Tỷ lệ chuyển đổi, Lượt mua h&amp;agrave;ng, Doanh thu,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Quản l&amp;yacute; c&amp;aacute;c Lead Email Marketing v&amp;agrave; triển khai c&amp;aacute;c chiến dịch Email Marketing t&amp;ugrave;y chỉnh, b&amp;aacute;o c&amp;aacute;o chi tiết về c&amp;aacute;c chiến dịch.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n đ&amp;acirc;y l&amp;agrave; 5 c&amp;ocirc;ng cụ Marketing Automation phổ biến tr&amp;ecirc;n to&amp;agrave;n thế giới được c&amp;aacute;c doanh nghiệp sử dụng. Nếu bạn muốn t&amp;igrave;m hiểu th&amp;ecirc;m về CDP &amp;ndash; Customer Data Platform hoặc muốn tư vấn th&amp;ecirc;m về Marketing Automation th&amp;igrave; h&amp;atilde;y li&amp;ecirc;n hệ với DTSVN tại đ&amp;acirc;y.&amp;nbsp;&lt;/p&gt;
+&lt;/section&gt;</content_vi_html>
+	<content_en_html>&lt;h1 style="text-align: justify;"&gt;Table of Contents&lt;/h1&gt;
+&lt;ol style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Hubspot Software&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Marketo Software&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mailchimp Software&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ActiveCampaign Software&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Infusionsoft (Keap) Software&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;In today&amp;rsquo;s market economy, maintaining strong and lasting relationships with customers has become one of the most important goals that businesses are striving for. Moreover, with the rapid development of information technology, enterprises have increasingly started to apply &lt;strong&gt;Marketing Automation&lt;/strong&gt; into their business strategies.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The following article will introduce you to the top Marketing Automation software solutions most commonly used by businesses in today&amp;rsquo;s market.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Hubspot Software&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.hubspot.com/"&gt;https://www.hubspot.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hubspot is one of the world&amp;rsquo;s leading Marketing Automation platforms, offering a wide range of features from Sales, Marketing to Customer Service (CSKH). Among these, its most outstanding capability lies in its seamless integration with CRM systems and other platforms. Below are some other key features of Hubspot:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;User-friendly interface, navigation tools, and dashboards that are intuitive and easy to apply.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hosting for Blogs, creating Landing Pages, along with SEO tools that help boost website rankings effortlessly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Content Management System (CMS) that enables easier management and tracking of Content effectiveness across multiple channels such as Websites, Social Media, and Email Marketing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Drag-and-drop design interface and a wide range of templates that allow businesses to create attractive, visually appealing Emails and Websites.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data collection, reporting, and analytics with both overview and detailed reports on customer behavior, helping businesses build suitable Marketing strategies aligned with their business goals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Free customer support services via Email and live phone assistance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;Although Hubspot is highly popular and suitable for businesses of all sizes, its lack of a Vietnamese interface and relatively high cost may require careful consideration before adoption.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Marketo Software&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://business.adobe.com/products/marketo/adobe-marketo.html"&gt;https://business.adobe.com/products/marketo/adobe-marketo.html&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Marketo is another widely trusted Marketing Automation tool used by many businesses. It is well-suited for medium to large enterprises and can be integrated with Adobe Analytics for deeper customer insights. Some of its standout features include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Building Landing Pages and managing Email Marketing campaigns through Email Marketing Automation. Additionally, AI-powered features predict customer behavior and automatically personalize content to nurture leads.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provides customizable templates across multiple channels such as Social Media, Websites, and Email Marketing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data collection and reporting across every touchpoint with Attribution features, along with advanced dashboard templates for in-depth analytics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integration with many leading CRM systems worldwide.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;While Marketo offers robust customization capabilities, businesses must have a technically skilled team to ensure smooth integration and accurate measurement.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Mailchimp Software&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://mailchimp.com/"&gt;https://mailchimp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mailchimp is one of the world&amp;rsquo;s leading Email Marketing software solutions, widely adopted by businesses of all sizes. In addition to Email campaigns, Mailchimp provides multiple useful features that allow companies to plan, track, and analyze data for each campaign. Key features include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Managing and scoring Email lead lists, along with user analytics support.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A wide range of templates, from email design interfaces to pre-built automated flow interactions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ability to send bulk Emails and notifications when Emails are opened by recipients.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Supports A/B Testing through Broadcast functionality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;ActiveCampaign Software&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://www.activecampaign.com/"&gt;https://www.activecampaign.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Similar to Marketo, ActiveCampaign also requires businesses to have a solid IT foundation to fully integrate and operate the system. However, it is still a popular choice among businesses due to its powerful features:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Automatically collects potential customer information and integrates the data into CRM systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manages personalized Email Marketing campaigns based on customized rules and categorized user behavior data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provides detailed user tracking through both default and customized metrics, offering actionable suggestions based on collected insights.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 style="text-align: justify;"&gt;Infusionsoft (Keap) Software&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href="https://keap.vn/"&gt;https://keap.vn/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In terms of longevity, Infusionsoft (now called Keap) is one of the earliest Marketing Automation tools in the market, earning the trust of many businesses&amp;mdash;especially small to medium-sized enterprises and startups. Notable features include:&lt;/p&gt;
+&lt;ul style="text-align: justify;"&gt;
+&lt;li&gt;
+&lt;p&gt;Tracking and predicting user behavior on websites.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Detailed reporting on key website and user metrics such as Traffic, Conversions, Conversion Rates, Purchases, and Revenue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Managing Email Marketing leads, running customized campaigns, and providing detailed reports on campaign performance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p style="text-align: justify;"&gt;These are the &lt;strong&gt;five most popular Marketing Automation tools&lt;/strong&gt; used by businesses worldwide. If you&amp;rsquo;d like to learn more about &lt;strong&gt;CDP &amp;ndash; Customer Data Platform&lt;/strong&gt;, or receive additional consultation on Marketing Automation, please feel free to contact DTSVN here.&lt;/p&gt;</content_en_html>
+	<time_create_dt>2025-04-14T03:41:00.000Z</time_create_dt>
+	<createdDate>2025-08-28T03:40:59.484Z</createdDate>
+	<createdDate_dt>2025-08-28T03:40:59.484Z</createdDate_dt>
+	<lastModifiedDate>2025-08-28T03:40:59.484Z</lastModifiedDate>
+	<lastModifiedDate_dt>2025-08-28T03:40:59.484Z</lastModifiedDate_dt>
+	<time_create_dt_tz>Asia/Jakarta</time_create_dt_tz>
+</page>
